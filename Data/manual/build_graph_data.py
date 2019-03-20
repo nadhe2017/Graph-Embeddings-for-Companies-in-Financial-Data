@@ -31,7 +31,7 @@ if __name__ == "__main__":
     for i in range(len(nodes)):
         text[i] = search_comp(names[i])
     
-    save_dir = "../sec_dataset/"
+    save_dir = "sec_dataset/"
     if not os.path.exists(save_dir):
         os.makedirs(save_dir)
     with open(save_dir+'data.txt', 'w') as f:  
