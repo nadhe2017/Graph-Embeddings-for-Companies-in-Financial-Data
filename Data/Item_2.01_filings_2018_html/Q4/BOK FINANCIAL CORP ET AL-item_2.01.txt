@@ -1,0 +1,39 @@
+ITEM 2.01
+Completion of Acquisition or Disposition of Assets
+On October 1, 2018, BOK Financial Corporation, an Oklahoma corporation (the Company), completed its previously announced merger (the Merger) with CoBiz Financial, Inc., a Colorado corporation (CoBiz), pursuant to the Agreement and Plan of Merger (the Merger Agreement) dated as of June 17, 2018, between CoBiz, the Company, and an Oklahoma corporation and wholly owned subsidiary of the Company, BOKF Merger Corporation Number Sixteen (the Merger Subsidiary). At the effective time of the Merger (the Effective Time), CoBiz merged with and into the Merger Subsidiary, with the Merger Subsidiary as the surviving corporation in the Merger. Pursuant to the terms of the Merger Agreement, each holder of CoBizs common stock, $0.01 par value (the CoBiz Common Stock), has the right to receive 0.17 shares of common stock (the Per Share Stock Consideration) of the Company, $0.00006 par value (the Company Common Stock) and $5.70 in cash (Per Share Cash Consideration) for each share of CoBiz Common Stock held immediately prior to the Effective Time, with cash to be paid in lieu of fractional shares (the Per Share Stock Consideration and the Per Share Cash Consideration, the Merger Consideration).
+Company
+), completed its previously announced merger (the 
+Merger
+) with CoBiz Financial, Inc., a Colorado corporation (
+), pursuant to the Agreement and Plan of Merger (the 
+Merger Agreement
+) dated as of June 17, 2018, between CoBiz, the Company, and an Oklahoma corporation and wholly owned subsidiary of the Company, BOKF Merger Corporation Number Sixteen (the 
+Merger Subsidiary
+). At the effective time of the Merger (the 
+Effective Time
+), CoBiz merged with and into the Merger Subsidiary, with the Merger Subsidiary as the surviving corporation in the Merger. Pursuant to the terms of the Merger Agreement, each holder of CoBizs common stock, $0.01 par value (the 
+CoBiz Common Stock
+), has the right to receive 0.17 shares of common stock (the 
+Per Share Stock Consideration
+) of the Company, $0.00006 par value (the 
+Company Common Stock
+) and $5.70 in cash (
+Per Share Cash Consideration
+) for each share of CoBiz Common Stock held immediately prior to the Effective Time, with cash to be paid in lieu of fractional shares (the Per Share Stock Consideration and the Per Share Cash Consideration, the 
+Merger Consideration
+).
+Also, at the Effective Time, each outstanding CoBiz stock option (CoBiz Stock Option) was cancelled and converted automatically into the right to receive the Merger Consideration with respect to a number of shares of CoBiz Common Stock equal to the (x) product of (A) the number of shares of CoBiz Common Stock subject to such CoBiz Stock Option multiplied by (B) the excess, if any, of (i) the sum of the Per Share Stock Consideration and the Per Share Cash Consideration over (ii) the exercise price per share, divided by (y) the sum of the Per Share Stock Consideration and the Per Share Cash Consideration. Any CoBiz Stock Option that had an exercise price per share of CoBiz Common Stock that was greater than or equal to the sum of (x) Per Share Stock Consideration plus (y) the Per Share Cash Consideration was cancelled in exchange for no consideration.
+CoBiz Stock Option
+) was cancelled and converted automatically into the right to receive the Merger Consideration with respect to a number of shares of CoBiz Common Stock equal to the (x) product of (A) the number of shares of CoBiz Common Stock subject to such CoBiz Stock Option
+multiplied by
+(B) the excess, if any, of (i) the sum of the Per Share Stock Consideration and the Per Share Cash Consideration over (ii) the exercise price per share,
+divided by
+(y) the sum of the Per Share Stock Consideration and the Per Share Cash Consideration. Any CoBiz Stock Option that had an exercise price per share of CoBiz Common Stock that was greater than or equal to the sum of (x) Per Share Stock Consideration plus (y) the Per Share Cash Consideration was cancelled in exchange for no consideration.
+Also, at the Effective Time, each award in respect of a share of CoBiz Common Stock subject to vesting, repurchase or other lapse restriction granted under the CoBiz Stock Plan that was outstanding immediately prior to the Effective Time (a CoBiz Restricted Stock Award), fully vested and was cancelled and converted automatically into the right to receive the Merger Consideration in respect of each share of CoBiz Common Stock underlying such CoBiz Restricted Stock Award.
+CoBiz Restricted Stock Award
+), fully vested and was cancelled and converted automatically into the right to receive the Merger Consideration in respect of each share of CoBiz Common Stock underlying such CoBiz Restricted Stock Award.
+It is expected that in the first quarter of 2019, CoBiz Bank, a Colorado state bank, will be merged with and into the Companys wholly-owned subsidiary, BOKF, NA (the Bank Merger) with BOKF, NA as the surviving bank in the Bank Merger.
+Bank Merger
+) with BOKF, NA as the surviving bank in the Bank Merger.
+The foregoing description of the transactions contemplated by the Merger Agreement does not purport to be complete and is qualified in its entirety by reference to the Merger Agreement, attached as Exhibit 99.1 to the Companys Current Report on Form 8-K filed on June 18, 2018 and incorporated herein by reference.
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.

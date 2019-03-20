@@ -1,0 +1,122 @@
+ITEM 2.01
+COMPLETION OF ACQUISITION OR DISPOSITION OF ASSETS.
+Merger With I-ON Communications, Co., Ltd.
+As previously disclosed, on December 20, 2017, the Registrant entered into an Agreement of Merger and Plan of Reorganization (the Merger Agreement) with I-ON Acquisition Corp., a wholly-owned subsidiary of the Registrant, and I-ON Communications, Co., Ltd., a company organized under the laws of the Republic of Korea (South Korea) (I-ON). On January 25, 2018, upon consummation of the Transactions set forth in the Merger Agreement (the Closing), the Registrant adopted the business plan of I-ON.
+Pursuant to the Merger Agreement, Acquisition merged with and into I-ON in a statutory reverse triangular merger (the Merger) with I-ON surviving as a wholly-owned subsidiary of the Registrant. As consideration for the Merger, the Registrant issued the shareholders of I-ON (the I-ON Holders) an aggregate of 26,000,000 shares of our Common Stock (the Merger Shares) in accordance with the pro rata ownership of the I-ON Holders immediately prior to the Merger. As a result of the Merger, the I-ON Holders received approximately eighty-one percent (81%) of the issued and outstanding Common Stock of the Registrant. The parties have taken the actions necessary to provide that the Merger is treated as a tax free exchange under Section 351 of the Internal Revenue Code of 1986, as amended. The Merger Agreement contains customary representations, warranties and covenants of the Registrant and I-ON for like transactions. The foregoing descriptions of the above referenced agreements do not purport to be complete. For an understanding of their terms and provisions, reference should be made to the Merger Agreement attached as Exhibits 10.1 to this Current Report on Form 8-K. On December 14, 2018, the Registrants Board of Directors approved an amendment to its Certificate of Incorporation (the Amendment) to change its name to I-ON Communications Corp.
+At the effective time of the Merger, our board of directors and officers were reconstituted by the appointment of Jae Cheol James Oh as Chairman, Chief Executive Officer, and Chief Financial Officer, Hong Rae Kim as Executive Director and Jae Ho Cho as Director. Michael Rapport resigned as President, Chief Executive Officer, and Chairman in connection with the Transaction and Evan Rapport resigned as Vice President and Director, Kenneth Wiedrich resigned as Chief Financial Officer and Director and Kyle Leingang resigned as Secretary. Roy Robertson, Mark Lamb, Joe Ryan, and Kevin Hammons resigned as members of the Board of Directors and their respective committees.
+3
+Pro Forma Ownership
+Following the issuance of the Merger Shares and the Shares sold in the Offering, the former shareholders of I-ON and/or their designees now beneficially own approximately eighty-one percent (81%) of the total outstanding shares of the Registrants Common Stock. For financial accounting purposes, the acquisition was treated as a reverse acquisition of the Company by I-ON, under the purchase method of accounting, and was deemed a recapitalization with I-ON as the acquirer. Upon consummation of the Merger, the Company adopted the business plan of I-ON.
+DESCRIPTION OF BUSINESS OF I-ON COMMUNICATIONS CO., LTD
+COMPANY OVERVIEW
+Evans Brewing Company, Inc. (the Registrant, or the Company) is a corporation organized under the laws of the State of Delaware on June 18, 2013. I-ON Communications Co., Ltd. the Companys wholly-owned subsidiary, was formed under the laws of the Republic of Korea (South Korea) on July 5, 1999. I-ON was founded by Jae Cheol James Oh, who currently serves as CEO, the Companys roots of which are in IT consultancy and software development. I-ON services South Koreas Enterprise Content Management systems market and specializes in advancing market-leading internet software applications to capitalize on rapidly growing market sectors.
+After being awarded its first of 6 patents in 2003, I-ON has since evolved into an industry-leading and recognized software developer and provider of enterprise-class unstructured data management and digital marketing software and solutions. I-ON services over 1,000 blue-chip and middle-market clients across virtually all verticals in both private and public sectors. The Company has meaningfully expanded its reach over the past decade and now currently licenses and sells its products and services directly to clients in South Korea and Japan, as well as in Singapore, Malaysia, Indonesia, Thailand, Vietnam, and the U.S. through value-added resellers and partnerships.
+I-ONs portfolio of software and solutions serves the digital marketing and technology needs of organizations, enabling clients to create, measure, and optimizes digital experiences for their audiences across marketing channels and devices. We believe these solutions help clients reduce the cost of content management and delivery and increase the return on their investments in digital communication.
+I-ON currently holds 6 international patents for both products and methodologies (with 3 more pending) built into the 11 product offerings the Company currently has at market. These encompass enterprise web content management (CMS), web experience and service delivery software, digital marketing, smart mobility and analytics tools, and, more recently, energy management solutions and sports and IT convergence services. The Company has designed and developed industry-leading technologies that are compliant with global standards including GS (Good Software) and NET (New Excellent Technology). I-ON also holds numerous domestic and global industry awards, earning high rankings and recognition from the likes of Gartner (Magic Quadrant 2014) and Red Herring (2014 Asia Top 100 Winner), among many others.
+In addition to South Korea, Japan has particularly helped fuel I-ONs growth over the past 10 years owing to the success of an exclusive licensing deal with Ashisuto, a large Japan-based technology services firm that employs approximately 800 technical, engineering and marketing staff across 9 office locations. Ashisuto, which has provided technology services to Japans enterprises and government entities since 1973, currently white labels and sells I-ONs core CMS offering ICS6 to over 610 clients as NOREN 6.
+4
+As a result of global enterprise digital marketing and I-ONs 18-year track record in South Korea, Japan and now, Southeast Asia, the Companys objective is to continue to gain market share in these markets. [I-ON will continue to closely engage and consult with existing and prospective clients as their subject matter expert across multiple touchpoints in the digital marketing and technology ecosystem, helping Chief Marketing Officers (CMO) and Chief Information Officers (CIO) drive critical change and growth for their organizations.]
+I-ON has invested and continues to spend over 15% of total annual revenue on research and development. The Company has grown its total number of employees to over 150 as of June 30, 2017, 90% of whom are considered full-time. Research and development comprises of roughly 100 junior, mid to senior level engineers and developers, most of whom are based at the Company headquarters located at 15 Teheran-ro 10-gil, Gangnam-gu, Seoul, South Korea, 06234.
+PRODUCTS AND SERVICES
+I-ONs product line is comprised of:
+Enterprise Web Content Management : Service Delivery Platform (PaaS): I-ON Content Server - ICS Gen 6 & 7 I-ON Content Application Framework Engine - ICAFE I-ON Deploy Server - IDS - broadcasting CSDP I-ON Digital Asset Management System - IDAS - mobile content I-ON Web Analytics Server - digital content SDP I-ON Content Ecosystem - ICE Software as a Service (SaaS) : Energy Management Solutions : Distributed Repository Service - GAIA Load Aggregator's Management System - LAMS iDrive - E-Document Management System - Demand Resource Management e.Form - mobile contract platform - Advanced Metering Infrastructure Assist9 - mobile ERPdashboard TAMM - pro-sports marketing & analytics
+Service Delivery Platform (PaaS):
+I-ON Content Server - ICS Gen 6 & 7 I-ON Content Application Framework Engine - ICAFE
+I-ON Content Application Framework Engine - ICAFE
+I-ON Deploy Server - IDS - broadcasting CSDP
+- broadcasting CSDP
+I-ON Digital Asset Management System - IDAS - mobile content
+- mobile content
+I-ON Web Analytics Server - digital content SDP
+- digital content SDP
+I-ON Content Ecosystem - ICE
+I-ON Content Ecosystem - ICE
+Software as a Service (SaaS) : Energy Management Solutions :
+Energy Management Solutions :
+Distributed Repository Service - GAIA Load Aggregator's Management System - LAMS
+Load Aggregator's Management System - LAMS
+iDrive - E-Document Management System - Demand Resource Management
+- Demand Resource Management
+e.Form - mobile contract platform - Advanced Metering Infrastructure
+- Advanced Metering Infrastructure
+Assist9 - mobile ERPdashboard
+TAMM - pro-sports marketing & analytics
+Sports & IT Convergence Service
+VoiceBall  Amateur League Umpire & Data Service
+Following is a summary description of I-ONs products:
+ICS6 (I-ON Content Server)  ICS6 is I-ONs generation 6 web content management system that helps reduce burdens of complex website management by organizing vast amounts of ever-increasing digital content and big data into physical directory and logical site structure. ICS6 is one of South Koreas first-to-market cloud-based CMS platforms and a market share leader in both Korea & Japan.
+IDS (I-ON Deploy Server)  IDS, in conjunction with ICS6, securely, conveniently and automatically deploys files and content between servers when distribution inefficiencies and services issues arise.
+IDAS (I-ON Digital Asset Management System)  IDAS, in conjunction with ICS6, ensures a virtuous cycle of an organizations digital assets through an integrated framework that collects, manages, deploys and distributes content. It also provides ample storage and categorization functionalities necessary to address high multi-media content demand including high-resolution video. The software supports digital archiving, scalability and changes in physical environment.
+5
+e.Form  e.Form is a one-stop mobile contract solution for smartphones and tablets that digitizes and expedites document creation and execution processes for organizations. The platform supports over 200 application programming interfaces (APIs).
+iDrive  iDrive is a SaaS-based EDMS (e-document management system) which centralizes all categories of e-documents within an organization, iDrive is geared for streamlining and managing the e-document lifecycle from creation, approval, archiving to destruction.
+iCAFE (I-ON Content Application Framework Engine)  iCAFE is a content delivery platform optimized for N-Screen environments, offering a robust wire-wireless service delivery platform for broadcasting, imaging & mobile content
+(I-ON Content Application Framework Engine)
+GAIA  GAIA is a back-end unstructured data repository platform that manages a cloud-based ecosystem that enterprises or individuals can use to build and share mobile applications.
+LAMS (Load Aggregator's Management System) - LAMS is one of South Koreas first Open ADR 2.0-based demand response management solutions designed to manage and reduce electricity consumption and peak demand through demand response program participation.
+ICE (I-ON Content Ecosystem) - ICE is a platform that manages the digital content management lifecycle beginning from creation, registration, distribution, deletion, billing to analytics. ICE is geared for SOs seeking ways to enhance business to business to consumer (B2B2C) value.
+TAMM (Ticket Admission Marketing Management) - TAMM is a mobile B2B2C platform that integrates and manages the professional sports event experience from marketing and promotion and ticket purchases and reservations to the delivery of a mobile analytics dashboard for followers. Event organizers/sponsors have included, among others, the LPGA Hana Bank Championship and SK Telecom Open. I-ON acquired the core TAMM developers and intellectual property from South Korea-based MoceanPeople in March 2016.
+Assist9  Assist9 is a mobile all-in-one work flow process and data management dashboard geared towards small and medium-sized businesses and startups. Core functions revolve around ERP, PMS, SFA, HR, and e-approval  with up to fifteen others- and are designed to improve operational efficiencies and provide CEOs with greater analytical insight into their businesses.
+ADDRESSABLE MARKETS
+South Korea, Japan and Southeast Asia
+Econsultancy and Adobe reported in recent studies that less than 15% of CMO respondents identified as working for digital-first organizations, despite a study by Forrester Research that indicated 51% of B2B enterprises were ratcheting up digital marketing initiatives in 2017 and 2018. A key driver of I-ONs ability to tap further into existing and future addressable markets, the Company believes, will depend on how quickly mid to large enterprises can adopt a digital-first mindset through continued client engagement.
+6
+According to many industry researchers, such as Forrester and Gartner, the combined enterprise digital marketing and CMS sector in South Korea and Japan is expected to generate a high single digit compounded annual growth rate to over $800 million by 2020.
+Given its market share-leading in both South Korea and Japan, I-ON remains uniquely positioned to serve as a localized partner and to address the evolving marketing needs of mid to large enterprises. CMOs continue to seek new and innovative ways to analyze, improve return on investment (ROI) and justify the value of increased digital marketing spending.
+According to numerous industry sources, including Forbes, South Korea has emerged as one of Asias fastest growing technology startup hubs, attracting increasing investment from domestic funds and foreign investment.
+Today, South Korea remains the eleventh largest economy in the world and, with 51 million people, the twenty-eighth largest population in the world, while boasting the worlds highest broadband penetration at 97%. South Korea was recently highlighted in Bloombergs list of most innovative countries, owing to the countrys research and development intensity, as well as productivity and educational standards. Home to Samsung, Hyundai and over 10 other Fortune 500 companies, South Korea, for the past several decades, has also been on a path pivoting from big industry and manufacturing to transformative technology, thanks to government and private/public partnership initiatives. Favorable policy initiatives have recently led to larger budget allocation towards science and technology, matching funds with international investors, establishing international entrepreneurship programs at universities, opening up many of the countrys research institutes, and providing safety nets for technologists and scientists that take capital risk.
+Similarly, Japan remains the third largest economy and second largest developed economy in the world, the third largest automobile manufacturing, and the largest electronics goods industry in the world. Despite being home to over 50 Fortune 500 companies, and facing growing competition from China and South Korea, manufacturing and investment in Japan have also pivoted toward software development, high-technology, and precision goods sectors, such as robotics and optical instruments.
+Asia-Pacific and Global
+Across not only South Korea and Japan, but the entire Asia-Pacific region, businesses and consumers today increasingly demand personalized content and experiences in their online interactions, across multiple digital channels and devices. This is accelerating growth in the CMS and digital marketing arenas as well demand from marketers seeking solutions that optimize customers experiences, demonstrate the success of their programs with objective metrics, and deliver the greatest return on their marketing spend.
+According to Gartner, the enterprise CMS market across the Asia-Pacific region, which includes China, South Korea, Hong Kong, Japan, Indonesia, Malaysia, Singapore and Vietnam  exceeded $700 million in 2016, up significantly from $500 million in 2014 and is projected to exceed $900 million by 2019, reflecting a compounded annual growth rate of at least 12%. Malaysia, Indonesia and Singapore collectively generated $180 million in enterprise CMS revenue last year and Gartner projects a 16% annual growth rate into 2020.
+In North America, aggregate digital marketing spend, which includes CMS for both products and professional services by both mid and large-sized enterprises, exceeded $135 billion in 2016 from approximately $95 billion in 2014, and according to forecasts from both IDC and Statista, is projected to grow 18% annually to over $225 billion by 2019.
+7
+Globally, sources such as the CMO Council and Gartner estimate the current web and mobile digital marketing industry size at $450 billion, while forecasting a high single digit 5 year compounded annual growth rate to over $600 billion by 2019.
+Between North America, Western Europe and developed economies within the Asia-Pac, the CMO Council currently foresees enterprise CMS implementation, content creation and optimization as representing over 50% of digital marketing spend, while mobile advertising, search engine and social media advertising contribute about 20%, 15% and 15%, respectively.
+MARKETING AND GROWTH STRATEGY
+Push Defining Value Proposition
+I-ON believes it remains uniquely positioned to address the evolving marketing needs of medium to large enterprises.
+Given the growth across the global enterprise digital marketing spectrum and I-ONs 18-year track record serving a marquee clientele in South Korea, Japan, and parts of Southeast Asia, I-ONs objective is to continue to aggressively gain market share by closely engaging with existing and prospective clients and while driving sales for both its core CMS offering and complementary solutions that enable organizations to transform traditional marketing initiatives into analytics and data-driven strategies vital to delivering measurable results.
+I-ON believes that its software products and solutions will continue to be a primary revenue source for the Company over time and that its growing portfolio of products may generate profitable demand for associated maintenance, support, implementation, consulting, and training services that the Company, and a channel of licensees and VARs, can provide.
+Near-term, I-ON intends to do the following to drive organic growth:
+ Continue to leverage knowledge and experience into new or enhanced solutions and products
+
+Continue to leverage knowledge and experience into new or enhanced solutions and products
+ Continue to deploy secure pilot environments for prospective customers to evaluate and envision additional uses for customized application development
+
+Continue to deploy secure pilot environments for prospective customers to evaluate and envision additional uses for customized application development
+ Continue to procure contracts directly, via strategic partnerships and increasing sales personnel
+
+Continue to procure contracts directly, via strategic partnerships and increasing sales personnel
+ Recruit seasoned executives as well as younger talent to utilize unique training model that addresses resource shortages
+
+Recruit seasoned executives as well as younger talent to utilize unique training model that addresses resource shortages
+ Incubate and build-out focused profitable technology practices
+
+Incubate and build-out focused profitable technology practices
+ Continue to participate in multi-lateral joint R&D projects in concert with 28 partners from 7 different countries
+
+Continue to participate in multi-lateral joint R&D projects in concert with 28 partners from 7 different countries
+South East Asia Market Penetration
+According to Gartner, Malaysia, Indonesia and Singapore generated $180 million in enterprise CMS revenue last year and project a 16% annual growth rate by 2020. As a result, I-ON intends to continue to build off of its initial successes in the Southeast Asia region, which include, among other projects, the following: implementation of a fully integrated mobile/online trading solution for Malaysias MNC Securities; a CMS implementation for a leading USA cable manufacturer, Commscope- supporting 13 languages to meet global standards; the implementation of a CMS solution based on CSDP (Convergence Service Delivery Platform) for Indonesias BOLEH Mobile; and an integration of CMS platforms for the Malaysia Ministry of Works.
+8
+Acquisition Strategy
+I-ON will attempt to continue to leverage its ongoing success in CMS and its international partnerships to move upstream, cross-sell, and serve clients more directly as either their digital strategist of choice and/or by acquiring businesses with (i) a revenue producing platform with existing enterprise clients, (ii) subject matter expertise and or (iii) rights to intellectual property in at least one of the following digital marketing-related disciplines: predictive analytics, smart mobility, marketing automation, SEO, ERP, workflow automation, and eCommerce. I-ON has already identified multiple compelling acquisition opportunities within these domains, both in South Korea and Japan. However, there can be no assurance that I-ON will be able to acquire one or more of these businesses or that it will be able to do so on terms that are favorable to I-ON.
+Notably, I-On believes that overall macro conditions that drive consolidation and acquisitions also remain ideal for I-ON including the historical low interest rate, a large, evolving and fragmented technology services and solutions market across South Korea and developed East Asia, and the relatively low organic growth opportunities that ordinarily may not exist for smaller businesses. These pre-existing conditions could enable I-ON to identify and purchase compelling assets inexpensively.
+Expand Product Offering and Geographic Coverage over the long-term
+Over the next 5 years, I-ONs growth strategy is to significantly expand its client base in South Korea, Japan, and Southeast Asia, while also expanding into new geographic areas, such as the U.S. and Europe to provide clients with global coverage and around the clock services that CMS and digital marketing requires. I-ONs continued business model is to allow its work and unique technical skills to attract new clients as well as win repeat projects with past and current clients. At the same time, ION intends to expand its core offerings and increase brand awareness with new service capabilities and software products that produce significant value for clients.
+PATENTS AND TRADEMARKS
+Patents:
+ Integrated certification system using electronic contract #10-1132672
+
+Integrated certification system using electronic contract #10-1132672
+ Website construction and management methodology #0457428
+
+Website construction and management methodology #0457428
+ Website integrated management system and management methodology #10-0764690
+
+Website integrated management system and management methodology #10-0764690
+ Internet Reaction application reaction survey methodology and systems #0366708
+
+Internet Reaction application reaction survey methodology and systems #0366708
+ Modification and restoration methodology on comment utilizing digital items #10-0634047

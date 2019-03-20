@@ -1,0 +1,20 @@
+Item 2.01
+Completion of Acquisition or Disposition of Assets.
+On October 19, 2018, the Partnership completed its acquisition of ETP (the Merger) pursuant to that certain Agreement and Plan of Merger, dated as of August 1, 2018 (the Merger Agreement), by and among the Partnership, LE GP, LLC, a Delaware limited liability company and the general partner of the Partnership (ETE GP), Streamline Merger Sub LLC, a Delaware limited liability company and a wholly owned subsidiary of the Partnership (Merger Sub), ETP and Energy Transfer Partners, L.L.C. (ETP Managing GP), a Delaware limited liability company and the general partner of Energy Transfer Partners GP, L.P. (ETP GP), a Delaware limited partnership and the general partner of ETP.
+Merger Agreement
+ETE GP
+ETP Managing GP
+ETP GP
+At the effective time of the Merger (the Effective Time), each common unit representing a limited partner interest in ETP (each, an ETP Common Unit) issued and outstanding as of immediately prior to the Effective Time (other than any ETP Common Units owned by ETE and its subsidiaries) was converted into the right to receive 1.28 (the Exchange Ratio) common units representing limited partner interests in the Partnership (the Partnership Common Units) (such units, the Merger Consideration). Each Class E Unit, Class G Unit and Class K Unit of ETP, as well as each Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Unit, Series B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Unit, Series C Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Unit and Series D Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Unit of ETP (collectively, the ETP Preferred Units), issued and outstanding as of immediately prior to the Effective Time continued to be issued and outstanding and to represent a limited partner interest in ETP at and after the Effective Time. Each unvested award of restricted units or restricted phantom units granted under any ETP equity plan (collectively, the ETP Restricted Units) issued and outstanding immediately prior to the Effective Time was automatically converted, at the Effective Time, into the right to receive an award of restricted units of ETE (a Converted Restricted Unit Award) on the same terms and conditions as were applicable to the corresponding award of ETP Restricted Units, except that the number of ETE restricted units covered by each such Converted Restricted Unit Award was equal to the number of ETP Restricted Units multiplied by the Exchange Ratio.
+ETP Common Unit
+Exchange Ratio
+Partnership Common Units
+Merger Consideration
+Fixed-to-Floating
+ETP Preferred Units
+ETP Restricted Units
+Converted Restricted Unit Award
+Prior to the Merger, the Partnership directly owned all of the incentive distribution rights, a 1.0% general partner interest, approximately 2.4% of the outstanding ETP Common Units, 100 Class I Units and 60 Class J Units of ETP. Following the Merger, the Partnership will own all of the outstanding partnership interests in ETP, other than the ETP Preferred Units.
+The foregoing description of the Merger Agreement and the Merger does not purport to be complete and is qualified in its entirety by reference to the Merger Agreement, a copy of which is attached as Exhibit 2.1 to the Partnerships Current Report on Form 8-K filed with the Securities and Exchange Commission (the SEC) on August 3, 2018 and incorporated by reference herein.
+SEC
+2

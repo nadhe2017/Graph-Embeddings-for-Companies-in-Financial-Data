@@ -1,0 +1,225 @@
+Item 2.01 Completion of Acquisition or Disposition of Assets
+Merger Agreement
+On March 19, 2018, WestMountain Company, a Colorado corporation ("WestMountain") entered into an Agreement of Merger and Plan of Reorganization, dated March 19, 2018 (the "Merger Agreement"), with WASM Acquisition Corp., a Colorado corporation and a subsidiary of the Company ("WASM"), and CytoBioscience, Inc., a Delaware corporation ("CytoBioscience"). Pursuant to the terms of the Merger Agreement, on March 19, 2018 (the "Closing Date"), WASM merged with and into CytoBioscience (the "Merger"), with CytoBioscience surviving the Merger and becoming a wholly-owned subsidiary of the Company, and the shareholders of CytoBioscience became shareholders of WestMountain.
+On the Closing Date, all outstanding shares of capital stock of CytoBioscience were cancelled and exchanged for 42,522,598 newly issued shares of common stock of WestMountain ("Common Stock"). The shares issued to the CytoBioscience shareholders in the Merger constitute approximately 74.44% of the issued and outstanding shares of Common Stock of the Company as of and immediately after the consummation of the Merger. In addition, warrants to purchase 2,040,000 shares of Common Stock of WestMountain ("Warrants") were issued in exchange for all outstanding warrants of CytoBioscience, which were cancelled, and WestMountain assumed 160,000 underwriter warrants consisting of Units to purchase additional shares of Common Stock and Warrants, as defined and described below at Item 3.02. The CytoBioscience warrants and the Units were issued in connection with the private offering described in Item 3.02 of this Form 8-K.
+In addition, warrants to purchase 2,040,000 shares of Common Stock of WestMountain ("Warrants") were issued in exchange for all outstanding warrants of CytoBioscience, which were cancelled, and WestMountain assumed 160,000 underwriter warrants consisting of Units to purchase additional shares of Common Stock and Warrants, as defined and described below at Item 3.02. The CytoBioscience warrants and the Units were issued in connection with the private offering described in Item 3.02 of this Form 8-K.
+In addition, the directors of WestMountain will seek shareholder approval to change the name of the Company to CytoBioscience, Inc. Additionally, the Merger Agreement provides for the resignation and election of certain directors of the Company, subject to compliance with Section 14(f) of the Securities Exchange Act of 1934, as amended (the "Exchange Act") and the rules of the Securities and Exchange Commission ("SEC") thereunder. The transactions contemplated by the Merger Agreement, including the change in composition of the Board of Directors of the Company as described herein, will result in a change of control of WestMountain.
+The foregoing description of the Merger Agreement does not purport to be complete and is qualified in its entirety by reference to the copy of the Merger Agreement filed as Exhibit 2.1 to this Form 8-K, and incorporated herein by this reference.
+Until the Closing Date, Steven Anderson, Brian L. Klemsz, and Joni K. Troska were the officers of WestMountain, and Brian Klemsz was the sole director of WestMountain. On the Closing Date, Brian L. Klemsz, submitted his resignation from WestMountain's Board of Directors (the "Board") and appointed Shing Leong Hui, Sue Lynn Hui, Paul Castella, Ian Clements, Alan Dean, James Garvin, and Thomas Knott to serve on the Board. The resignation of Brian L. Klemsz, and the appointment of Shing Leong Hui, Sue Lynn Hui, Paul Castella, Ian Clements, Alan Dean, and Thomas Knott will become effective on the 10th day following the filing of the Schedule 14F with the SEC (the "Effective Date"), while the appointment of James R. Garvin became effective at closing.
+- 2 -
+On the Closing Date, Brian L. Klemsz, Joni K. Troska and Steven Anderson also submitted their resignations as the officers of the Company, and on the same date, the Board appointed Dr. James R. Garvin as the President and Chief Executive Officer of the Company, Dr. Thomas Knott as the Chief Science Officer of the Company, and Henry C. Bourg, CPA, MBA as the Chief Financial Officer of the Company, effective immediately.
+The appointment of the new directors to the Board will be effective 10 days after the Company's filing of a Schedule 14F-1 with the SEC, which was filed on March 23, 2018. See Item 5.02 of this Current Report on Form 8-K.
+Lock-Up Agreement
+All of the shares issued to CytoBioscience shareholders in the Merger are subject to a lock-up agreement ("Lock-Up Agreement") subject to a leak out schedule which concludes in two years, with limited exceptions for gifts, estate-related transactions and distributions to equity holders of certain entities. The foregoing description of the Lock-Up Agreement does not purport to be complete and is qualified in its entirety by reference to the copy of the Lock-Up Agreement filed as Exhibit 10.1 to this Form 8-K, and incorporated herein by this reference.
+About CytoBioscience, Inc.
+Overview
+The address of our principal executive office is 3463 Magic Drive, Suite 120, San Antonio, Texas 78229. Our telephone number is (210) 612-2727. Our website is http://www.cytobioscience.com.
+http://www.cytobioscience.com
+Our common stock is quoted on the OTCBB ("Over-the-Counter-Bulletin-Board") under the symbol "WASM".
+CytoBioscience is an established, revenue-generating ion channel screening business providing medical instrumentation and research services to organizations in the pharmaceutical and drug research market. Today it costs in excess of $2 billion dollars and takes 10+ years to bring a new drug to market. This cost, coupled with increased regulatory pressure, has created both a challenge and an opportunity - how to reduce costs and how to do it accurately, efficiently, and effectively.
+The Company's answer to this challenge is its flagship instrument, the CytoPatch Freedom. The CytoPatch Freedom provides accurate and efficient ion channel research data that helps drug developers reduce time and costs. The CytoPatch Freedom was chosen by the Food and Drug Administration (FDA) to be its key test instrument in developing new regulations for determining efficacy and effectiveness in drug development. This proposed regulation, CiPA (Comprehensive In-Vitro Proarrhythmia Assay) requires that all new drugs, regardless of their intended purpose, be tested in a series of assays to determine if they possess pro-arrhythmia potential or not. The CytoPatch Freedom instrument is capable of performing an entire series of assays in one unit, without add-ons, without delay and without the need for additional personnel.
+CytoBioscience develops and manufactures related consumables, including various cell lines, and, further leveraging its instrument, provides Contract Research services on an in vitro and in vivo basis for a growing list of clients worldwide. Finally, the Company's product line includes the HSC instrument, which is used to rapidly determine protein solubility; a key component of protein-based drug development. HSC is manufactured the Company's wholly-owned subsidiary, Soluble Bioscience.
+in vivo
+Each of these revenue-generating segments; instruments, consumables and contract research, is a leader in its technology and in its capacity. Having undergone years of testing, starting, restarting, and honing its development into the cutting edge it is today, the Company is experiencing accelerating revenue growth and is well-positioned to reach its potential.
+- 3 -
+At the core of the Company's business is its instrumentation, the CytoPatch Freedom. The CytoPatch is the leading hands-free robotic patch clamping instrument, which uses the Company's proprietary software and microchips to test individual cells for specific ion channel responses. The Company's instrumentation is also used for peptide and protein analysis, water temperature units for specific laboratory use and laboratory compressors, vacuum pump units for running laboratory instruments and disposable shipping units for transporting cells at physiological temperature.
+The Company's consumables are its microchips, designed for use exclusively in the CytoPatch, cell lines and pre-seeded MEA plates, both of which are used in drug development, analysis and safety testing, plus, buffers and solutions for specific laboratory applications.
+1. KEY STRENGTHS OF THE COMPANY
+The Company's solutions provide value to clients by significantly improving data accuracy and collection used to make timely and informed decisions on pharmaceutical compounds and their potential uses.
+These deliverables are centered on proprietary technologies in the Company's microchips, software and cell lines.
+The Company's combined offerings are synergistic; CytoPatch use consumes microchips and cells, while CRO work promotes instrument sales.
+The Company's market is experiencing strong growth, driven by both regulation and rising demand for outsourced safety pharmacological work.
+The company is engaged with both private and public partners globally, including the FDA. Exchange between academic, pharmaceutical and independent researchers promotes further growth.
+The Company is established and has the scale to compete effectively with the largest service and instrumentation providers in the industry. Increasingly complex demands of both regulators and clients drive recurring revenues.
+Management is led by Dr. James Garvin and has a combined 140 years of experience in the biotechnology industry. The scientific team, Dr Thomas Knott, Dr Susan Judge, Dr. Stefan Mann, Dr Juliane Heide, and Dr Christa Nutzhorn are internationally recognized in the field of ion channel and cardiac research.
+2. ION CHANNEL SCREENING AND ITS APPLICATIONS
+Ion channel screening enables accurate and detailed examination of cellular activity in order to conduct drug research and assess drug efficacy and safety, in addition to providing detailed analysis of how different diseases respond to different treatments. It is used by drug developers, drug researchers and pharmaceutical companies, to better address important information required for the creation of new drugs and identifying new cures and treatments.
+- 4 -
+3. HISTORY AND BACKGROUND OF THE COMPANY
+Timeline of significant events
+2011  Cytocentrics Bioscience GmbH established in Rostock, Germany 2012  Completed the development of the CytoPatch1 instrument  Developed a chip cleaning process for the academic markets  Serviced the first Multi-Electrode-Arrays customer 2013  Developed unique Assay Designer software with Drag and Drop capability to cut assay procedure adjustment time from days to seconds  Developed full cardiac panel  Assay and published Application Note  Completed modular assembly system finished for outsourced module manufacturing  Completed CytoPatch2 application and makes available for customer demo  Filed Patent P7 as a method and device for optical patch clamp chip  Established manufacturing system for mechanical, electrical and pneumatic modules 2014  Developed DRG neurons-Assay and published subsequent Application Note  Filed Patent P8 filed as method and device for cancer research / tissue patch  Obtained first customer for cardiac-screening-panel on myocytes  Established / Validated CIPA big 3 panel under physiological temperatures  Established fully automated self-testing Routine on CytoPatch2 including measurement head analysis  Filed Patent P10 for model-based therapeutic planning with ps-iPSC-CMs (patient specific induced pluripotent stem cell cardiomyocytes)  Established routine recording in in-house lab of stem cell cardiomyocyte action potentials (CIPA initiative)  Developed iPSC derived Cardiac-Myocyte-Assay and published subsequent Application Note 2015  Acquired by CytoBioscience and Company re-organized and headquartered in the US  Acquired Zenas Technologies, a leading cardiac safety CRO  Filed Patent P11 for culturing cells on micro-substrates  Signed joint venture agreements with Cyprotex (UK) and DSTC (Japan)  Analytical division added to increase CRO offerings and drive additional revenue  Only company in the US to offer pre-seeded MEA plates with cardiomyocytes  Selected by FDA as instrumentation for CiPA research studies 2016  Acquired the assets of Soluble Therapeutics
+
+Cytocentrics Bioscience GmbH established in Rostock, Germany
+2012  Completed the development of the CytoPatch1 instrument
+
+Completed the development of the CytoPatch1 instrument
+ Developed a chip cleaning process for the academic markets
+
+Developed a chip cleaning process for the academic markets
+ Serviced the first Multi-Electrode-Arrays customer
+
+Serviced the first Multi-Electrode-Arrays customer
+2013  Developed unique Assay Designer software with Drag and Drop capability to cut assay procedure adjustment time from days to seconds
+
+Developed unique Assay Designer software with Drag and Drop capability to cut assay procedure adjustment time from days to seconds
+ Developed full cardiac panel  Assay and published Application Note
+
+Developed full cardiac panel  Assay and published Application Note
+ Completed modular assembly system finished for outsourced module manufacturing
+
+Completed modular assembly system finished for outsourced module manufacturing
+ Completed CytoPatch2 application and makes available for customer demo
+
+Completed CytoPatch2 application and makes available for customer demo
+ Filed Patent P7 as a method and device for optical patch clamp chip
+
+Filed Patent P7 as a method and device for optical patch clamp chip
+ Established manufacturing system for mechanical, electrical and pneumatic modules
+
+Established manufacturing system for mechanical, electrical and pneumatic modules
+2014  Developed DRG neurons-Assay and published subsequent Application Note
+
+Developed DRG neurons-Assay and published subsequent Application Note
+ Filed Patent P8 filed as method and device for cancer research / tissue patch
+
+Filed Patent P8 filed as method and device for cancer research / tissue patch
+ Obtained first customer for cardiac-screening-panel on myocytes
+
+Obtained first customer for cardiac-screening-panel on myocytes
+ Established / Validated CIPA big 3 panel under physiological temperatures
+
+Established / Validated CIPA big 3 panel under physiological temperatures
+ Established fully automated self-testing Routine on CytoPatch2 including measurement head analysis
+
+Established fully automated self-testing Routine on CytoPatch2 including measurement head analysis
+ Filed Patent P10 for model-based therapeutic planning with ps-iPSC-CMs (patient specific induced pluripotent stem cell cardiomyocytes)
+
+Filed Patent P10 for model-based therapeutic planning with ps-iPSC-CMs (patient specific induced pluripotent stem cell cardiomyocytes)
+ Established routine recording in in-house lab of stem cell cardiomyocyte action potentials (CIPA initiative)
+
+Established routine recording in in-house lab of stem cell cardiomyocyte action potentials (CIPA initiative)
+ Developed iPSC derived Cardiac-Myocyte-Assay and published subsequent Application Note
+
+Developed iPSC derived Cardiac-Myocyte-Assay and published subsequent Application Note
+2015  Acquired by CytoBioscience and Company re-organized and headquartered in the US
+
+Acquired by CytoBioscience and Company re-organized and headquartered in the US
+ Acquired Zenas Technologies, a leading cardiac safety CRO
+
+Acquired Zenas Technologies, a leading cardiac safety CRO
+ Filed Patent P11 for culturing cells on micro-substrates
+
+Filed Patent P11 for culturing cells on micro-substrates
+ Signed joint venture agreements with Cyprotex (UK) and DSTC (Japan)
+
+Signed joint venture agreements with Cyprotex (UK) and DSTC (Japan)
+ Analytical division added to increase CRO offerings and drive additional revenue
+
+Analytical division added to increase CRO offerings and drive additional revenue
+ Only company in the US to offer pre-seeded MEA plates with cardiomyocytes
+
+Only company in the US to offer pre-seeded MEA plates with cardiomyocytes
+ Selected by FDA as instrumentation for CiPA research studies
+
+Selected by FDA as instrumentation for CiPA research studies
+2016  Acquired the assets of Soluble Therapeutics
+
+Acquired the assets of Soluble Therapeutics
+Background of CytoBioscience
+Cytocentrics Bioscience, GmbH, founded by Dr. Thomas Knott (currently the Company's Chief Science Officer) was spun-out of academia. It was set up to focus on automation in patch clamp techniques. Early efforts of Cytocentrics Bioscience to bring a commercial product to market were under-capitalized. However, as research and development continued to advance, Cytocentrics Bioscience created the CytoPatch, the Company's high-throughput, hands free patch clamp instrument.
+- 5 -
+CytoBioscience was established in July 2014 in Delaware. On March 5, 2015, CytoBioscience acquired Cytocentrics BioScience GmbH.
+Following a re-organization of the Company's structure and the integration of Cytocentrics Biosciences GmbH in 2015, the Company focused on developing products and services towards broader commercialization. In addition, the Company implemented cutting costs measures. From August 2015, the Company began to actively market its products and services and gained commercial traction.
+The Company is headquartered in San Antonio, Texas, where it develops and completes the majority of its manufacturing, houses its R&D facility and serves as the Company's largest contract research organization (CRO) facility. The CRO group has a separate GLP facility in Cologne, Germany, and a separate cell development facility in Birmingham, Alabama. The facility in Cologne provides services to the European market and supports research and CRO in our U.S. based facilities.
+In addition, the Company has a strategic alliance that develops business with DSTC in Tokyo, Japan.
+4. BUSINESS OVERVIEW
+CytoBioscience is an established revenue-generating US-based company, with a focus on high accuracy ion channel screening and research. The Company has three operating segments:
+Instrumentation, based on the Company's proprietary CytoPatch instrument, an ion channel measurement device;
+Consumables, particularly using the Company's patented technology in its microchip, which has been made exclusively for use in the CytoPatch, as well as cells and cell lines; and
+Contract research services for third parties.
+The Company employs a scientific team with a multidisciplinary background and regulatory expertise. The Directors and senior management team has significant experience in biotechnology manufacturing and sales. The Company has an experienced management team, market leading products and services, high-caliber clients and partners and a focused strategy for growth through product development and sales, new strategic partnerships and strategic acquisitions. The Directors believe that the Company is well positioned to draw market share from both manual patch clamp and automated patch clamp ("APC") testing competitors.
+Core business areas
+CytoPatch
+The CytoPatch represents a unique blend technology and bioscience that creates new frontiers of discovery and understanding about human cells. Those discoveries, those understandings, are the pathways to a far more effective utilization of drugs, and drug therapy. The underlying technology behind this, known as "patch clamping"  which involves no patch and no clamping, is what opens these amazing vistas.
+- 6 -
+The "Art" of the Screen
+In a business where speed and cost are everything, ion channels don't fit neatly into the traditional process of drug discovery. Pharmaceutical companies cannot easily apply their million-compound libraries to ion channels, because these channels don't behave like proteins. Ion channels are membrane-spanning macromolecules that regulate the flow of charged molecules such as Na+, K+, Cl, and Ca2+ across an otherwise impermeable barrier. They don't catalyze enzymatic reactions, and induce no secondary, amplified signal. Instead, upon activationwhether by changes in voltage, ligand binding, or mechanical forcethese channels open, creating a pore in the membrane through which charged molecules can flow.
+Manual Patch Clamping
+In traditional patch clamping, a skilled operator must manually manipulate cells and a pipet to form a seal, perhaps recording from just 10 cells in a day.
+The resulting currents are small and faston the order of picoamperes, and often occurring on a millisecond timescale. Yet they are substantial enough to kick-start a chain reaction that, depending on the context and location, results in effects as varied as pain, muscle contraction, or even fertilization.
+The bottom line is that it's not enough to know whether a potential drug compound binds a particular ion channel; scientists need to actually measure its impact on that flow of ions across the cell membrane. Researchers can measure these electrophysiologic changes indirectly, by using voltage-or ion-sensitive fluorescent dyes or atomic absorption spectroscopy for instance. But to do it rightthat is, to directly measure the current flow across individual ion channelsrequires the technique that won Neher and Sakmann their Nobel Prize: patch clamping.
+- 7 -
+Consumables
+Microchips
+Central to CytoBioscience's business is its patented electrophysiological technology used in the Company's microchip which drives the instrumentation, the CytoPatch, to provide a high throughput and highly accurate platform to analyze ion channel analysis. The microchip enables the Company to complete hands-free patch clamping to deliver data and information to its clients with 99% accuracy, one of the best accuracy rates in the market.
+The microchip enables the CytoPatch to capture a single cell, hold it in place, insert a probe and receive readings from the ion channels in those cells in order to assess the safety, efficacy and efficiency of a drug through the detailed examination of the cellular activity. The readings produced are electrical signals caused by the movements of proteins within the ion channels. These small signals are identified by the probe, sent to an amplifier through the microchip, and then displayed as a readable signal on a computer for a researcher to observe.
+The opening inside the microchip is smaller than the size of a human cell and allows for cells to be held in place and analyzed. The design, patented as the CytoPatch Opening, is the core of what makes the instrument unique. The Company's patented technology uses a multiple channel opening, as opposed to a single hole approach applied by a number of its competitors. This enables multiple options, more detailed data and greater information flow because within the CytoPatch Opening there is a better catch, a better seal and ultimately better and more accurate data flow.
+The Company's technology enables the CytoPatch to differentiate itself from other instruments in the market, particularly automated high-throughput machines, by completing a number of significant outcomes, including:
+ Completing the entire CiPA panel at 37 degrees C, the temperature of the human body, which is the optimal environment for the testing cells;
+
+Completing the entire CiPA panel at 37 degrees C, the temperature of the human body, which is the optimal environment for the testing cells;
+ Completing longer and more stable recordings, which provides more accurate data and saves time compared to machines with shorter recording periods;
+
+Completing longer and more stable recordings, which provides more accurate data and saves time compared to machines with shorter recording periods;
+ Completing stem cell cardiomyocytes and fast ligand gates ion channels (NMDA) which the Company believe are not able to be tested on alternative systems; and
+
+Completing stem cell cardiomyocytes and fast ligand gates ion channels (NMDA) which the Company believe are not able to be tested on alternative systems; and
+ Completing mechanical stimulation of cells in order to record the effects on the cell when they are moved or sheeted
+
+Completing mechanical stimulation of cells in order to record the effects on the cell when they are moved or sheeted
+- 8 -
+The Company believes that the ability of the CytoPatch to accomplish these outcomes distinguishes the it from its competitors and is a significant reason the FDA chose to use the CytoBioscience instrument for its ion channel CiPA research. In addition, the Company also received the award for Best Human Cell Technology Research Developers 2016.
+Other Consumables
+The Cyto-PTU Shipping Container keeps internal temperature at 37  0.1 C for up to 100 hours. This enables the Company to ship live cells, pre-seeded MEA plates and tissue samples domestically or world-wide without cell loss. Conventional shipping is dependent on freezing. The container is completely disposable, with no return shipping costs. This is a previously untapped market, and interest is growing rapidly.
+Cell lines and cells and per-seeded MEA plates, all of which are used by researchers in drug safety, drug analysis and drug development projects, and finally, buffers and solutions for specific laboratory applications.
+Contract research
+There is a growing trend in the pharmaceutical industry to outsource safety screening and efficacy or drug discovery and drug development work. This is a result of a pronounced decrease in productivity caused by an increase in R&D spending which has not, in recent years, yielded a proportional increase in new drug approvals. Increased demands from regulators are also making the process costlier.
+As a result, the last five years have seen a period of consolidation with the closure of a number of R&D sites of many of the large pharmaceutical companies. At the same time, there has been a growth in pharmaceutical companies outsourcing to CROs. CytoBioscience, which has developed a highly automated and efficient instrument together with expertise in the ion channel screening market are benefitting from this trend.
+Intellectual property
+The Company's intellectual property estate is wholly-owned and managed by the Company. The intellectual property portfolio consists of five active patents and four pending patents in the US, EU and Japan.
+The Company believes that the corporation's intellectual property portfolio is significant to its future growth and defensible market share.
+5. INDUSTRY OVERVIEW
+When the Human Genome Project completed in 2003, the ability to recognize the molecular basis for a disease and identify, among other things, the specific genes and proteins involved became easier. In the same year, Drug Discovery World first reported the emergence of automated patch clamping as a higher throughput alternative to traditional electrophysiological investigations made using manual patch clamp1. In the period since this was first reported, APC platforms have been identified as central to ion channel drug discovery. Ion channels are proteins that form pores in cell membranes. They are involved in the control of many fundamental physiological processes in various tissues, and alterations in their functions give rise to pathological conditions. Ion channels were discovered in the membrane of electrically excitable cells such as neurons, cardiomyocytes, and skeletal muscle fibers and, for decades, drugs modulating cell excitability have been targeted by the pharmaceutical industry. Ion channels also play many roles in non-excitable tissues.
+1
+1 Source: Comley. J, PATCHERS vs SCREENERS  divergent opinion on high throughput electro-physiology!, Drug Discovery World, 2003
+Source: Comley. J, PATCHERS vs SCREENERS  divergent opinion on high throughput electro-physiology!, Drug Discovery World, 2003
+- 9 -
+In 2010, approximately 13% of marketed commercial drugs acted on ion channels. In recent years APC systems have evolved considerably and new ion channel screening technologies continue to be developed to discover new drugs. Patch-clamp is the gold standard technique to record ion channel activity, however, the costs associated with this technique are high as a result of the need for top-quality equipment, such as an anti-vibrating table, micro-manipulator, a microscope with IR-CCD camera, highly trained personnel and low throughput.
+Over the years, there have been attempts to build devices to increase throughput, notably with automated electrophysiology systems. Such systems have revolutionized ion channel drug discovery by enabling the screening of numerous compounds on many types of ion channels and cellular models. These systems have also been important for safety pharmacology testing of many types of ion channels. These methods, however, still require improvements with respect to throughput, quality of the electrophysiological recordings and the physiological cellular models used for drugs and safety testing.
+The development of new technologies has increased the number of drugs that can be identified, synthesized, characterized, screened and tested for therapeutic efficacy and safety. However, the process of drug discovery is long and expensive. Pharmaceutical companies spend approximately $50 billion annually in R&D and the average cost to bring a new drug to the market is estimated to be $1.8 billion2. Most compounds fail in clinical trials, requiring development of new strategies, and methodologies.
+Since ion channels control conduction of electrical activity in the heart, it is crucial to discern if off-target activities of drug candidates include cardiac ion channels. Mller and Witchel (2011) reviewed the most recent methods to screen drug candidates in major cardiac ion channels. These methods include APC using heterologous expression systems and automated action potential recordings from stem-cell derived cardiomyocyte. The developments in the field of ion channel screening technologies described indicate that the future is pointed toward the screening of drugs in more physiological relevant cellular models and networks.
+Market size
+The Company's core business is focused on the ion channel screening and drug screening market, principally through the Company's patented technology used in the CytoPatch to provide a high throughput and highly accurate platform to analyze ion channel drug discovery. More broadly, the Company operates in the pharmaceutical and biotechnology market, through its consumables, instrumentation and CRO work. This is a large and growing industry. In 2015, life sciences research and development exceeded $200 billion with an estimated 4 percent growth rate. It is estimated that the CRO market growth rate is between 6 and 9 percent. The drug discovery technologies sector is valued at $88 billion with an estimated 15% CAGR3, which is comparable to estimates for preclinical research and development4, in vitro/in silico oxicology testing and growth in nanomedicine5. Electrophysiology outside of medical devices is estimated to grow at 10.3%6 and 13% for analytical instruments.
+4
+5
+6
+2 Source: Paul et al., (2010) 3 Source: Omics: biomedical Perspectives and Applications, 2012, D. Barth, K. Blum, M. A. Madigan, Global Industry Analysts Inc. 4 Source: Outsourcing Pharma.com (3/714), HTStec Ltd:Top 10 Drug Discovery Technologies Market, (2010-2015), Research And Markets, 6/13: 2012 30.4bn to $45.2bn 2016, Furthermore, Biopta/Reprocell estimate a 7 trillion Yen R&D value, 25% in preclinical. 5 Nanotechnology in Medical Applications: The Global Market September 2015, IVD/ISD toxicology estimated at a 15% CAGR, 5B in 2012, 10B in 2017 (BCC Research, the journal of precision medicine) 6 http://www.marketsandmarkets.com/PressReleases/electrophysiologyE.satsipmates Electrophysiol ogy CAGR 10.3% 2014-2019 to $4.75B
+2 Source: Paul et al., (2010)
+Source: Paul et al., (2010)
+3 Source: Omics: biomedical Perspectives and Applications, 2012, D. Barth, K. Blum, M. A. Madigan, Global Industry Analysts Inc.
+Source: Omics: biomedical Perspectives and Applications, 2012, D. Barth, K. Blum, M. A. Madigan, Global Industry Analysts Inc.
+4 Source: Outsourcing Pharma.com (3/714), HTStec Ltd:Top 10 Drug Discovery Technologies Market, (2010-2015), Research And Markets, 6/13: 2012 30.4bn to $45.2bn 2016, Furthermore, Biopta/Reprocell estimate a 7 trillion Yen R&D value, 25% in preclinical.
+Source: Outsourcing Pharma.com (3/714), HTStec Ltd:Top 10 Drug Discovery Technologies Market, (2010-2015), Research And Markets, 6/13: 2012 30.4bn to $45.2bn 2016, Furthermore, Biopta/Reprocell estimate a 7 trillion Yen R&D value, 25% in preclinical.
+5 Nanotechnology in Medical Applications: The Global Market September 2015, IVD/ISD toxicology estimated at a 15% CAGR, 5B in 2012, 10B in 2017 (BCC Research, the journal of precision medicine) 6 http://www.marketsandmarkets.com/PressReleases/electrophysiologyE.satsipmates Electrophysiol ogy CAGR 10.3% 2014-2019 to $4.75B
+Nanotechnology in Medical Applications: The Global Market September 2015, IVD/ISD toxicology estimated at a 15% CAGR, 5B in 2012, 10B in 2017 (BCC Research, the journal of precision medicine)
+6 http://www.marketsandmarkets.com/PressReleases/electrophysiologyE.satsipmates Electrophysiol ogy CAGR 10.3% 2014-2019 to $4.75B
+http://www.marketsandmarkets.com/PressReleases/electrophysiologyE.satsipmates Electrophysiol ogy CAGR 10.3% 2014-2019 to $4.75B
+- 10 -
+The market for ion channel screening is anticipated to grow to $10 billion by 2021, led by a number of key industry trends including specific regulatory developments, the cost of drug development, an increase in outsourcing, and a reduced field of competition. The Company believes that these products and services provide a significant opportunity to capitalize on these trends to build and maintain its position as a market leader in the ion channel screening market.
+The intertwined markets of ion channel instrumentation, ion channel CRO work, and the consumables are estimated to be greater than $4 billion. Approximately two-thirds of CRO business is funded by the pharmaceutical industry, another 27% from biotechnology, and the rest by the medical device, foundation and government sectors. Approximately 46% of clinical trials are conducted in the United States, 30% in Europe and the remainder in Asia, Latin America, Africa and the Middle East. That being said, 70% of the safety pharmacology works is in the United States.
+As the chart below indicates7, the CRO business, which is where ion channel research and testing is embedded, has risen and continues to rise, since 2010.
+Key industry trends
+The Company have identified the following key trends driving the industry:
+Regulatory developments
+The Company's business and market generally are altered and impacted by the introduction of new guidelines by regulatory authorities. In 2012, the FDA and the European Medicines Agency (EMA) both released revised guidelines on drug interactions, including good laboratory practices (GLP) requirements. The Company's core instrument, the CytoPatch, is GLP compliant and can support the full FDA and EMA requirements. The most pertinent and significant regulatory development that directly affects CytoBioscience is the pending CiPA initiative in the US, which is driving a significant amount of the drug safety and drug efficacy work.
+7 Source: Pharma and William Blair Equity Research (April 25, 2014)
+7 Source: Pharma and William Blair Equity Research (April 25, 2014)
+Source: Pharma and William Blair Equity Research (April 25, 2014)
+- 11 -
+Cost of drug development
+Any process and/or instrumentation that helps to reduce the overall cost of drug development, safety screening, efficacy, is being sought out by pharmaceutical companies of all size.
+Increase in outsourcing
+There is a growing trend in the pharmaceutical industry to outsource safety screening and efficacy or drug discovery and drug development work. This is a result of a pronounced decrease in productivity caused by an increase in R&D spending which has not, in recent years, yielded a proportional increase in new drug approvals. Increased demands from regulators are also making the process costlier. As a result, in the last five years there has been a period of consolidation with the closure of a number of R&D sites of many of the large pharmaceutical companies. Instead, there has been a growth in pharmaceutical companies outsourcing to CROs. CytoBioscience, which has developed a highly automated and efficient instrument together with expertise in the ion channel screening market are benefitting from this trend.
+Reduced field of competition
+The ion channel screening market is relatively nascent and growing quickly, however there has been a consolidation in recent years. Specifically, the level of competition has been reduced, particularly CRO, by consolidation amongst competitors in the industry, which has reduced the number of companies performing CRO work.
+The Company is actively taking advantage of the industry trends driving the increased demand for ion channel screening, including the FDA, who have recognised that the Company's technology and product produces the best results for assessing drug efficacy and safety, and exclusively use the CytoPatch for their drug screening process.
+6. PRINCIPAL CUSTOMERS
+The Company has a wide range of international customers, principally in the pharmaceutical, biotechnology and medical research industries along with CRO organisations and regulatory authorities. In addition, the Company's customers also include DSTC and its network of pharmaceutical research companies in Japan, the Victor Chang Institute in Australia and the FDA.
+7. COMPETITION
+The Company's core markets, ion channel screening and drug efficacy, broadly fall into the life science tools and services sector, which also includes molecular diagnostics, genetic analysis and sequencing, CROs and analytic equipment. Within this broad sector there has been a high level of consolidation and less than 20 companies control 80% of the market.
+In 2014, the APC space was dominated by a small number of companies, including Molecular Devices (UK) Ltd, Sophion, Nanion Technologies and Fluxion Biosciences. The Company believes that no competitor has a unique instrument that provides the accuracy and quality of results that the CytoPatch offers.
+In particular, inexact nomenclature makes for indirect comparison with the instrumentation the Company builds as its focus lies outside of mainstream, high throughput APC.
+The Company is well-positioned to take advantage of this expansion and distance itself from others competing within the ion channel screening and drug efficacy market.
+- 12 -
+8. EMPLOYEES
+We currently employ 24 people.

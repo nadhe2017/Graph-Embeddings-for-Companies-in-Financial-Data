@@ -1,0 +1,1006 @@
+Item 2.01
+Completion of Acquisition or Disposition of Assets.
+THE MERGER AND RELATED TRANSACTIONS
+Merger Agreement
+On April 26, 2018, Lola One Acquisition Corporation, Acquisition Sub and Amesite OpCo entered into an Agreement and Plan of Merger and Reorganization, or the Merger Agreement. Pursuant to the terms of the Merger Agreement, on April 27, 2018, or the Closing Date, the Acquisition Sub merged with and into Amesite OpCo, which was the surviving corporation and thus became our wholly-owned subsidiary.
+4
+4
+Pursuant to the Merger, we acquired the business of Amesite OpCo, who is developing an artificial intelligence and blockchain driven online platform that plans to offer core, degree-building courses online for learners. See Description of Business below. On April 27, 2018, the time a certificate of merger reflecting the Merger was effective with the Secretary of State of Delaware, or the Effective Time, the 4,000,000 shares of Amesite OpCos Class B Common Stock issued and outstanding immediately prior to the closing of the Merger were converted into 5,833,333 shares of our common stock after adjustments due to rounding for fractional shares.
+In addition, pursuant to the Merger Agreement, options to purchase 650,000 shares of Amesite OpCos Class A Common Stock issued and outstanding immediately prior to the closing of the Merger pursuant to Amesite OpCos 2017 Equity Incentive Plan were assumed and converted into options to purchase 947,917 shares of our common stock. See Description of SecuritiesOptions below for more information. In addition, pursuant to the Merger Agreement, restricted stock units representing the right to acquire 233,334 shares of Amesite OpCos Class A Common Stock issued and outstanding immediately prior to the closing of the Merger pursuant to Amesite OpCos 2017 Equity Incentive Plan were assumed and converted into restricted stock units representing the right to acquire 340,279 shares of our common stock, subject to vest in full on April 30, 2018. See Description of SecuritiesRestricted Stock Units below for more information. The issuance of shares of our common stock, or options to purchase our common stock, to holders of Amesite OpCos capital stock and options converted into Amesite OpCo capital stock or options, as applicable, are collectively referred to as the Share Conversion.
+The Merger Agreement contained customary representations and warranties and pre- and post-closing covenants of each party and customary closing conditions.
+As a condition to the Merger, we entered into an indemnity agreement with our former officers and directors, or the Pre-Merger Indemnity Agreement, pursuant to which we agreed to indemnify such former officers and directors for actions taken by them in their official capacities relating to the consideration, approval and consummation of the Merger and certain related transactions. The form of the Pre-Merger Indemnity Agreement is filed as an exhibit to this Report. All descriptions of the Pre-Merger Indemnity Agreement herein are qualified in their entirety by reference to the text thereof filed as an exhibit hereto, which is incorporated herein by reference.
+The Merger was treated as a reverse recapitalization for our Company for financial reporting purposes. Amesite OpCo is considered the acquirer for accounting purposes, and our historical financial statements before the Merger will be replaced with the historical financial statements of Amesite OpCo before the Merger in future filings with the SEC. The Merger is intended to be treated as a tax-free reorganization under Section 368(a) of the Internal Revenue Code of 1986, as amended.
+The issuance of shares of our common stock, and options to purchase our common stock, to holders of Amesite OpCos capital stock and options in connection with the Merger was not registered under the Securities Act, in reliance upon the exemption from registration provided by Section 4(a)(2) of the Securities Act, which exempts transactions by an issuer not involving any public offering, and Rule 506(b) of Regulation D promulgated by the SEC. These securities may not be offered or sold in the United States absent registration or an applicable exemption from the registration requirement, and are subject to further contractual restrictions on transfer as described below.
+The form of the Merger Agreement is filed as an exhibit to this Report. All descriptions of the Merger Agreement herein are qualified in their entirety by reference to the text thereof filed as an exhibit hereto, which is incorporated herein by reference.
+5
+5
+The Offering and Insider Investment
+Following the Effective Time of the Merger, we sold 2,126,652 shares of our common stock pursuant to a closing of a private placement offering for up to 4,666,667 shares of our common stock at a purchase price of $1.50 per share. The private placement offering is referred to herein as the Offering.
+The aggregate gross proceeds from the closing of the Offering were $3.19 million (before deducting placement agent fees and expenses of the closing of the Offering, which are estimated at a total amount of approximately $700,000).
+The closing of the Offering was exempt from registration under Section 4(a)(2) of the Securities Act and Rule 506 of Regulation D promulgated by the SEC. The common stock in the closing of the Offering was sold to accredited investors, as defined in Regulation D, and was conducted on a reasonable best efforts basis.
+The closing of the Offering was conditioned on the closing of the Merger.
+In connection with the Offering, we agreed to pay our placement agent, a U.S. registered broker-dealer, or the Placement Agent, (i) a cash commission of 10% of the gross proceeds raised from investors in the Offering introduced by them, and to issue to the Placement Agent warrants to purchase a number of shares of common stock equal to 10% of the number of shares of common stock sold to investors in the Offering introduced by them, with a term of five years from the closing date of the Offering, and an exercise price of $1.50 per share, or the Placement Agent Warrant.
+As a result of the foregoing, we paid the Placement Agent an aggregate commission of approximately $318,998 and issued it Placement Agent Warrants to purchase up to an aggregate of 212,665 shares of our common stock in connection with the closing of the Offering. We also reimbursed the Placement Agent $75,000 of expenses incurred in connection with the Offering.
+We have agreed to indemnify the Placement Agent to the fullest extent permitted by law, against certain liabilities that may be incurred in connection with the Offering, including certain civil liabilities under the Securities Act, and, where such indemnification is not available, to contribute to the payments the Placement Agent and its sub-agents may be required to make in respect of such liabilities.
+6
+6
+All descriptions of the Placement Agent Warrants herein are qualified in their entirety by reference to the text thereof filed as an exhibit hereto, which is incorporated herein by reference.
+Concurrent with the closing of the Offering, Amesite OpCo investors purchased 895,834 shares of our common stock at a price of $1.20 per share for aggregate gross proceeds of approximately $1,075,000 (the Insider Investment). The shares purchased as part of the Insider Investment by certain insiders will be subject to lock-up agreements with us for a term of twenty-four (24) months from the date of closing.
+OTC Quotation
+Our common stock is currently not listed on a national securities exchange or any other exchange or quoted on an over-the-counter market. In connection with the Offering, we intend to cause our common stock to be quoted on the OTC Markets QB tier as soon as practicable following the final closing date of the Offering. However, we cannot assure you that we will be able to do so and, even if we do so, there can be no assurance that our common stock will continue to be quoted on the OTC Markets or quoted or listed on any other market or exchange or that an active trading market for our common stock will develop. See Risk FactorsOur common stock may not be eligible for listing or quotation on any securities exchange.
+Registration Rights
+In connection with the Merger and the Offering, we entered into a Registration Rights Agreement, pursuant to which we have agreed that promptly, but no later than 60 calendar days from the final closing of the Offering, we will file a registration statement with the SEC, or the Registration Statement, covering (a) the shares of common stock issued in the Offering and the Insider Investment, (b) the shares of common stock issuable upon exercise of the Placement Agent Warrants, (c) the shares of common stock issued upon the conversion of all of the equity securities of Amesite OpCo outstanding prior to the Merger and (d) 3,500,000 shares of common stock outstanding, on a fully diluted basis, prior to the Merger, or collectively, the Registrable Shares. We will use our commercially reasonable efforts to ensure that such Registration Statement is declared effective within 150 calendar days after the final closing of the Offering. Subject to customary limitations, if we are late in filing the Registration Statement, if the Registration Statement is not declared effective within 150 days after the final closing of the Offering, if we fail to maintain the effectiveness of the Registration Statement, or the holders of Registrable Shares cannot use the Registration Statement to resell the Registrable Shares, for a period of more than 15 consecutive trading days (except for suspension of the use of the Registration Statement in connection with the filing of a post-effective amendment in connection with filing our Annual Report on Form 10-K for the time reasonably required to respond to any comments from the SEC on the post-effective amendment or during a permitted blackout period as described in the Registration Rights Agreement) or following the listing or inclusion for quotation on the OTC Markets Group, the NASDAQ Stock Market, the New York Stock Exchange or the NYSE American, trading of our common stock is suspended or halted for more than three consecutive trading days or if the Registrable Shares are not listed or quoted on such markets, collectively, the Registration Events, we will make payments to each holder of Registrable Shares as monetary penalties at a rate equal to 12% per annum of the total value of Registrable Shares held or purchased by such holder and affected during the period, based on the monetary values assigned in the Registration Rights Agreement, subject to a 5% cap with respect to such holders Registrable Shares that are affected by all Registration Events in the aggregate. No monetary penalties will accrue with respect to any Registrable Shares removed from the Registration Statement in response to a comment from the staff of the SEC limiting the number of shares of common stock which may be included in the Registration Statement, or Cutback Comment, or after the Registrable Shares may be resold without volume or other limitations under Rule 144 or another exemption from registration under the Securities Act. Any cutback resulting from a Cutback Comment shall be allocated first to the shares of common stock issuable upon the exercise of the Placement Agent Warrants and second to the other Registrable Shares taken together, in each case, pro rata based on the total number of such shares held by or issuable to each holder in such group.
+7
+7
+We must use commercially reasonable efforts to keep the Registration Statement effective for three years from the date it is declared effective by the SEC or until the date on which all Registrable Securities have been transferred other than to certain enumerated permitted assignees under the Registration Rights Agreement.
+We will pay all expenses in connection with any registration obligation provided in the Registration Rights Agreement, including, without limitation, all registration, filing, stock exchange fees, printing expenses, all fees and expenses of complying with applicable securities laws, and the fees and disbursements of our counsel and of our independent accountants and reasonable fees and disbursements of counsel to the investors, not to exceed $10,000. Each investor will be responsible for its own sales commissions, if any, transfer taxes and the expenses of any attorney or other advisor such investor decides to employ.
+All descriptions of the Registration Rights Agreement herein are qualified in their entirety by reference to the text thereof filed as Exhibit 4.2 hereto, each of which is incorporated herein by reference.
+2017 Equity Incentive Plan and Outstanding Awards Thereunder
+Pursuant to the Merger Agreement and upon the closing of the Merger, we assumed each equity award that remained outstanding under the 2017 Equity Incentive Plan, or the 2017 Plan, whether vested or unvested, and we converted it into a corresponding equity award equal to the number of shares of Amesite OpCo common stock subject to the equity award immediately prior to the Merger multiplied by the applicable Merger conversion ratio (which was equal to an aggregate of 1,288,195), with any fraction rounded down to the nearest whole number. The exercise price per share of any assumed option is equal to the exercise price of the Amesite OpCo option prior to the assumption divided by the applicable Merger conversion ratio (which was equal to $1.03) (rounded up to the nearest whole cent). Otherwise, each assumed option or restricted stock unit continues to have, and will be subject to, the same terms and conditions as applied to the Amesite OpCo equity award immediately prior to the Merger, including, without limitation, the same vesting schedule. The terms of the 2017 Plan continue to govern the equity awards covering an aggregate of 1,288,195 shares of our common stock subject to awards assumed by us except that all references in the 2017 Plan to Amesite OpCo will now be deemed to refer to us. See Market Price of and Dividends on Common Equity and Related Stockholder MattersStock Plans and Executive CompensationEquity Incentive Plans below for more information about the 2017 Plan and the outstanding awards thereunder.
+8
+8
+2018 Equity Incentive Plan
+On April 26, 2018, our board of directors adopted and our stockholders approved the 2018 Equity Incentive Plan, or the 2018 Plan, that will become effective on the date that is 20 days after the mailing of a definitive Schedule 14C information statement to our pre-Merger stockholders, which provides for the issuance of incentive awards of up to 2,529,000 shares of our common stock, inclusive of a number of shares not to exceed 1,288,195 that are subject to issued and outstanding awards under the 2017 Plan and were assumed in the Merger. The 2018 Plan also provides that the number of shares reserved for issuance thereunder will be increased annually on the first day of each year beginning in 2020 by five percent (5%) of the shares of our common stock outstanding on the last day of the immediately preceding year, or a lesser number of shares as determined by our compensation committee. See Market Price of and Dividends on Common Equity and Related Stockholder MattersStock Plans and Executive CompensationEquity Incentive Plans below for more information about the 2018 Plan.
+Departure and Appointment of Directors and Officers
+Our board of directors is authorized to consist of, and currently consists of, five members. Immediately following the Effective Time of the Merger, Ann Marie Sastry, Ph.D., J. Michael Losh, Edward H. Frank, Ph.D., Richard Ogawa, and Anthony M. Barkett were appointed to the board of directors.
+Also, immediately following the Effective Time of the Merger, Ann Marie Sastry was appointed as our Chief Executive Officer and Bernie Chong was appointed as Controller by our board of directors. Ann Marie Sastry will be our principal executive officer and Bernie Chong will be our principal financial and accounting officer for SEC reporting purposes.
+See Directors, Executive Officers and Control Persons below for information about our new directors and executive officers.
+Lock-up Agreements and Other Restrictions
+In connection with the Merger and the closing of the Offering, each of Amesite OpCos current executive officers and directors, our executive officers and directors named above, stockholders holding in the aggregate 56.3% of the shares of common stock issued upon the conversion of shares held in Amesite OpCo immediately prior to the Merger, and certain other stockholders and key employees agreed to by us and Amesite OpCo, or, collectively, the Restricted Holders, holding at the Closing Date an aggregate of approximately 6,729,167 shares of our common stock, entered into lock-up agreements, or the Lock-Up Agreements, whereby they are restricted for a period of twenty-four months after the Merger and the closing of the Offering, or the Restricted Period, from certain sales or dispositions (including any pledge) of all of our common stock held by (or issuable to) them, excluding any shares purchased by them in the Offering, such restrictions together referred to as the Lock-Up. The foregoing restrictions will not apply to certain other transfers customarily excepted.
+9
+9
+Pro Forma Ownership
+Immediately after giving effect to the Merger, the Share Conversion and the closing of the Offering, there were 11,955,819 shares of our common stock issued and outstanding as of the Closing Date, as follows:
+the stockholders of Amesite OpCo prior to the Merger hold 5,833,333 shares of our common stock, excluding shares purchased by them in the Offering and after adjustments due to rounding for fractional shares;
+
+the stockholders of Amesite OpCo prior to the Merger hold 5,833,333 shares of our common stock, excluding shares purchased by them in the Offering and after adjustments due to rounding for fractional shares;
+investors in the closing of the Offering hold 2,126,652 shares of our common stock, excluding shares held by stockholders of Amesite OpCo prior to the Merger;
+
+investors in the closing of the Offering hold 2,126,652 shares of our common stock, excluding shares held by stockholders of Amesite OpCo prior to the Merger;
+investors in the Insider Investment hold 895,834 shares of common stock, excluding shares held by stockholders of Amesite OpCo prior to the Merger; and
+
+investors in the Insider Investment hold 895,834 shares of common stock, excluding shares held by stockholders of Amesite OpCo prior to the Merger; and
+the remaining 3,100,000 shares are held by persons who purchased or received such shares for services rendered from pre-Merger Lola One Acquisition Corporation.
+
+the remaining 3,100,000 shares are held by persons who purchased or received such shares for services rendered from pre-Merger Lola One Acquisition Corporation.
+In addition, there are:
+212,665 shares of common stock issuable upon the exercise of the Placement Agent Warrants;
+
+212,665 shares of common stock issuable upon the exercise of the Placement Agent Warrants;
+400,000 shares of common stock issuable upon the exercise of a pre-funded warrant to purchase common stock;
+
+400,000 shares of common stock issuable upon the exercise of a pre-funded warrant to purchase common stock;
+options to purchase an aggregate of 947,917 shares of our common stock and restricted stock units representing the right to acquire 340,279 shares of our common stock that were subject to options and restricted stock units, respectively, originally granted under the 2017 Plan to former Amesite OpCo option and restricted stock unit holders, as applicable, and assumed by us in connection with the Merger;
+
+options to purchase an aggregate of 947,917 shares of our common stock and restricted stock units representing the right to acquire 340,279 shares of our common stock that were subject to options and restricted stock units, respectively, originally granted under the 2017 Plan to former Amesite OpCo option and restricted stock unit holders, as applicable, and assumed by us in connection with the Merger;
+2,529,000 shares of our common stock, less the number of shares subject to issued and outstanding awards under the 2017 Plan that were assumed in the Merger, reserved for issuance under the 2018 Plan as future incentive awards to executive officers, employees, consultants and directors.
+
+2,529,000 shares of our common stock, less the number of shares subject to issued and outstanding awards under the 2017 Plan that were assumed in the Merger, reserved for issuance under the 2018 Plan as future incentive awards to executive officers, employees, consultants and directors.
+No other securities convertible into or exercisable or exchangeable for our common stock are outstanding.
+Immediately after giving effect to the Merger, the Share Conversion and the closing of the Offering, the stockholders of Amesite OpCo prior to the Merger held 6,116,663 shares of our common stock, representing approximately 51.2% of our issued and outstanding capital stock.
+Our common stock is not listed on a national securities exchange or any other exchange, or quoted on an over-the-counter market.
+Accounting Treatment; Change of Control
+The Merger is being accounted for as a reverse recapitalization, and Amesite OpCo is deemed to be the acquirer in the reverse merger. Consequently, the assets and liabilities and the historical operations that will be reflected in the financial statements prior to the Merger will be those of Amesite OpCo, and will be recorded at the historical cost basis of Amesite OpCo, and the consolidated financial statements after completion of the Merger will include the assets and liabilities of Amesite OpCo, historical operations of Amesite OpCo, and operations of Lola One Acquisition Corporation from the Closing Date. As a result of the issuance of the shares of our common stock pursuant to the Merger, a change in control of Lola One Acquisition Corporation occurred as of the date of consummation of the Merger. Except as described in this Report, no arrangements or understandings exist among present or former controlling stockholders with respect to the election of members of our board of directors and, to our knowledge, no other arrangements exist that might result in a change of control of Lola One Acquisition Corporation.
+We expect to continue to be a smaller reporting company, as defined under the Exchange Act, and an emerging growth company under the JOBS Act immediately following the Merger. We believe that as a result of the Merger, we have ceased to be a shell company (as such term is defined in Rule 12b-2 under the Exchange Act).
+10
+10
+DESCRIPTION OF BUSINESS
+Amesite OpCos History
+Amesite OpCo was incorporated in the State of Delaware on November 14, 2017. This transaction is referred to herein as the corporate conversion. Immediately after giving effect to the Merger, the Share Conversion and the closing of the Offering and Insider Investment, the operations of Amesite OpCo became our operations.
+Overview
+Amesite OpCo is a development stage artificial intelligence software company targeting the college course market. Amesite OpCo is creating a cloud-based platform for college and university courses to be delivered to learners online and in hybrid online / on campus formats. Amesite OpCo plans to use machine learning to provide a novel, mass customized experience to learners. Amesite OpCos intended customers are universities and colleges, and we are passionate about improving the learner experience and learner outcomes in college courses, and improving colleges ability to create and deliver both.
+Our Strategy
+Amesite OpCo will work closely with its customers to deliver college courses, and share the revenue that its customers receive from learners. Amesite OpCo will convert customer content onto our proprietary platform, and use the proprietary data it collects on learner behavior and responses with their consent, to deliver to learners engaging, effective college courses. We aim to reduce college operating costs, and improve learner experience and performance. Customers will generate content, admit and enroll learners, approve of assessments, grading and engagement techniques, and deliver grades and credits to learners. Courses will be branded according to customer norms, and will be marketed collaboratively, as customer products.
+Our Proprietary Technology
+Large, lecture-based college courses offer the opportunity to collect substantial datasets impractical for instructors to collect, but highly relevant to individuals learning experience and outcomes. College instructors are unable to customize delivery of information based on learners habits, given their present inability to collect and analyze learners data. Amesite OpCo plans to implement machine learning algorithms to enable mass customized learning in higher education, freeing instructors from routine analysis and enabling delivery of information only possible with specific data on behaviors and preferences of individual learners. Learner data will be collected with learner permission, and information about learner behavior, study preferences and preference for types of material delivered as part of college courses, will be used to improve learning outcomes and learner experiences. Amesite OpCo will validate algorithms using both offline and online testing.
+By correlating learner behaviors with specific outcomes as identified by qualified instructors, Amesite OpCo will train its algorithms specifically for important college course outcomes, enabling it to be a useful tool for instructors. Amesite OpCo believes that the combinations of information that will be collected through its educational products, and outcomes measured using its online learning products will be unique, and constantly improved.
+11
+11
+Amesite OpCo will never sell or distribute its learner data to third parties without the explicit permission of learners. Amesite OpCo will not deliver unwanted content or advertising to learners or to customer personnel. Amesite OpCos proprietary technology is developed for the sole purposes of improving learner experiences and outcomes, and improving the ability of college and university instructors and other staff to deliver outstanding educational products.
+Our Research and Development Programs
+Amesite OpCo will use advanced technologies to create effective and accessible higher learning environments. We seek to improve the college experience by targeting the earliest, foundational, core courses that are required in order for learners to achieve college degrees. These courses form the building blocks for higher education learning and professional contribution. Amesite OpCos research and development programs will expand continuously based on learner preferences, outcomes and the desires of our customer colleges and universities. Some of these will include:
+Improvements in learner engagement with cloud-based platforms. Amesite OpCo will continuously gather data on how learners engage with the Amesite OpCo and other online platforms, and conduct research and development to create and incorporate useful tools for learning on our platform.
+
+Improvements in learner engagement with cloud-based platforms. Amesite OpCo will continuously gather data on how learners engage with the Amesite OpCo and other online platforms, and conduct research and development to create and incorporate useful tools for learning on our platform.
+Improvements in instructor experience using our platform. Amesite OpCo will continuously develop tools designed to improve the ability of our customers to deliver timely and relevant content, deliver assessments which are fair, correctly represent educational objectives and give repeatable outcomes when employed on the platform.
+
+Improvements in instructor experience using our platform. Amesite OpCo will continuously develop tools designed to improve the ability of our customers to deliver timely and relevant content, deliver assessments which are fair, correctly represent educational objectives and give repeatable outcomes when employed on the platform.
+Algorithms for optimizing learning products for those pursuing college degrees. Amesite OpCo will conduct research to improve the efficiency and robustness of its algorithms, employing mixed models to deliver validated tools. We will use our algorithms to deliver solutions for seeking courses, determining their transferability, and determining their applicability toward degrees.
+
+Algorithms for optimizing learning products for those pursuing college degrees. Amesite OpCo will conduct research to improve the efficiency and robustness of its algorithms, employing mixed models to deliver validated tools. We will use our algorithms to deliver solutions for seeking courses, determining their transferability, and determining their applicability toward degrees.
+Qualification of information for use by learners at the college level. Amesite OpCo plans to provide both our customers and our learners with the constantly improving ability to find and integrate qualified information into products on our platform, and maximize learner ability to utilize qualified information, contextualized by structured college courses designed to offer learners the most carefully curated, most relevant, timely and engaging materials in every discipline in which we offer products.
+
+Qualification of information for use by learners at the college level. Amesite OpCo plans to provide both our customers and our learners with the constantly improving ability to find and integrate qualified information into products on our platform, and maximize learner ability to utilize qualified information, contextualized by structured college courses designed to offer learners the most carefully curated, most relevant, timely and engaging materials in every discipline in which we offer products.
+Our Intellectual Property
+Amesite OpCos intellectual property rights may include patent applications, trade secrets, trademark rights, and contractual agreements. Amesite OpCos patent applications are directed to its proprietary technology, including an artificial intelligence platform for learning, and will seek patent protection for its designs, development, and related alternatives by filing and prosecuting patent applications in the U.S. and other countries as appropriate.
+12
+12
+Amesite OpCo owns five pending U.S. patent applications, including one to cover the artificial intelligence platform, and others related to security, power consumption, blockchain, and other technologies, including methods and systems. Any patent issuing from these applications would also be expected to expire in 2038, not including any applicable patent term adjustment or extension.
+Amesite OpCo will also seek trade secret protection for its source codes, methodologies, algorithms, and techniques directed to other aspects of its artificial intelligence learning platform. Amesite OpCo has filed an intent-to-use trademark for AMESITETM with the United States Patent and Trademark Office.
+Amesite OpCo has secured domain names, including amesite.com, amesite.co, amesite.net, and others.
+Amesite OpCo ensures that we own intellectual property created for us by signing agreements with employees, independent contractors, consultants, companies, and any other third party that creates intellectual property for us that assign any intellectual property rights to us. Portions of the Amesite OpCos platform may rely upon third-party licensed intellectual property.
+Amesite OpCo established business procedures designed to maintain the confidentiality of its proprietary information, including the use of confidentiality agreements with employees, independent contractors, consultants and companies with which we conduct business.
+Competition
+The on-line and software industries for higher education are characterized by rapid evolution of technologies, fierce competition, government regulation, and strong defense of intellectual property. The overall market for technology solutions that enable higher education providers to deliver education online is highly fragmented, rapidly evolving and subject to changing technology, shifting needs of learners and educators and frequent introductions of new methods of delivering education online. While we believe that Amesite OpCos platform, programs, technology, knowledge, experience, and resources provide us with competitive advantages, we face competition from major on-line companies, academic institutions, governmental agencies, and public and private research institutions, among others.
+Any course offering that we successfully develop and commercialize will compete with current course offerings. Key product features that would affect Amesite OpCos ability to effectively compete with other course offerings include efficiency, security and convenience, and availability. Amesite OpCos competitors fall primarily into the following groups:
+Traditional course offerings in physical facilities and
+
+Traditional course offerings in physical facilities and
+On-line course offerings from traditional colleges, universities, or other institutes of higher education.
+
+On-line course offerings from traditional colleges, universities, or other institutes of higher education.
+Many of the companies, colleges, or universities against which we may compete have significantly greater financial resources and expertise in education, software design and development, and have already obtained approvals and marketing approved products. Smaller or early-stage companies may also prove to be significant competitors, particularly through collaborative arrangements with large and established companies. These competitors also compete with us in recruiting and retaining qualified engineers, scientists, and management personnel, as well as in acquiring technologies complementary to, or necessary for, our programs.
+13
+13
+We expect that the competitive landscape will continue to expand as the market for online programs at nonprofit institutions matures. We believe the principal competitive factors in our market include the following:
+brand awareness and reputation;
+
+brand awareness and reputation;
+ability of online programs to deliver desired student outcomes;
+
+ability of online programs to deliver desired student outcomes;
+robustness and evolution of technology offering;
+
+robustness and evolution of technology offering;
+breadth and depth of service offering;
+
+breadth and depth of service offering;
+ability to invest in launching and operating programs;
+
+ability to invest in launching and operating programs;
+expertise in program marketing, student acquisition and student retention;
+
+expertise in program marketing, student acquisition and student retention;
+quality of user experience;
+
+quality of user experience;
+ease of deployment and use of solutions;
+
+ease of deployment and use of solutions;
+level of customization, configurability, integration, security, scalability and reliability of solutions; and
+
+level of customization, configurability, integration, security, scalability and reliability of solutions; and
+quality of customer base and track record of performance.
+
+quality of customer base and track record of performance.
+Amesite OpCos ability to remain competitive will depend, to a great extent, upon our ability to consistently deliver high-quality technology solutions for our learners, meet customer needs for content delivery at reasonable cost, and engage, support and retain learners who achieve high-quality outcomes.
+Government Regulation and Product Approval
+The higher education industry is heavily regulated. Institutions of higher education that award degrees and certificates to signify the successful completion of an academic program are subject to regulation from three primary entities: the U.S. Department of Education, or DOE, accrediting agencies and state licensing authorities. Each of these entities promulgates and enforces its own laws, regulations and standards, which we refer to collectively as education laws.
+Amesite OpCo contracts with higher education institutions that are subject to education laws. In addition, we are required to comply with certain education laws as a result of our role as a service provider to institutions of higher education, either directly or indirectly through our contractual arrangements with customers. Amesite OpCos failure, or that of our customers, to comply with education laws could adversely impact our operations. As a result, we work closely with our customers to maintain compliance with education laws.
+14
+14
+Amesite OpCo, and its customers, collectively, will abide, as required, by the education laws, including incentive compensation rule, misrepresentation rule, accreditation rules and standards, among all state and federal regulations.
+Amesite OpCo will monitor closely state law developments and work closely with our customers to assist them with obtaining any required approvals.
+Amesite OpCos activities on behalf of its customers are also subject to other federal and state laws. These regulations include, but are not limited to, consumer marketing and unfair trade practices laws and regulations, including those promulgated and enforced by the FTC, as well as federal and state data protection and privacy requirements.
+Sales and Marketing
+We plan to implement a sales and marketing program prior to launch of the Amesite OpCo platform. As the platform progresses through development, design, and testing, we intend to gather information regarding our on-line courses and use such information for marketing and sales of courses through the Amesite OpCo platform.
+We also intend to simultaneously develop a branding strategy to introduce and support the Amesite OpCo platform. The strategy may include our presence at colleges, universities, and other educational institutes on a national, state, and regional basis to engage and educate users of any of the Amesite OpCo products, as well as engaging in a variety of other direct marketing methods.
+We also intend to develop a small direct sales force together with a distribution network that has existing relationships with colleges, universities, and other educational institutions. We believe that we may be able to launch products on the Amesite OpCo platform in our first year of operation.
+Board of Advisors
+Dennis Bernard, Chairman of the Board of Advisors
+Mr. Bernard is the founder and President of Bernard Financial Group and Bernard Financial Servicing Group (BFG). BFG is the largest commercial mortgage banking firm in Michigan, financing on average over $1 billion yearly. Dennis has been involved with over 1,200 commercial real estate financial transactions totaling over $18.6 billion. He specializes in both debt and equity placement with commercial lenders and institutional joint venture participants.
+Gilbert S. Omenn, MD, Ph.D., Member
+Dr. Omenn is the Harold T. Shapiro Distinguished University Professor at the University of Michigan. He was previously the Executive VP for Medical Affairs and CEO of the UM Health System (1997-2002), White House Fellow at the Atomic Energy Commission (1973-74), Associate Director of the White House Office of Science & Technology Policy and Associate Director of the Office of Management and Budget (1977-81), President of the American Association for the Advancement of Science (AAAS, 2006), the advisory board member for the AAAS Project 2061 on Science for all Americans (1986-1996), a member of the Scientific Management Review Board for the NIH (2012-2014), and the Council of the National Academy of Medicine (NAM, 2015-2017). Elected to the NAM in 1978 and the American Academy of Arts & Sciences in 2001. He received the David Rogers Award from the Association of American Medical Colleges for contributions to health and healthcare (2013). He served on the board of directors of Amgen, Inc. for 27 years and Rohm & Haas Company for 22 years. Currently, he chairs the global Human Proteome Project and serves on the boards of the Center for Public Integrity, the Hastings Center for Bioethics, the Weizmann Institute of Science in Israel, and biotech companies Esperion, Galectin, and Oncopia Therapeutics.
+15
+15
+Elliot Soloway, Ph.D., Member
+Dr. Soloway is the Arthur F. Thurnau Professor of Engineering at the University of Michigan. He is an expert in Artificial Intelligence (AI), particularly related to learning and teaching. For the past 17 years, Dr. Soloway and his colleagues at the Center for Highly-Interactive Computing in Education (HI-CE), a collaboration between University of Michigan and University of North Texas, have been pioneers in developing educational technologies and curriculum to support science education in grades K-12. HI-CE has helped teachers and students realize an unprecedented 15% gain in student achievement on standardized tests.
+Employees
+As of April 27, 2018, we have 1 full-time employee and 2 consultants. We intend to hire additional staff and to engage consultants in general administration on an as-needed basis. We also intend to engage experts in operations, finance and general business to advise us in various capacities. None of our employees are covered by a collective bargaining agreement, and we believe our relationship with our employees is good to excellent.
+Facilities
+Our corporate headquarters are located in Ann Arbor, Michigan, where we lease approximately 1600 square feet of office space. The lease term for our office and laboratory space in Ann Arbor, Michigan commenced in November 2017 with an expiration date of November 12, 2018.
+We believe that our existing facilities are adequate for our current needs. When our lease expires, we may exercise our renewal options or look for additional or alternate space for our operations. We believe that suitable additional or alternative space will be available in the future on commercially reasonable terms.
+Legal Proceedings
+From time to time, we may be subject to legal proceedings. We are not currently a party to or aware of any proceedings that we believe will have, individually or in the aggregate, a material adverse effect on our business, financial condition or results of operations.
+16
+16
+RISK FACTORS
+Investing in our common stock involves a high degree of risk. In addition to the other information set forth in this Report, you should carefully consider the risk factors discussed below when considering an investment in our common stock. If any of the following risks occur, our business, financial condition, results of operations and prospects could be materially and adversely affected. In that case, the market price of our common stock could decline and you could lose some or all of your investment. Additional risks and uncertainties not presently known to us or that we currently deem immaterial also may impair our business operations.
+Risks Related to our Business
+We have no operating history in online programs and may fail to gain first customers.
+We were incorporated in November 2017, and have no operating history in offering online courses. Historically, we have had no assets other than cash. If our assumptions about market needs are incorrect, we may fail to launch courses. Even if we launch courses timely, our assumptions regarding recovery of upfront costs and growth of revenue may differ substantially from reality, in which case we will fail to achieve our revenue goals.
+We will incur significant losses in launching products, and may not realize sufficient subscriptions or profits in order to sustain our business.
+We will expend significant capital in launching our first courses, and will also incur substantial accounting, legal and other overhead costs as a public company through the consummation of the Merger. If our courses are unsuccessful or result in insufficient, unsustainable revenue, we will be forced to reduce expenses, resulting in an inability to gain new customers.
+Our business model relies on adequate revenue sharing with colleges and universities, for online delivery of their courses. If we fail to attract customers, or to negotiate agreements with them that provide us with sustainable revenue, it will impair our ability to operate and grow our business.
+We may not be able to convince colleges and universities that our methods will produce better outcomes than their current approaches to residential and online courses, in a cost-effective manner. We may also not be able to convince them to dedicate significant resources to moving courses onto our platform, and gain their trust in operating them collaboratively. If our courses are not better, or only modestly better than the incumbent versions, we will be unable to grow and gain more customers, which may materially harm our business.
+We will be relying on our customers  colleges and universities  to drive enrollment and revenue.
+Factors within and outside of our control will affect enrollments and include the following:
+Negative perceptions about online courses. Students may reject the opportunity to take courses online, when residential courses are offered as an option, due to negative perceptions of online education.
+
+Negative perceptions about online courses. Students may reject the opportunity to take courses online, when residential courses are offered as an option, due to negative perceptions of online education.
+17
+17
+Ineffective marketing efforts. We will rely on our own and our customers marketing efforts to drive enrollment of our online courses. If we or our customers fail to execute our marketing strategies, we will suffer reduced revenue.
+
+Ineffective marketing efforts. We will rely on our own and our customers marketing efforts to drive enrollment of our online courses. If we or our customers fail to execute our marketing strategies, we will suffer reduced revenue.
+Damage to customer reputation. Our customers rankings, reputation and marketing efforts strongly affect enrollments, none of which we control. If we fail to gain customers with strong, stable reputations and rankings, we will fail to secure courses that have stable enrollments.
+
+Damage to customer reputation. Our customers rankings, reputation and marketing efforts strongly affect enrollments, none of which we control. If we fail to gain customers with strong, stable reputations and rankings, we will fail to secure courses that have stable enrollments.
+Lack of subscription to our courses. We do not control the courses required for a degree by our customers, and if the courses we offer do not build to a degree, enrollments could suffer.
+
+Lack of subscription to our courses. We do not control the courses required for a degree by our customers, and if the courses we offer do not build to a degree, enrollments could suffer.
+Reduced enrollment in higher education due to lack of funding. Significant reductions in student funding, through grants or loans, would reduce enrollments in courses on our platform and could adversely affect our business model.
+
+Reduced enrollment in higher education due to lack of funding. Significant reductions in student funding, through grants or loans, would reduce enrollments in courses on our platform and could adversely affect our business model.
+General economic conditions. Any contraction in the economy could be expected to reduce enrollment in higher education, whether by reducing funding, reducing corporate allowances for continuing education, general reductions in employment or savings or other factor. Any of these could substantially reduce enrollment in courses offered on our platform.
+
+General economic conditions. Any contraction in the economy could be expected to reduce enrollment in higher education, whether by reducing funding, reducing corporate allowances for continuing education, general reductions in employment or savings or other factor. Any of these could substantially reduce enrollment in courses offered on our platform.
+We will face intense competition, which may cause pricing pressures, decreased gross margins and loss of market share and may materially and adversely affect our business, financial condition and results of operations.
+We will compete with other on-line education services companies, and colleges and universities themselves. We expect competition in our markets to intensify, as new competitors enter the on-line education market, existing competitors merge or form alliances, and new technologies emerge. Our competitors may introduce new solutions and technologies that are superior to our platform. Certain of our competitors may be able to adapt more quickly than we can to new or emerging technologies and changes in customer requirements or may be able to devote greater resources to the development, promotion and sale of their products than we can.
+Increased competition could also result in pricing pressures, declining average selling prices for our service model, decreased gross margins and loss of market share. We will need to make substantial investments to develop these enhancements and technologies to our platform, and it cannot assure investors that we will have funds available for these investments or that these enhancements and technologies will be successful. If a competing technology emerges that is, or is perceived to be, superior to our existing technology and we are unable to adapt to these changes and to compete effectively, our market share and financial condition could be materially and adversely affected, and our business, revenue, and results of operations could be harmed.
+18
+18
+We have risk factors within and outside of our control that may inhibit our ability to deliver products on our platform.
+Our customers will rely on us to deliver a stable platform, with correct measures of performance in a manner that instructors, lecturers, graduate student assistants and professors can easily use.
+Even if we are successful in delivering a stable platform, our operating results may fluctuate as a result of a number of factors, many of which are outside of our control. The following factors may affect our operating results:
+our ability to compete effectively;
+
+our ability to compete effectively;
+our ability to continue to attract users to our platform;
+
+our ability to continue to attract users to our platform;
+our ability to attract new customers to our platform;
+
+our ability to attract new customers to our platform;
+our ability to attract colleges and universities to our platform;
+
+our ability to attract colleges and universities to our platform;
+the mix in our net revenues generated from customers and colleges and universities;
+
+the mix in our net revenues generated from customers and colleges and universities;
+the amount and timing of operating costs and capital expenditures related to the maintenance and expansion of our business, operations and infrastructure;
+
+the amount and timing of operating costs and capital expenditures related to the maintenance and expansion of our business, operations and infrastructure;
+our focus on long term goals over short-term results;
+
+our focus on long term goals over short-term results;
+the results of our investments in risky projects;
+
+the results of our investments in risky projects;
+general economic conditions and those economic conditions specific to our on-line courses;
+
+general economic conditions and those economic conditions specific to our on-line courses;
+our ability to keep our platform operational at a reasonable cost and without service interruptions;
+
+our ability to keep our platform operational at a reasonable cost and without service interruptions;
+the success of our geographical and product expansion;
+
+the success of our geographical and product expansion;
+our ability to attract, motivate and retain top-quality employees;
+
+our ability to attract, motivate and retain top-quality employees;
+foreign, federal, state or local government regulation that could impede our ability to operate our platform;
+
+foreign, federal, state or local government regulation that could impede our ability to operate our platform;
+our ability to upgrade and develop our systems, infrastructure and products;
+
+our ability to upgrade and develop our systems, infrastructure and products;
+new technologies or services that block our platform and user adoption of these technologies;
+
+new technologies or services that block our platform and user adoption of these technologies;
+the costs and results of litigation that we may face;
+
+the costs and results of litigation that we may face;
+our ability to protect our intellectual property rights;
+
+our ability to protect our intellectual property rights;
+19
+19
+our ability to forecast revenue;
+
+our ability to forecast revenue;
+our ability to manage fraud and other activities that violate our terms of services;
+
+our ability to manage fraud and other activities that violate our terms of services;
+our ability to successfully integrate and manage our colleges and universities; and
+
+our ability to successfully integrate and manage our colleges and universities; and
+geopolitical events such as war, threat of war, or terrorist actions.
+
+geopolitical events such as war, threat of war, or terrorist actions.
+We may have risks related to our financial condition.
+We have a history of losses, will need substantial additional funding to continue our operations and may not achieve or sustain profitability in the future.
+Our operations have consumed substantial amounts of cash since inception. We have incurred losses since our incorporation in November 2017. We do not expect more than nominal revenues until at least some point during the fiscal year ending June 30, 2020. If our expectations prove incorrect, the business, our operating results and financial condition will be materially and adversely affected. We anticipate that our operating expenses will increase in the foreseeable future as we continue to pursue the development of our platform, invest in marketing, sales and distribution of our platform to grow our business, acquire customers, and commercialize our technology. These efforts may prove more expensive than we currently anticipate, and we may not succeed in generating sufficient revenues to offset these higher expenses. In addition, we expect to incur significant expenses related to regulatory requirements, ability to obtain, protect, and defend our intellectual property rights.
+We may also encounter unforeseen expenses, difficulties, complications, delays and other unknown factors that may increase our capital needs and/or cause us to spend our cash resources faster than we expect. Accordingly, we will need to obtain substantial additional funding in order to continue our operations.
+We may have risks related to managing any growth we may experience.
+We may engage in future acquisitions that could disrupt our business, cause dilution to our stockholders and harm our financial condition and operating results.
+While there are currently no specific plans to acquire any other businesses, we may, in the future, make acquisitions of, or investments in, companies that we believe have products or capabilities that are a strategic or commercial fit with our current business or otherwise offer opportunities. In connection with these acquisitions or investments, we may:
+issue common stock or other forms of equity that would dilute its existing stockholders percentage of ownership,
+
+issue common stock or other forms of equity that would dilute its existing stockholders percentage of ownership,
+incur debt and assume liabilities, and
+
+incur debt and assume liabilities, and
+20
+20
+incur amortization expenses related to intangible assets or incur large and immediate write-offs.
+
+incur amortization expenses related to intangible assets or incur large and immediate write-offs.
+Amesite OpCo may not be able to complete acquisitions on favorable terms, if at all. If it does complete an acquisition, it cannot assure you that it will ultimately strengthen its competitive position or that it will be viewed positively by customers, financial markets or investors. Furthermore, future acquisitions could pose numerous additional risks to its expected operations, including:
+problems integrating the purchased business, products or technologies;
+
+problems integrating the purchased business, products or technologies;
+challenges in achieving strategic objectives, cost savings and other anticipated benefits;
+
+challenges in achieving strategic objectives, cost savings and other anticipated benefits;
+increases to its expenses;
+
+increases to its expenses;
+the assumption of significant liabilities that exceed the limitations of any applicable indemnification provisions or the financial resources of any indemnifying party;
+
+the assumption of significant liabilities that exceed the limitations of any applicable indemnification provisions or the financial resources of any indemnifying party;
+inability to maintain relationships with prospective key customers, vendors and other business partners of the acquired businesses;
+
+inability to maintain relationships with prospective key customers, vendors and other business partners of the acquired businesses;
+diversion of managements attention from their day-to-day responsibilities;
+
+diversion of managements attention from their day-to-day responsibilities;
+difficulty in maintaining controls, procedures and policies during the transition and integration;
+
+difficulty in maintaining controls, procedures and policies during the transition and integration;
+entrance into marketplaces where it has no or limited prior experience and where competitors have stronger marketplace positions;
+
+entrance into marketplaces where it has no or limited prior experience and where competitors have stronger marketplace positions;
+potential loss of key employees, particularly those of the acquired entity; and
+
+potential loss of key employees, particularly those of the acquired entity; and
+that historical financial information may not be representative or indicative of its results as a combined entity.
+
+that historical financial information may not be representative or indicative of its results as a combined entity.
+Amesite OpCos business and operations would suffer in the event of system failures, and its operations are vulnerable to interruption by natural disasters, terrorist activity, power loss and other events beyond its control, the occurrence of which could materially harm its business.
+
+Amesite OpCos business and operations would suffer in the event of system failures, and its operations are vulnerable to interruption by natural disasters, terrorist activity, power loss and other events beyond its control, the occurrence of which could materially harm its business.
+Amesite OpCos future internal computer systems and those of its future business partners may be vulnerable to damage from computer viruses, unauthorized access as well as telecommunication and electrical failures. Any such system failure, accident or security, if such an event were to occur and cause interruptions in its operations, it could result in a material disruption of its services. If any disruption or security breach resulted in a loss of or damage to its data or applications, or inappropriate disclosure of confidential or proprietary information, it could incur liability and/or the further development of it new technology for on-line education could be delayed.
+21
+21
+We may have risks related to regulatory requirements.
+On-line education is subject to ongoing regulatory obligations and review. Maintaining compliance with these requirements may result in significant additional expense to us and any failure to maintain such compliance could cause our business to suffer.
+Noncompliance with applicable regulations or requirements could subject us to investigations, sanctions, mandatory product recalls, enforcement actions, disgorgement of profits, fines, damages, civil and criminal penalties, or injunctions. An adverse outcome in any such litigation could require us to pay contractual damages, compensatory damages, punitive damages, attorneys fees and costs. These enforcement actions could harm our business, financial condition and results of operations. If any governmental sanctions are imposed, or if we do not prevail in any possible civil or criminal litigation, our business, financial condition and results of operations could be materially adversely affected. In addition, responding to any action will likely result in a significant diversion of managements attention and resources and an increase in professional fees.
+Risks Related to our Common Stock and the Offering
+We are an emerging growth company and we cannot be certain if the reduced reporting requirements applicable to emerging growth companies will make our common stock less attractive to investors.
+We are an emerging growth company as defined in the JOBS Act. For as long as we continue to be an emerging growth company, we may take advantage of exemptions from various reporting requirements that are applicable to other public companies that are not emerging growth companies, including (1) not being required to comply with the auditor attestation requirements of Section 404 of the Sarbanes-Oxley Act of 2002, or the Sarbanes-Oxley Act, (2) reduced disclosure obligations regarding executive compensation in this Report and our periodic reports and proxy statements and (3) exemptions from the requirements of holding a nonbinding advisory vote on executive compensation and stockholder approval of any golden parachute payments not previously approved. In addition, as an emerging growth company, we are only required to provide two years of audited financial statements and two years of selected financial data in this Report. We could be an emerging growth company for up to five years, although circumstances could cause us to lose that status earlier, including if the market value of our common stock held by non-affiliates exceeds $700.0 million as of any June 30 before that time or if we have total annual gross revenue of $1.1 billion or more during any fiscal year before that time, in which cases we would no longer be an emerging growth company as of the following June 30, or if we issue more than $1.0 billion in non-convertible debt during any three-year period before that time, in which case we would no longer be an emerging growth company immediately. Even after we no longer qualify as an emerging growth company, we may still qualify as a smaller reporting company which would allow us to take advantage of many of the same exemptions from disclosure requirements including not being required to comply with the auditor attestation requirements of Section 404 of the Sarbanes-Oxley Act and reduced disclosure obligations regarding executive compensation in this Report and our periodic reports and proxy statements. We cannot predict if investors will find our common stock less attractive because we may rely on these exemptions. If some investors find our common stock less attractive as a result, there may be a less active trading market for our common stock and our share price may be more volatile.
+22
+22
+Under the JOBS Act, emerging growth companies can also delay adopting new or revised accounting standards until such time as those standards apply to private companies. We have irrevocably elected not to avail ourselves of this exemption from new or revised accounting standards and, therefore, will be subject to the same new or revised accounting standards as other public companies that are not emerging growth companies.
+The Offering Price Has Been Arbitrarily Determined.
+The offering price of the shares being sold in the Offering was determined through negotiations with the Placement Agent. The price of the shares does not necessarily bear any relationship to established valuation criteria such as earnings, book value or assets. Rather, the price of the shares was derived as a result of our negotiations with the Placement Agent based upon various factors including prevailing market conditions, our future prospects and our capital structure. This price does not necessarily accurately reflect the actual value of the shares or the price that may be realized upon disposition of the shares.
+There is currently no market for our common stock and we cannot assure you that any market will ever develop. You may therefore be unable to re-sell shares of our common stock at times and prices that you believe are appropriate.
+Our common stock is not listed on a national securities exchange or any other exchange, or quoted on an over-the-counter market. Therefore, there is no trading market, active or otherwise, for our common stock and our common stock may never be included for trading on any stock exchange, automated quotation system or any over-the-counter market. Accordingly, our common stock is highly illiquid and you will likely experience difficulty in re-selling such shares at times and prices that you may desire and without depressing the market price for the shares or at all.
+Our common stock may not be eligible for listing or quotation on any securities exchange.
+We do not currently meet the initial quantitative listing standards of any national securities exchange or over-the-counter trading system. We cannot assure you that we will be able to meet the initial listing standards of any national securities exchange, or, if we do meet such initial listing standards, that we will be able to maintain any such listing. Further, the national securities exchanges are adopting so-called seasoning rules that will require that we meet certain requirements, including prescribed periods of time trading over-the-counter and minimum filings of periodic reports with the SEC, before we are eligible to apply for listing on such national securities exchanges. We intend to contact an authorized market maker for an over-the-counter quotation system for sponsorship of our common stock, but we cannot guarantee that such sponsorship will be approved and our common stock listed and quoted for sale. Even if our common stock is quoted for sale on an over-the-counter quotation system, buyers may be insufficient in numbers to allow for a robust market and it may prove impossible to sell your shares. In addition, an investor may find it difficult to obtain accurate quotations as to the market value of our common stock. In addition, if we fail to meet the criteria set forth in SEC regulations, various requirements would be imposed by law on broker-dealers who sell our securities to persons other than established customers and accredited investors. Consequently, such regulations may deter broker-dealers from recommending or selling our common stock, which may further affect its liquidity. This would also make it more difficult for us to raise additional capital.
+23
+23
+The future issuance of equity or of debt securities that are convertible into equity may dilute your investment and reduce your equity interest.
+We may choose to raise additional capital in the future, depending on market conditions, strategic considerations and operational requirements. To the extent that additional capital is raised through the issuance of shares or other securities convertible into shares, our stockholders will be diluted. Future issuances of our common stock or other equity securities, or the perception that such sales may occur, could adversely affect the prevailing market price of our common stock and impair our ability to raise capital through future offerings of equity or equity-linked securities. For example, we have agreed, at our expense, to prepare a registration statement, and to cause us to file a registration statement with the SEC registering the resale of shares of our common stock issued in connection with the Merger and the Offering. Once effective, the registration statement will permit the resale of these shares at any time for up to three years following the effective date of such registration statement. The resale of a substantial number of shares of our common stock in the public market could adversely affect the market price for our common stock and make it more difficult for you to sell shares of our common stock at times and prices that you feel are appropriate. Furthermore, we expect that, because there will be a large number of shares registered pursuant to a registration statement, selling stockholders will continue to offer shares covered by such registration statement for a significant period of time, the precise duration of which cannot be predicted. Accordingly, the adverse market and price pressures resulting from an offering pursuant to a registration statement may continue for an extended period of time and continued negative pressure on the market price of our common stock could have a material adverse effect on our ability to raise additional equity capital.
+The shares of common stock issued in the Merger, the Offering and the Insider Investment are restricted securities and, as such, may not be sold except in limited circumstances.
+None of the shares of common stock issued in the Merger, the Offering and the Insider Investment were registered under the Securities Act or registered or qualified under any state securities laws. The shares of common stock issued in the Merger, the Offering and the Insider Investment were sold and/or issued pursuant to exemptions contained in and under those laws. Accordingly, such shares of common are restricted securities as defined in Rule 144 under the Securities Act and must, therefore, be held indefinitely unless registered under applicable federal and state securities laws, or an exemption is available from the registration requirements of those laws. The certificates representing the shares of common stock to be issued in the Merger, the Offering and the Insider Investment will reflect their restricted status.
+24
+24
+We have agreed to register the shares of common stock issued in the Merger, the Offering and the Insider Investment. We cannot assure you, however, that the SEC will declare the registration statement effective, thereby enabling the shares of common stock issued in the Merger, the Offering and the Insider Investment to be freely tradable. In addition, Rule 144 under the Securities Act, which permits the resale, subject to various terms and conditions, of limited amounts of restricted securities after they have been held for six months will not immediately apply to our common stock because we were at one time designated as a shell company under SEC regulations. Pursuant to Rule 144(i), securities issued by a current or former shell company that otherwise meet the holding period and other requirements of Rule 144 nevertheless cannot be sold in reliance on Rule 144 until one year after the date on which the issuer filed current Form 10 information (as defined in Rule 144(i)) with the SEC reflecting that it ceased being a shell company, and provided that at the time of a proposed sale pursuant to Rule 144, the issuer has satisfied certain reporting requirements under the Exchange Act. We believe this requirement to file Form 10 information has been satisfied by the filing of this Report.
+Because, as a former shell company, the reporting requirements of Rule 144(i) will apply regardless of holding period, the restrictive legends on certificates for the shares of common stock issued in the Merger, the Offering and the Insider Investment cannot be removed except in connection with an actual sale that is subject to an effective registration statement under, or an applicable exemption from the registration requirements of, the Securities Act.
+If we are unable to timely register the shares of common stock issued to stockholders in the Merger, the Offering or the Insider Investment, then the ability to re-sell shares of such common stock will be delayed.
+We have agreed, at our expense, to prepare a registration statement, and to cause our Company to file a registration statement with the SEC registering the resale of shares of our common stock issued in connection with the Merger, the Offering and the Insider Investment. To the extent such registration statement is not declared effective by the SEC, or there are delays resulting from the SEC review process and comments raised by the SEC during that process, the shares of common stock proposed to be covered by such registration statement will not be eligible for resale until the registration statement is effective or an exemption from registration, such as Rule 144, becomes available. If the registration statement is not filed within 60 days of the closing of the Merger, then we may be subject to certain liquidated damages pursuant to the registration rights agreement entered into with the holders of our common stock issued in connection with the Merger, the Offering and the Insider Investment.
+Because the Merger was a reverse merger, the registration statement we file with respect to the shares of common stock received by investors in the Merger, the Offering and the Insider Investment may be subject to heightened scrutiny by the SEC.
+Certain SEC rules are more restrictive when applied to reverse merger companies, such as the ability of stockholders to re-sell their shares of common stock pursuant to Rule 144, and the SEC may subject the registration statement we file with respect to the shares of common stock received by investors in the Merger, the Offering and the Insider Investment to heightened scrutiny. In addition, securities analysts of major brokerage firms may not provide coverage of our capital stock or business. Because we became a public reporting operating company through a reverse merger, there is no incentive to brokerage firms to recommend the purchase of our common stock. We cannot assure you that brokerage firms will want to provide analyst coverage of our capital stock or business in the future.
+25
+25
+Because we do not intend to pay dividends, stockholders will benefit from an investment in our common stock only if it appreciates in value.
+We have never declared or paid any cash dividends on our common stock. For the foreseeable future, it is expected that earnings, if any, generated from our operations will be used to finance the growth of our business, and that no dividends will be paid to holders of the Companys common stock. As a result, the success of an investment in our common stock will depend upon any future appreciation in its value. There is no guarantee that our common stock will appreciate in value.
+Our management will have broad discretion over the use of the proceeds we receive in the Offering and might not apply the proceeds in ways that increase the value of your investment.
+Our management will have broad discretion to use the net offering proceeds, and you will be relying on the judgment of our management regarding the application of these proceeds. Our application of the net offering proceeds may not increase the value of your investment. We expect to use a portion of the net proceeds from the Offering towards product development and other general corporate purposes, including working capital and capital expenditures. We have not allocated the net offering proceeds for any specific purposes. Our management might not be able to yield a significant return, if any, on any investment of these net offering proceeds.
+Certain provisions of our Certificate of Incorporation and Delaware law make it more difficult for a third party to acquire us and make a takeover more difficult to complete, even if such a transaction were in the stockholders interest.
+Our Certificate of Incorporation and the Delaware General Corporation Law contain provisions that may have the effect of making it more difficult or delaying attempts by others to obtain control of our Company, even when these attempts may be in the best interests of our stockholders. We also are subject to the anti-takeover provisions of the Delaware General Corporation Law, which prohibits us from engaging in a business combination with an interested stockholder unless the business combination is approved in a prescribed manner and prohibits the voting of shares held by persons acquiring certain numbers of shares without obtaining requisite approval. The statutes have the effect of making it more difficult to effect a change in control of a Delaware company.
+26
+26
+MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+You should read the following discussion and analysis of our financial condition and results of operations together with our consolidated financial statements and the related notes and other financial information included in this Report. Some of the information contained in this discussion and analysis or set forth elsewhere in this Report, including information with respect to our plans and strategy for our business, includes forward-looking statements that involve risks and uncertainties as described under the heading Forward-Looking Statements elsewhere in this Report. You should review the disclosure under the heading Risk Factors in this Report for a discussion of important factors that could cause actual results to differ materially from the results described in or implied by the forward-looking statements contained in the following discussion and analysis.
+On April 27, 2018, our wholly-owned subsidiary, Lola One Acquisition Sub, Inc., a corporation formed in the State of Delaware, or the Acquisition Sub, merged with and into Amesite OpCo. Pursuant to this transaction, Amesite OpCo was the surviving corporation and became our wholly-owned subsidiary. All of the outstanding capital stock of Amesite OpCo was converted into shares of our common stock.
+As a result of the Merger, we acquired the operations of Amesite OpCo and will continue the existing operations of Amesite OpCo as a company subject to the Exchange Act periodic reporting requirements under the name Amesite Inc. The Merger was treated as a reverse recapitalization for our Company for financial reporting purposes. Amesite OpCo is considered the acquirer for accounting purposes, and our historical financial statements before the Merger will be replaced with the historical financial statements of Amesite OpCo before the Merger in future filings with the SEC.
+As the result of the Merger and the change in our business and operations, a discussion of the past financial results of Lola One Acquisition Corporation is not pertinent, and under applicable accounting principles the historical financial results of Amesite OpCo, the accounting acquirer, prior to the Merger are considered the historical financial results of our Company.
+The following discussion highlights our results of operations and the principal factors that have affected our financial condition as well as our liquidity and capital resources for the periods described, and provides information that management believes is relevant for an assessment and understanding of the statements of financial condition and results of operations presented herein. The following discussion and analysis are based on Amesite OpCos audited financial statements contained in this Report, which we have prepared in accordance with United States generally accepted accounting principles. You should read the discussion and analysis together with such financial statements and the related notes thereto.
+Basis of Presentation
+The audited financial statements of Amesite OpCo for the period from November 14, 2017 (inception) to December 31, 2017, contained herein, include a summary of our significant accounting policies and should be read in conjunction with the discussion below.
+27
+27
+Operating Overview
+Amesite OpCo was incorporated in November 2017, and has no operating history in offering online courses. Amesite OpCo plans to use machine learning to provide a novel, mass customized experience to learners and is creating a cloud-based platform for college and university courses to be delivered to learners online and in hybrid online / on campus formats.
+Recent Developments
+Reverse Merger
+On April 27, 2018, pursuant to the Merger Agreement, Acquisition Sub merged with and into Amesite OpCo, with Amesite OpCo remaining as the surviving entity and a wholly-owned operating subsidiary of our Company. The Merger was effective as of April 27, 2018 at 12:01 a.m. Eastern Time.
+At the Effective Time, the legal existence of Merger Sub ceased. At the Effective Time, each outstanding share of Amesite OpCos capital stock issued and outstanding immediately prior to the closing of the Merger will be converted into 1.4583333 shares of our common stock. As a result, an aggregate of 5,833,333 shares of our common stock were issued to the holders of Amesite OpCos capital stock after adjustments due to rounding for fractional shares. In addition, pursuant to the Merger Agreement equity awards to purchase 883,334 shares of Amesite OpCos common stock issued and outstanding immediately prior to the closing of the Merger were assumed and converted into equity awards to purchase 1,288,195 shares of our common stock. As discussed in Note 1 in the accompanying financial statements, all per share amounts and shares outstanding for all periods give retroactive effect to reflect the reverse merger.
+The Merger is being accounted for as a reverse recapitalization. Amesite OpCo is the acquirer for financial reporting purposes, and Lola One Acquisition Corporation is the acquired company under the acquisition method of accounting in accordance with FASB ASC Topic 805, Business Combination. Consequently, the assets, liabilities and operations that will be reflected in the historical financial statements prior to the Merger will be those of Lola One Acquisition Corporation and will be recorded at the historical cost basis of Lola One Acquisition Corporation, and the consolidated financial statements after completion of the Merger will include the assets, liabilities and results of operations of Amesite OpCo up to the day prior to the closing of the Merger and the assets, liabilities and results of operations of the combined company from and after the closing date of the Merger.
+Private Placement and Insider Investment
+Following the Effective Time of the Merger, we held a closing of the Offering in which we sold to accredited investors approximately $3.19 million of our shares of common stock, or 2,126,652 shares, at a price of $1.50 per share. Also, we granted the investors in the Offering registration rights requiring us to register those shares of common stock for public resale, as described in more detail below. The then existing stockholders of Amesite OpCo who agreed to become parties to the registration rights agreement also became entitled to such registration rights. The closing of the Offering occurred on April 27, 2018.
+Concurrent with the closing of the Offering, Amesite OpCo investors purchased 895,834 shares of our common stock at a price of $1.20 per share for aggregate gross proceeds of approximately $1,075,000 in the Insider Investment. Such investors were also granted registration rights, subject to a twenty-four (24) month lock-up period.
+28
+28
+Critical Accounting Policies and Significant Judgments and Estimates
+Basis of Accounting
+The financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America (GAAP). The preparation of the financial statements in conformity with GAAP requires management to make estimates and assumptions that affect amounts reported in the financial statements. Actual results could differ from these estimates.
+Recent accounting pronouncements
+None.
+Results of Operations
+Period Ended December 31, 2017
+Amesite OpCo was incorporated in November 2017.
+Revenues - We are a development stage enterprise and have not yet generated any revenues.
+Expenses  Operating expenses for the period from inception to December 31, 2017 were $31,465.
+Liquidity and Capital Resources
+Overview
+Our Company is not profitable, and we cannot provide any assurance that we will ever be profitable. As of December 31, 2017, we have a net loss of $31,465. We believe that our cash and cash equivalents in addition to the proceeds of the closing of the Offering should be sufficient to satisfy our anticipated operating and investing needs through the 2018 calendar year. See Funding Requirements below for additional information on our future capital needs.
+Cash Flows
+As of December 31, 2017, we did not have cash or cash equivalents. The following table shows a summary of our cash flows for the period from inception to December 31, 2017.
+Period from Inception to December 31, (in thousands) 2017 Net cash used in operating activities $(16,228) Net cash used in investing activities (12,900) Net cash provided by financing activities 29,128 Increase (decrease) in cash and cash equivalents $-
+Period from Inception to December 31,
+(in thousands) 2017
+2017
+Net cash used in operating activities $(16,228)
+$
+(16,228
+)
+Net cash used in investing activities (12,900)
+(12,900
+)
+Net cash provided by financing activities 29,128
+29,128
+Increase (decrease) in cash and cash equivalents $-
+$
+-
+29
+29
+Operating activities
+Amesite OpCo was incorporated in November 2017 and has no operating history.
+Investing activities
+Amesite OpCo was incorporated in November 2017 and has no investing history.
+Financing activities
+Net cash provided by financing activities was $29,128 for the period from inception to December 31, 2017.
+Funding requirements
+We expect that our primary uses of capital will continue to be the development of our artificial intelligence software, course offerings and for general and working capital. We believe that the estimated net proceeds from the closing of the Offering will be sufficient to meet our anticipated cash requirements through the 2018 calendar year. However, we may require additional capital for the further development of our products.
+To the extent that we raise additional capital through future equity financings, the ownership interest of our stockholders will be diluted, and the terms of these securities may include liquidation or other preferences that adversely affect the rights of our existing common stockholders. If we raise additional funds through the issuance of debt securities, these securities could contain covenants that would restrict our operations. We cannot assure you that such additional financing, if available, can be obtained on terms acceptable to us. If we are unable to obtain such additional financing, we would need to reevaluate our future operating plans.
+Our forecast of the period of time through which our financial resources will be adequate to support our operations is a forward-looking statement that involves risks and uncertainties, and actual results could vary materially as a result of a number of factors. We have based this estimate on assumptions that may prove to be wrong, and we could utilize our available capital resources sooner than we currently expect. Our future capital requirements are difficult to forecast and will depend on many factors, including:
+the timing of our costs incurred in connection with the launch of new programs and the delay in receiving revenue from these new programs, which delay may last for several years;
+
+the timing of our costs incurred in connection with the launch of new programs and the delay in receiving revenue from these new programs, which delay may last for several years;
+seasonal variation driven by the schedules for our customers programs, which may vary from year to year;
+
+seasonal variation driven by the schedules for our customers programs, which may vary from year to year;
+changes in the student enrollment and retention levels in our customers programs from one term to the next;
+
+changes in the student enrollment and retention levels in our customers programs from one term to the next;
+changes in our customers tuition rates;
+
+changes in our customers tuition rates;
+the timing and amount of our program marketing and sales expenses;
+
+the timing and amount of our program marketing and sales expenses;
+changes in the prospects of the economy generally, which could alter current or prospective customers or students spending priorities, or could increase the time it takes us to launch new customer programs.
+
+changes in the prospects of the economy generally, which could alter current or prospective customers or students spending priorities, or could increase the time it takes us to launch new customer programs.
+Our operating results may fall below the expectations of market analysts and investors in some future periods, which could cause the market price of our common stock to decline substantially.
+
+Our operating results may fall below the expectations of market analysts and investors in some future periods, which could cause the market price of our common stock to decline substantially.
+Please see the section titled Risk Factors elsewhere in this Report for additional risks associated with our substantial capital requirements.
+Until such time, if ever, we generate product revenue, we expect to finance our cash needs through a combination of public or private equity offerings, debt financings and research collaboration and license agreements. We may be unable to raise capital or enter into such other arrangements when needed or on favorable terms or at all. Our failure to raise capital or enter into such other arrangements as and when needed would have a negative impact on our financial condition and our ability to develop our therapeutic candidates.
+30
+30
+Contractual Obligations and Commitments
+The following is a summary of our significant contractual obligations as of December 31, 2017 (in thousands).
+Payments Due by Period Contractual Obligations Total Less than 1 Year 1-3 Years 3-5 Years After 5 Years Operating lease obligations (1) $38,800 $38,800 $- - Total $38,800 $38,800 $ - - $
+Payments Due by Period
+Contractual Obligations Total Less than 1 Year 1-3 Years 3-5 Years After 5 Years
+Total
+Less than 1 Year
+1-3 Years
+3-5 Years
+After 5 Years
+Operating lease obligations (1) $38,800 $38,800 $- -
+$
+38,800
+$
+38,800
+$
+-
+-
+Total $38,800 $38,800 $ - - $
+$
+38,800
+$
+38,800
+$
+-
+-
+$
+(1) Future minimum lease payments under operating lease for our current office space in Ann Arbor, Michigan that expires November 12, 2018.
+Future minimum lease payments under operating lease for our current office space in Ann Arbor, Michigan that expires November 12, 2018.
+We enter into agreements in the normal course of business with contractors and vendors, and other services and products for operating purposes, which are cancelable at any time by us, generally upon 30 days prior written notice.
+Off-balance Sheet Arrangements
+We did not have during the periods presented, and we do not currently have, any off-balance sheet arrangements, as defined in the rules and regulations of the SEC.
+JOBS Act
+In April 2012, the JOBS Act was enacted by the federal government. Section 107 of the JOBS Act provides that an emerging growth company can take advantage of the extended transition period for complying with new or revised accounting standards. Thus, an emerging growth company can delay the adoption of certain accounting standards until those standards would otherwise apply to private companies. We have elected to avail ourselves of this extended transition period.
+In addition, as an emerging growth company, we will not be required to provide an auditors attestation report on our internal control over financial reporting in future annual reports on Form 10-K as otherwise required by Section 404(b) of the Sarbanes-Oxley Act.
+Related Party Transactions
+For a description of our related party transactions, see Certain Relationships and Related Party Transactions.
+31
+31
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+The following table sets forth certain information relating to the beneficial ownership of our common stock as of April 27, 2018, by:
+each person, or group of affiliated persons, known by us to beneficially own more than five percent of the outstanding shares of our common stock;
+
+each person, or group of affiliated persons, known by us to beneficially own more than five percent of the outstanding shares of our common stock;
+each of our directors;
+
+each of our directors;
+each of our named executive officers; and
+
+each of our named executive officers; and
+all directors and executive officers as a group.
+
+all directors and executive officers as a group.
+The number of shares beneficially owned by each entity, person, director or executive officer is determined in accordance with the rules of the SEC, and the information is not necessarily indicative of beneficial ownership for any other purpose. Under such rules, beneficial ownership includes any shares over which the individual has sole or shared voting power or dispositive power as well as any shares that the individual has the right to acquire within 60 days of April 27, 2018 through the exercise of any stock option, warrants or other rights. Except as otherwise indicated, and subject to applicable community property laws, the persons named in the table have sole voting and dispositive power with respect to all shares of common stock held by that person.
+The percentage of shares beneficially owned is computed on the basis of 11,955,819 shares of our common stock outstanding as of April 27, 2018, after giving effect to (i) the Merger, (ii) the issuance of 2,126,652 shares of our common stock at the closing of the Offering and (iii) the issuance of 895,834 shares of our common stock in connection with the Insider Investment. One or more persons in the table below may purchase shares of common stock in the Offering or decline to do so, resulting in changes to the percentage of common stock that they beneficially own immediately following the Offering. In addition, other third parties not listed in the table below may acquire shares of common stock that may result in beneficial ownership of more than 5% of the outstanding shares of common stock prior to or after the Offering.
+Shares of common stock that a person has the right to acquire within 60 days of April 27, 2018, are deemed outstanding for purposes of computing the percentage ownership of the person holding such rights, but are not deemed outstanding for purposes of computing the percentage ownership of any other person, except with respect to the percentage ownership of all directors and executive officers as a group. Unless otherwise noted below, the address of the persons listed on the table is c/o Amesite Inc., 205 East Washington Street, Suite B, Ann Arbor, Michigan 48104.
+32
+32
+Beneficial Owner Greater than 5% Stockholders Shares of Common Stock Beneficially Owned (#) (1) Percentage of Common Stock Beneficially Owned (%) (1) Mark Tompkins Apt. 1,Via Guidino 23, 6900 Lugano Paradiso, Switzerland 2,950,668 24.7% George A. Parmer Residential Warranty Corp. 5300 Derry Street, Harrisburg, PA 17111 666,666 5.6% Directors and Named Executive Officers Ann Marie Sastry, Ph.D. 6,116,663 51.2% J. Michael Losh 41,667 * Edward H. Frank, Ph.D. 41,667 * Richard Ogawa(2) 66,667 * Anthony M. Barkett 50,000 * All directors and executive officers as a group (6 persons 6,316,664 52.8%
+Greater than 5% Stockholders
+Shares of Common Stock Beneficially Owned (#) (1)
+Percentage of Common Stock Beneficially Owned (%) (1)
+Mark Tompkins Apt. 1,Via Guidino 23, 6900 Lugano Paradiso, Switzerland 2,950,668 24.7%
+2,950,668
+24.7
+%
+George A. Parmer Residential Warranty Corp. 5300 Derry Street, Harrisburg, PA 17111 666,666 5.6%
+666,666
+5.6
+%
+Directors and Named Executive Officers
+Ann Marie Sastry, Ph.D. 6,116,663 51.2%
+6,116,663
+51.2
+%
+J. Michael Losh 41,667 *
+41,667
+*
+Edward H. Frank, Ph.D. 41,667 *
+41,667
+*
+Richard Ogawa(2) 66,667 *
+66,667
+*
+Anthony M. Barkett 50,000 *
+50,000
+*
+All directors and executive officers as a group (6 persons 6,316,664 52.8%
+6,316,664
+52.8
+%
+*Indicates beneficial ownership of less than one percent of the outstanding shares of common stock.
+Indicates beneficial ownership of less than one percent of the outstanding shares of common stock.
+(1)Includes 2,126,652 shares of common stock issued upon the consummation of the closing of the Offering and 895,834 shares of our common stock in connection with the Insider Investment.
+Includes 2,126,652 shares of common stock issued upon the consummation of the closing of the Offering and 895,834 shares of our common stock in connection with the Insider Investment.
+.
+(2)Includes 25,000 shares of common stock held of record by OGAWA Professional Corporation. Mr. Ogawa is the beneficial owner of OGAWA Professional Corporation and has voting and investment power over the securities held by OGAWA Professional Corporation.
+Includes 25,000 shares of common stock held of record by OGAWA Professional Corporation. Mr. Ogawa is the beneficial owner of OGAWA Professional Corporation and has voting and investment power over the securities held by OGAWA Professional Corporation.
+DIRECTORS, EXECUTIVE OFFICERS AND CONTROL PERSONS
+At the Effective Time of the Merger, each of J. Michael Losh, Edward H. Frank, Ph.D., Richard Ogawa, and Anthony M. Barkett, was appointed to our board of directors, who constitute our board of directors as of the date of this Report. Our executive management team was also reconstituted immediately following the Effective Time by the appointment of Ann Marie Sastry, Ph.D., as our Chief Executive Officer, Bernie Chong, as our Controller, and the resignation of Mr. Jacobs and Mr. Tompkins, the directors of Lola One Acquisition Corporation, from all of their positions as directors and officers. The following table sets forth the name and positions of each of our directors and executive officers after the Merger.
+Directors and Executive Officers
+Below are the names of and certain information regarding our current executive officers and directors who were appointed effective as of the closing of the Merger:
+NAME POSITION AGE Ann Marie Sastry, Ph.D. (4) Chief Executive Officer, Director 50 Bernie Chong Controller 47 J. Michael Losh (1) (3) Director 71 Edward H. Frank, Ph.D. (2) (3) Director 61 Richard Ogawa (2) (3) Director 55 Anthony M. Barkett (1) (2) (3) Director 52
+POSITION
+AGE
+Ann Marie Sastry, Ph.D. (4) Chief Executive Officer, Director 50
+Chief Executive Officer, Director
+50
+Bernie Chong Controller 47
+Controller
+47
+J. Michael Losh (1) (3) Director 71
+Director
+71
+Edward H. Frank, Ph.D. (2) (3) Director 61
+Director
+61
+Richard Ogawa (2) (3) Director 55
+Director
+55
+Anthony M. Barkett (1) (2) (3) Director 52
+Director
+52
+(1)Member of the audit committee.
+(1)
+Member of the audit committee.
+33
+33
+(2)Member of the compensation committee.
+(2)
+Member of the compensation committee.
+(3)The entire board of directors serves as the nominating and corporate governance committee.
+(3)
+The entire board of directors serves as the nominating and corporate governance committee.
+(4)Chairman of the board of directors.
+(4)
+Chairman of the board of directors.
+Executive Officers
+Ann Marie Sastry, Ph.D., Chief Executive Officer and Chairman of the board of directors
+Dr. Sastry has served as Amesite OpCos Chief Executive Officer since its incorporation in November 2017. Dr. Sastry will also serve as Amesite OpCos Chief Technology Officer, and other management roles. From April 2008 to October 2015, Dr. Sastry founded and served as the Chief Executive Officer of Sakti3, a solid-state battery company that was sold to Dyson LTD in 2015 for $90 million. From April 1995 until June 2012, Dr. Sastry was a professor of engineering at the University of Michigan where she was tenured and named Arthur F. Thurnau Professor of Mechanical, Biomedical, and Materials Science and Engineering, which is the University of Michigans highest teaching honor. Dr. Sastry graduated from the University of Delaware in 1989 with multiple awards and honors and a B.S. degree in mechanical engineering. Dr. Sastry later received a PhD degree in Mechanical Engineering from Cornell University.
+We believe that Dr. Sastrys experience working successful companies and her experience in education qualifies her to serve on our board of directors.
+Bernie Chong, Chartered Accountant, Controller
+Mr. Chong has served as the Controller of Amesite OpCo since March 2018. Mr. Chong serves as Vice President of Finance and Administration at mCube Inc, a semiconductor company, which is a ventured backed company by Kleiner Perkins Caufield & Byers. He is responsible for strategic financial planning including M&A, budget management, risk management and the day to day financial operations of the company. He is also responsible for investor relations. Mr. Chong serves as officer for the boards of mCubes worldwide subsidiary companies. Prior to joining mCube, Mr. Chong held several controllership positions in high-tech and bio-tech companies where he led financial reporting, developed internal control framework and oversaw the implementation of enterprise resource planning systems that enhanced the companies business and financial operations. Mr. Chong began his career at Deloitte, an international public accounting and consulting firm. Mr. Chong has over twenty years of experience in financial and accounting aspects of high technology companies. He received a BSc in Accountancy from the Nanyang Technological University of Singapore in 1994 and is a Chartered Accountant.
+34
+34
+Non-Employee Directors
+J. Michael Losh, Director
+Mr. Losh has served as a member of Amesite OpCos board of directors since February 2018. Mr. Losh served as the Chief Financial Officer at Cardinal Health from July 2004 to May 2005. Mr. Losh was with General Motors from 1964 to 2000. He served as the Chief Financial Officer and Executive Vice President of General Motors Corp., the worlds largest vehicle manufacturer, from July 1994 to August 2000. He is the Chairman of the Board of Masco Corp. (2015-present), and Director at Aon PLC (2003-present), HB Fuller Co (2001-present), and Prologis, Inc. (2012-present). Mr. Losh served as Director of AMB Corp., Cardinal Health Inc., Care Fusion Inc., Electronic Data Systems Corp., Delphi Automotive Systems Corp., Hughes Electronics, Quaker Oats Company, and TRW Automotive Inc. He served as Chairman of the boards of GMAC and Metaldyne Corp. Mr. Losh holds a B.S. in Mechanical Engineering from Kettering University and an M.B.A. from Harvard University. We believe that Mr. Loshs public company experience qualifies him to serve on our board of directors.
+Dr. Edward H. Frank, Ph.D., Director
+Dr. Edward H. Frank is presently co-founder and CEO of Brilliant Lime, Inc., a very early-stage technology development startup. Previously, he was co-founder and CEO of Cloud Parity Inc., a voice-of-the-customer startup in the SF Bay Area, founded in late 2013. From 2009 through 2013, he was Vice President of Macintosh Hardware Systems Engineering at Apple, Inc. where he led the development of four generations of Macintosh laptop and desktop computers. Before joining Apple, he was Corporate Vice President of Research and Development at Broadcom, where he was responsible for Broadcoms overall engineering execution and played a key role in corporate business and IP strategy. Prior to becoming Corporate VP of R&D, Frank co-founded and led the engineering group for Broadcoms Wireless LAN business, which is now one of Broadcoms largest business units. Frank joined Broadcom in May 1999 following its acquisition of Epigram, Inc., where he was the founding CEO and Executive Vice President. From 1993 to 1996, he was a co-founder and Vice President of Engineering of NeTpower, Inc., a computer workstation manufacturer. From 1988 to 1993, Frank was a Distinguished Engineer at Sun Microsystems, Inc., where he co-architected several generations of Suns SPARCstations and was a principal member of Suns Green Project, which developed the precursor to the Java cross-platform web programming language. Dr. Frank holds over 50 issued patents. He presently serves on the Boards of Directors of Analog Devices (ADI), Cavium (CAVM), Quantenna (QTNA), and eASIC, and is an advisor to several Bay Area Venture capital firms and startups. Dr. Frank holds BSEE and MSEE degrees from Stanford University. He received a Ph.D. in computer science from Carnegie Mellon University, where he was a Hertz Foundation Fellow. In 2018, he was elected to the National Academy of Engineering for his contributions to the development and commercialization of wireless systems. Frank has been a Trustee of Carnegie Mellon University since 2000 and is currently a Vice-Chairman of its Board of Trustees. Dr. Frank is also the Executive Director (pro bono) of Metallicas All Within My Hands Foundation, and is the founder and vintner of Compass Vineyards, in Napa California, a boutique producer of 100% estate grown Cabernet Sauvignon. We believe that Dr. Franks public company experience qualifies him to serve on our board of directors.
+35
+35
+Richard Ogawa, Director
+Mr. Ogawa has served as a member of Amesite OpCos board of directors since February 2018. Mr. Richard T. Ogawa has been General Counsel at Inphi Corporation, responsible for overseeing legal matters as well as corporate, intellectual property, and government affairs. Mr. Ogawa is a Registered United States Patent Attorney and a Member of the California State Bar with more than 25 years of experience specializing in technology companies. Prior to Inphi, he was a top Partner at Townsend and Townsend, a law firm focused on intellectual property. He is the founder and owner of Ogawa Professional Corporation, his own law firm, focusing on ventured back startup companies. He is General Counsel for Soraa Laser Diode, Inc., a venture funded company by Khosla Ventures, and is General Counsel for MCube, Inc. a venture funded company by Kleiner, Perkins, Caufield & Byers. He has also held a variety of engineering and management positions at NEC Electronics. He is a Charter Member of the Indus Entrepreneur Group (TIE) and had been a Board Member of the Asian Law Alliance, American Intellectual Property Law Association, and others. Mr. Ogawa also served as a Partner Member for Technology Group 2800 of the United States Patent and Trademark Office. He received a B.S. in Chemical Engineering from the University of California, Davis in 1984, and a J.D. from Mc. George School of Law, University of Pacific in 1991. We believe that Mr. Ogawas experience as an attorney and his patent expertise qualifies him to serve on our board of directors.
+Anthony M. Barkett, Director
+Mr. Barkett has served as a member of Amesite OpCos board of directors since February 2018. Mr. Barkett is a California based real estate developer. Mr. Barkett holds Bachelor of Arts degrees in Economics and Political Science from the University of California at Los Angeles, as well as a Juris Doctor degree from the University of the Pacific McGeorge School of Law. Mr. Barkett is a member of the Board of Directors of the Downtown Stockton Alliance, a private economic development association located in Stockton, California for over fifteen years. In 2017, Mr. Barkett founded and is President of Ready to Work, which is a non-profit organization. In 2013, Mr. Barkett was appointed by Governor Jerry Brown to the California Citizens Compensation Commission, a State commission that sets compensation for the legislature. For the past twenty (20) years, Mr. Barkett has served as a political consultant for the Stockton East Water District. Over the past twenty (20) years, Mr. Barkett has been actively involved in real estate development, agriculture, solar energy, construction, leasing, and financing. We believe that Mr. Barketts non-profit experience qualifies him to serve on our board of directors.
+Board Composition
+Effective as of the closing of the Merger, our board of directors will consist of five members. Our amended and restated certificate of incorporation will provide that the number of directors may be changed only by resolution of the board of directors. All directors will hold office until their successors have been elected and qualified or appointed or the earlier of their death, resignation or removal. Executive officers are appointed and serve at the discretion of the board of directors.
+36
+36
+We will have a staggered board following the closing of the Merger, at which time our directors will be divided into three classes, designated as Class I, consisting of two directors, Class II, consisting of one director, and Class III, consisting of two directors, with no more than one class eligible for re-election at any annual stockholder meeting. The two Class I directors will initially be elected for a term expiring on the date of our 2018 annual stockholder meeting and thereafter will be elected to serve terms of three years. The Class II director will initially be elected for a term expiring on the date of our 2019 annual stockholder meeting and thereafter will be elected to serve terms of three years. The two Class III directors will initially be elected for a term expiring on the date of our 2020 annual stockholder meeting. The division of our board of directors into three classes with staggered three year terms after the initial term may delay or prevent a change of our management or a change in control.
+The following table sets forth the names and classes of our directors following the closing of the Merger:
+Class I directors Class II directors Class III directors J. Michael Losh Richard Ogawa Ann Marie Sastry Anthony Barkett Dr. Edward H. Frank
+Class II directors
+Class III directors
+J. Michael Losh Richard Ogawa Ann Marie Sastry Anthony Barkett Dr. Edward H. Frank
+Richard Ogawa
+Ann Marie Sastry
+Anthony Barkett Dr. Edward H. Frank
+Dr. Edward H. Frank
+Director Independence
+Our securities are not listed on a national securities exchange or on any inter-dealer quotation system, which has a requirement that a majority of directors be independent. We evaluate independence by the standards for director independence set forth in the NASDAQ Marketplace Rules and the rules and regulations of the SEC. Under such rules, our board of directors has determined that other than Dr. Sastry and Mr. Ogawa, the other members of the board of directors are independent directors. In making such independence determination, our board of directors considered the relationships that each non-employee director has with us and all other facts and circumstances that our board of directors deemed relevant in determining their independence, including the beneficial ownership of our capital stock by each non-employee director. In considering the independence of the directors listed above, our board of directors considered the association of our directors with the holders of more than 5% of our common stock. We expect to transition the composition and functioning of our board of directors and each of our committees to comply with all applicable requirements of the NASDAQ Stock Market and the rules and regulations of the SEC within applicable transition periods. There are no family relationships among any of our directors or executive officers.
+Board Diversity
+Our nominating and corporate governance committee will be responsible for reviewing with the board of directors, on an annual basis, the appropriate characteristics, skills and experience required for the board of directors as a whole and its individual members. In evaluating the suitability of individual candidates (both new candidates and current members), the nominating and corporate governance committee, in recommending candidates for election, and the board of directors, in approving (and, in the case of vacancies, appointing) such candidates, will consider many factors, including the following:
+diversity of personal and professional background, perspective and experience;
+
+diversity of personal and professional background, perspective and experience;
+37
+37
+personal and professional integrity, ethics and values;
+
+personal and professional integrity, ethics and values;
+experience in corporate management, operations or finance, such as serving as an officer or former officer of a publicly held company, and a general understanding of marketing, finance and other elements relevant to the success of a publicly-traded company in todays business environment;
+
+experience in corporate management, operations or finance, such as serving as an officer or former officer of a publicly held company, and a general understanding of marketing, finance and other elements relevant to the success of a publicly-traded company in todays business environment;
+experience relevant to our industry and with relevant social policy concerns;
+
+experience relevant to our industry and with relevant social policy concerns;
+experience as a board member or executive officer of another publicly held company;
+
+experience as a board member or executive officer of another publicly held company;
+relevant academic expertise or other proficiency in an area of our operations;
+
+relevant academic expertise or other proficiency in an area of our operations;
+practical and mature business judgment, including ability to make independent analytical inquiries;
+
+practical and mature business judgment, including ability to make independent analytical inquiries;
+promotion of a diversity of business or career experience relevant to our success; and
+
+promotion of a diversity of business or career experience relevant to our success; and
+any other relevant qualifications, attributes or skills.
+
+any other relevant qualifications, attributes or skills.
+Currently, our board of directors evaluates each individual in the context of the board of directors as a whole, with the objective of assembling a group that can best maximize the success of the business and represent stockholder interests through the exercise of sound judgment using its diversity of experience in these various areas.
+Board Committees
+Our board of directors has established the committees described below and may establish others from time to time. The charters for each of our committees will be available on our website following the final closing of the Merger.
+Audit committee
+Our audit committee will be comprised of Anthony M. Barkett, Dr. Edward H. Frank and J. Michael Losh who will serve as the chairperson of the committee. We expect that our board of directors will determine that each member of the audit committee is independent for audit committee purposes as that term is defined in the applicable rules of the SEC and The NASDAQ Capital Market. We also expect that our board of directors will designate J. Michael Losh as an audit committee financial expert, as defined under the applicable rules of the SEC. The audit committees responsibilities will include:
+appointing, approving the compensation of and assessing the independence of our independent registered public accounting firm;
+
+appointing, approving the compensation of and assessing the independence of our independent registered public accounting firm;
+pre-approving auditing and permissible non-audit services, and the terms of such services, to be provided by our independent registered public accounting firm;
+
+pre-approving auditing and permissible non-audit services, and the terms of such services, to be provided by our independent registered public accounting firm;
+38
+38
+reviewing annually a report by the independent registered public accounting firm regarding the independent registered public accounting firms internal quality control procedures and various issues relating thereto;
+
+reviewing annually a report by the independent registered public accounting firm regarding the independent registered public accounting firms internal quality control procedures and various issues relating thereto;
+reviewing and discussing with management and the independent registered public accounting firm our annual and quarterly financial statements and related disclosures;
+
+reviewing and discussing with management and the independent registered public accounting firm our annual and quarterly financial statements and related disclosures;
+oversight and review of the adequacy of our internal control over financial reporting with both management and the independent registered public accounting firm;
+
+oversight and review of the adequacy of our internal control over financial reporting with both management and the independent registered public accounting firm;
+oversight of the creation of policies and procedures for the receipt and retention of accounting related complaints and concerns, including a confidential, anonymous mechanism for the submission of concerns by employees;
+
+oversight of the creation of policies and procedures for the receipt and retention of accounting related complaints and concerns, including a confidential, anonymous mechanism for the submission of concerns by employees;
+periodically reviewing legal compliance matters, including any securities trading policies, periodically reviewing significant accounting and other financial risks or exposures to our Company and reviewing and, if appropriate, approving all transactions between our company and any related party (as described in Item 404 of Regulation S-K promulgated under the Exchange Act); and
+
+periodically reviewing legal compliance matters, including any securities trading policies, periodically reviewing significant accounting and other financial risks or exposures to our Company and reviewing and, if appropriate, approving all transactions between our company and any related party (as described in Item 404 of Regulation S-K promulgated under the Exchange Act); and
+preparing the audit committee report required by SEC rules to be included in our annual proxy statement.
+
+preparing the audit committee report required by SEC rules to be included in our annual proxy statement.
+The audit committee will have the power to investigate any matter brought to its attention within the scope of its duties and will have the authority to retain counsel and advisors to fulfill its responsibilities and duties.
+Compensation committee
+Our compensation committee will be comprised of Anthony M. Barkett, Dr. Edward H. Frank, and Richard T. Ogawa will serve as the chairperson of the committee. We expect that our board of directors will determine that each member of the compensation committee other than Richard T. Ogawa is an independent director for compensation committee purposes as that term is defined in the applicable rules of the NASDAQ Capital Market and is a non-employee director within the meaning of Rule 16b-3(d)(3) promulgated under the Exchange Act. The compensation committees responsibilities will include, among other things:
+reviewing and approving corporate goals and objectives relevant to the compensation of the chief executive officer;
+
+reviewing and approving corporate goals and objectives relevant to the compensation of the chief executive officer;
+evaluating the performance of our chief executive officer in light of such corporate goals and objectives and approving the compensation of the chief executive officer;
+
+evaluating the performance of our chief executive officer in light of such corporate goals and objectives and approving the compensation of the chief executive officer;
+reviewing and approving the compensation of our other executive officers;
+
+reviewing and approving the compensation of our other executive officers;
+39
+39
+reviewing the compensation, welfare, benefit and pension plans and similar plans;
+
+reviewing the compensation, welfare, benefit and pension plans and similar plans;
+reviewing and making recommendations to the board of directors with respect to director compensation; and
+
+reviewing and making recommendations to the board of directors with respect to director compensation; and
+preparing for inclusion in the proxy statement the report, if any, of the compensation committee required by the SEC.
+
+preparing for inclusion in the proxy statement the report, if any, of the compensation committee required by the SEC.
+The compensation committee will have the power to investigate any matter brought to its attention within the scope of its duties and will have the authority to retain counsel and advisors to fulfill its responsibilities and duties.
+Nominating and corporate governance committee
+We will not have a designated nominating and corporate governance committee. The entire board of directors will be responsible for:
+developing criteria for membership on the board of directors and committees;
+
+developing criteria for membership on the board of directors and committees;
+identifying individuals qualified to become members of the board of directors;
+
+identifying individuals qualified to become members of the board of directors;
+recommending persons to be nominated for election as directors and to each committee of the board of directors;
+
+recommending persons to be nominated for election as directors and to each committee of the board of directors;
+annually reviewing our corporate governance guidelines; and
+
+annually reviewing our corporate governance guidelines; and
+monitoring and evaluating the performance of the board of directors and leading the board in an annual self-assessment of its practices and effectiveness.
+
+monitoring and evaluating the performance of the board of directors and leading the board in an annual self-assessment of its practices and effectiveness.
+Risk Assessment and Compensation Practices
+Our management assessed and discussed with our compensation committee our compensation policies and practices for our employees as they relate to our risk management and, based upon this assessment, we believe that any risks arising from such policies and practices are not reasonably likely to have a material adverse effect on us in the future.
+Our employees base salaries are fixed in amount and thus we do not believe that they encourage excessive risk taking. While performance-based cash bonuses focus on achievement of short-term or annual goals, which may encourage the taking of short-term or annual risks at the expense of long-term results, we believe that our compensation policies help mitigate this risk and our performance-based cash bonuses are limited, representing a small portion of the total compensation opportunities available to most employees. We also believe that our performance-based cash bonuses appropriately balance risk and the desire to focus our employees on specific short-term goals important to our success and do not encourage unnecessary or excessive risk taking.
+A significant proportion of the compensation provided to our employees is in the form of long-term equity-based incentives that we believe are important to help further align our employees interests with those of our stockholders. We do not believe that these equity-based incentives encourage unnecessary or excessive risk taking because their ultimate value is tied to our stock price.
+40
+40
+Code of Business Conduct and Ethics
+We have adopted a code of business conduct and ethics that applies to all of our employees, officers and directors, including those officers responsible for financial reporting. Following the closing of the Merger, the code of business conduct and ethics will be available on our website at www.amesite.com. We expect that any amendments to the code, or any waivers of its requirements, will be disclosed on our website.
+Limitation of Liability and Indemnification
+Our amended and restated certificate of incorporation will provide that to the fullest extent permitted by the DGCL, a director shall not be personally liable to us or our stockholders for monetary damages for breach of fiduciary duty as a director. Our amended and restated bylaws provide that we shall indemnify and hold harmless our directors and officers to the fullest extent permitted by applicable law, except that we will not be required to indemnify or hold harmless any director or officer in connection with any proceeding initiated by such person unless the proceeding was authorized by our board of directors. Under our amended and restated bylaws, such rights shall not be exclusive of any other rights acquired by directors and officers, including by agreement.
+Our amended and restated bylaws provide that we will pay expenses to any director or officer prior to the final disposition of the proceeding, provided, however, that such advancements shall be made only upon receipt of an undertaking by such director or officer to repay all amounts advanced if it should be ultimately determined that such director or officer is not entitled to indemnification under the amended and restated bylaws of or otherwise.
+In addition to the indemnification obligations required by our amended and restated certificate of incorporation and amended and restated bylaws, we have entered into indemnification agreements with each of our directors and officers. These agreements provide for the indemnification of our directors and executive officers for all reasonable expenses and liabilities incurred in connection with any action or proceeding brought or threatened to be brought against them by reason of the fact that they are or were our agents. We believe that these amended and restated certificate of incorporation provisions, amended and restated bylaw provisions and indemnification agreements are necessary to attract and retain qualified persons as directors and officers.
+As a condition to the Merger, we also entered into a Pre-Merger Indemnity Agreement with our former officers and directors, pursuant to which we agreed to indemnify such former officers and directors for actions taken by them in their official capacities relating to the consideration, approval and consummation of the Merger and certain related transactions.
+We expect to obtain general liability insurance that covers certain liabilities of our directors and officers arising out of claims based on acts or omissions in their capacities as directors or officers, including liabilities under the Securities Act. Insofar as indemnification for liabilities arising under the Securities Act may be permitted to directors, officers or persons controlling the registrant pursuant to the foregoing provisions, we have been informed that in the opinion of the SEC such indemnification is against public policy as expressed in the Securities Act and is therefore unenforceable.
+41
+41
+The above provisions may discourage stockholders from bringing a lawsuit against our directors for breach of their fiduciary duty. The provisions may also have the effect of reducing the likelihood of derivative litigation against directors and officers, even though such an action, if successful, might otherwise benefit us and our stockholders. Furthermore, a stockholders investment may be adversely affected to the extent we pay the costs of settlement and damage awards against directors and officers pursuant to these indemnification provisions. We believe that these provisions, the indemnification agreements and the insurance are necessary to attract and retain talented and experienced directors and officers.
+At present, there is no pending litigation or proceeding involving any of our directors or officers where indemnification will be required or permitted. We are not aware of any threatened litigation or proceedings that might result in a claim for such indemnification.
+EXECUTIVE AND DIRECTOR COMPENSATION
+Director Compensation
+No compensation was paid to directors since inception to December 31, 2017.
+Director Compensation
+At December 31, 2017, none of Amesite OpCos directors held common stock options. On March 28, 2018, Amesite OpCo granted an aggregate 400,000 options to each of its non-employee directors in which 50% vest one year from the date of grant with the remainder vesting at a rate of 1/24 each month thereafter.
+Amesite OpCo has entered into a board service agreement with each of its non-employee directors regarding the director compensation described above and covering reimbursement of expenses incurred by such directors in attending meetings of its board of directors and committees thereof, and in carrying out such directors duties as a director or as a member of any committee of its board of directors. These agreements, which may be amended from time to time, will remain in place and are expected to be assumed by the Company.
+42
+42
+Consulting Arrangement
+On March 29, 2018, the board of directors of Amesite OpCo approved a consulting agreement with Mr. Richard Ogawa whereby Mr. Ogawa will provide certain consulting services to Amesite OpCo relating to the protection of Amesite OpCos intellectual property and general business advice for the benefit of Amesite OpCo. Amesite OpCo and Mr. Ogawa entered into such agreement as of April 4, 2018. Amesite OpCo agreed to pay Mr. Ogawa $1,000 for each filed patent application and $1,000 for each issued or granted patent regardless of the jurisdiction or type of patent, except for provisional patent applications for which no fee would be paid by Amesite OpCo. In addition, Amesite OpCo will grant Mr. Ogawa a nonqualified stock option to purchase 200,000 shares of Amesite OpCos common stock (subject to adjustment for the Merger) at an exercise price of $1.50 per share (subject to adjustment for the Merger).
+The foregoing description of the terms of Mr. Ogawas consulting agreement is qualified in its entirety by reference to the provisions of the employment agreement filed as Exhibit 10.5 to this Report, which are incorporated by reference herein.
+Executive Compensation
+Overview
+Summary Compensation Table
+Amesite OpCo was incorporated in November 2017 and no compensation was paid to it officers between incorporation and December 31, 2017.
+Employment and Change in Control Arrangements
+Amesite OpCo generally executes an offer of employment or employment agreement before an executive joins the company. This offer describes the basic terms of the executives employment, including his or her start date, starting salary, bonus target and any equity awards. The Company expects to enter into agreements with its executive officers to assume Amesite OpCos obligations under these employment agreements.
+Ann Marie Sastry, Chief Executive Officer
+Dr. Sastry s base salary is reviewed periodically by our board of directors and adjustments may be made upon the recommendations of the compensation committee. Before the Effective Date, our board of directors appointed her as our Chief Executive Officer and set her annual base salary at $350,000. She is eligible to receive a bonus up to 60% of her annual base salary for achievement of mutually agreed upon milestones approved by our board of directors.
+The foregoing description of the terms of Dr. Sastrys employment agreement is qualified in its entirety by reference to the provisions of the employment agreement filed as Exhibit 10.12 to this Report, which are incorporated by reference herein.
+Base salaries for our named executive officers other than our Chief Executive Officer will typically be reviewed annually in connection with their performance reviews.
+43
+43
+Bernie Chong, Controller
+Effective as of the Merger, Mr. Chong, who is our Controller, will receive an annual salary is $60,000. Mr. Chongs compensation may be adjusted based upon recommendations of the compensation committee and approval by the board of directors.
+The foregoing description of the terms Mr. Chongs consulting agreement is qualified in its entirety by reference to the provisions of the employment agreement filed as Exhibit 10.6 to this Report, which are incorporated by reference herein.
+Outstanding Equity Awards at December 31, 2017
+There were no outstanding equity awards at December 31, 2017.
+Equity Incentive Plans
+As of December 31, 2017, Amesite OpCos employees, directors and consultants did not hold any outstanding equity awards.
+The following summary provides more detailed information concerning Amesite OpCos equity compensation plan. This summary is qualified in its entirety by the full text of the compensation plan and related form of award agreement, each of which has been filed as an exhibit to this Report.
+2017 Equity Incentive Plan
+On November 14, 2017 and November 15, 2017, respectively, the Amesite OpCo board of directors adopted and its stockholders approved the Amesite Inc. 2017 Equity Incentive Plan. Referred to as the 2017 Plan. The material terms of the 2017 Plan are as follows:
+Eligible participants. All officers, directors, employees, consultants, agents and independent contractors, and persons expected to become officers, directors, employees, consultants, agents and independent contractors of our Company or any of our subsidiaries are eligible to receive awards under the 2017 Plan.
+Shares authorized. The maximum plan pool size is 1,000,000 shares of Amesite OpCos common stock.
+Award Types. Awards include options, stock appreciation rights, restricted stock, or restricted stock units.
+2018 Equity Incentive Plan
+On April 26, 2018, the board of directors adopted and the Companys stockholders approved the Amesite, Inc. 2018 Equity Incentive Plan, referred to as the 2018 Plan. The 2018 Plan is intended to align the interests of our stockholders and the recipients of awards under the 2018 Plan, and to advance our interests by attracting and retaining directors, officers, employees and other service providers and motivating them to act in our long-term best interests. The material terms of the 2018 Plan are as follows:
+44
+44
+Plan term. The 2018 Plan will become effective on the date that is 20 days after the mailing of a definitive Schedule 14C information statement to our pre-Merger stockholders and terminates on the tenth anniversary of its effective date, unless terminated earlier by our board of directors.
+Eligible participants. All officers, directors, employees, consultants, agents and independent contractors, and persons expected to become officers, directors, employees, consultants, agents and independent contractors of our Company or any of our subsidiaries are eligible to receive awards under the 2018 Plan. The compensation committee of our board will determine the participants under the 2018 Plan.
+Shares authorized. 2,529,000 shares of common stock will be available for awards granted under the 2018 Plan, inclusive of 1,288,195 shares subject to equity awards originally granted under the 2017 Plan and assumed in connection with the merger of Amesite OpCo with Acquisition Sub, subject to adjustment for stock splits and other similar changes in capitalization. The number of available shares will be reduced by the aggregate number of shares that become subject to outstanding awards granted under the 2018 Plan. As of the first day of each calendar year beginning on or after January 1, 2021, the number of shares available for all awards under the 2018 Plan, other than incentive stock options, will automatically increase by a number equal to the least of (i) five percent (5%) of the number of shares that are issued and outstanding as of that date, or (ii) a lesser number of shares as determined by the compensation committee. To the extent that shares subject to an outstanding award granted under the 2018 Plan are not issued or delivered by reason of the expiration, termination, cancellation or forfeiture of such award or by reason of the settlement of an award in cash, then those shares will again be available under the 2018 Plan. In addition, any shares covered by an award that have been surrendered in connection with the payment of the award exercise or purchase price or in satisfaction of tax withholding obligations incident to the grant, exercise, vesting or settlement of an award will be deemed not to have been issued for purposes of determining the maximum number of shares which may be issued pursuant to all awards under the 2018 Plan.
+Award types. Awards include non-qualified and incentive stock options, stock appreciation rights, bonus shares, restricted stock, restricted stock units, performance units and cash-based awards.
+Administration. The compensation committee will interpret and administer the 2018 Plan. The compensation committees interpretation, construction and administration of the 2018 Plan and all of its determinations thereunder will be conclusive and binding on all persons.
+The compensation committee shall have the authority to determine the participants in the 2018 Plan, the form, amount and timing of any awards, the performance goals, if any, and all other terms and conditions pertaining to any award. The compensation committee may take any action such that (i) any outstanding options and stock appreciation rights become exercisable in part or in full, (ii) all or any portion of a restriction period on any restricted stock or restricted stock units will lapse, (iii) all or a portion of any performance period applicable to any performance-based award will lapse and (iv) any performance measures applicable to any outstanding award will be deemed satisfied at the target level or any other level. Subject to the terms of the 2018 Plan relating to grants to our executive officers and directors, the compensation committee may delegate some or all of its powers and authority to the Chief Executive Officer and President or other executive officer as the compensation committee deems appropriate.
+45
+45
+Stock options and stock appreciation rights. The 2018 Plan provides for the grant of stock options and stock appreciation rights. Stock options may be either tax-qualified incentive stock options or non-qualified stock options. The compensation committee will determine the terms and conditions to the exercisability of each option and stock appreciation right.
+The period for the exercise of a non-qualified stock option or stock appreciation right will be determined by the compensation committee provided that no option may be exercised later than ten years after its date of grant. The exercise price of a non-qualified stock option and the base price of a stock appreciation right will not be less than 100% of the fair market value of a share of our common stock on the date of grant, provided that the base price of a stock appreciation right granted in tandem with an option will be the exercise price of the related option. A stock appreciation right entitles the holder to receive upon exercise, subject to tax withholding in respect of an employee, shares of our common stock, which may be restricted stock, with a value equal to the difference between the fair market value of our common stock on the exercise date and the base price of the stock appreciation right.
+Each incentive stock option will be exercisable for not more than 10 years after its date of grant, unless the optionee owns greater than 10% of the voting power of all shares of our capital stock, or a ten percent holder, in which case the option will be exercisable for not more than five years after its date of grant. The exercise price of an incentive stock option will not be less than the fair market value of a share of our common stock on its date of grant, unless the optionee is a ten percent holder, in which case the option exercise price will be the price required by the Internal Revenue Code of 1986, as amended, or the Code, currently 110% of fair market value.
+Upon exercise, the option exercise price may be paid in cash, by the delivery of previously owned shares of our common stock, share withholding or through a cashless exercise arrangement, as permitted by the applicable award agreement. All of the terms relating to the exercise, cancellation or other disposition of an option or stock appreciation right upon a termination of employment, whether by reason of disability, retirement, death or any other reason, will be determined by the compensation committee.
+The compensation committee, without stockholder approval, may (i) reduce the exercise price of any previously granted option or the base appreciation amount of any previously granted stock appreciation right, or (ii) cancel any previously granted option or stock appreciation right at a time when its exercise price or base appreciation amount (as applicable) exceeds the fair market value of the underlying shares, in exchange for another option, stock appreciation right or other award or for cash.
+Stock awards. The 2018 Plan provides for the grant of stock awards. The compensation committee may grant a stock award as a bonus stock award, a restricted stock award or a restricted stock unit award and, in the case of a restricted stock award or restricted stock unit award, the compensation committee may determine that such award will be subject to the attainment of performance measures over an established performance period. All of the terms relating to the satisfaction of performance measures and the termination of a restriction period, or the forfeiture and cancellation of a stock award upon a termination of employment, whether by reason of disability, retirement, death or any other reason, will be determined by the compensation committee.
+46
+46
+The agreement awarding restricted stock units will specify whether such award may be settled in shares of our common stock, cash or a combination thereof and whether the holder will be entitled to receive dividend equivalents, on a current or deferred basis, with respect to such award. Prior to settlement of a restricted stock unit in shares of our common stock, the holder of a restricted stock unit will have no rights as our stockholder.
+Unless otherwise set forth in a restricted stock award agreement, the holder of shares of restricted stock will have rights as our stockholder, including the right to vote and receive dividends with respect to the shares of restricted stock, except that distributions other than regular cash dividends and regular cash dividends with respect to shares of restricted stock subject to performance-based vesting conditions will be held by us and will be subject to the same restrictions as the restricted stock.
+Performance unit awards. The 2018 Plan provides for the grant of performance unit awards. Each performance unit is a right, contingent upon the attainment of performance measures within a specified performance period, to receive a specified cash amount, shares of our common stock or a combination thereof which may be restricted stock, having a fair market value equal to such cash amount. Prior to the settlement of a performance unit award in shares of our common stock, the holder of such award will have no rights as our stockholder with respect to such shares. Performance units will be non-transferable and subject to forfeiture if the specified performance measures are not attained during the specified performance period. All of the terms relating to the satisfaction of performance measures and the termination of a performance period, or the forfeiture and cancellation of a performance unit award upon a termination of employment, whether by reason of disability, retirement, death or any other reason, will be determined by the compensation committee.
+Cash-based awards. The 2018 Plan also provides for the grant of cash-based awards. Each cash-based award is an award denominated in cash that may be settled in cash and/or shares, which may be subject to restrictions, as established by the compensation committee.
+Performance goals. Under the 2018 Plan, the vesting or payment of performance-based awards will be subject to the satisfaction of certain performance goals. The performance goals applicable to a particular award will be determined by the compensation committee at the time of grant. The performance goals may be one or more of the following corporate-wide or subsidiary, division, operating unit or individual measures, stated in either absolute terms or relative terms.
+Individual Limits.
+With respect to non-employee directors, the maximum grant date fair value of shares that may be granted to an individual non-employee director during any fiscal year of the Company is $150,000. In connection with a non-employee directors commencement of service with the Company, the per person limit set forth in the previous sentence will be $150,000.
+Amendment or termination of the 2018 Plan. The board may amend or terminate the 2018 Plan as it deems advisable, subject to any requirement of stockholder approval required by law, rule or regulation.
+47
+47
+Change of control. In the event of a change of control, our board of directors may, in its discretion, (1) provide that (A) some or all outstanding options and stock appreciation rights will immediately become exercisable in full or in part, (B) the restriction period applicable to some or all outstanding stock awards will lapse in full or in part, (C) the performance period applicable to some or all outstanding awards will lapse in full or in part, and (D) the performance measures applicable to some or all outstanding awards will be deemed to be satisfied at the target or any other level, (2) provide that some or all outstanding awards will terminate without consideration as of the date of the change of control, (3) require that shares of stock of the corporation resulting from such change of control, or a parent corporation thereof, be substituted for some or all of our shares subject to an outstanding award, and/or (4) require outstanding awards, in whole or in part, to be surrendered by the holder, and to be immediately canceled, and to provide for the holder to receive (A) a cash payment in an amount equal to (i) in the case of an option or stock appreciation right, the number of our shares then subject to the portion of such option or stock appreciation right surrendered, whether vested or unvested, multiplied by the excess, if any, of the fair market value of a share of our common stock as of the date of the change of control, over the purchase price or base price per share of our common stock subject to such option or stock appreciation right, (ii) in the case of a stock award, the number of shares of our common stock then subject to the portion of such award surrendered, whether vested or unvested, multiplied by the fair market value of a share of our common stock as of the date of the change of control, and (iii) in the case of a performance unit award, the value of the performance units then subject to the portion of such award surrendered; (B) shares of capital stock of the corporation resulting from such change of control, or a parent corporation thereof, having a fair market value not less than the amount determined under clause (A) above; or (C) a combination of the payment of cash pursuant to clause (A) above and the issuance of shares pursuant to clause (B) above.
+Under the 2018 Plan, a change of control will occur upon: (i) a persons or entitys acquisition, other than from us, of beneficial ownership of 50% or more of either our then outstanding shares or the combined voting power of our then outstanding voting securities, but excluding certain acquisitions by the company, its subsidiaries or employee benefit plans, or by a corporation in which our stockholders hold a majority interest; (ii) a reorganization, merger or consolidation of the company if our stockholders do not thereafter beneficially own more than 50% of the outstanding shares or combined voting power of the resulting company, (iii) certain changes to the incumbent directors of our Company, or (iv) a complete liquidation or dissolution of the company or of the sale or other disposition of all or substantially all of our assets; but excluding, in any case, the initial public offering or any bona fide primary or secondary public offering following the occurrence of the initial public offering.
+New plan benefits. The benefits that might be received by officers, employees and non-employee directors cannot be determined at this time. All officers, employees and non-employee directors are eligible for consideration to participate in the 2018 Plan.
+CERTAIN RELATIONSHIPS AND RELATED PARTY TRANSACTIONS
+Below we describe transactions and series of related transactions to which we were a party, or may be a party, and which we have entered into since our incorporation in November 2017, in which:
+the amounts involved exceeds or will exceed the lesser of $120,000 or 1% of the average of Amesite OpCos total assets as of the end of the last two completed fiscal years; and
+
+the amounts involved exceeds or will exceed the lesser of $120,000 or 1% of the average of Amesite OpCos total assets as of the end of the last two completed fiscal years; and
+48
+48
+any of our directors, executive officers or holders of more than five percent of our capital stock, or an affiliate or immediate family member thereof, had or will have a direct or indirect material interest.
+
+any of our directors, executive officers or holders of more than five percent of our capital stock, or an affiliate or immediate family member thereof, had or will have a direct or indirect material interest.
+Common Stock Issued in the Insider Investment
+Certain of our existing investors, including investors affiliated with certain of our directors, and Dr. Sastry, our chief executive officer, have purchased an aggregate of 566,667 shares of our common stock in the Insider Investment, for an aggregate purchase price of approximately $680,000.
+Related Party Advances
+Since November 2017, Dr. Sastry has advanced approximately $205,000 to Amesite OpCo for its operations. Amesite OpCo intends to repay such advances with proceeds from the Offering.
+Director and Executive Officer Compensation
+See Item 2.01, Executive and Director Compensation for information regarding compensation of Amesite OpCos directors and named executive officers.
+Indemnification Agreements and Directors and Officers Liability Insurance
+Amesite OpCo has entered into indemnification agreements with each of its directors and executive officers. These agreements, among other things, require Amesite OpCo or will require it to indemnify each director and executive officer to the fullest extent permitted by Delaware law, including indemnification of expenses such as attorneys fees, judgments, fines and settlement amounts incurred by the director or executive officer in any action or proceeding, including any action or proceeding by or in right of Amesite OpCo, arising out of the persons services as a director or executive officer. As a condition to the Merger, we also entered into a Pre-Merger Indemnity Agreement with our former officers and directors, pursuant to which we agreed to indemnify such former officers and directors for actions taken by them in their official capacities relating to the consideration, approval and consummation of the Merger and certain related transactions. The form of the Pre-Merger Indemnity Agreement is filed as an exhibit to this Report. All descriptions of the Pre-Merger Indemnity Agreement herein are qualified in their entirety by reference to the text thereof filed as an exhibit hereto, which is incorporated herein by reference.
+Policies and Procedures for Related Party Transactions
+Following the Merger, our board of directors plans to adopt a written related person transaction policy, to set forth the policies and procedures for the review and approval or ratification of related person transactions. This policy will cover, with certain exceptions set forth in Item 404 of Regulation S-K promulgated under the Exchange Act, any transaction, arrangement or relationship, or any series of similar transactions, arrangements or relationships, in which we were or are to be a participant, where the amount involved exceeds or will exceed the lesser of $120,000 or 1% of the average of Amesite OpCos total assets as of the end of the last two completed fiscal years and a related person had, has or will have a direct or indirect material interest, including purchases of goods or services by or from the related person or entities in which the related person has a material interest, indebtedness, guarantees of indebtedness and employment by us of a related person. Our audit committee will be responsible for reviewing and approving in advance the related party transactions covered by our related transaction policies and procedures.
+49
+49
+MARKET PRICE OF AND DIVIDENDS ON THE REGISTRANTS COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+Our common stock is not listed on a national securities exchange, an over-the-counter market or any other exchange. Therefore, there is no trading market, active or otherwise, for our common stock and our common stock may never be included for trading on any stock exchange, automated quotation system or any over-the-counter market.
+As of the date of this Report, we have 11,955,819 shares of common stock outstanding held by 62 stockholders of record.
+Dividend Policy
+We currently intend to retain future earnings, if any, for use in the operation of our business and to fund future growth. We have never declared or paid cash dividends on our common stock and we do not intend to pay any cash dividends on our common stock for the foreseeable future. Any future determination related to our dividend policy will be made at the discretion of our board of directors in light of conditions then-existing, including factors such as our results of operations, financial condition and requirements, business conditions and covenants under any applicable contractual arrangements.
+Shares Eligible for Future Sale
+Prior to the Merger, there has been a limited public market for our common stock. As described below, only a limited number of shares of our common stock will be available for sale in the public market for a period of several months after consummation of the Merger due to contractual and legal restrictions on resale described below. Future sales of our common stock in the public market either before (to the extent permitted) or after restrictions lapse, or the perception that those sales may occur, could adversely affect the prevailing price of our common stock at such time and our ability to raise equity capital at a time and price we deem appropriate.
+As of April 27, 2018, we had 11,955,819 shares of common stock outstanding, of which our directors and executive officers beneficially own an aggregate of 6,316,668 shares. Of those outstanding shares, no shares of our common stock are freely tradable, without restriction, as of the date of this Report. No shares issued in connection with the Merger or the Offering can be publicly sold under Rule 144 promulgated under the Securities Act until 12 months after the date of filing this Report.
+Sale of Restricted Shares
+Of the approximately 2,126,652 shares of common stock outstanding upon completion of the Offering and the 895,834 shares of common stock outstanding upon completion of the Insider Investment, all of such shares will be restricted securities as such term is defined in Rule 144. These restricted securities were issued and sold by us, or will be issued and sold by us, in private transactions and are eligible for public sale only if registered under the Securities Act or if they qualify for an exemption from registration under the Securities Act, including the exemptions provided by Rule 144 or Rule 701, which rules are summarized below.
+50
+50
+Lock-up Agreements
+In connection with the Merger and the Insider Investment, holders of approximately 6.7 million shares of our common stock have agreed, subject to certain exceptions, not to dispose of or hedge any shares of common stock or securities convertible into or exchangeable for shares of common stock during the period from the date of the lock-up agreement continuing through the date twenty-four months after the date of the Merger and the closing of the Offering, except with our prior written consent.
+Following the lock-up periods set forth in the agreements described above, and assuming that no parties are released from these agreements and that there is no extension of the lock-up period, certain of the shares of common stock that are restricted securities or are held by our affiliates as of the date of the Merger will be eligible for sale in the public market in compliance with Rule 144 under the Securities Act.
+Rule 144
+Pursuant to Rule 144 promulgated under the Securities Act, sales of the securities of a former shell company, such as us, under that rule are not permitted (i) until at least 12 months have elapsed from the date on which this Report, reflecting our status as a non-shell company, is filed with the SEC and (ii) unless at the time of a proposed sale, we are subject to the reporting requirements of Section 13 or 15(d) of the Exchange Act and have filed all reports and other materials required to be filed by Section 13 or 15(d) of the Exchange Act, as applicable, during the preceding 12 months, other than Form 8-K reports. We intend to register such shares for sale under the Securities Act, but are currently a voluntary filer and are not subject to the reporting requirements of Section 13 or Section 15(d) of the Exchange Act. As a result, unless we register such shares for sale under the Securities Act, most of our stockholders will be forced to hold their shares of our common stock for at least that 12-month period before they are eligible to sell those shares, and even after that 12-month period, sales may not be made under Rule 144 unless we and the selling stockholders are in compliance with other requirements of Rule 144.
+In general, Rule 144 provides that (i) any of our non-affiliates that has held restricted common stock for at least 12 months is thereafter entitled to sell its restricted stock freely and without restriction, provided that we remain compliant and current with our SEC reporting obligations, and (ii) any of our affiliates, which includes our directors, executive officers and other person in control of us, that has held restricted common stock for at least 12 months is thereafter entitled to sell its restricted stock subject to the following restrictions: (a) we are compliant and current with our SEC reporting obligations, (b) certain manner of sale provisions are satisfied, (c) a Form 144 is filed with the SEC, and (d) certain volume limitations are satisfied, which limit the sale of shares within any three-month period to a number of shares that does not exceed 1% of the total number of outstanding shares or, if our common stock is then listed or quoted for trading on a national securities exchange, then the greater of 1% of the total number of outstanding shares and the average weekly trading volume of our common stock during the four calendar weeks preceding the filing of the Form 144 with respect to the sale. A person who has ceased to be an affiliate at least three months immediately preceding the sale and who has owned such shares of common stock for at least one year is entitled to sell the shares under Rule 144 without regard to any of the limitations described above.
+51
+51
+Regulation S
+Regulation S under the Securities Act provides that shares owned by any person may be sold without registration in the U.S., provided that the sale is effected in an offshore transaction and no directed selling efforts are made in the U.S. (as these terms are defined in Regulation S), subject to certain other conditions. In general, this means that our shares of common stock may be sold in some other manner outside the U.S. without requiring registration in the U.S.
+Rule 701
+In general, under Rule 701 as currently in effect, any of our employees, directors, officers, consultants or advisors who acquired common stock from us in connection with a written compensatory stock or option plan or other written agreement, in compliance with Rule 701 under the Securities Act, before the effective date of the Merger (to the extent such common stock is not subject to a lock-up agreement) is entitled to rely on Rule 701 to resell such shares beginning 90 days after we become subject to the public company reporting requirements of the Exchange Act in reliance on Rule 144, but without compliance with the holding period requirements contained in Rule 144. Accordingly, subject to any applicable lock-up agreements, beginning 90 days after we become subject to the public company reporting requirements of the Exchange Act, under Rule 701 persons who are not our affiliates, as defined in Rule 144, may resell those shares without complying with the minimum holding period or public information requirements of Rule 144, and persons who are our affiliates may resell those shares without compliance with Rule 144s minimum holding period requirements (subject to the terms of the lock-up agreement referred to above, if applicable).
+Registration Rights
+In connection with the Merger and the Offering, we entered into a Registration Rights Agreement, pursuant to which we have agreed that promptly, but no later than 60 calendar days from the final closing of the Offering, we will file a Registration Statement with the SEC covering (a) the shares of common stock issued in the Offering and the Insider Investment, (b) the shares of common stock issuable upon exercise of the Placement Agent Warrants, (c) the shares of common stock issued upon the conversion of all of the equity securities of Amesite OpCo outstanding prior to the Merger and (d) 3,500,000 shares of common stock issued or issuable prior to the Merger, or collectively, the Registrable Shares. We will use our commercially reasonable efforts to ensure that such Registration Statement is declared effective within 150 calendar days after the final closing of the Offering. Subject to customary limitations, if we are late in filing the Registration Statement, if the Registration Statement is not declared effective within 150 days after the final closing of the Offering, if we fail to maintain the effectiveness of the Registration Statement, or the holders of Registrable Shares cannot use the Registration Statement to resell the Registrable Shares, for a period of more than 15 consecutive trading days (except for suspension of the use of the Registration Statement in connection with the filing of a post-effective amendment in connection with filing our Annual Report on Form 10-K for the time reasonably required to respond to any comments from the SEC on the post-effective amendment or during a permitted blackout period as described in the Registration Rights Agreement) or following the listing or inclusion for quotation on the OTC Markets Group, the NASDAQ Stock Market, the New York Stock Exchange or the NYSE American, trading of our common stock is suspended or halted for more than three consecutive trading days or if the Registrable Shares are not listed or quoted on such markets, collectively, the Registration Events, we will make payments to each holder of Registrable Shares as monetary penalties at a rate equal to 12% per annum of the total value of Registrable Shares held or purchased by such holder and affected during the period, based on the monetary values assigned in the Registration Rights Agreement, subject to a 5% cap with respect to such holders Registrable Shares that are affected by all Registration Events in the aggregate. No monetary penalties will accrue with respect to any Registrable Shares removed from the Registration Statement in response to a comment from the staff of the SEC limiting the number of shares of common stock which may be included in the Registration Statement, or Cutback Comment, or after the Registrable Shares may be resold without volume or other limitations under Rule 144 or another exemption from registration under the Securities Act. Any cutback resulting from a Cutback Comment shall be allocated first to the shares of common stock issuable upon the exercise of the Placement Agent Warrants and second to the other Registrable Shares taken together, in each case, pro rata based on the total number of such shares held by or issuable to each holder in such group.
+52
+52
+We must use commercially reasonable efforts to keep the Registration Statement effective for three years from the date it is declared effective by the SEC or until the date on which all Registrable Securities have been transferred other than to certain enumerated permitted assignees under the Registration Rights Agreement.
+We will pay all expenses in connection with any registration obligation provided in the Registration Rights Agreement, including, without limitation, all registration, filing, stock exchange fees, printing expenses, all fees and expenses of complying with applicable securities laws, and the fees and disbursements of our counsel and of our independent accountants and reasonable fees and disbursements of counsel to the investors, not to exceed $10,000. Each investor will be responsible for its own sales commissions, if any, transfer taxes and the expenses of any attorney or other advisor such investor decides to employ.
+All descriptions of the Registration Rights Agreement herein are qualified in their entirety by reference to the text thereof filed as Exhibit 4.2 hereto, each of which is incorporated herein by reference.
+Stock Plans
+We intend to file with the SEC a registration statement under the Securities Act covering the shares of common stock that we may issue (i) upon exercise of outstanding options under the assumed 2017 Plan, and (ii) that are outstanding or reserved for issuance under the 2018 Plan. Such registration statement is expected to be filed and become effective as soon as practicable after the consummation of the Merger and registration of our shares of common stock with the SEC pursuant to a registration statement on Form S-1. Accordingly, shares registered under such registration statement will be available for sale in the open market following its effective date, subject to Rule 144 volume limitations and the lock-up agreements described above, if applicable.
+53
+53
+DESCRIPTION OF SECURITIES
+We have authorized capital stock consisting of 50,000,000 shares of common stock and 5,000,000 shares of preferred stock. Following the filing of an amended and restated certificate of incorporation reflecting the capitalization increase, which we expect to occur on the date that is 20 days after the mailing of a definitive Schedule 14C information statement to our pre-Merger stockholders, our authorized capital stock will consist of 100,000,000 shares of common stock and 5,000,000 shares of preferred stock. As of the date of this Report, we had 11,955,819 shares of common stock issued and outstanding, and no shares of preferred stock issued and outstanding. Unless stated otherwise, the following discussion summarizes the term and provisions of our amended and restated certificate of incorporation and our amended and restated bylaws. This description is summarized from, and qualified in its entirety by reference to, our amended and restated certificate of incorporation, which has been publicly filed with the SEC.
+Common Stock
+The holders of shares of our common stock are entitled to one vote per share on all matters to be voted upon by our stockholders and there are no cumulative rights. Subject to preferences that may be applicable to any outstanding preferred stock, the holders of shares of our common stock are entitled to receive ratably any dividends that may be declared from time to time by our board of directors out of funds legally available for that purpose. In the event of our liquidation, dissolution or winding up, the holders of shares of our common stock are entitled to share ratably in all assets remaining after payment of liabilities, subject to prior distribution rights of preferred stock then outstanding. Our common stock has no preemptive or conversion rights or other subscription rights. There are no redemption or sinking fund provisions applicable to our common stock. The outstanding shares of our common stock are fully paid and non-assessable, and any shares of our common stock to be issued upon an offering pursuant to this Report will be fully paid and nonassessable upon issuance.
+We have never paid cash dividends on our common stock. Moreover, we do not anticipate paying periodic cash dividends on our common stock for the foreseeable future. Any future determination about the payment of dividends will be made at the discretion of our board of directors and will depend upon our earnings, if any, capital requirements, operating and financial conditions and on such other factors as our board of directors deems relevant.
+Preferred Stock
+The following description of our preferred stock and the description of the terms of any particular series of our preferred stock that we choose to issue hereunder are not complete. These descriptions are qualified in their entirety by reference to our amended and restated certificate of incorporation and the certificate of designation, if and when adopted by our board of directors, relating to that series. The rights, preferences, privileges and restrictions of the preferred stock of each series will be fixed by the certificate of designation relating to that series.
+We currently have no shares of preferred stock outstanding. Our board of directors has the authority, without further action by the stockholders, to issue up to 5,000,000 shares of preferred stock in one or more series and to fix the rights, preferences, privileges and restrictions granted to or imposed upon the preferred stock. Any or all of these rights may be greater than the rights of our common stock.
+54
+54
+Our board of directors, without stockholder approval, can issue preferred stock with voting, conversion or other rights that could negatively affect the voting power and other rights of the holders of our common stock. Preferred stock could thus be issued quickly with terms calculated to delay or prevent a change in control of us or make it more difficult to remove our management. Additionally, the issuance of preferred stock may have the effect of decreasing the market price of our common stock.
+Our board of directors may specify the following characteristics of any preferred stock:
+the maximum number of shares;
+
+the maximum number of shares;
+the designation of the shares;
+
+the designation of the shares;
+the annual dividend rate, if any, whether the dividend rate is fixed or variable, the date or dates on which dividends will accrue, the dividend payment dates, and whether dividends will be cumulative;
+
+the annual dividend rate, if any, whether the dividend rate is fixed or variable, the date or dates on which dividends will accrue, the dividend payment dates, and whether dividends will be cumulative;
+the price and the terms and conditions for redemption, if any, including redemption at our option or at the option of the holders, including the time period for redemption, and any accumulated dividends or premiums;
+
+the price and the terms and conditions for redemption, if any, including redemption at our option or at the option of the holders, including the time period for redemption, and any accumulated dividends or premiums;
+the liquidation preference, if any, and any accumulated dividends upon the liquidation, dissolution or winding up of our affairs;
+
+the liquidation preference, if any, and any accumulated dividends upon the liquidation, dissolution or winding up of our affairs;
+any sinking fund or similar provision, and, if so, the terms and provisions relating to the purpose and operation of the fund;
+
+any sinking fund or similar provision, and, if so, the terms and provisions relating to the purpose and operation of the fund;
+the terms and conditions, if any, for conversion or exchange of shares of any other class or classes of our capital stock or any series of any other class or classes, or of any other series of the same class, or any other securities or assets, including the price or the rate of conversion or exchange and the method, if any, of adjustment;
+
+the terms and conditions, if any, for conversion or exchange of shares of any other class or classes of our capital stock or any series of any other class or classes, or of any other series of the same class, or any other securities or assets, including the price or the rate of conversion or exchange and the method, if any, of adjustment;
+the voting rights; and
+
+the voting rights; and
+any or all other preferences and relative, participating, optional or other special rights, privileges or qualifications, limitations or restrictions.
+
+any or all other preferences and relative, participating, optional or other special rights, privileges or qualifications, limitations or restrictions.
+Any preferred stock issued will be fully paid and nonassessable upon issuance.
+Warrants
+As of the date hereof, the Placement Agent Warrants consist of 212,665 warrants and entitle their holders to purchase an aggregate of 212,665 shares of common stock, with a term of five years and an exercise price of $1.50 per share.
+55
+55
+The Placement Agent Warrants contain customary provisions for adjustment in the event of stock splits, subdivision or combination, mergers, etc.
+See Item 2.01, Completion of Acquisition or Disposition of AssetsThe Merger and Related TransactionsRegistration Rights for a description of the registration rights granted to (among others) the holders of the Placement Agent Warrants, which description is incorporated herein by reference.
+As of the date hereof, there is an outstanding pre-funded common stock purchase warrant to purchase up to 400,000 shares of our common stock exercisable for a nominal exercise price per share of $0.0001.
+This summary descriptions of the warrants described above is qualified in their entirety by reference to the forms of such warrants filed as an exhibit to this Report.
+Options
+Options to purchase shares of Amesite OpCo common stock that were originally granted under the 2017 Plan to certain of Amesite OpCos employees, officers and directors were converted into options to purchase 947,917 shares of our common stock with an exercise price of $1.50 per share when they were assumed by us in connection with the Merger.
+Restricted Stock Units
+Restricted stock units representing the right to acquire shares of Amesite OpCo common stock that were originally granted under the 2017 Plan to certain of Amesite OpCos consultants were converted into restricted stock units representing the right to acquire 340,279 shares of our common stock when they were assumed by us in connection with the Merger, subject to vest in full on April 30, 2018.
+Other Convertible Securities
+As of the date hereof, other than the securities described above, we do not have any outstanding convertible securities.
+Anti-Takeover Effects of Provisions of Our Charter Documents
+Our amended and restated certificate of incorporation will provide for our board of directors to be divided into three classes serving staggered terms. Approximately one-third of the board of directors will be elected each year. The provision for a classified board could prevent a party who acquires control of a majority of our outstanding voting stock from obtaining control of our board of directors until the second annual stockholders meeting following the date the acquirer obtains the controlling stock interest. The classified board provision could discourage a potential acquirer from making a tender offer or otherwise attempting to obtain control of us and could increase the likelihood that incumbent directors will retain their positions. Our amended and restated certificate of incorporation will provide that directors may be removed with cause by the affirmative vote of the holders of a majority of the voting power of all of our outstanding stock or without cause by the affirmative vote of the holders of at least 66 and 2/3% of the voting power of all of our outstanding stock.
+Our amended and restated certificate of incorporation will provide that certain amendments of our certificate of incorporation and amendments by our stockholders of our amended and restated bylaws require the approval of at least 66 and 2/3% of the voting power of all of our outstanding stock. These provisions could discourage a potential acquirer from making a tender offer or otherwise attempting to obtain control of our company and could delay changes in management.
+56
+56
+Our amended and restated bylaws establish an advance notice procedure for stockholder proposals to be brought before an annual meeting of our stockholders, including proposed nominations of persons for election to our board of directors. At an annual meeting, stockholders may only consider proposals or nominations specified in the notice of meeting or brought before the meeting by or at the direction of our board of directors. Stockholders may also consider a proposal or nomination by a person who was a stockholder at the time of giving notice and at the time of the meeting, who is entitled to vote at the meeting and who has complied with the notice requirements of our amended and restated bylaws in all respects. The amended and restated bylaws do not give our board of directors the power to approve or disapprove stockholder nominations of candidates or proposals regarding other business to be conducted at a special or annual meeting of our stockholders. However, our amended and restated bylaws may have the effect of precluding the conduct of certain business at a meeting if the proper procedures are not followed. These provisions may also discourage or deter a potential acquirer from conducting a solicitation of proxies to elect the acquirers own slate of directors or otherwise attempting to obtain control of our company.
+Our amended and restated bylaws provide that a special meeting of our stockholders may be called only by our Secretary and at the direction of our board of directors by resolution adopted by a majority of our board of directors. Because our stockholders do not have the right to call a special meeting, a stockholder could not force stockholder consideration of a proposal over the opposition of our board of directors by calling a special meeting of stockholders prior to such time as a majority of our board of directors, the chairperson of our board of directors, the president or the chief executive officer believed the matter should be considered or until the next annual meeting provided that the requestor met the notice requirements. The restriction on the ability of stockholders to call a special meeting means that a proposal to replace our board of directors also could be delayed until the next annual meeting.
+Our amended and restated bylaws do not allow our stockholders to act by written consent without a meeting. Without the availability of stockholder action by written consent, a holder controlling a majority of our capital stock would not be able to amend our amended and restated bylaws or remove directors without holding a stockholders meeting.
+Anti-Takeover Effects of Delaware Law
+We are subject to the provisions of Section 203 of the DGCL, or Section 203. Under Section 203, we would generally be prohibited from engaging in any business combination with any interested stockholder for a period of three years following the time that this stockholder became an interested stockholder unless:
+prior to this time, our board of directors approved either the business combination or the transaction that resulted in the stockholder becoming an interested stockholder;
+
+prior to this time, our board of directors approved either the business combination or the transaction that resulted in the stockholder becoming an interested stockholder;
+upon consummation of the transaction that resulted in the stockholder becoming an interested stockholder, the interested stockholder owned at least 85% of our voting stock outstanding at the time the transaction commenced, excluding shares owned by persons who are directors and also officers, and by employee stock plans in which employee participants do not have the right to determine confidentially whether shares held subject to the plan will be tendered in a tender or exchange offer; or
+
+upon consummation of the transaction that resulted in the stockholder becoming an interested stockholder, the interested stockholder owned at least 85% of our voting stock outstanding at the time the transaction commenced, excluding shares owned by persons who are directors and also officers, and by employee stock plans in which employee participants do not have the right to determine confidentially whether shares held subject to the plan will be tendered in a tender or exchange offer; or
+57
+57
+at or subsequent to such time, the business combination is approved by our board of directors and authorized at an annual or special meeting of stockholders, and not by written consent, by the affirmative vote of at least 66 and 2/3% of the outstanding voting stock that is not owned by the interested stockholder.
+
+at or subsequent to such time, the business combination is approved by our board of directors and authorized at an annual or special meeting of stockholders, and not by written consent, by the affirmative vote of at least 66 and 2/3% of the outstanding voting stock that is not owned by the interested stockholder.
+Under Section 203, a business combination includes:
+any merger or consolidation involving the corporation and the interested stockholder;
+
+any merger or consolidation involving the corporation and the interested stockholder;
+any sale, transfer, pledge or other disposition of 10% or more of the assets of the corporation involving the interested stockholder;
+
+any sale, transfer, pledge or other disposition of 10% or more of the assets of the corporation involving the interested stockholder;
+any transaction that results in the issuance or transfer by the corporation of any stock of the corporation to the interested stockholder, subject to limited exceptions;
+
+any transaction that results in the issuance or transfer by the corporation of any stock of the corporation to the interested stockholder, subject to limited exceptions;
+any transaction involving the corporation that has the effect of increasing the proportionate share of the stock of any class or series of the corporation beneficially owned by the interested stockholder; or
+
+any transaction involving the corporation that has the effect of increasing the proportionate share of the stock of any class or series of the corporation beneficially owned by the interested stockholder; or
+the receipt by the interested stockholder of the benefit of any loans, advances, guarantees, pledges or other financial benefits provided by or through the corporation.
+
+the receipt by the interested stockholder of the benefit of any loans, advances, guarantees, pledges or other financial benefits provided by or through the corporation.
+In general, Section 203 defines an interested stockholder as an entity or person beneficially owning 15% or more of the outstanding voting stock of the corporation and any entity or person affiliated with or controlling or controlled by such entity or person.
+The provisions of Delaware law and our amended and restated certificate of incorporation and amended and restated bylaws could have the effect of discouraging others from attempting hostile takeovers and, as a consequence, they may also inhibit temporary fluctuations in the market price of our common stock that often result from actual or rumored hostile takeover attempts. These provisions may also have the effect of preventing changes in management. It is possible that these provisions may make it more difficult to accomplish transactions that stockholders may otherwise deem to be in their best interests.
+Following such time, if any, as our capital stock is listed on a national securities exchange or is held of record by more than 2,000 stockholders, we will be subject to the provisions of Section 203 of the Delaware General Corporation Law, as amended.
+Limitations of Liability and Indemnification Matters
+For a discussion of liability and indemnification, please see the section titled Directors, Executive Officers and Control PersonsLimitation on Liability and Indemnification.
+58
+58
+Transfer Agent
+Amesite OpCo has appointed Continental Stock Transfer & Trust Company to serve as its transfer agent and we expect Continental Stock Transfer & Trust Company to serve as our transfer agent following the Merger.
+LEGAL PROCEEDINGS
+From time to time, we may become involved in various lawsuits and legal proceedings which arise in the ordinary course of business. However, litigation is subject to inherent uncertainties, and an adverse result in these or other matters may arise from time to time that may harm business.
+We are currently not aware of any pending legal proceedings to which we are a party or of which any of our property is the subject, nor are we aware of any such proceedings that are contemplated by any governmental authority.

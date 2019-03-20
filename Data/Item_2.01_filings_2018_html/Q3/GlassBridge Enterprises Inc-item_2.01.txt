@@ -1,0 +1,61 @@
+Item 2.01
+Completion of Acquisition or Disposition of Assets.
+A.Nexsan Group Sale: Background.
+A.
+Nexsan Group Sale: Background.
+On August 16, 2018, GlassBridge Enterprises, Inc. (the Corporation) simultaneously acquired all of the capital stock of its previously partially-owned subsidiary NXSN Acquisition Corp. (NXSN) from Humilis Holdings Private Equity LP f/k/a Spear Point Private Equity LP (Humilis) and sold all of the capital stock of the Nexsan Group, as defined below (collectively, the Nexsan Sale) to StorCentric, Inc. (Buyer), a newly incorporated Delaware company affiliated with Drobo, Inc., a Delaware corporation (Drobo). As previously reported, NXSN owned all of the issued and outstanding shares of capital stock (the Nexsan Shares) of Nexsan Corporation, a Delaware corporation (Nexsan,); and Nexsan owns all the outstanding capital stock of the following companies: Nexsan Technologies Limited, an England and Wales entity (Nexsan UK), Nexsan Technologies Incorporated, a Delaware corporation (Nexsan US), Connected Data, Inc., a California corporation (Connected Data), and 6360246 Canada Inc, a Canadian corporation (First Canadian Entity and collectively with Nexsan UK, Nexsan US, Connected Data, the Direct Subsidiaries); and First Canadian Entity owns all the outstanding capital stock of 6360319 Canada Inc., a Canadian corporation (Second Canadian Entity) and the Second Canadian Entity owns all the outstanding capital stock of Nexsan Technologies Canada Inc., a Canadian corporation (Nexsan Canada and collectively with the Second Canadian Entity, the Indirect Subsidiaries and the Indirect Subsidiaries collectively with the Direct Subsidiaries and Nexsan, the Nexsan Group);
+NXSN
+Humilis
+Nexsan Sale
+Buyer
+Drobo
+Nexsan Shares
+Nexsan UK
+Nexsan US
+Connected Data
+First Canadian Entity
+Direct Subsidiaries
+Second Canadian Entity
+Nexsan Canada
+Indirect Subsidiaries
+Nexsan Group
+Prior to the Nexsan Sale, the Corporation owned fifty percent of the common stock of NXSN and a Senior Secured Convertible Note of NXSN dated January 23, 2017 (the NXSN Note) in the original principal amount of $25,000,000, which Note was declared in default on November 14, 2017 The NXSN Note is secured in favor of the Corporation by that certain Guaranty and Security Agreement dated as of January 23, 2017 by and among NXSN, Nexsan, the Corporation and the other parties thereto (the NXSN Security Agreement) pursuant to which inter alia Nexsan, Connected Data and Nexsan US, collectively, had guaranteed the obligations of NXSN under the NXSN Note (collectively, the Nexsan Guaranty). The Corporation had pledged the NXSN Note as security for that certain GlassBridge Enterprises, Inc. Secured Promissory Note dated September 28, 2017 (the GlassBridge Note) issued in favor of IOENGINE, LLC, a Delaware limited liability company(IOENGINE) in the original principal amount of $4,000,000 pursuant to that certain Pledge Agreement dated September 28, 2017 by and between the Corporation and IOENGINE (the GlassBridge Pledge Agreement), in connection with the settlement of litigation with IOENGINE.
+NXSN Security Agreement
+inter alia
+Nexsan Guaranty
+GlassBridge Note
+IOENGINE
+GlassBridge Pledge Agreement
+The Corporation had acquired from Connected Data a Promissory Note dated May 15, 2015 made by Drobo initially in favor of Connected Data (including the related allonge, the Drobo Note).
+B.Nexsan Group Sale: Material Agreements
+B.
+Nexsan Group Sale: Material Agreements
+As the first step in the Nexsan Sale, the Corporation caused NXSN to enter into an Exchange Agreement dated as of August 16, 2018 with Humilis (the NXSN-Humilis Agreement) pursuant to which NXSN agreed to grant Humilis an option to purchase the Nexsan Shares (the Share Option), equal to an aggregate of 140,000,500 shares of NXSN common stock and 5,600,000 shares of NXSN preferred stock, as set forth in an assignable Option Agreement dated as of an even date with the NXSN-Humilis Agreement (the Option Agreement) in exchange, inter alia, for the transfer to the Corporation of all of Humilis equity interests in NXSN.
+Share Option
+Option Agreement
+inter alia
+Such Option Agreement was then assigned to Humilis Holdings LLC, an affiliate of Humilis, which, in turn, assigned the Option Agreement to Buyer pursuant to an Assignment of Contract by and between Humilis Holdings LLC and Buyer (the Buyer-Humilis Assignment), after which Buyer exercised the Share Option in accordance with the terms of the Option Agreement by entering into that certain Stock Purchase Agreement, dated August 16, 2018 (the SPA), by and among StorCentric, Inc., as Buyer, NXSN, as Seller, and the Corporation as Parent, contemplating gross proceeds in the amount of $5,675,000 (the SPA Gross Proceeds).
+SPA
+SPA Gross Proceeds
+Subject to the terms and conditions of the SPA and the ancillary agreements referred to in the SPA (the Ancillary Agreements) (i) the Corporation and NXSN caused the Nexsan Guaranty and all encumbrances on the Nexsan Shares and the assets and business of Nexsan and the Nexsan Subsidiaries, including under the NXSN Security Agreement to be released, (ii) NXSN transferred all right, title and interest in and to the Nexsan Shares to Buyer free and clear of all encumbrances, (iii) Buyer paid off any and all amounts due and owing under the GlassBridge Note out of the purchase price otherwise payable to NXSN in accordance with that certain Pre-Pay Agreement dated as of August 13, 2018 by and among IOENGINE, the Corporation and Scott McNulty (the IOENGINE Pre-Payment Agreement), being Two Million Two Hundred Fifty Thousand Dollars ($2,250,000; (iv) in accordance with that certain Settlement Agreement and Mutual Release dated August 10, 2018 entered into inter alia, by NXSN, Nexsan US and Humilis (the NTI A/R Settlement Agreement) regarding the Receivables Litigation (as defined in the SPA), Nexsan US paid the Payment (as defined therein); (v) Buyer paid NXSN the Consideration described in the SPA to NXSN as payment in full for the purchase of the Shares, (vi) the Corporation delivered a certification that the original signed Drobo Note cannot be located (with appropriate indemnities) to Buyer and the Drobo Note was deemed to be cancelled, and (vii) all obligations of the Nexsan and the Nexsan Subsidiaries toward the Corporation or NXSN (other than the obligations under the SPA) were extinguished.
+IOENGINE Pre-Payment Agreement
+inter alia
+NTI A/R Settlement Agreement
+The SPA also provided for the placement in an Escrow Account $650,000 of the Consideration (the Escrowed Funds) to be held as a possible source of indemnification by NXSN and the Corporation for any indemnifiable costs or liabilities arising within 18 months of the Nexsan Sale. The Corporation does not believe any of the Escrowed Funds should be used; and should therefore be remitted to the Corporation on or about February 16, 2020.Furthermore, The SPA provided for the working capital adjustment toward the SPA Gross Proceeds based on the difference between the actual working capital on July 31, 2018 and the working capital target.
+Upon deducting the Escrowed Funds and payment made to IOENGINE pursuant to the IOENGINE Pre-Payment Agreement from the SPA Gross Proceeds, the Corporation received a cash payment of Two Million Seven Hundred Seventy-five Thousand Dollars ($2,775,000.00) in connection with the SPA.
+A copy of the NXSN-Humilis Agreement is attached as Exhibit 10.1_ hereto and is incorporated by reference. The foregoing descriptions of the NXSN-Humilis Agreement do not purport to be complete and are qualified in their entirety by reference to such exhibits.
+A copy of the Option Agreement is attached as Exhibit 10.2 hereto and is incorporated by reference. The foregoing descriptions of the Option Agreement do not purport to be complete and are qualified in their entirety by reference to such exhibits.
+A copy of the Buyer-Humilis Agreement is attached as Exhibit 10.3 hereto and is incorporated by reference. The foregoing descriptions of the Buyer-Humilis Agreement do not purport to be complete and are qualified in their entirety by reference to such exhibits.
+A copy of the SPA is attached as Exhibit 10.4 hereto and is incorporated by reference. The foregoing descriptions of the SPA do not purport to be complete and are qualified in their entirety by reference to such exhibits.
+C.Payoff of IOENGINE Litigation Settlement Note at a Discount.
+C.
+Payoff of IOENGINE Litigation Settlement Note at a Discount.
+As noted above, as part of the Nexsan Sale, the Corporation agreed, under the terms of the Pre-Pay Agreement, to prepay the GlassBridge Note (as defined above), originally in the amount of Four Million Dollars ($4,000,000) plus interest over the period from June 30, 2019 through September 28, 2020, for $2,250,000.
+A copy of the Pre-Pay Agreement is attached as Exhibit 10.5 hereto and is incorporated by reference. The foregoing descriptions of the Pre-Pay Agreement do not purport to be complete and are qualified in their entirety by reference to such exhibits.
+D.Settlement of Receivables Litigation.
+D.
+Settlement of Receivables Litigation.
+As previously disclosed, in the first quarter of 2017, Nexsan US sold $1.2 million of its accounts receivable to individuals (the Receivables Purchasers) introduced by or affiliated with Humilis for a discounted purchase price of $1.1 million, subject to a right to repurchase within five months of the original sale at the original sales price plus 2% interest per month. The accounts receivable sale was recorded as a sale of financial assets under ASC 860. After exercising the remedies referred to above pursuant to the NXSN Default Notice and the NXSN Exercise Notice, we were made aware that the proceeds of the sold accounts receivable may have been either paid to NTI or canceled or replaced by the account debtors. On June 15, 2018, a lawsuit was commenced in the 22nd Judicial District Court for the Parish of St. Tammany, Louisiana, by two of the Receivables Purchasers, Messrs. Mack and Romano, against a number of defendants including NTI, NXSN and the Corporation, and seeking total damages in excess of Five Hundred Thousand Dollars ($500,000.00), which lawsuit was removed to the United States District Court for the Eastern District of Louisiana on July 10 (the Receivables Litigation).
+Receivables Litigation
+As noted above, as part of the Nexsan Sale, (a) NXSN, Nexsan US and Humilis entered into the NTI A/R Settlement Agreement with Messrs. Mack and Romano and the Litigation was settled, and will be dismissed with prejudice, in return for a payment to them of Four Hundred Thousand Dollars ($400,000.00), and (b) the remaining Receivables Purchasers claim has been limited to any claim he might assert against parties not affiliated with the Corporation.
+A copy of the NTI A/R Settlement Agreement is attached as Exhibit 10.6 hereto and is incorporated by reference. The foregoing descriptions of the NTI A/R Settlement Agreement do not purport to be complete and are qualified in their entirety by reference to such exhibits.

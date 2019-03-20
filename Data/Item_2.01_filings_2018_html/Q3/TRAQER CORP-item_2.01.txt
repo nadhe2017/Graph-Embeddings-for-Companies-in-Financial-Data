@@ -1,0 +1,891 @@
+ITEM 2.01 COMPLETION OF ACQUISITION OR DISPOSITION OF ASSETS
+As previously reported in a Current Report on Form 8-K filed on November 28, 2017, on November 27, 2017, we entered into an exchange agreement (the Exchange Agreement) with Donggao International, a Seychelles International Business Company, and holders of all outstanding capital stock of Donggao International. Pursuant to terms of the Exchange Agreement, we will acquire 100% of the outstanding capital stock of Donggao International, and in exchange, we agreed to issue to the then shareholders of Donggao International, including Mr. Yue Zhong, Zhongjian Overseas Investment Limited and Hongshan Holdings Investment Limited, an aggregate of 300,000,000 shares of the Companys common stock. Our Chairman, CEO and CFO, Lijuan Jiang is the sole director of Hongshan Holdings Investment Limited and has voting and dispositive power of the securities held by it. The purchase price was determined through arms length negotiations among the parties.
+On September 24, 2018, we completed the acquisition of Donggao International pursuant to the Exchange Agreement described above (the Reverse Merger). As a result of the transaction, Donggao International became our wholly-owned subsidiary and the former shareholders of Donggao International became the holders of approximately 98.12% of our issued and outstanding capital stock on a fully-diluted basis. The acquisition was accounted for as a recapitalization effected by a share exchange, wherein Donggao International is considered the acquirer for accounting and financial reporting purposes. The assets and liabilities of the acquired entity have been brought forward at their book value and no goodwill has been recognized.
+FORM 10 DISCLOSURE
+As disclosed elsewhere in this report, on September 24, 2018, we acquired Donggao International in the Reverse Merger. Item 2.01(f) of Form 8-K states that if the registrant was a shell company, as we were immediately before the reverse acquisition transaction disclosed under Item 2.01, then the registrant must disclose the information that would be required if the registrant were filing a general form for registration of securities on Form 10.
+3
+3
+Accordingly, we are providing below the information that would be included in a Form 10 if we were to file a Form 10. Please note that the information provided below relates to the combined enterprises after our acquisition of Donggao International, except that information relating to periods prior to the date of the Reverse Merger only relate to Donggao International and its subsidiaries unless otherwise specifically indicated.
+BUSINESS
+Our Corporate History and Background
+We were incorporated on April 4, 2014 under the laws of the state of Nevada. We were formed to become a provider of a cloud-based, volunteer tracking software solution aimed for organizations, non-profits and corporations. Since inception, our operations have been limited to forming the Company and raising capital resources. We have only generated nominal revenues to date.
+On July 31, 2017, as a result of two private transactions, Bess Audrey Lipschutz and Shlomit Chaya Frommer transferred an aggregate of 5,000,000 shares of common stock, representing a total of 86.78% of the then issued and outstanding shares of common stock of the Company, to a group of buyers for $340,506.25, resulting in a change of control of the Company. The source of the cash consideration for the shares was personal funds of the buyers. In connection with the transaction, Bess Audrey Lipschutz and Shlomit Chaya Frommer released the Company from all current liabilities and notes payable to a related party, including the $149,137 and $121,550, respectively.
+On July 31, 2017, the existing directors and officers resigned, with the resignations of Bess Audrey Lipschutz and Shlomit Chaya Frommer as directors becoming effective ten (10) days following the mailing of the information statement complying with Rule 14f-1 of the Exchange Act (the Information Statement) to the shareholders of the Company. Accordingly, Bess Audrey Lipschutz has consented to step down as an officer immediately and as a Member of the Board of Directors of the Company, effective ten (10) days following the mailing of the Information Statement to the shareholders of the Company, Shlomit Chaya Frommer has consented to step down as an officer immediately and as a Member of the Board of Directors of the Company, effective ten (10) days following the mailing of the Information Statement to the shareholders of the Company, and Ajay Movalia, serving as a director, ceased to be a director of the Company. At the same time, Mr. Limei Jiang assumed the role as Chairman of the Board of Directors and President, Chief Executive Officer, Chief Financial Officer, and Treasurer of the Company.
+In addition, as a result of the change of control, the Company ceased operations and was reorganized as a vehicle to investigate and acquire a target company or business seeking the perceived advantages of being a publicly held corporation.
+On November 27, 2017, we entered into the Exchange Agreement with Donggao International and holders of all outstanding capital stock of Donggao International, pursuant to which on September 24, 2018, we acquired 100% of the outstanding capital stock of Donggao International, and in exchange, we issued to the former shareholders of Donggao International an aggregate of 300,000,000 shares of the Companys common stock. As a result of the Reverse Merger, Donggao International became our wholly-owned subsidiary and the former shareholders of Donggao International became the holders of approximately 98.12% of our issued and outstanding capital stock on a fully-diluted basis. For accounting purposes, the transaction with Donggao International was treated as a reverse acquisition, with Donggao International as the acquirer and the Company as the acquired party. Unless the context suggests otherwise, when we refer in this report to business and financial information for periods prior to the consummation of the reverse acquisition, we are referring to the business and financial information of Donggao International and its consolidated subsidiaries.
+As a result of our acquisition of Donggao International, we now own all of the issued and outstanding shares of Donggao International, a holding company, which in turn owns all of the equity capital of Donggao Group and its several subsidiaries, which are engaged in the business of resource recycling.
+4
+4
+Donggao International, a Seychelles holding company, was formed on March 13, 2017 by Mr. Yue Zhong, Zhongjian Overseas Investment Limited and Hongshan Holdings Investment Limited. The share capital of Donggao International was increased from $20,000 to $30,000 on June 9, 2017. The sole director of Donggao International is Ms. Lijuan Jiang.
+Donggao Group was established in Seychelles on March 13, 2017. Its sole director is Ms. Lijuan Jiang.
+Donggao Hong Kong was established in Hong Kong on March 23, 2017. Its sole director is Ms. Lijuan Jiang.
+Shenzhen Donggao was established on May 17, 2017 in Shenzhen, China. Its legal representative is Ms. Shaobi Zhong.
+Guangzhou Donggao, our operating subsidiary, was established on January 10, 2018 in Guangzhou, China. Its legal representative is Ms. Lijuan Jiang.
+Our Corporate Structure
+All of our business operations are conducted through our several operating subsidiaries. The chart below presents our corporate structure as of the date of this report:
+5
+5
+Our principal executive offices are located at No. 436, North Dongjiao Road, Room 516, Liwan District, Guangzhou, Guangdong Province, China, 510145. The telephone number at our principal executive office is (86) 020-66685362.
+Our Business Plan
+As rapid urbanization, infrastructure construction and real estate development led to the significant increase of the amount of construction waste and other industrial solid waste in recent years, the inadequate solid waste treatment capacity and pollution issues have become major environmental issues for the Chinese government and industry players. In many places across the country, cities and towns are surrounded by industrial waste and residential garbage and such problems are continuously deteriorating. According to the China Resources Recycling Industry Development Report for 2017, which was released by Chinas Ministry of Commerce, total resource recycling volume of waste steel, waste nonferrous metals, waste plastics, waste tires, waste paper, scrapped electric appliance and electronic products, scrapped cars, waste textiles, waste windows and waste batteries reached 256 million tons as at the end of 2016, up 3.7% year on year, and the aggregate value of recycled resources in the above ten categories amounted to RMB 590.28 billion. In order to address these waste issues, according to green money journals report, the Chinese government will invest RMB 2-4 trillion in the resource recycling industry during the Thirteenth Five-Year Plan (2016-2020).
+The development of resource recycling industry requires collecting a large amount of renewable resources and more importantly, processing and transforming construction waste and industrial residue into value-added recycled products, which will gradually reduce excessive exploitation of precious natural resources on earth and the damages to our environment. As the resource recycling demand becomes increasingly strong, industry landscape is also changing gradually. Industry players are upgrading recycling technologies, adopting innovative business models and applying new technologies to products for end-users. Therefore, innovative application of recycled resources and new resource recycling management modes became two major directions in future resource recycling industry.
+The use of recycled resources comprises four segments, involving recycling, treatment, processing and reselling of recycled resources. The technological standards for treatment and recycling still have room for improvement. The low added value in recycled resources is also one of the factors that impede development of the resource recycling industry. Innovative resource recycling model has provided a new mindset for driving the development of resource recycling industry. For instance, the industry can enhance added value of recycled resources and their use efficiency by strengthening related technologies, which in turn creates sound social and environmental benefits. The higher added value of recycled resources and enhancement in their use efficiency can help build a real product lifecycle, reduce excessive exploitation of resources and boost the reuse of recycled products. This will put an end to the current situation where solid wastes and hazardous wastes remain wastes after treatment and incineration.
+As domestic construction industry continues to develop and China raises its standards for building materials, Chinese building industry will see continuously growing demand for new wall materials. The rising demand, coupled with favorable national and local policies, will significantly promote the use of new all materials, thereby creating great growth opportunities for players in the industry.
+Through our PRC subsidiary, Guangdong Donggao, we are a startup, green, high-tech company that operates in Chinas resource recycling industry. Our current business mainly consists of research, development, and sale of decoration-free wall materials and precast walls, manufactured from recycled solid wastes by our original equipment manufacturers (OEMs). Although resource recycling industry has an excellent growth potential, it is still a small scale industry with few full-fledged players. Waste recycling and utilization, unlike many western countries, is a relatively new concept in China. As a result, most resource recycling companies are currently in their development stage with rudimentary production capabilities. We believe that we are the first Chinese company that is developing core decoration-free wall materials products based on our patented technologies and will become a leading brand in the countrys new wall materials market.
+6
+6
+Based on our analysis of Chinas wall materials market, the brick-concrete structure is subject to serious quality problems such as water leakage, cracking, and falling-off of a decoration layer. As disclosed below, in respect of these problems, we have partnered with various research institutions and universities to carry out comprehensive researches and experiments. Following a series of researches, experiments and tests in respect of sample studies, component analysis, chemical experiments, semi-finished product tests, finished product load bearing, shock resistance, and construction, through our OEMs, we are developing and manufacturing the decoration-free, precast tenon structure wall materials that are manufactured with construction wastes and industrial residue. With our proprietary technologies, we believe our new wall materials outperform red bricks, aerated concrete, shale cavity brick, ceramist wall panel and other materials in terms of wall quality, construction quality, laying speed, costs, construction difficulty, construction safety, door and window nodes, construction consumption, and integrated construction costs. Specifically, our decoration-free wall technologies have the following advantages:
+ The decoration-free wall technology allows removal of processes such as tile fixing and painting. The new wall materials have high strength, and are waterproof and anti-aging.  Tenon structure laying technology makes tenon structures interlocked on each other and enables modularized laying. It speeds up construction and lowers construction costs.  With the microcirculation ventilation technology, walls are connected and atmospheric heat pressure creates natural ventilation, which promotes the air convection between indoor and outdoor spaces, and thereby boosts peoples health. (Tropical areas)  With the self-insulation energy-saving wall technology, lightweight aggregate concretes are poured into the wall connection passages, so that walls become self-insulation. This will help buildings save energy and reduce the safety risk exposed to external wall heat preservation facilities. (Cold areas)  With the resource recycling technology, the waste residue that is eco-friendly and nonradioactive is recycled, which is in line with the national policies.
+
+The decoration-free wall technology allows removal of processes such as tile fixing and painting. The new wall materials have high strength, and are waterproof and anti-aging.
+ Tenon structure laying technology makes tenon structures interlocked on each other and enables modularized laying. It speeds up construction and lowers construction costs.
+
+Tenon structure laying technology makes tenon structures interlocked on each other and enables modularized laying. It speeds up construction and lowers construction costs.
+ With the microcirculation ventilation technology, walls are connected and atmospheric heat pressure creates natural ventilation, which promotes the air convection between indoor and outdoor spaces, and thereby boosts peoples health. (Tropical areas)
+
+With the microcirculation ventilation technology, walls are connected and atmospheric heat pressure creates natural ventilation, which promotes the air convection between indoor and outdoor spaces, and thereby boosts peoples health. (Tropical areas)
+ With the self-insulation energy-saving wall technology, lightweight aggregate concretes are poured into the wall connection passages, so that walls become self-insulation. This will help buildings save energy and reduce the safety risk exposed to external wall heat preservation facilities. (Cold areas)
+
+With the self-insulation energy-saving wall technology, lightweight aggregate concretes are poured into the wall connection passages, so that walls become self-insulation. This will help buildings save energy and reduce the safety risk exposed to external wall heat preservation facilities. (Cold areas)
+ With the resource recycling technology, the waste residue that is eco-friendly and nonradioactive is recycled, which is in line with the national policies.
+
+With the resource recycling technology, the waste residue that is eco-friendly and nonradioactive is recycled, which is in line with the national policies.
+Currently through our OEMs, we are developing the following new wall materials:
+ core-filled wall mortised concrete blocks  core-filled wall mortised concrete blocks  decorative mortised concrete blocks  decorative mortised concrete blocks  antique-style narrow bricks  squeeze-type building mortars
+
+core-filled wall mortised concrete blocks
+ core-filled wall mortised concrete blocks
+
+core-filled wall mortised concrete blocks
+ decorative mortised concrete blocks
+
+decorative mortised concrete blocks
+ decorative mortised concrete blocks
+
+decorative mortised concrete blocks
+ antique-style narrow bricks
+
+antique-style narrow bricks
+ squeeze-type building mortars
+
+squeeze-type building mortars
+On June 27, 2018, we entered into a licensing and manufacturing agreement with our OEM, Foshan Chenshi Environment Protection Materials Co., Ltd. (Foshan Chenshi), pursuant to which we authorized and licensed Foshan to manufacture and supply us antique-style narrow bricks based on our patented technologies. The total contract price is RMB 2.9 million (approximately $423,000). On the same date, we entered into the first supply agreement with Foshan Chenshi ordering 20,000 square meters of antique-style narrow bricks for RMB 260,000 (approximately$38,000).
+7
+7
+As one of the first batch of Chinese companies that transform recycled resources into building materials, we will continue to focus on material decomposing and filtering technologies for resource recycling, and develop downstream technologies in a targeted manner, thereby maximizing the efficiency of the resource recycling process..
+Sales and Marketing
+To promote our sales, we adopted both direct and indirect sales models. Under the direct sales model, we directly enter into purchase agreements with project developers. We will then arrange OEMs to manufacture the wall materials based on the orders that we receive from project developers. Under the indirect sales model, we enter into partnership with architecture designing institutions, which not only directly use our building materials in their project designs, but also assist us in building up business relations with project developers.
+Our squeeze-type building mortars are sold to both businesses and household consumers. The squeeze-type building mortars are primarily used in laying and are squeezed during the course of construction. When used, it is squeezed through devices similar to the regular AB glue guns and injected into mortices of multi-hole blocks. The product can be used in both large-scale construction projects and small personal home decoration projects. We not only sell our squeeze-type building mortars by signing contracts directly with project developers, but also carry out large-scale and rapid online marketing activities on internet retail platforms such as www.jdwl.com. Such online marketing activities have direct contact with end consumers, which enables us to directly communicate with our consumers and market our products across different regions. In the end, it also helps expand the customer base, boost sales and shorten the receivable collection period.
+Our Customers
+Our current and future customers mainly include governments, construction and real estate companies and households. Our current major customers include Fujian Changting County Longhu Construction Engineering Co., Ltd., Zhongshan City Hechenglian Construction Engineering Co., Ltd., Zhongshan City Changhua Construction Consulting Co., Ltd. and Guangdong Zhiye Project Construction Co., Ltd. On May 23, 2018, we entered into a product sales agreement with Fujian Changting County Longhu Construction Engineering Co., Ltd., pursuant to which we are selling the buyer core-filled wall mortised concrete blocks and core-filled wall mortised concrete blocks during the period from June 1, 2018 through June 30, 2019 for RMB 16,940,000 (approximately $2.5 million). On June 5, 2018, we entered into a product sales agreement with Zhongshan City Hechenglian Construction Engineering Co., Ltd., pursuant to which we are selling the buyer decorative mortised concrete blocks and decorative mortised concrete blocks during the period from September 1, 2018 through August 31, 2019 for RMB 30,376,000 (approximately $4.4 million). We do not expect that sales to any of them will constitute 10% or more of our revenues during the next fiscal year or the loss of any of them would have a material adverse effect on our business operations.
+Research and Development
+We mainly operate our businesses through our subsidiary, Guangzhou Donggao, which has entered into strategic partnerships with Guangdong Association of Circular Economy and Resources Comprehensive Utilization, Guangdong Provincial Academy of Building Research, and Research Institution of Guangzhou University. We are also a long-term partner of Institute of Advanced Engineering Technology under Wuhan University of Technology, Zhongshan Lingwan New Materials Technology Co., Ltd., Fujian Changting Longhu Construction Engineering Co., Ld., and Zhongshan Heshenglian Construction Co., Ltd.
+8
+8
+On February 8, 2018, Guangzhou Donggao entered into a strategic cooperation agreement with Institute of Advanced Engineering Technology under Wuhan University of Technology (Wuhan University of Technology), under which, Wuhan University of Technology will assist us in researching and developing new eco-friendly masonry mortars. In addition, Wuhan University of Technology will be responsible for the experimental verification of new eco-friendly mortar that has been researched and developed and to assist us in developing, building and promoting artificial intelligence equipment. Wuhan University of Technology will also take advantage of its own resources and channels to promote the application of our new wall materials, eco-friendly masonry mortar and artificial intelligence equipment in the construction industry.
+On May 20, 2018, Guangzhou Donggao entered into a strategic cooperation agreement with Guangzhou University, under which the parties agreed to use architectural waste residues to jointly research and develop core-filled wall mortised concrete blocks and improve the heat retaining property of architectural walls in order to promote the recycling economy, energy conservation and emission reduction. Any inventions and technologies developed in the course of cooperation will be co-owned by both parties unless otherwise agreed by both parties.
+Our research and development team consists of two members as of June 30, 2018. Donggao International incurred $7,686 and $0 as research and development expenses for the fiscal year ended June 30, 2018 and for the period from March 13, 2017 (the date of inception) to June 30, 2017, respectively.
+Our Competition
+Our short-term goal is to become the pioneer in developing environmental friendly wall materials in Guangdong Province and the nearby vicinity. We currently do not have any strong competitors in this geographic area as we believe that we have differentiated ourselves from our potential competitors. We believe these companies lack in-depth insight into the resource recycling industry, and as a result, they only manufacture low-value-added and low-performance bricks, such as standard bricks, aerated bricks and hollow blocks using older equipment and production techniques. . In contrast, our products are aimed at the high-end wall material markets so we attempt to manufacture them with superior quality and a broader range of specifications based on our patented technologies.
+While we strive to keep our products and services innovative and efficient, there can be no assurance that our initial competitive advantage will be retained and that one or more competitors will not develop systems that are equal or superior to ours or are better priced than ours. In the future, we may face competition from competitors of varying sizes and geographic reach, who operate their businesses similar to our planned business. Our sales could be reduced significantly if our competitors develop and market products that are more effective, more convenient, or are less expensive than our products.
+Our Intellectual Property
+We have a policy of seeking patents, when appropriate, on inventions relating to products and methods that are discovered or developed as part of our ongoing research, development and manufacturing activities. We currently own 40 China patents, among which 21 patents were transferred to us from our largest shareholder, Mr. Yue Zhong. On March 20, 2018, Mr. Zhong entered into a patent transfer agreement with Guangzhou Donggao, pursuant to which Mr. Zhong transferred to Guangzhou Donggao 21 patents owned by him for 72.856% ownership of Donggao International.
+Our existing patents will expire at dates ranging from July 10, 2019 to August 20, 2033.
+9
+9
+We currently have the ownership or use rights to the following patents:
+10 Patents for Invention Application/Patent Number Patent Title Expiration Date Application/Patent Number Patent Title Expiration Date ZL 201210324551.4 A hollow composite wall in framework structure Expiring on 9/4/2032 ZL 201310365054.3 A forming mold for hollow wall brick Expiring on 8/20/2033 ZL 201310365054.3 A forming mold for hollow wall brick Expiring on 1/20/2036 ZL 201310365354.1 A main body brick used in hollow wall Expiring on 8/20/2033 ZL 201210280124.0 A hollow load-bearing wall Expiring on 8/8/2032 ZL 200910041178.X A heat insulation and heat preservation wall Expiring on 7/10/2029 ZL 201210270238.7 A building block Expiring on 7/30/2033 ZL 200810028833.4 A forming mold for building blocks with decoration layers Expiring on 6/12/2028 ZL 201310364563.4 A method of building hollow walls Expiring on 8/20/2033 ZL 200810028834.8 A light aggregate material and energy conservation block and its methods of manufacturing Expiring on 6/12/2028 13 Design Patents ZL 201230349203.3 Wall blocks (1) Expiring on 7/30/2022 ZL 201130091674.4 Decoration-free wall component (1) Expiring on 4/26/2021 ZL 201230348977.4 Wall blocks (2) Expiring on 7/30/2022 ZL 201130091488.0 Decoration-free wall component (2) Expiring on 4/26/2021 ZL 201230351741.6 Wall blocks (3) Expiring on 7/30/2022 ZL 200930681863.X Energy conservation brick Expiring on 12/28/2019 ZL 201230351135.4 Wall blocks (4) Expiring on 7/30/2022 ZL 201330397259.0 Acoustic tile Expiring on 8/20/2023 ZL 201230349557.8 Wall blocks (5) Expiring on 7/30/2022 ZL 201330397262.2 Hollow wall corner brick Expiring on 8/20/2023 ZL 201230351743.5 Wall blocks (6) Expiring on 7/30/2022 ZL 201330397305.7 Hollow wall brick Expiring on 8/20/2023 ZL 201230349812.9 Wall blocks (7) Expiring on 7/30/2022 17 Utility Patents ZL 201220371348.8 A building block Expiring on 7/30/2022 ZL 201220371971.3 A high hollow interior wall tile Expiring on 7/30/2022 ZL 201320509996.X A main body brick used in building hollow wall Expiring on 8/20/2023 ZL 201220391908.6 A new hollow load-bearing wall Expiring on 8/8/2022 ZL 200920060708.0 A building ventilation system Expiring on 7/13/2019 ZL 201220390210.2 A hollow load-bearing wall Expiring on 8/8/2022 ZL 200920060593.5 A heat insulation and heat preservation wall Expiring on 7/10/2019 ZL 201220370187.0 A hollow load-bearing brick Expiring on 7/30/2022 ZL 201020123209.4 A building ventilation and heat transfer system Expiring on 1/27/2020 ZL 201220448618.0 A hollow composite wall in framework structure Expiring on 9/4/2022 ZL 200920296126.5 An energy conservation brick Expiring on 12/28/2019 ZL 201220371581.6 A capping wall brick Expiring on 7/30/2022 ZL 201120126398.5 A forming mold for decoration-free wall component Expiring on 4/26/2021 ZL 201320510614.5 A forming mold for hollow wall bricks Expiring on 8/20/2023 ZL 201120126422.5 A hollow decoration-free wall component Expiring on 4/26/2021 ZL 201320510134.9 An acoustic wall brick Expiring on 8/20/2023 ZL 201220371578.4 A wall brick and wall made up of such wall bricks Expiring on 7/30/2022
+10 Patents for Invention
+Application/Patent Number Patent Title Expiration Date Application/Patent Number Patent Title Expiration Date
+Patent Title
+Expiration Date
+Application/Patent Number
+Patent Title
+Expiration Date
+ZL 201210324551.4 A hollow composite wall in framework structure Expiring on 9/4/2032 ZL 201310365054.3 A forming mold for hollow wall brick Expiring on 8/20/2033
+A hollow composite wall in framework structure
+Expiring on 9/4/2032
+ZL 201310365054.3
+A forming mold for hollow wall brick
+Expiring on 8/20/2033
+ZL 201310365054.3 A forming mold for hollow wall brick Expiring on 1/20/2036 ZL 201310365354.1 A main body brick used in hollow wall Expiring on 8/20/2033
+A forming mold for hollow wall brick
+Expiring on 1/20/2036
+ZL 201310365354.1
+A main body brick used in hollow wall
+Expiring on 8/20/2033
+ZL 201210280124.0 A hollow load-bearing wall Expiring on 8/8/2032 ZL 200910041178.X A heat insulation and heat preservation wall Expiring on 7/10/2029
+A hollow load-bearing wall
+Expiring on 8/8/2032
+ZL 200910041178.X
+A heat insulation and heat preservation wall
+Expiring on 7/10/2029
+ZL 201210270238.7 A building block Expiring on 7/30/2033 ZL 200810028833.4 A forming mold for building blocks with decoration layers Expiring on 6/12/2028
+A building block
+Expiring on 7/30/2033
+ZL 200810028833.4
+A forming mold for building blocks with decoration layers
+Expiring on 6/12/2028
+ZL 201310364563.4 A method of building hollow walls Expiring on 8/20/2033 ZL 200810028834.8 A light aggregate material and energy conservation block and its methods of manufacturing Expiring on 6/12/2028
+A method of building hollow walls
+Expiring on 8/20/2033
+ZL 200810028834.8
+A light aggregate material and energy conservation block and its methods of manufacturing
+Expiring on 6/12/2028
+13 Design Patents
+ZL 201230349203.3 Wall blocks (1) Expiring on 7/30/2022 ZL 201130091674.4 Decoration-free wall component (1) Expiring on 4/26/2021
+Wall blocks (1)
+Expiring on 7/30/2022
+ZL 201130091674.4
+Decoration-free wall component (1)
+Expiring on 4/26/2021
+ZL 201230348977.4 Wall blocks (2) Expiring on 7/30/2022 ZL 201130091488.0 Decoration-free wall component (2) Expiring on 4/26/2021
+Wall blocks (2)
+Expiring on 7/30/2022
+ZL 201130091488.0
+Decoration-free wall component (2)
+Expiring on 4/26/2021
+ZL 201230351741.6 Wall blocks (3) Expiring on 7/30/2022 ZL 200930681863.X Energy conservation brick Expiring on 12/28/2019
+Wall blocks (3)
+Expiring on 7/30/2022
+ZL 200930681863.X
+Energy conservation brick
+Expiring on 12/28/2019
+ZL 201230351135.4 Wall blocks (4) Expiring on 7/30/2022 ZL 201330397259.0 Acoustic tile Expiring on 8/20/2023
+Wall blocks (4)
+Expiring on 7/30/2022
+ZL 201330397259.0
+Acoustic tile
+Expiring on 8/20/2023
+ZL 201230349557.8 Wall blocks (5) Expiring on 7/30/2022 ZL 201330397262.2 Hollow wall corner brick Expiring on 8/20/2023
+Wall blocks (5)
+Expiring on 7/30/2022
+ZL 201330397262.2
+Hollow wall corner brick
+Expiring on 8/20/2023
+ZL 201230351743.5 Wall blocks (6) Expiring on 7/30/2022 ZL 201330397305.7 Hollow wall brick Expiring on 8/20/2023
+Wall blocks (6)
+Expiring on 7/30/2022
+ZL 201330397305.7
+Hollow wall brick
+Expiring on 8/20/2023
+ZL 201230349812.9 Wall blocks (7) Expiring on 7/30/2022
+Wall blocks (7)
+Expiring on 7/30/2022
+17 Utility Patents
+ZL 201220371348.8 A building block Expiring on 7/30/2022 ZL 201220371971.3 A high hollow interior wall tile Expiring on 7/30/2022
+A building block
+Expiring on 7/30/2022
+ZL 201220371971.3
+A high hollow interior wall tile
+Expiring on 7/30/2022
+ZL 201320509996.X A main body brick used in building hollow wall Expiring on 8/20/2023 ZL 201220391908.6 A new hollow load-bearing wall Expiring on 8/8/2022
+A main body brick used in building hollow wall
+Expiring on 8/20/2023
+ZL 201220391908.6
+A new hollow load-bearing wall
+Expiring on 8/8/2022
+ZL 200920060708.0 A building ventilation system Expiring on 7/13/2019 ZL 201220390210.2 A hollow load-bearing wall Expiring on 8/8/2022
+A building ventilation system
+Expiring on 7/13/2019
+ZL 201220390210.2
+A hollow load-bearing wall
+Expiring on 8/8/2022
+ZL 200920060593.5 A heat insulation and heat preservation wall Expiring on 7/10/2019 ZL 201220370187.0 A hollow load-bearing brick Expiring on 7/30/2022
+A heat insulation and heat preservation wall
+Expiring on 7/10/2019
+ZL 201220370187.0
+A hollow load-bearing brick
+Expiring on 7/30/2022
+ZL 201020123209.4 A building ventilation and heat transfer system Expiring on 1/27/2020 ZL 201220448618.0 A hollow composite wall in framework structure Expiring on 9/4/2022
+A building ventilation and heat transfer system
+Expiring on 1/27/2020
+ZL 201220448618.0
+A hollow composite wall in framework structure
+Expiring on 9/4/2022
+ZL 200920296126.5 An energy conservation brick Expiring on 12/28/2019 ZL 201220371581.6 A capping wall brick Expiring on 7/30/2022
+An energy conservation brick
+Expiring on 12/28/2019
+ZL 201220371581.6
+A capping wall brick
+Expiring on 7/30/2022
+ZL 201120126398.5 A forming mold for decoration-free wall component Expiring on 4/26/2021 ZL 201320510614.5 A forming mold for hollow wall bricks Expiring on 8/20/2023
+A forming mold for decoration-free wall component
+Expiring on 4/26/2021
+ZL 201320510614.5
+A forming mold for hollow wall bricks
+Expiring on 8/20/2023
+ZL 201120126422.5 A hollow decoration-free wall component Expiring on 4/26/2021 ZL 201320510134.9 An acoustic wall brick Expiring on 8/20/2023
+A hollow decoration-free wall component
+Expiring on 4/26/2021
+ZL 201320510134.9
+An acoustic wall brick
+Expiring on 8/20/2023
+ZL 201220371578.4 A wall brick and wall made up of such wall bricks Expiring on 7/30/2022
+A wall brick and wall made up of such wall bricks
+Expiring on 7/30/2022
+10
+10
+In addition, we have two patent applications pending and we will continue to seek patent protection to the extent we believe such protection is appropriate and cost-effective. We regard our patents important to our success and our competitive position.
+All of our employees have entered into standard employment agreements requiring them to keep confidential all information relating to our customers, methods, business and trade secrets during their terms of employment with us and thereafter and to assign to us their inventions, technologies and designs they develop during their term of employment with us.
+Regulation
+Because all of our operating entities are located in the PRC, we are regulated by the national and local laws of the PRC. This section summarizes the major PRC regulations relating to our business.
+Environmental Matters
+The Environmental Protection Law, promulgated by the National Peoples Congress on December 26, 1989, is the primary law for environmental protection in China. The law establishes basic principles for coordinated advancement of economic growth, social progress and environmental protection, and defines the rights and duties of governments at all levels. Local environmental protection bureaus may set stricter local standards than the national standards and enterprises are required to comply with the stricter of the two sets of standards.
+Business license
+Any company that conducts business in the PRC must have a business license that covers a particular type of work. Other than regular business licenses that we have already obtained, there is no special license or permit required for us to engage in the current businesses under PRC laws and regulations.
+Foreign Currency Exchange
+Under the Foreign Currency Administration Rules promulgated in 1996 and revised in 1997, and various regulations issued by SAFE and other relevant PRC government authorities, RMB is convertible into other currencies without prior approval from SAFE only to the extent of current account items, such as trade related receipts and payments, interest and dividends and after complying with certain procedural requirements. The conversion of RMB into other currencies and remittance of the converted foreign currency outside PRC for the purpose of capital account items, such as direct equity investments, loans and repatriation of investment, requires the prior approval from SAFE or its local office. Payments for transactions that take place within China must be made in RMB. Unless otherwise approved, PRC companies must repatriate foreign currency payments received from abroad. Foreign-invested enterprises may retain foreign exchange in accounts with designated foreign exchange banks subject to a cap set by SAFE or its local office. Unless otherwise approved, domestic enterprises must convert all of their foreign currency proceeds into RMB.
+11
+11
+On October 21, 2005, SAFE issued the Notice on Issues Relating to the Administration of Foreign Exchange in Fund-raising and Reverse Investment Activities of Domestic Residents Conducted via Offshore Special Purpose Companies, which became effective as of November 1, 2005. According to the notice, a special purpose company, or SPV, refers to an offshore company established or indirectly controlled by PRC residents for the special purpose of carrying out financing of their assets or equity interest in PRC domestic enterprises. Prior to establishing or assuming control of an SPV, each PRC resident, whether a natural or legal person, must complete the overseas investment foreign exchange registration procedures with the relevant local SAFE branch. The notice applies retroactively. As a result, PRC residents who have established or acquired control of these SPVs that previously made onshore investments in China were required to complete the relevant overseas investment foreign exchange registration procedures by March 31, 2006. These PRC residents must also amend the registration with the relevant SAFE branch in the following circumstances: (i) the PRC residents have completed the injection of equity investment or assets of a domestic company into the SPV; (ii) the overseas funding of the SPV has been completed; (iii) there is a material change in the capital of the SPV. Under the rules, failure to comply with the foreign exchange registration procedures may result in restrictions being imposed on the foreign exchange activities of the violator, including restrictions on the payment of dividends and other distributions to its offshore parent company, and may also subject the violators to penalties under the PRC foreign exchange administration regulations.
+On August 29, 2008, SAFE promulgated Circular 142 which regulates the conversion by a foreign-funded enterprise of foreign currency into RMB by restricting how the converted RMB may be used. In addition, SAFE promulgated Circular 45 on November 9, 2011 in order to clarify the application of Circular 142. Under Circular 142 and Circular 45, the RMB capital converted from foreign currency registered capital of a foreign-invested enterprise may only be used for purposes within the business scope approved by the applicable government authority and may not be used for equity investments within the PRC. In addition, SAFE strengthened its oversight of the flow and use of the RMB capital converted from foreign currency registered capital of foreign-invested enterprises. The use of such RMB capital may not be changed without SAFEs approval, and such RMB capital may not in any case be used to repay RMB loans if the proceeds of such loans have not been used. Violations of Circular 142 and Circular 45 could result in severe penalties, such as heavy fines as set out in the relevant foreign exchange control regulations. On July 4, 2014, SAFE promulgated SAFE Circular 36, which launched a pilot reform of the administration of the settlement of the foreign exchange capitals of foreign-invested enterprises in certain designated areas from August 4, 2014. However, SAFE Circular 36 continues to prohibit foreign-invested enterprises from directly or indirectly using the Renminbi converted from their foreign exchange capitals for purposes beyond its business scope. On March 30, 2015, SAFE promulgated Circular 19, to expand the reform nationwide. Circular 19 will come into force and replace both Circular 142 and Circular 36 on June 1, 2015. Circular 36 allows enterprises established within the pilot areas to use their foreign exchange capitals to make equity investment and removes certain other restrictions provided under Circular 142 for these enterprises. Circular 19 will remove those restrictions for all foreign-invested enterprises established in the PRC. However, both Circular 36 and Circular 19 continue to prohibit foreign-invested enterprises from, among other things, using the Renminbi fund converted from its foreign exchange capitals for expenditure beyond its business scope, providing entrusted loans or repaying loans between non-financial enterprises.
+12
+12
+Dividend Distributions
+Under applicable PRC regulations, FIEs in China may pay dividends only out of their accumulated profits, if any, determined in accordance with PRC accounting standards and regulations. In addition, a FIE in China is required to set aside at least 10% of its after-tax profit based on PRC accounting standards each year to its general reserves until the accumulative amount of such reserves reach 50% of its registered capital. These reserves are not distributable as cash dividends. The board of directors of a FIE has the discretion to allocate a portion of its after-tax profits to staff welfare and bonus funds, which may not be distributed to equity owners except in the event of liquidation.
+After-tax profits/losses with respect to the payment of dividends out of accumulated profits and the annual appropriation of after-tax profits as calculated pursuant to PRC accounting standards and regulations do not result in significant differences as compared to after-tax earnings as presented in our financial statements. However, there are certain differences between PRC accounting standards and regulations and U.S. generally accepted accounting principles, arising from different treatment of items such as amortization of intangible assets and change in fair value of contingent consideration rising from business combinations.
+In addition, under the EIT Law, the Notice of the State Administration of Taxation on Negotiated Reduction of Dividends and Interest Rates, which was issued on January 29, 2008, the Arrangement between the PRC and the Hong Kong Special Administrative Region on the Avoidance of Double Taxation and Prevention of Fiscal Evasion, which became effective on December 8, 2006, and the Notice of the State Administration of Taxation Regarding Interpretation and Recognition of Beneficial Owners under Tax Treaties, which became effective on October 27, 2009, dividends from our PRC operating subsidiaries paid to us through our Hong Kong subsidiary may be subject to a withholding tax at a rate of 10%, or at a rate of 5% if our Hong Kong subsidiary is considered a beneficial owner that is generally engaged in substantial business activities and entitled to treaty benefits under the Arrangement between the PRC and the Hong Kong Special Administrative Region on the Avoidance of Double Taxation and Prevention of Fiscal Evasion.
+Laws and Regulations Related to Employment and Labor Protection
+On June 29, 2007, the National Peoples Congress promulgated the Employment Contract Law of PRC (Employment Contract Law), which became effective as of January 1, 2008 and amended on December 28, 2012. The Employment Contract Law requires employers to provide written contracts to their employees, restricts the use of temporary workers and aims to give employees long-term job security.
+Pursuant to the Employment Contract Law, employment contracts lawfully concluded prior to the implementation of the Employment Contract Law and continuing as of the date of its implementation shall continue to be performed. Where an employment relationship was established prior to the implementation of the Employment Contract Law but no written employment contract was concluded, a contract must be concluded within one month after its implementation.
+On September 18, 2008, the State Council promulgated the Implementing Regulations for the PRC Employment Contract Law which came into effect immediately. These regulations interpret and supplement the provisions of the Employment Contract Law.
+Our standard employment contract complies with the requirements of the Employment Contract Law and its implementing regulations. We have entered into written employment contracts with all of our employees.
+13
+13
+Employees
+Currently we have a total of six employees, four of whom are full-time employees. The following table sets forth the number of our full-time employees by function.
+Function Number of Employees Sales and Marketing Operations 2 General and Administrative 2 Research and Development 2 Total 6
+Number of Employees
+Sales and Marketing Operations 2
+2
+General and Administrative 2
+2
+Research and Development 2
+2
+Total 6
+6
+None of our employees belong to a union or are a party to any collective bargaining or similar agreement. We consider our relationships with our employees to be good.
+RISK FACTORS
+An investment in our common stock involves a high degree of risk. You should carefully consider the risks described below, together with all of the other information included in this report, before making an investment decision. If any of the following risks actually occurs, our business, financial condition or results of operations could suffer. In that case, the trading price of our common stock could decline, and you may lose all or part of your investment. You should read the section entitled Special Notes Regarding Forward-Looking Statements above for a discussion of what types of statements are forward-looking statements, as well as the significance of such statements in the context of this report.
+Risks Related to Our Business
+Our independent registered auditors have expressed substantial doubt about our ability to continue as a going concern.
+Our audited consolidated financial statements included in this report include a paragraph that indicates that they were prepared assuming that we would continue as a going concern. As discussed in Note 3 to the audited consolidated financial statements included with this report, we had a working capital deficiency and an accumulated deficit of $112,034 as of June 30, 2018. Our losses have principally occurred as a result of the lack of a source of recurring revenues and the substantial resources required for research and development and marketing of the our products which included the general and administrative expenses associated with our organization. These conditions raise substantial doubt about our ability to continue as a going concern. The ability to continue as a going concern is dependent upon generating profitable operations in the future and/or obtaining the necessary financing to meet our obligations and repay our liabilities arising from normal business operations when they become due. Management plans to obtain additional funding and implement its strategic plan to allow the opportunity for the Company to continue as a going concern; however, there can be no assurance that we will be successful in these plans or in attracting equity or alternative financing on acceptable terms, or if at all.
+We may continue to incur losses in the future, and may not be able to return to profitability, which may cause the market price of our shares to decline.
+Donggao International incurred a net loss of $110,554 in the fiscal year ended June 30, 2018 and $1,480 during the period from its inception on March 13, 2017 to June 30, 2017. We have not generated any revenue. Our current operations are small with a short history. We may be unable to achieve our performance targets, which will impact the Companys operating results. Our ability to achieve profitability depends on the competitiveness of our products as well as our ability to control costs and to provide new products to meet the market demands and attract new customers. Due to the numerous risks and uncertainties associated with the development of our business, we cannot guarantee that we may be able to achieve profitability in the short-term or long-term.
+14
+14
+Our business plan is based on a relatively new model that may not be successful and we may not successfully implement our business strategies.
+Our business plan has not been examined or tested by the market. Our products and services are targeted at an emerging market and any potential increase in our revenues depends on the achievement by our current and future clients, which is a new market in the region. In addition, we cannot guarantee the full and successful implementation of our business strategies. To ensure the successful reception of our products by a large number of construction entities in China, great efforts must to be made in promotion and business partner development. However, we cannot guarantee successful promotion of our products and we may not be able to realize our business goals.
+The discontinuation, reduction or delay of any of the preferential policy treatments currently available to us in the PRC could materially and adversely affect our business, financial condition and results of operations.
+The Chinese government has provided reduced taxes and subsidies and other support across the resource recycling industry. In particular, the industry receives value-added tax rebates and subsidies from the Special Funds for New Wall Materials. The discontinuation, reduction or delay of any of the preferential policy treatments currently available to us in the PRC could materially and adversely affect our business, financial condition and results of operations.
+Our business could be materially and adversely affected by fluctuations in, and government measures influencing, Chinas real estate industry.
+Our business focuses on new wall materials production, which is mainly used in the construction materials industry, which in turn depends substantially on conditions of the real estate development, public infrastructure construction and urbanization. Fluctuations of supply and demand in Chinas real estate market are caused by economic, social, political and other factors. The real estate market in China is in particular affected by changes in government policies affecting the real estate and financial markets and related areas. In the past, the PRC government has adopted various administrative measures to curb what it perceived as unsustainable growth in the real estate market, particularly when the real estate market in China experienced rapid and significant increases in home sales as well as prices. Any future policy changes to tighten the acquisition and/or ownership of real estate or slow down the urbanization could affect the demand for our products and negatively impact our business, financial condition and results of operation.
+We depend heavily on key personnel, and turnover of key employees and senior management could harm our business.
+Our future business and results of operations depend in significant part upon the continued contributions of our key technical and senior management personnel. They also depend in significant part upon our ability to attract and retain additional qualified management, technical, marketing and sales and support personnel for our operations. As China is building its powerful technology industry and enhancing its market-oriented economic system, competition for talents becomes increasingly fierce. Many of our potential competitors have greater financial, personnel, technical, manufacturing, marketing, sales and other resources than we do. If we lose a key employee or if a key employee fails to perform in his or her current position, or if we are not able to attract and retain skilled employees as needed, our business could suffer. We depend on the skills and abilities of these key employees in managing the technical, marketing and sales aspects of our business, any part of which could be harmed by further turnover.
+We may not be able to manage our expansion of operations effectively.
+We are in the process of developing our business in order to meet the potentially increasing demand for our future products, as well as capture new market opportunities. Our current business operations are smallw with a short history. We may be unable to achieve our performance targets, which will impact the Companys operating results. As we continue to grow, we must continue to improve our operational and financial systems, procedures and controls, increase service capacity and output, and expand, train and manage our growing employee base. In order to fund our on-going operations and our future growth, we need to have sufficient internal sources of liquidity or access to additional financing from external sources. Furthermore, our management will be required to maintain and strengthen our relationships with our customers and other third parties. Currently, we only have six employees. As a result, our continued expansion has placed, and will continue to place, significant strains on our management personnel, systems and resources. We also will need to further strengthen our internal control and compliance functions to ensure that we will be able to comply with our legal and contractual obligations and minimize our operational and compliance risks. Our current and planned operations, personnel, systems, internal procedures and controls may not be adequate to support our future growth. If we are unable to manage our growth effectively, we may not be able to take advantage of market opportunities, execute our business strategies or respond to competitive pressures.
+15
+15
+Our holding company structure may limit the payment of dividends.
+We have no direct business operations, other than our ownership of our subsidiaries. While we have no current intention of paying dividends, should we decide in the future to do so, as a holding company, our ability to pay dividends and meet other obligations depends upon the receipt of dividends or other payments from our operating subsidiaries and other holdings and investment. In addition, our operating subsidiaries, from time to time, may be subject to restrictions on their ability to make distributions to us, including as a result of restrictive covenants in loan agreements, restrictions on the conversion of local currency into U.S. dollars or other hard currency and other regulatory restrictions as discussed below. If future dividends are paid in RMB, fluctuations in the exchange rate for the conversion of RMB into U.S. dollars may reduce the amount received by U.S. stockholders upon conversion of the dividend payment into U.S. dollars.
+Chinese regulations currently permit the payment of dividends only out of accumulated profits as determined in accordance with Chinese accounting standards and regulations. Our subsidiaries in China are also required to set aside a portion of their after tax profits according to Chinese accounting standards and regulations to fund certain reserve funds. Currently, our subsidiaries in China are the only sources of revenues or investment holdings for the payment of dividends. If they do not accumulate sufficient profits under Chinese accounting standards and regulations to first fund certain reserve funds as required by Chinese accounting standards, we will be unable to pay any dividends.
+After-tax profits/losses with respect to the payment of dividends out of accumulated profits and the annual appropriation of after-tax profits as calculated pursuant to PRC accounting standards and regulations do not result in significant differences as compared to after-tax earnings as presented in our financial statements.
+However, there are certain differences between PRC accounting standards and regulations and U.S. GAAP, arising from different treatment of items such as amortization of intangible assets and change in fair value of contingent consideration rising from business combinations.
+Risk Related to Doing Business in China
+Changes in the economic and political policies of the PRC government could have a material and adverse effect on our business and operations.
+We conduct substantially all our business operations in China. Accordingly, our results of operations, financial condition and prospects are significantly dependent on economic and political developments in China. Chinas economy differs from the economies of developed countries in many aspects, including the level of development, growth rate and degree of government control over foreign exchange and allocation of resources. While Chinas economy has experienced significant growth in the past 30 years, the growth has been uneven across different regions and periods and among various economic sectors in China. We cannot assure you that Chinas economy will continue to grow, or that if there is growth, such growth will be steady and uniform, or that if there is a slowdown, such slowdown will not have a negative effect on its business and results of operations.
+The PRC government exercises significant control over China. Accordingly, our results of operations, financial condition and prospects are significantly dependent on economic and political developments in China. Certain measures adopted by the PRC government may restrict loans to certain industries, such as changes in the statutory deposit reserve ratio and lending guidelines for commercial banks by the Peoples Bank of China. These current and future government actions could materially affect our liquidity, access to capital, and ability to operate our business.
+16
+16
+The global financial markets experienced significant disruptions in 2008 and the United States, Europe and other economies went into recession. Since 2012, growth of the Chinese economy has slowed down. The PRC government has implemented various measures to encourage economic growth and guide the allocation of resources. Some of these measures may benefit the overall PRC economy but may also have a negative effect on us. Our financial condition and results of operation could be materially and adversely affected by government control over capital investments or changes in tax regulations that are applicable to us. In addition, any stimulus measures designed to boost the Chinese economy, may contribute to higher inflation, which could adversely affect our results of operations and financial condition. See Future inflation in China may inhibit our ability to conduct business in China.
+Uncertainties with respect to the PRC legal system could limit the legal protections available to you and us.
+We conduct substantially all of our business through our operating subsidiaries in the PRC. Our operating subsidiaries are generally subject to laws and regulations applicable to foreign investments in China and, in particular, laws applicable to FIEs. The PRC legal system is based on written statutes, and prior court decisions may be cited for reference but have limited precedential value. Since 1979, a series of new PRC laws and regulations have significantly enhanced the protections afforded to various forms of foreign investments in China. However, since the PRC legal system continues to evolve rapidly, the interpretations of many laws, regulations, and rules are not always uniform, and enforcement of these laws, regulations, and rules involve uncertainties, which may limit legal protections available to you and us. In addition, any litigation in China may be protracted and result in substantial costs and diversion of resources and management attention. In addition, all of our executive officers and directors are residents of China and not of the United States, and substantially all the assets of these persons are located outside the United States. As a result, it could be difficult for investors to affect service of process in the United States or to enforce a judgment obtained in the United States against our Chinese operations and subsidiaries.
+You may have difficulty enforcing judgments against us.
+Most of our assets are located outside of the United States and most of our current operations are conducted in the PRC. In addition, all of our directors and officers are nationals and residents of countries other than the United States. A substantial portion of the assets of these persons is located outside the United States. As a result, it may be difficult for you to effect service of process within the United States upon these persons. It may also be difficult for you to enforce in U.S. courts judgments on the civil liability provisions of the U.S. federal securities laws against us and our officers and directors, most of whom are not residents in the United States and the substantial majority of whose assets are located outside of the United States. In addition, there is uncertainty as to whether the courts of the PRC would recognize or enforce judgments of U.S. courts. Our counsel as to PRC law has advised us that the recognition and enforcement of foreign judgments are provided for under the PRC Civil Procedures Law. Courts in China may recognize and enforce foreign judgments in accordance with the requirements of the PRC Civil Procedures Law based on treaties between China and the country where the judgment is made or on reciprocity between jurisdictions. China does not have any treaties or other arrangements that provide for the reciprocal recognition and enforcement of foreign judgments with the United States. In addition, according to the PRC Civil Procedures Law, courts in the PRC will not enforce a foreign judgment against us or our directors and officers if they decide that the judgment violates basic principles of PRC law or national sovereignty, security, or the public interest. So, it is uncertain whether a PRC court would enforce a judgment rendered by a court in the United States.
+17
+17
+The PRC government exerts substantial influence over the manner in which we must conduct our business activities.
+The PRC government has exercised and continues to exercise substantial control over virtually every sector of the Chinese economy through regulation and state ownership. Our ability to operate in China may be harmed by changes in its laws and regulations, including those relating to taxation, import and export tariffs, environmental regulations, land use rights, property, and other matters. We believe that our operations in China are in material compliance with all applicable legal and regulatory requirements. However, the central or local governments of the jurisdictions in which we operate may impose new, stricter regulations or interpretations of existing regulations that would require additional expenditures and efforts on our part to ensure our compliance with such regulations or interpretations.
+Accordingly, government actions in the future, including any decision not to continue to support recent economic reforms and to return to a more centrally planned economy or regional or local variations in the implementation of economic policies, could have a significant effect on economic conditions in China or particular regions thereof and could require us to divest ourselves of any interest we then hold in Chinese properties or joint ventures.
+The enforcement of the PRC labor contract law may materially increase our costs and decrease our net income.
+China adopted a new Labor Contract Law, effective on January 1, 2008, and issued its implementation rules, effective on September 18, 2008. The Labor Contract Law and related rules and regulations impose more stringent requirements on employers with regard to, among others, minimum wages, severance payment and non-fixed-term employment contracts, time limits for probation periods, as well as the duration and the times that an employee can be placed on a fixed-term employment contract. Due to the limited period of effectiveness of the Labor Contract Law and its implementation rules and regulations, and the lack of clarity with respect to their implementation and potential penalties and fines, it is uncertain how they will impact our current employment policies and practices. In particular, compliance with the Labor Contract Law and its implementation rules and regulations may increase our operating expenses. In the event that we decide to terminate some of our employees or otherwise change our employment or labor practices, the Labor Contract Law and its implementation rules and regulations may also limit our ability to effect those changes in a manner that we believe to be cost-effective or desirable, and could result in a material decrease in our profitability.
+Future inflation in China may inhibit our ability to conduct business in China.
+In recent years, the Chinese economy has experienced periods of rapid expansion and highly fluctuating rates of inflation. During the past ten years, the rate of inflation in China has been as high as 5.9% and as low as -0.8%. These factors have led to the adoption by the Chinese government, from time to time, of various corrective measures designed to restrict the availability of credit or regulate growth and contain inflation. High inflation may in the future cause the Chinese government to impose controls on credit and/or prices, or to take other action, which could inhibit economic activity in China, and thereby harm the market for our products and our company.
+Restrictions on currency exchange may limit our ability to receive and use our sales effectively.
+Currently, all of our revenues are settled in RMB, and any future restrictions on currency exchanges may limit our ability to use revenue generated in RMB to fund any future business activities outside China or to make dividend or other payments in U.S. dollars. Although the Chinese government introduced regulations in 1996 to allow greater convertibility of the RMB for current account transactions, significant restrictions still remain, including primarily the restriction that FIEs may only buy, sell or remit foreign currencies after providing valid commercial documents, at those banks in China authorized to conduct foreign exchange business. In addition, conversion of RMB for capital account items, including direct investment and loans, is subject to governmental approval in China, and companies are required to open and maintain separate foreign exchange accounts for capital account items. We cannot be certain that the Chinese regulatory authorities will not impose more stringent restrictions on the convertibility of the RMB.
+18
+18
+Fluctuations in exchange rates could adversely affect our business and the value of our securities.
+The value of our ordinary shares will be indirectly affected by the foreign exchange rate between the U.S. dollar and RMB and between those currencies and other currencies in which our sales may be denominated. Appreciation or depreciation in the value of the RMB relative to the U.S. dollar would affect our financial results reported in U.S. dollar terms without giving effect to any underlying change in our business or results of operations. Fluctuations in the exchange rate will also affect the relative value of any dividend we issue that will be exchanged into U.S. dollars, as well as earnings from, and the value of, any U.S. dollar-denominated investments we make in the future.
+Since July 2005, the RMB has no longer been pegged to the U.S. dollar. Although the Peoples Bank of China regularly intervenes in the foreign exchange market to prevent significant short-term fluctuations in the exchange rate, the RMB may appreciate or depreciate significantly in value against the U.S. dollar in the medium to long term. Moreover, it is possible that in the future PRC authorities may lift restrictions on fluctuations in the RMB exchange rate and lessen intervention in the foreign exchange market.
+Very limited hedging transactions are available in China to reduce our exposure to exchange rate fluctuations. To date, we have not entered into any hedging transactions. While we may enter into hedging transactions in the future, the availability and effectiveness of these transactions may be limited, and we may not be able to successfully hedge our exposure at all. In addition, our foreign currency exchange losses may be magnified by PRC exchange control regulations that restrict our ability to convert RMB into foreign currencies.
+Restrictions under PRC law on our PRC subsidiaries ability to make dividends and other distributions could materially and adversely affect our ability to grow, make investments or acquisitions that could benefit our business, pay dividends to you, and otherwise fund and conduct our business.
+Substantially all of our sales are earned by our PRC subsidiaries. However, PRC regulations restrict the ability of our PRC subsidiaries to make dividends and other payments to their offshore parent companies. PRC legal restrictions permit payments of dividends by our PRC subsidiaries only out of their accumulated after-tax profits, if any, determined in accordance with PRC accounting standards and regulations. Our PRC subsidiaries are also required under PRC laws and regulations to allocate at least 10% of their annual after-tax profits determined in accordance with PRC generally accepted accounting principles to a statutory general reserve fund until the amounts in said fund reaches 50% of their registered capital. Allocations to these statutory reserve funds can only be used for specific purposes and are not transferable to us in the form of loans, advances, or cash dividends. Any limitations on the ability of our PRC subsidiaries to transfer funds to us could materially and adversely limit our ability to grow, make investments or acquisitions that could be beneficial to our business, pay dividends and otherwise fund and conduct our business.
+Failure to make adequate contributions to various employee benefit plans as required by PRC regulations may subject us to penalties.
+We are required under PRC laws and regulations to participate in various government sponsored employee benefit plans, including certain social insurance, housing funds and other welfare-oriented payment obligations, and contribute to the plans in amounts equal to certain percentages of salaries, including bonuses and allowances, of our employees up to a maximum amount specified by the local government from time to time at locations where we operate our businesses. The requirement of employee benefit plans has not been implemented consistently by the local governments in China given the different levels of economic development in different locations. Although we have made contributions to some employee benefit plans, such as social security plans, we may have not made adequate employee benefit payments required by PRC regulations. We may be required to make up the contributions for these plans as well as pay late fees and fines. If we are subject to late fees or fines in relation to the underpaid employee benefits, our financial condition and results of operations may be adversely affected.
+19
+19
+Under the Enterprise Income Tax Law, we may be classified as a resident enterprise of China. Such classification will likely result in unfavorable tax consequences to us and our non-PRC stockholders.
+On March 16, 2007, the National Peoples Congress of China passed the EIT Law, and on November 28, 2007, the State Council of China passed its implementing rules, which took effect on January 1, 2008. Under the EIT Law, an enterprise established outside of China with de facto management bodies within China is considered a resident enterprise, meaning that it can be treated in a manner similar to a Chinese enterprise for enterprise income tax purposes. The implementing rules of the EIT Law define de facto management as substantial and overall management and control over the production and operations, personnel, accounting, and properties of the enterprise.
+On April 22, 2009, the State Administration of Taxation issued the Notice Concerning Relevant Issues Regarding Cognizance of Chinese Investment Controlled Enterprises Incorporated Offshore as Resident Enterprises pursuant to Criteria of de facto Management Bodies, or the Notice, further interpreting the application of the EIT Law and its implementation non-Chinese enterprise or group controlled offshore entities. Pursuant to the Notice, an enterprise incorporated in an offshore jurisdiction and controlled by a Chinese enterprise or group will be classified as a non-domestically incorporated resident enterprise if (i) its senior management in charge of daily operations reside or perform their duties mainly in China; (ii) its financial or personnel decisions are made or approved by bodies or persons in China; (iii) its substantial assets and properties, accounting books, corporate chops, board and shareholder minutes are kept in China; and (iv) at least half of its directors with voting rights or senior management often resident in China. A resident enterprise would be subject to an enterprise income tax rate of 25% on its worldwide income and must pay a withholding tax at a rate of 10% when paying dividends to its non-PRC shareholders. However, it remains unclear as to whether the Notice is applicable to an offshore enterprise incorporated by a Chinese natural person. Nor are detailed measures on imposition of tax from non-domestically incorporated resident enterprises are available. Therefore, it is unclear how tax authorities will determine tax residency based on the facts of each case.
+We may be deemed to be a resident enterprise by Chinese tax authorities. If the PRC tax authorities determine that we are a resident enterprise for PRC enterprise income tax purposes, a number of unfavorable PRC tax consequences could follow. First, we may be subject to the enterprise income tax at a rate of 25% on our worldwide taxable income as well as PRC enterprise income tax reporting obligations. In our case, this would mean that income such as interest on financing proceeds and non-China source income would be subject to PRC enterprise income tax at a rate of 25%. Second, although under the EIT Law and its implementing rules dividends paid to us from our PRC subsidiaries would qualify as tax-exempt income, we cannot guarantee that such dividends will not be subject to a 10% withholding tax, as the PRC foreign exchange control authorities, which enforce the withholding tax, have not yet issued guidance with respect to the processing of outbound remittances to entities that are treated as resident enterprises for PRC enterprise income tax purposes. Finally, it is possible that future guidance issued with respect to the new resident enterprise classification could result in a situation in which a 10% withholding tax is imposed on dividends we pay to our non-PRC stockholders and with respect to gains derived by our non-PRC stockholders from transferring our shares.
+If we were treated as a resident enterprise by PRC tax authorities, we would be subject to taxation in both the U.S. and China, and our PRC tax may not be creditable against our U.S. tax.
+20
+20
+Heightened scrutiny of acquisition transactions by PRC tax authorities may have a negative impact on Chinese companys business operations and its acquisition strategy.
+Pursuant to the Notice on Strengthening Administration of Enterprise Income Tax for Share Transfers by Non-PRC Resident Enterprises, or SAT Circular 698, effective on January 1, 2008, and the Announcement on Several Issues Related to Enterprise Income Tax for Indirect Asset Transfer by Non-PRC Resident Enterprises, or SAT Announcement 7, effective on February 3, 2015, issued by the State Administration of Taxation (SAT), if a non-resident enterprise transfers the equity interests of or similar rights or interests in overseas companies which directly or indirectly own PRC taxable assets through an arrangement without a reasonable commercial purpose, but rather to avoid PRC corporate income tax, the transaction will be re-characterized and treated as a direct transfer of PRC taxable assets subject to PRC corporate income tax. SAT Announcement 7 specifies certain factors that should be considered in determining whether an indirect transfer has a reasonable commercial purpose. However, as SAT Announcement 7 is newly issued, there is uncertainty as to the application of SAT Announcement 7 and the interpretation of the term reasonable commercial purpose.
+Under SAT Announcement 7, the entity which has the obligation to pay the consideration for the transfer to the transferring shareholders has the obligation to withhold any PRC corporate income tax that is due. If the transferring shareholders do not pay corporate income tax that is due for a transfer and the entity which has the obligation to pay the consideration does not withhold the tax due, the PRC tax authorities may impose a penalty on the entity that so fails to withhold, which may be relieved or exempted from the withholding obligation and any resulting penalty under certain circumstances if it reports such transfer to the PRC tax authorities.
+Although SAT Announcement 7 is generally effective as of February 3, 2015, it also applies to cases where the PRC tax treatment of a transaction that took place prior to its effectiveness has not yet been finally settled. As a result, SAT Announcement 7 could be determined by PRC tax authorities to be applicable to the historical reorganization, and it is possible that these transactions could be determined by PRC tax authorities to lack a reasonable commercial purpose. As a result, the transfer of shares by certain shareholders to other parties could be subject to corporate income tax of up to 10% on capital gains generated from such transfers, and PRC tax authorities could impose tax obligations on the transferring shareholders or subject us to penalty if the transferring shareholders do not pay such obligations and withhold such tax.
+SAT Announcement 7 and its interpretation by relevant PRC authorities clarify that an exemption provided by SAT Circular 698 for transfers of shares in a publicly-traded entity that is listed overseas is available if the purchase of the shares and the sale of the shares both take place in open-market transactions. However, if a shareholder of an entity that is listed overseas purchases shares in the open market and sells them in a private transaction, or vice-versa, PRC tax authorities might deem such a transfer to be subject to SAT Circular 698 and SAT Announcement 7, which could subject such shareholder to additional reporting obligations or tax burdens. Accordingly, if a holder of the Companys ordinary shares purchases such ordinary shares in the open market and sells them in a private transaction, or vice-versa, and fails to comply with SAT Circular 698 or SAT Announcement 7, the PRC tax authorities may take actions, including requesting to provide assistance for their investigation or impose a penalty on it, which could have a negative impact on the companys business operations.
+We may be exposed to liabilities under the Foreign Corrupt Practices Act and Chinese anti-corruption laws, and any determination that we violated these laws could have a material adverse effect on our business.
+We are subject to the Foreign Corrupt Practice Act, or FCPA, and other laws that prohibit improper payments or offers of payments to foreign governments and their officials and political parties by U.S. persons and issuers as defined by the statute, for the purpose of obtaining or retaining business. We have operations, agreements with third parties, and make most of our sales in China. The PRC also strictly prohibits bribery of government officials. Our activities in China create the risk of unauthorized payments or offers of payments by the employees, consultants, sales agents, or distributors of our Company, even though they may not always be subject to our control. It is our policy to implement safeguards to discourage these practices by our employees. However, our existing safeguards and any future improvements may prove to be less than effective, and the employees, consultants, sales agents, or distributors of our Company may engage in conduct for which we might be held responsible. Violations of the FCPA or Chinese anti-corruption laws may result in severe criminal or civil sanctions, and we may be subject to other liabilities, which could negatively affect our business, operating results and financial condition. In addition, the U.S. government may seek to hold our Company liable for successor liability FCPA violations committed by companies in which we invest or that we acquire.
+21
+21
+If we become directly subject to the recent scrutiny, criticism and negative publicity involving U.S.-listed Chinese companies, we may have to expend significant resources to investigate and resolve the matter which could harm our business operations, stock price and reputation and could result in a loss of your investment in our stock, especially if such matter cannot be addressed and resolved favorably.
+Recently, U.S. public companies that have substantially all of their operations in China, particularly companies like us which have completed so-called reverse merger transactions, have been the subject of intense scrutiny, criticism and negative publicity by investors, financial commentators and regulatory agencies, such as the SEC. Much of the scrutiny, criticism and negative publicity has centered around financial and accounting irregularities and mistakes, a lack of effective internal controls over financial accounting, inadequate corporate governance policies or a lack of adherence thereto and, in many cases, allegations of fraud. As a result of the scrutiny, criticism and negative publicity, the publicly traded stock of many U.S. listed Chinese companies has sharply decreased in value and, in some cases, has become virtually worthless. Many of these companies are now subject to shareholder lawsuits and SEC enforcement actions and are conducting internal and external investigations into the allegations. It is not clear what effect this sector-wide scrutiny, criticism and negative publicity will have on our Company, our business and our stock price. If we become the subject of any unfavorable allegations, whether such allegations are proven to be true or untrue, we will have to expend significant resources to investigate such allegations and/or defend our company. This situation will be costly and time consuming and distract our management from growing our company.
+The disclosures in our reports and other filings with the SEC and our other public pronouncements are not subject to the scrutiny of any regulatory bodies in the PRC. Accordingly, our public disclosure should be reviewed in light of the fact that no governmental agency that is located in China where substantially all of our operations and business are located have conducted any due diligence on our operations or reviewed or cleared any of our disclosure.
+We are regulated by the SEC and our reports and other filings with the SEC are subject to SEC review in accordance with the rules and regulations promulgated by the SEC under the Securities Act and the Exchange Act. Unlike public reporting companies whose operations are located primarily in the United States, however, substantially all of our operations are located in China. Since substantially all of our operations and business takes place in China, it may be more difficult for the staff of the SEC to overcome the geographic and cultural obstacles that are present when reviewing our disclosure. These same obstacles are not present for similar companies whose operations or business take place entirely or primarily in the United States. Furthermore, our SEC reports and other disclosure and public pronouncements are not subject to the review or scrutiny of any PRC regulatory authority. For example, the disclosure in our SEC reports and other filings are not subject to the review of the China Securities Regulatory Commission, a PRC regulator that is tasked with oversight of the capital markets in China. Accordingly, you should review our SEC reports, filings and our other public pronouncements with the understanding that no local regulator has done any due diligence on our company and with the understanding that none of our SEC reports, other filings or any of our other public pronouncements has been reviewed or otherwise been scrutinized by any local regulator.
+Risks Related to the Market for our Common Stock
+Our common stock is quoted on the OTC market, which may have an unfavorable impact on our stock price and liquidity.
+Our common stock is quoted on the OTC market. The OTC market is a significantly more limited market than the New York Stock Exchange or NASDAQ. The quotation of our shares on the OTC market may result in a less liquid market available for existing and potential stockholders to trade shares of our common stock, could depress the trading price of our common stock and could have a long-term adverse impact on our ability to raise capital in the future. We plan to list our common stock as soon as practicable. However, we cannot assure you that we will be able to meet the initial listing standards of any stock exchange, or that we will be able to maintain any such listing.
+22
+22
+We are subject to penny stock regulations and restrictions and you may have difficulty selling shares of our common stock.
+The SEC has adopted regulations which generally define so-called penny stocks to be an equity security that has a market price less than $5.00 per share or an exercise price of less than $5.00 per share, subject to certain exemptions. Our common stock is a penny stock and is subject to Rule 15g-9 under the Exchange Act, or the Penny Stock Rule. This rule imposes additional sales practice requirements on broker-dealers that sell such securities to persons other than established customers and accredited investors (generally, individuals with a net worth in excess of $1,000,000 or annual incomes exceeding $200,000, or $300,000 together with their spouses). For transactions covered by Rule 15g-9, a broker-dealer must make a special suitability determination for the purchaser and have received the purchasers written consent to the transaction prior to sale. As a result, this rule may affect the ability of broker-dealers to sell our securities and may affect the ability of purchasers to sell any of our securities in the secondary market, thus possibly making it more difficult for us to raise additional capital.
+For any transaction involving a penny stock, unless exempt, the rules require delivery, prior to any transaction in penny stock, of a disclosure schedule prepared by the SEC relating to the penny stock market. Disclosure is also required to be made about sales commissions payable to both the broker-dealer and the registered representative and current quotations for the securities. Finally, monthly statements are required to be sent disclosing recent price information for the penny stock held in the account and information on the limited market in penny stock.
+There can be no assurance that our common stock will qualify for exemption from the Penny Stock Rule. In any event, even if our common stock were exempt from the Penny Stock Rule, we would remain subject to Section 15(b)(6) of the Exchange Act, which gives the SEC the authority to restrict any person from participating in a distribution of penny stock, if the SEC finds that such a restriction would be in the public interest.
+We are an emerging growth company, and we cannot be certain if the reduced reporting requirements applicable to emerging growth companies will make our common shares less attractive to investors.
+We are an emerging growth company, as defined in the JOBS Act. For as long as we continue to be an emerging growth company, we may take advantage of exemptions from various reporting requirements that are applicable to other public companies that are not emerging growth companies, including not being required to comply with the auditor attestation requirements of Section 404 of the Sarbanes-Oxley Act of 2002, exemptions from the requirements of holding a nonbinding advisory vote on executive compensation and shareholder approval of any golden parachute payments not previously approved. We could be an emerging growth company until 2021, although circumstances could cause us to lose that status earlier, including if we become a large accelerated filer or if we have issued an aggregate of $1 billion in non-convertible debt during the preceding 3 years. We cannot predict if investors will find our common stock less attractive because we may rely on these exemptions. If some investors find our common stock less attractive as a result, there may be a less active trading market for our common stock and the price of our common stock may be more volatile.
+We do not intend to pay dividends for the foreseeable future.
+For the foreseeable future, we intend to retain any earnings to finance the development and expansion of our business, and we do not anticipate paying any cash dividends on our common stock. Accordingly, investors must be prepared to rely on sales of their common stock after price appreciation to earn an investment return, which may never occur. Investors seeking cash dividends should not purchase our common stock. Any determination to pay dividends in the future will be made at the discretion of our board of directors and will depend on our results of operations, financial condition, contractual restrictions, restrictions imposed by applicable law and other factors our board deems relevant.
+23
+23
+Our largest stockholder holds a significant percentage of our outstanding voting securities and may be able to control our management and affairs.
+may be able to control our management and affairs.
+Mr. Yue Zhong, our largest stockholder, is the beneficial owner of approximately 71.48% of our outstanding voting securities. As a result, he possesses significant influence, and can elect a majority of our board of directors and authorize or prevent proposed significant corporate transactions. His ownership and control may also have the effect of delaying or preventing a future change in control, impeding a merger, consolidation, takeover, or other business combination, or discourage a potential acquirer from making a tender offer.
+Fulfilling our obligations incident to being a public company, including with respect to the requirements of and related rules under the Sarbanes-Oxley Act of 2002, is expensive and time-consuming, and any delays or difficulties in satisfying these obligations could have a material adverse effect on our future results of operations and our stock price.
+As a public company, the Sarbanes-Oxley Act of 2002 and the related rules and regulations of the SEC require us to implement various corporate governance practices and adhere to a variety of reporting requirements and complex accounting rules. Compliance with these public company obligations requires us to devote significant time and resources and places significant additional demands on our finance and accounting staff and on our financial accounting and information systems. We plan to hire additional accounting and financial staff with appropriate public company reporting experience and technical accounting knowledge. Other expenses associated with being a public company include increased auditing, accounting and legal fees and expenses, investor relations expenses, increased directors fees and director and officer liability insurance costs, registrar and transfer agent fees and listing fees, as well as other expenses.
+We are required under the Sarbanes-Oxley Act of 2002 to document and test the effectiveness of our internal control over financial reporting. In addition, we are required under the Exchange Act to maintain disclosure controls and procedures and internal control over financial reporting. Any failure to maintain effective controls or implement required new or improved controls, or difficulties encountered in their implementation, could harm our operating results or cause us to fail to meet our reporting obligations. If we are unable to conclude that we have effective internal control over financial reporting, investors could lose confidence in the reliability of our financial statements. This could result in a decrease in the value of our common stock. Failure to comply with the Sarbanes-Oxley Act of 2002 could potentially subject us to sanctions or investigations by the SEC or other regulatory authorities.
+Compliance with changing regulation of corporate governance and public disclosure will result in additional expenses.
+Changing laws, regulations and standards relating to corporate governance and public disclosure, including SOX and related SEC regulations, have created uncertainty for public companies and significantly increased the costs and risks associated with accessing the public markets and public reporting. Our management team will need to invest significant management time and financial resources to comply with both existing and evolving standards for public companies, which will lead to increased general and administrative expenses and a diversion of management time and attention from revenue generating activities to compliance activities.
+Provisions in our charter documents and under Nevada law could discourage a takeover that stockholders may consider favorable.
+Provisions in our articles of incorporation and bylaws may have the effect of delaying or preventing a change of control or changes in our management. Our board of directors has the right to determine the authorized number of directors and to elect directors to fill a vacancy created by the expansion of the board of directors or the resignation, death or removal of a director, which prevents stockholders from being able to control the size of or fill vacancies on our board of directors.
+24
+24
+MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Overview
+Donggao International, a Seychelles holding company, was formed on March 13, 2017. The following financial data was extracted from the audited consolidated financial statements of Donggao International and its subsidiaries for the period from March 13, 2017 (the date of inception) to June 30, 2017 and the fiscal year ended June 30, 2018. Currently, we engaged certain wall material producers to manufacture our wall material products as OEMs by authorizing them to use our patented technologies.
+Our revenues were $0 both for the fiscal year 2018 and for the period from the date of inception to June 30, 2017. Our net loss was $110,554 and $1,480 for the respective periods.
+Principal Factors Affecting Financial Performance
+We believe that our operating and business performance are driven by various factors that affect the resources recycling industry, including trends affecting the constructing and mining industries, trends affecting the customer bases that we target, as well as general macroeconomic factors. Key factors that may affect our future performance include:
+ Environmental Awareness in China We mainly conduct our business in China. In recent years, accompanied by economic growth and government policies, the Chinese people have become more environmentally conscious. This has driven our business partners to choose eco-friendly products including ours which are manufactured by using waste materials. This trend could have a material impact on our customer base.  Solid Governmental support As China is becoming increasingly aware of its environmental problem, the Chinese government has consistently promoted and enforced various environmental protection policies in recent years. Our recycling process of tailings is expected to enable us to reuse the mineral waste and convert it to reusable materials for construction, agricultural and industrial uses. The government has provided substantive subsidies in environmental protection related industries and businesses and we believe our business will be benefited by such preferential policy treatment.
+
+Environmental Awareness in China We mainly conduct our business in China. In recent years, accompanied by economic growth and government policies, the Chinese people have become more environmentally conscious. This has driven our business partners to choose eco-friendly products including ours which are manufactured by using waste materials. This trend could have a material impact on our customer base.
+ Solid Governmental support As China is becoming increasingly aware of its environmental problem, the Chinese government has consistently promoted and enforced various environmental protection policies in recent years. Our recycling process of tailings is expected to enable us to reuse the mineral waste and convert it to reusable materials for construction, agricultural and industrial uses. The government has provided substantive subsidies in environmental protection related industries and businesses and we believe our business will be benefited by such preferential policy treatment.
+
+Solid Governmental support As China is becoming increasingly aware of its environmental problem, the Chinese government has consistently promoted and enforced various environmental protection policies in recent years. Our recycling process of tailings is expected to enable us to reuse the mineral waste and convert it to reusable materials for construction, agricultural and industrial uses. The government has provided substantive subsidies in environmental protection related industries and businesses and we believe our business will be benefited by such preferential policy treatment.
+Results of Operation of Donggao International
+Comparison of Year Ended June 30, 2018 and the period from the date of inception to June 30, 2017
+The following table sets forth key components of our results of operations during the year ended June 30, 2018 and the period from the date of inception to June 30, 2017.
+Year ended 30 June, 2018 From the date of inception (March 13, 2017) to June 30, 2017 Change Net revenues $ - $ - $ - Cost of revenues - - - Gross profit - - - Operating expenses: Selling and marketing expenses 13,435 - 13,435 General and administrative expenses 97,127 1,480 95,647 Total operating expenses 110,562 1,480 109,082 Total other income/(expenses) 8 - 8 Loss before tax (110,554 ) (1,480 ) (109,074 ) Tax expense - - - Net loss $ (110,554 ) $ (1,480 ) $ (109,074 )
+Year ended 30 June, 2018
+30 June,
+2018
+From the date of inception (March 13, 2017) to June 30, 2017
+(March 13,
+2017) to
+June 30,
+2017
+Change
+Net revenues $ - $ - $ -
+$
+-
+$
+-
+$
+-
+Cost of revenues - - -
+-
+-
+-
+Gross profit - - -
+-
+-
+-
+Operating expenses:
+Selling and marketing expenses 13,435 - 13,435
+13,435
+-
+13,435
+General and administrative expenses 97,127 1,480 95,647
+97,127
+1,480
+95,647
+Total operating expenses 110,562 1,480 109,082
+110,562
+1,480
+109,082
+Total other income/(expenses) 8 - 8
+8
+-
+8
+Loss before tax (110,554 ) (1,480 ) (109,074 )
+(110,554
+)
+(1,480
+)
+(109,074
+)
+Tax expense - - -
+-
+-
+-
+Net loss $ (110,554 ) $ (1,480 ) $ (109,074 )
+$
+(110,554
+)
+$
+(1,480
+)
+$
+(109,074
+)
+25
+25
+Revenues. We did not generate any revenues for both periods as we did not sell any products during these periods. During the first half of 2018, we entered into several sales contracts with different entities and we expect that we will start generating revenues during the 2019 fiscal year.
+Cost of revenues. As we did not earn any revenues, we did not incur any cost of goods sold during both periods.
+Gross profit and gross margin. As a result of no revenues and cost of revenues being realized, gross profit and gross margin were $0 for both periods.
+Selling expenses. Our selling expenses consist primarily of salary expense and cost of advertising. Our selling expenses increased to $13,435 for the year ended June 30, 2018, from $0 for the period from the date of inception to June 30, 2017. Such increase was due to hiring the sales persons and advertising our company and products.
+General and administrative expenses. Our general and administrative expenses consist primarily of assets evaluation fees, salary expense as well as research and development expenses. Our general and administrative expenses increased by $95,647 to $97,127 for the year ended June 30, 2018. Such increase incurred mainly because we conducted assets evaluation, hired staff for Guangzhou Donggao and entered into research programs with different universities and companies.
+Net income. As a result of the cumulative effect of the factors described above, our net income decreased by $(109,074) to $(110,554) for the year ended June 30, 2018.
+Liquidity and Capital Resources
+Working capital June 30, 2018 June 30, 2017 Total current assets $ 68,130 $ - Total current liabilities 36,888 1,480 Working capital surplus/(deficiency) $ 31,242 $ (1,480 )
+June 30, 2018
+2018
+June 30, 2017
+2017
+Total current assets $ 68,130 $ -
+$
+68,130
+$
+-
+Total current liabilities 36,888 1,480
+36,888
+1,480
+Working capital surplus/(deficiency) $ 31,242 $ (1,480 )
+$
+31,242
+$
+(1,480
+)
+As of June 30, 2018, we had cash and cash equivalents of $28,915. To date, we have financed our operations primarily through contributions by owners and borrowings from related parties.
+The following table provides detailed information about our net cash flows for the year ended June 30, 2018 and the period from the date of inception to June 30, 2017:
+Cash Flow
+2018 2017 Net cash provided by (used in) operating activities $ (91,708 ) $ (1,480 ) Net cash provided by (used in) investing activities (34,002 ) - Net cash provided by (used in) financing activities 154,688 1,480 Net increase (decrease) in cash and cash equivalents 28,977 - Effect of foreign currency translation on cash and cash equivalents (62 ) - Cash and cash equivalents at beginning of period - - Cash and cash equivalents at end of period $ 28,915 $ -
+2018
+2017
+Net cash provided by (used in) operating activities $ (91,708 ) $ (1,480 )
+$
+(91,708
+)
+$
+(1,480
+)
+Net cash provided by (used in) investing activities (34,002 ) -
+(34,002
+)
+-
+Net cash provided by (used in) financing activities 154,688 1,480
+154,688
+1,480
+Net increase (decrease) in cash and cash equivalents 28,977 -
+28,977
+-
+Effect of foreign currency translation on cash and cash equivalents (62 ) -
+(62
+)
+-
+Cash and cash equivalents at beginning of period - -
+-
+-
+Cash and cash equivalents at end of period $ 28,915 $ -
+$
+28,915
+$
+-
+26
+26
+Operating Activities
+Net cash used in operating activities was $91,708 for the fiscal year ended June 30, 2018, as compared to that of $1,480 for the period from the date of inception to June 30, 2017. The increase in net cash used in operating activities was mainly because we paid more salaries and incurred more expenses for the operation in this fiscal year.
+Investing Activities
+Net cash used in activities for the year ended June 30, 2018 was $34,002, as compared to $0 for the period from the date of inception to June 30, 2017. The increase in net cash used in investing activities was mainly attributable to the purchases of fixed assets and intangible assets.
+Financing Activities
+Net cash provided by financing for the year ended June 30, 2018 was $154,688, as compared to $0 for the period from the date of inception to June 30, 2017. The increase of net cash provided by financing activities was mainly attributable to the contributions of owners and borrowings from related parties to finance our operations.
+Contractual Obligations and Commercial Commitments
+We had the following contractual obligations and commercial commitments as of June 30, 2018:
+Contractual Obligations Total Less than 1 year 1-3 years 3-5 years More than 5 years $ $ $ $ $ Amounts due to related parties - - - - - Other payables 12,309 8,158 4,151 - - TOTAL 12,309 8,158 4,151 - -
+Total
+Less than 1 year
+1 year
+1-3 years
+3-5 years
+More than 5 years
+5 years
+$ $ $ $ $
+$
+$
+$
+$
+$
+Amounts due to related parties - - - - -
+-
+-
+-
+-
+-
+Other payables 12,309 8,158 4,151 - -
+12,309
+8,158
+4,151
+-
+-
+TOTAL 12,309 8,158 4,151 - -
+12,309
+8,158
+4,151
+-
+-
+For the fiscal year ended June 30, 2018, we entered into a two-year operating lease agreement commencing on January 17, 2018 and expiring on January 17, 2020. The monthly lease expense is RMB 4,500 (approximately USD $692). The outstanding lease commitment as of June 30, 2018 was $12,309.
+We believe that our current cash and financing from our existing stockholders are adequate to support operations for at least the next 12 months. We may, however, in the future, require additional cash resources due to changing business conditions, implementation of our strategy to expand our business or other investments or acquisitions we may decide to pursue. If our own financial resources are insufficient to satisfy our capital requirements, we may seek to sell additional equity or debt securities or obtain additional credit facilities. The sale of additional equity securities could result in dilution to our stockholders. The incurrence of indebtedness would result in increased debt service obligations and could require us to agree to operating and financial covenants that would restrict our operations. Financing may not be available in amounts or on terms acceptable to us, if at all. Any failure by us to raise additional funds on terms favorable to us, or at all, could limit our ability to expand our business operations and could harm our overall business prospects.
+Capital Expenditures
+Capital expenditures for the fiscal year ended June 30, 2018 and the period from the date of inception to June 30, 2017 were $32,642 and $0, respectively. The increase in capital expenditures was due to the purchases of office equipment and patents stated above in the section of Our Intellectual Property.
+27
+27
+We do not anticipate any capital expenditures in the 2019 fiscal year.
+Inflation
+Inflation and changing prices have not had a material effect on our business and we do not expect that inflation or changing prices will materially affect our business in the foreseeable future. However, our management will closely monitor price changes in our industry and continually maintain effective cost control in operations.
+Off Balance Sheet Arrangements
+We do not have any off balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity or capital expenditures or capital resources that is material to an investor in our securities.
+Seasonality
+Our operating results and operating cash flows historically have not been subject to significant seasonal variations. This pattern may change, however, as a result of new market opportunities or new product introductions.
+Critical Accounting Policies
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States requires our management to make assumptions, estimates and judgments that affect the amounts reported, including the notes thereto, and related disclosures of commitments and contingencies, if any. We have identified certain accounting policies that are significant to the preparation of our financial statements. These accounting policies are important for an understanding of our financial condition and results of operation. Critical accounting policies are those that are most important to the portrayal of our financial condition and results of operations and require managements difficult, subjective, or complex judgment, often as a result of the need to make estimates about the effect of matters that are inherently uncertain and may change in subsequent periods. Certain accounting estimates are particularly sensitive because of their significance to financial statements and because of the possibility that future events affecting the estimate may differ significantly from managements current judgments. We believe the following critical accounting policies involve the most significant estimates and judgments used in the preparation of our financial statements:
+Method of accounting
+Management has prepared the accompanying financial statements and these notes in accordance to generally accepted accounting principles in the United States of America; the Company maintains its general ledger and journals with the accrual method accounting.
+Use of estimates
+The preparation of the financial statements requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting periods. Management makes these estimates using the best information available at the time the estimates are made; however, actual results could differ materially from those estimates.
+28
+28
+Revenue recognition
+The Company recognizes revenue when all the following criteria have been met: it has negotiated the terms of the transaction with the customer which includes setting a fixed sales price, it has transferred of possession of the product to the customer, the customer does not have the right to return the product, the customer is able to further sell or transfer the product onto others for economic benefit without any other obligation to be fulfilled by the Company, and the Company is reasonably assured that funds have been or will be collected from the customer. The Companys the amount of revenue recognized to the books reflects the value of goods invoiced, net of any value-added tax (VAT) or excise tax.
+Recent Accounting Pronouncements
+In January 2017, the FASB issued guidance which simplifies the accounting for goodwill impairment. The updated guidance eliminates Step 2 of the impairment test, which requires entities to calculate the implied fair value of goodwill to measure a goodwill impairment charge. Instead, entities will record an impairment charge based on the excess of a reporting units carrying amount over its fair value, determined in Step 1. The Company is currently evaluating the impact on the financial statements of this guidance.
+In January 2017, the FASB amended the existing accounting standards for business combinations. The amendments clarify the definition of a business with the objective of adding guidance to assist entities with evaluating whether transactions should be accounted for as acquisitions (or disposals) of assets or businesses. The Company is currently evaluating the impact on the financial statements of this guidance.
+PROPERTIES
+All land in China is owned by the state or local governments. Individuals and companies are permitted to acquire rights to use land or land use rights for specific purposes. In the case of land used for industrial purposes, the land use rights are granted for a period of 50 years. This period may be renewed at the expiration of the initial and any subsequent terms according to the relevant Chinese laws. Granted land use rights are transferable and may be used as collateral for borrowings and other obligations.
+Our executive offices are located at No. 436, North Dongjiao Road, Room 516, Liwan District, Guangzhou, Guangdong Province, China, 510145 which consist of 96.68 square meters, all of which are dedicated to administrative office space. We lease our facilities pursuant to a lease agreement that our PRC subsidiary, Guangzhou Donggao entered into with Shengyue Zhuo, a Chinese citizen on January 17, 2018 for a lease term commencing on January 17, 2018 and ending on January 17, 2020. Currently we pay our rent in an amount of RMB 4,500 (approximately $662) per month. We believe that all our real property has been adequately maintained, is generally in good condition, and is suitable and adequate for our business. We do not own or rent any other real estate or other properties.
+We believe that all our properties have been adequately maintained, are generally in good condition, and are suitable and adequate for our business.
+29
+29
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+The following table sets forth information regarding beneficial ownership of our common stock as of September 24, 2018 (i) by each person who is known by us to beneficially own more than 5% of our common stock; (ii) by each of our officers and directors; and (iii) by all of our officers and directors as a group. Unless otherwise specified, the address of each of the persons set forth below is in care of the Company, No. 436, North Dongjiao Road, Room 516, Liwan District, Guangzhou, Guangdong Province, China, 510145.
+Name and Address of Beneficial Owner Title of Class Amount and Nature of Beneficial Ownership(1) Percent of Class(2) Lijuan Jiang, Chairman, CEO, President and CFO(4) Common Stock 81,432,000 26.63 % Limei Jiang, Director Common Stock 2,000,000 * All officers and directors as a group (two persons named above) Common Stock 83,432,000 27.29 % Yue Zhong(3) Common Stock 218,568,000 71.48 % Hongshan Holdings Investment Limited (4) Common Stock 81,432,000 26.63 %
+Title of Class
+Amount and Nature of Beneficial Ownership(1)
+Percent of Class(2)
+Lijuan Jiang, Chairman, CEO, President and CFO(4) Common Stock 81,432,000 26.63 %
+Common Stock
+81,432,000
+26.63
+%
+Limei Jiang, Director Common Stock 2,000,000 *
+Common Stock
+2,000,000
+*
+All officers and directors as a group (two persons named above) Common Stock 83,432,000 27.29 %
+Common Stock
+83,432,000
+27.29
+%
+Yue Zhong(3) Common Stock 218,568,000 71.48 %
+Common Stock
+218,568,000
+71.48
+%
+Hongshan Holdings Investment Limited (4) Common Stock 81,432,000 26.63 %
+Common Stock
+81,432,000
+26.63
+%
+________
+* Less than 1%
+(1) Beneficial Ownership is determined in accordance with the rules of the SEC and generally includes voting or investment power with respect to securities. Each of the beneficial owners listed above has direct ownership of and sole voting power and investment power with respect to the shares of our common stock. (2) A total of 305,761,500 shares of our common stock are considered to be outstanding pursuant to SEC Rule 13d-3(d)(1) as of September 24, 2018. For each beneficial owner above, any options exercisable within 60 days have been included in the denominator. (3) Including 200,568,000 shares of common stock held by Zhongjian Overseas Investment Limited and Mr. Zhong has voting and dispositive power of the securities held by Zhongjian Overseas Investment Limited. (4) Lijuan Jiang is the sole director of Hongshan Holdings Investment Limited and has voting and dispositive power of the securities held by it.
+Beneficial Ownership is determined in accordance with the rules of the SEC and generally includes voting or investment power with respect to securities. Each of the beneficial owners listed above has direct ownership of and sole voting power and investment power with respect to the shares of our common stock.
+(2) A total of 305,761,500 shares of our common stock are considered to be outstanding pursuant to SEC Rule 13d-3(d)(1) as of September 24, 2018. For each beneficial owner above, any options exercisable within 60 days have been included in the denominator.
+A total of 305,761,500 shares of our common stock are considered to be outstanding pursuant to SEC Rule 13d-3(d)(1) as of September 24, 2018. For each beneficial owner above, any options exercisable within 60 days have been included in the denominator.
+(3) Including 200,568,000 shares of common stock held by Zhongjian Overseas Investment Limited and Mr. Zhong has voting and dispositive power of the securities held by Zhongjian Overseas Investment Limited.
+Including 200,568,000 shares of common stock held by Zhongjian Overseas Investment Limited and Mr. Zhong has voting and dispositive power of the securities held by Zhongjian Overseas Investment Limited.
+(4) Lijuan Jiang is the sole director of Hongshan Holdings Investment Limited and has voting and dispositive power of the securities held by it.
+Lijuan Jiang is the sole director of Hongshan Holdings Investment Limited and has voting and dispositive power of the securities held by it.
+Changes in Control
+Prior to the closing of Reverse Merger, all 300,000,000 shares issued on December 18, 2017 pursuant to the Exchange Agreement were held in escrow and deemed to be in full control of the Company. As of the date of the closing of Reverse Merger, all of these shares were delivered out of escrow to the following entities and individuals in the amounts set opposite their names.
+Yue Zhong 18,000,000 Hongshan Holdings Investment Limited 81,432,000 Zhongjian Overseas Investement Limited 200,568,000
+18,000,000
+Hongshan Holdings Investment Limited 81,432,000
+81,432,000
+Zhongjian Overseas Investement Limited 200,568,000
+200,568,000
+This constituted a change of control of the Company. Other than the transactions and agreements previously described, our officers and directors are not aware of any arrangements which if consummated may result in a change in control of the Company at a subsequent date.
+DIRECTORS AND EXECUTIVE OFFICERS
+Directors and Executive Officers
+The following sets forth information about our directors and executive officers as of the date of this report:
+NAME AGE POSITION Lijuan Jiang 48 Chairman, President, Chief Executive Officer, Chief Financial Officer, Treasurer and Secretary Limei Jiang 47 Director
+AGE
+POSITION
+Lijuan Jiang 48 Chairman, President, Chief Executive Officer, Chief Financial Officer, Treasurer and Secretary
+48
+Chairman, President, Chief Executive Officer, Chief Financial Officer, Treasurer and Secretary
+Limei Jiang 47 Director
+47
+Director
+30
+30
+Lijuan Jiang. Ms. Jiang has served as a member of our board of directors and as our Chairman, Chief Executive Officer, Chief Financial Officer and President since September 24, 2018. She has served as general manager of our subsidiary Guangzhou Donggao since January 1, 2018. Prior to that, Ms. Jiang was the Assistant to General Manager and Financial Controller of Guangzhou Donggao since June 2017. From November 1995 to March 2013, Ms. Jiang was the Assistant to General Manager and Financial Controller of Guangdong Zhongshan Shengsheng Construction Materials Co., Ltd. Ms. Jiang has more than twenty years of financial experience and graduated from Guangdong Meitian Bureau of Mines Secondary Vocational School.
+Limei Jiang. Mr. Jiang has served as a member of our board of directors since July 31, 2017. He previously served as our Chairman, Chief Executive Officer, President and Chief Financial Officer until September 24, 2018. Mr. Jiang has more than twenty years experience in sales and operation. In 1992, Mr. Jiang worked at Guangdong Meitian Mineral Bureau Cement Plant, as a sales director. As a sales director, he handled the daily operations and the supervision of the entire sales department. At the same time, he was the person-in-charge of cement production department. Since 1994, he has worked for Jiangmen Toyo Ink Co. Ltd as vice president, who is responsible for the daily operation and the sales distribution channel. Mr. Jiang graduated from Guangdong Meitian Bureau of Mines Secondary Vocational School.
+Directors and executive officers are elected until their successors are duly elected and qualified. There are no arrangements or understandings known to us pursuant to which any director or executive officer was or is to be selected as a director (or director nominee) or executive officer.
+Family Relationships
+There are no family relationships among any of our officers or directors. Lijuan Jiang is not related to Limei Jiang.
+Involvement in Certain Legal Proceedings
+To the best of our knowledge, none of our directors or executive officers has, during the past ten years:
+ been convicted in a criminal proceeding or been subject to a pending criminal proceeding (excluding traffic violations and other minor offences);  had any bankruptcy petition filed by or against the business or property of the person, or of any partnership, corporation or business association of which he was a general partner or executive officer, either at the time of the bankruptcy filing or within two years prior to that time;  been subject to any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction or federal or state authority, permanently or temporarily enjoining, barring, suspending or otherwise limiting, his involvement in any type of business, securities, futures, commodities, investment, banking, savings and loan, or insurance activities, or to be associated with persons engaged in any such activity;  been found by a court of competent jurisdiction in a civil action or by the Securities and Exchange Commission or the Commodity Futures Trading Commission to have violated a federal or state securities or commodities law, and the judgment has not been reversed, suspended, or vacated;  been the subject of, or a party to, any federal or state judicial or administrative order, judgment, decree, or finding, not subsequently reversed, suspended or vacated (not including any settlement of a civil proceeding among private litigants), relating to an alleged violation of any federal or state securities or commodities law or regulation, any law or regulation respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order, or any law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity; or  been the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization (as defined in Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26))), any registered entity (as defined in Section 1(a)(29) of the Commodity Exchange Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or organization that has disciplinary authority over its members or persons associated with a member.
+
+been convicted in a criminal proceeding or been subject to a pending criminal proceeding (excluding traffic violations and other minor offences);
+ had any bankruptcy petition filed by or against the business or property of the person, or of any partnership, corporation or business association of which he was a general partner or executive officer, either at the time of the bankruptcy filing or within two years prior to that time;
+
+had any bankruptcy petition filed by or against the business or property of the person, or of any partnership, corporation or business association of which he was a general partner or executive officer, either at the time of the bankruptcy filing or within two years prior to that time;
+ been subject to any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction or federal or state authority, permanently or temporarily enjoining, barring, suspending or otherwise limiting, his involvement in any type of business, securities, futures, commodities, investment, banking, savings and loan, or insurance activities, or to be associated with persons engaged in any such activity;
+
+been subject to any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction or federal or state authority, permanently or temporarily enjoining, barring, suspending or otherwise limiting, his involvement in any type of business, securities, futures, commodities, investment, banking, savings and loan, or insurance activities, or to be associated with persons engaged in any such activity;
+ been found by a court of competent jurisdiction in a civil action or by the Securities and Exchange Commission or the Commodity Futures Trading Commission to have violated a federal or state securities or commodities law, and the judgment has not been reversed, suspended, or vacated;
+
+been found by a court of competent jurisdiction in a civil action or by the Securities and Exchange Commission or the Commodity Futures Trading Commission to have violated a federal or state securities or commodities law, and the judgment has not been reversed, suspended, or vacated;
+ been the subject of, or a party to, any federal or state judicial or administrative order, judgment, decree, or finding, not subsequently reversed, suspended or vacated (not including any settlement of a civil proceeding among private litigants), relating to an alleged violation of any federal or state securities or commodities law or regulation, any law or regulation respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order, or any law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity; or
+
+been the subject of, or a party to, any federal or state judicial or administrative order, judgment, decree, or finding, not subsequently reversed, suspended or vacated (not including any settlement of a civil proceeding among private litigants), relating to an alleged violation of any federal or state securities or commodities law or regulation, any law or regulation respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order, or any law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity; or
+ been the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization (as defined in Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26))), any registered entity (as defined in Section 1(a)(29) of the Commodity Exchange Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or organization that has disciplinary authority over its members or persons associated with a member.
+
+been the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization (as defined in Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26))), any registered entity (as defined in Section 1(a)(29) of the Commodity Exchange Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or organization that has disciplinary authority over its members or persons associated with a member.
+31
+31
+EXECUTIVE COMPENSATION
+Summary Compensation Table - Fiscal Years Ended June 30, 2018 and 2017
+The following table sets forth information concerning all cash and non-cash compensation awarded to, earned by or paid to the named persons for services rendered in all capacities during the noted periods. No other executive officers received total annual salary and bonus compensation in excess of $100,000.
+Name and Principal Position Year Salary ($) Bonus ($) Stock Awards ($) Option Awards ($) Nonequity Incentive Plan Compensation ($) Nonqualified Deferred Compensation Earnings ($) All Other Compensation ($) Total ($) Limei Jiang, 2018 - - - - - - - - Former CEO(1) 2017 - - - - - - - - Bess Audrey Lipschutz, 2018 - - - - - - - - Former CEO(2) 2017 2,500 - - - - - - 2,500 Lijuan Jiang, 2018 3,310 - - - - - - 3,310 CEO(3) 2017 3,310 - - - - - - 3,310
+Year
+Salary ($)
+($)
+Bonus ($)
+($)
+Stock Awards ($)
+($)
+Option Awards ($)
+($)
+Nonequity Incentive Plan Compensation ($)
+($)
+Nonqualified Deferred Compensation Earnings ($)
+($)
+All Other Compensation ($)
+Compensation
+($)
+Total ($)
+($)
+Limei Jiang, 2018 - - - - - - - -
+2018
+-
+-
+-
+-
+-
+-
+-
+-
+Former CEO(1) 2017 - - - - - - - -
+2017
+-
+-
+-
+-
+-
+-
+-
+-
+Bess Audrey Lipschutz, 2018 - - - - - - - -
+2018
+-
+-
+-
+-
+-
+-
+-
+-
+Former CEO(2) 2017 2,500 - - - - - - 2,500
+2017
+2,500
+-
+-
+-
+-
+-
+-
+2,500
+Lijuan Jiang, 2018 3,310 - - - - - - 3,310
+2018
+3,310
+-
+-
+-
+-
+-
+-
+3,310
+CEO(3) 2017 3,310 - - - - - - 3,310
+2017
+3,310
+-
+-
+-
+-
+-
+-
+3,310
+______________
+(1) Mr. Jiang served as our Chief Executive Officer from July 31, 2017 until September 24, 2018. (2) Ms. Lipschutz served as our Chief Executive Officer until October 28, 2016. (3) Ms. Jiang became our Chief Executive Office on September 24, 2018. She has served as general manager of our subsidiary Guangzhou Donggao since January 1, 2018. The compensation shown in this table include the amount Ms. Jiang received from Guangzhou Donggao prior to the consummation of the Reverse Merger.
+Mr. Jiang served as our Chief Executive Officer from July 31, 2017 until September 24, 2018.
+(2) Ms. Lipschutz served as our Chief Executive Officer until October 28, 2016.
+Ms. Lipschutz served as our Chief Executive Officer until October 28, 2016.
+(3) Ms. Jiang became our Chief Executive Office on September 24, 2018. She has served as general manager of our subsidiary Guangzhou Donggao since January 1, 2018. The compensation shown in this table include the amount Ms. Jiang received from Guangzhou Donggao prior to the consummation of the Reverse Merger.
+Ms. Jiang became our Chief Executive Office on September 24, 2018. She has served as general manager of our subsidiary Guangzhou Donggao since January 1, 2018. The compensation shown in this table include the amount Ms. Jiang received from Guangzhou Donggao prior to the consummation of the Reverse Merger.
+Employment Agreements
+Agreements
+All of our employees have executed our standard employment agreements as required by the Chinese labor law. Our employment agreements with our executives provide the amount of each executive officers salary, title and establish their eligibility to receive a bonus. The employment agreement between Guangzhou Donggao and Ms. Lijuan Jiang, dated January 1, 2018, provides that Ms. Jiang is employed as Guangzhou Donggaos general manager with a four-year term of employment until December 31, 2021. Ms. Jiang receives a monthly salary of RMB 1,895 (approximately $275) under the employment agreement. She is also subject to customary confidentiality covenants under the employment agreement.
+Outstanding Equity Awards at Fiscal Year End
+No unexercised options, stock that has not vested or outstanding equity incentive plan awards were held by any of our named executive officers at June 30, 2018.
+32
+32
+Compensation of Directors
+No member of our board of directors received any compensation for his services as a director during the year ended June 30, 2018.
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+Transactions with Related Persons
+The following includes a summary of transactions of Donggao International since the beginning of our fiscal year ended June 30, 2017, or any currently proposed transaction, in which we were or are to be a participant and the amount involved exceeded or exceeds the lesser of $120,000 or one percent of the average of our total assets at year end for the last two completed fiscal years, and in which any related person had or will have a direct or indirect material interest (other than compensation described under Executive Compensation). We believe the terms obtained or consideration that we paid or received, as applicable, in connection with the transactions described below were comparable to terms available or the amounts that would be paid or received, as applicable, in arms-length transactions.
+ On November 27, 2017, we entered into the Exchange Agreement with Donggao International and holders of all outstanding capital stock of Donggao International, pursuant to which on September 24, 2018, we acquired 100% of the outstanding capital stock of Donggao International. In exchange, we issued to the former shareholders of Donggao International, including Mr. Yue Zhong, Zhongjian Overseas Investment Limited and Hongshan Holdings Investment Limited. Our Chairman, Chief Executive Officer and President, Ms. Lijuan Jiang is the sole director of Hongshan Holdings Investment Limited, which received 81,432,000 shares of common stock of the Company.  On March 20, 2018, Mr. Zhong entered into a patent transfer agreement with Guangzhou Donggao, pursuant to which Mr. Zhong transferred to Guangzhou Donggao 21 patents owned by him for 72.856% ownership of Donggao International.  As of June 30, 2018, we had advanced our Ms. Lijuan Jiang a total of $39,215 as job or travel related disbursement in the normal course of business. The amounts are unsecured, interest-free and due on demand.
+
+On November 27, 2017, we entered into the Exchange Agreement with Donggao International and holders of all outstanding capital stock of Donggao International, pursuant to which on September 24, 2018, we acquired 100% of the outstanding capital stock of Donggao International. In exchange, we issued to the former shareholders of Donggao International, including Mr. Yue Zhong, Zhongjian Overseas Investment Limited and Hongshan Holdings Investment Limited. Our Chairman, Chief Executive Officer and President, Ms. Lijuan Jiang is the sole director of Hongshan Holdings Investment Limited, which received 81,432,000 shares of common stock of the Company.
+ On March 20, 2018, Mr. Zhong entered into a patent transfer agreement with Guangzhou Donggao, pursuant to which Mr. Zhong transferred to Guangzhou Donggao 21 patents owned by him for 72.856% ownership of Donggao International.
+
+On March 20, 2018, Mr. Zhong entered into a patent transfer agreement with Guangzhou Donggao, pursuant to which Mr. Zhong transferred to Guangzhou Donggao 21 patents owned by him for 72.856% ownership of Donggao International.
+ As of June 30, 2018, we had advanced our Ms. Lijuan Jiang a total of $39,215 as job or travel related disbursement in the normal course of business. The amounts are unsecured, interest-free and due on demand.
+
+As of June 30, 2018, we had advanced our Ms. Lijuan Jiang a total of $39,215 as job or travel related disbursement in the normal course of business. The amounts are unsecured, interest-free and due on demand.
+Promoters and Certain Control Persons
+We did not have any promoters at any time during the past five fiscal years.
+Director Independence
+We currently do not have any independent directors, as the term independent is defined by the rules of the Nasdaq Stock Market.
+LEGAL PROCEEDINGS
+From time to time, we may become involved in various lawsuits and legal proceedings, which arise, in the ordinary course of business. However, litigation is subject to inherent uncertainties and an adverse result in these or other matters may arise from time to time that may harm our business. We are currently not aware of any such legal proceedings or claims that we believe will have a material adverse effect on our business, financial condition or operating results.
+33
+33
+MARKET PRICE AND DIVIDENDS ON OUR COMMON EQUITY
+AND RELATED STOCKHOLDER MATTERS
+Market Information
+Our common stock is currently eligible to be quoted on the OTC market under the symbol TAQR.
+The following table sets forth the quarterly high and low bid prices for the common stock for the periods indicated below. The prices set forth below represent inter-dealer quotations, without retail markup, markdown or commission and may not be reflective of actual transactions.
+Closing Bid Prices (1) High Low Fiscal Year Ended June 30, 2018 1st Quarter $ 2.00 $ 1.00 2nd Quarter $ 2.18 $ 1.30 3rd Quarter $ 2.09 $ 2.08 4th Quarter $ 2.09 $ 0.77 Fiscal Year Ended June 30, 2017 4th Quarter (starting on May 8, 2017)* $ 1.00 $ 1.00
+Closing Bid Prices (1)
+High Low
+High
+Low
+Fiscal Year Ended June 30, 2018
+1st Quarter $ 2.00 $ 1.00
+$
+2.00
+$
+1.00
+2nd Quarter $ 2.18 $ 1.30
+$
+2.18
+$
+1.30
+3rd Quarter $ 2.09 $ 2.08
+$
+2.09
+$
+2.08
+4th Quarter $ 2.09 $ 0.77
+$
+2.09
+$
+0.77
+Fiscal Year Ended June 30, 2017
+4th Quarter (starting on May 8, 2017)* $ 1.00 $ 1.00
+$
+1.00
+$
+1.00
+________
+* To our knowledge, no market information prior to May 8, 2017 is publicly available.
+However, our common stock has not been traded on the OTC market except on a limited and sporadic basis and there is no assurance that a regular public trading market will ever develop. OTC market securities are not listed and traded on the floor of an organized national or regional stock exchange. Instead, OTC market securities transactions are conducted through a telephone and computer network connecting dealers. OTC market issuers are traditionally smaller companies that do not meet the financial and other listing requirements of a regional or national stock exchange.
+Approximate Number of Holders of Our Common Stock
+As of September 24, 2018, there were approximately 26 holders of record of our common stock. This number excludes the shares of our common stock owned by stockholders holding stock under nominee security position listings.
+Dividend Policy
+We have never declared or paid a cash dividend. Any future decisions regarding dividends will be made by our board of directors. We currently intend to retain and use any future earnings for the development and expansion of our business and do not anticipate paying any cash dividends in the foreseeable future. Our board of directors has complete discretion on whether to pay dividends, subject to the approval of our stockholders. Even if our board of directors decides to pay dividends, the form, frequency and amount will depend upon our future operations and earnings, capital requirements and surplus, general financial condition, contractual restrictions and other factors that the board of directors may deem relevant.
+Securities Authorized for Issuance under Equity Compensation Plans
+We do not have in effect any compensation plans under which our equity securities are authorized for issuance.
+RECENT SALES OF UNREGISTERED SECURITIES
+Reference is made to the disclosure set forth under Item 3.02 of this report, which disclosure is incorporated by reference into this section.
+34
+34
+DESCRIPTION OF SECURITIES
+Common Stock
+We are authorized to issue up to 2,000,000,000 shares of common stock, par value $0.001 per share. Each outstanding share of common stock entitles the holder thereof to one vote per share on all matters. Stockholders do not have preemptive rights to purchase shares in any future issuance of our common stock. Upon our liquidation, dissolution or winding up, and after payment of creditors, if any, our assets will be divided pro-rata on a share-for-share basis among the holders of the shares of common stock.
+The holders of shares of our common stock are entitled to dividends out of funds legally available when and as declared by our board of directors. Our board of directors has never declared a dividend and does not anticipate declaring a dividend in the foreseeable future. Should we decide in the future to pay dividends, as a holding company, our ability to do so and meet other obligations depends upon the receipt of dividends or other payments from our operating subsidiary and other holdings and investments. In addition, our operating subsidiary, from time to time, may be subject to restrictions on its ability to make distributions to us, including as a result of restrictive covenants in loan agreements, and other regulatory restrictions.
+All of the issued and outstanding shares of our common stock are duly authorized, validly issued, fully paid and non-assessable. To the extent that additional shares of our common stock are issued, the relative interests of existing stockholders will be diluted.
+Anti-Takeover Effects of Nevada Law and Our Articles of Incorporation and Bylaws
+The provisions of Nevada law, our articles of incorporation and bylaws may have the effect of delaying, deferring or discouraging another person from acquiring control of our company. These provisions, which are summarized below, may have the effect of discouraging takeover bids. They are also designed, in part, to encourage persons seeking to acquire control of us to negotiate first with our board of directors. We believe that the benefits of increased protection of our potential ability to negotiate with an unfriendly or unsolicited acquirer outweigh the disadvantages of discouraging a proposal to acquire us because negotiation of these proposals could result in an improvement of their terms.
+Anti-takeover Effects of Nevada Law
+Business Combinations
+The business combination provisions of Sections 78.411 to 78.444, inclusive, of the Nevada Revised Statutes, or NRS, prohibit a Nevada corporation with at least 200 stockholders from engaging in various combination transactions with any interested stockholder: for a period of three years after the date of the transaction in which the person became an interested stockholder, unless the transaction is approved by the board of directors prior to the date the interested stockholder obtained such status; or after the expiration of the three-year period, unless:
+ the transaction is approved by the board of directors or a majority of the voting power held by disinterested stockholders, or  if the consideration to be paid by the interested stockholder is at least equal to the highest of: (a) the highest price per share paid by the interested stockholder within the three years immediately preceding the date of the announcement of the combination or in the transaction in which it became an interested stockholder, whichever is higher, (b) the market value per share of common stock on the date of announcement of the combination and the date the interested stockholder acquired the shares, whichever is higher, or (c) for holders of preferred stock, the highest liquidation value of the preferred stock, if it is higher.
+
+the transaction is approved by the board of directors or a majority of the voting power held by disinterested stockholders, or
+ if the consideration to be paid by the interested stockholder is at least equal to the highest of: (a) the highest price per share paid by the interested stockholder within the three years immediately preceding the date of the announcement of the combination or in the transaction in which it became an interested stockholder, whichever is higher, (b) the market value per share of common stock on the date of announcement of the combination and the date the interested stockholder acquired the shares, whichever is higher, or (c) for holders of preferred stock, the highest liquidation value of the preferred stock, if it is higher.
+
+if the consideration to be paid by the interested stockholder is at least equal to the highest of: (a) the highest price per share paid by the interested stockholder within the three years immediately preceding the date of the announcement of the combination or in the transaction in which it became an interested stockholder, whichever is higher, (b) the market value per share of common stock on the date of announcement of the combination and the date the interested stockholder acquired the shares, whichever is higher, or (c) for holders of preferred stock, the highest liquidation value of the preferred stock, if it is higher.
+35
+35
+A combination is defined to include mergers or consolidations or any sale, lease exchange, mortgage, pledge, transfer or other disposition, in one transaction or a series of transactions, with an interested stockholder having: (a) an aggregate market value equal to 5% or more of the aggregate market value of the assets of the corporation, (b) an aggregate market value equal to 5% or more of the aggregate market value of all outstanding shares of the corporation, or (c) 10% or more of the earning power or net income of the corporation.
+In general, an interested stockholder is a person who, together with affiliates and associates, owns (or within three years, did own) 10% or more of a corporations voting stock. The statute could prohibit or delay mergers or other takeover or change in control attempts and, accordingly, may discourage attempts to acquire our company even though such a transaction may offer our stockholders the opportunity to sell their stock at a price above the prevailing market price.
+We plan to amend our articles of incorporation state that we have elected not to be governed by the business combination provisions.
+Control Share Acquisitions
+The control share provisions of Sections 78.378 to 78.3793, inclusive, of the NRS, which apply only to Nevada corporations with at least 200 stockholders, including at least 100 stockholders of record who are Nevada residents, and which conduct business directly or indirectly in Nevada, prohibit an acquirer, under certain circumstances, from voting its shares of a target corporations stock after crossing certain ownership threshold percentages, unless the acquirer obtains approval of the target corporations disinterested stockholders. The statute specifies three thresholds: one-fifth or more but less than one-third, one-third but less than a majority, and a majority or more, of the outstanding voting power. Once an acquirer crosses one of the above thresholds, those shares in an offer or acquisition and acquired within 90 days thereof become control shares and such control shares are deprived of the right to vote until disinterested stockholders restore the right. These provisions also provide that if control shares are accorded full voting rights and the acquiring person has acquired a majority or more of all voting power, all other stockholders who do not vote in favor of authorizing voting rights to the control shares are entitled to demand payment for the fair value of their shares in accordance with statutory procedures established for dissenters rights.
+We plan to amend our articles of incorporation state that we have elected not to be governed by the control share provisions.
+Articles of Incorporation and Bylaw Provisions
+Our articles of incorporation and our bylaws include a number of provisions that could deter hostile takeovers or delay or prevent changes in control of our management team, including the following:
+ Board of Directors Vacancies. Our bylaws authorize our board to fill vacant directorships, including newly created seats. In addition, the number of directors constituting our board is set only by a resolution adopted by our board. These provisions would prevent a stockholder from increasing the size of our board and then gaining control of our board by filling the resulting vacancies with its own nominees. This makes it more difficult to change the composition of our board but promotes continuity of management.  No Cumulative Voting. Nevada law provides that stockholders are not entitled to the right to cumulate votes in the election of directors unless a corporations articles of incorporation provides otherwise. Our articles of incorporation provide that the common stock shall not be entitled to cumulative voting rights.
+
+Board of Directors Vacancies. Our bylaws authorize our board to fill vacant directorships, including newly created seats. In addition, the number of directors constituting our board is set only by a resolution adopted by our board. These provisions would prevent a stockholder from increasing the size of our board and then gaining control of our board by filling the resulting vacancies with its own nominees. This makes it more difficult to change the composition of our board but promotes continuity of management.
+ No Cumulative Voting. Nevada law provides that stockholders are not entitled to the right to cumulate votes in the election of directors unless a corporations articles of incorporation provides otherwise. Our articles of incorporation provide that the common stock shall not be entitled to cumulative voting rights.
+
+No Cumulative Voting. Nevada law provides that stockholders are not entitled to the right to cumulate votes in the election of directors unless a corporations articles of incorporation provides otherwise. Our articles of incorporation provide that the common stock shall not be entitled to cumulative voting rights.
+36
+36
+Transfer Agent and Registrar
+Our independent stock transfer agent is V Stock Transfer, LLC. Their mailing address is 18 Lafayette Place, Woodmere, NY 11598, and their phone number is 212-828-8436.
+INDEMNIFICATION OF DIRECTORS AND OFFICERS
+Our articles of incorporation provide that our director or officer is not individually liable to us or our stockholders or creditors for any damages as a result of any act or failure to act in his or her capacity as a director or officer unless it is proven that, (a) the directors or officers act or failure to act constituted a breach of his or her fiduciary duties as a director or officer; and (b) the breach of those duties involved intentional misconduct, fraud or a knowing violation of law. We will provide indemnification to our directors and officers to the maximum extent permitted by law.
+Insofar as indemnification by us for liabilities arising under the Exchange Act may be permitted to our directors, officers and controlling persons pursuant to provisions of the articles of incorporation and bylaws, or otherwise, we have been advised that in the opinion of the SEC, such indemnification is against public policy and is, therefore, unenforceable. In the event that a claim for indemnification by such director, officer or controlling person of us in the successful defense of any action, suit or proceeding is asserted by such director, officer or controlling person in connection with the securities being offered, we will, unless in the opinion of our counsel the matter has been settled by controlling precedent, submit to a court of appropriate jurisdiction the question whether such indemnification by us is against public policy as expressed in the Exchange Act and will be governed by the final adjudication of such issue.
+At the present time, there is no pending litigation or proceeding involving a director, officer, employee or other agent of ours in which indemnification would be required or permitted. We are not aware of any threatened litigation or proceeding which may result in a claim for such indemnification.
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+None.

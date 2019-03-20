@@ -1,0 +1,480 @@
+Item 2.01 Completion of Acquisition or Disposition of Assets
+On January 26, 2018, TRON Group Inc. (previously known as Plush Corp.), a Nevada corporation (TGRP, TRON, or the Company), entered into a Share Exchange Agreement with a shareholder of Talk Focus Sdn Bhd, a Malaysian corporation. The Company acquired 6,401,500 shares of capital stock of Talk Focus and in exchange issued 3,329,385 restricted shares of its common stock to the Talk Focus shareholder.
+As a result of the Share Exchange Agreement:
+(i) The Company's principal business became the business of Talk Focus, and (ii) Talk Focus became a subsidiary of the Company
+(i)
+The Company's principal business became the business of Talk Focus, and
+(ii) Talk Focus became a subsidiary of the Company
+(ii)
+Talk Focus became a subsidiary of the Company
+The completion of the Share Exchange Agreement resulted in the Company changing its line of business, and as a result, the Company has included below the information that would be required if the Company were filing a general form for registration of securities under the Exchange Act on Form 10.
+Description of Business
+Previous Business
+Before we went through a change of control and business focus, we were a development stage company intending to create a portfolio by designing, marketing and selling luxury accessories for men online through our website. The lack of funds and the present economy prevented the development of our business plan. As we were unable to raise the capital necessary to develop our business plan, we began a search for other business opportunities which would benefit our shareholders and allow us to raise capital and operate.
+Current Business
+Shortly after changing our business focus to telecommunication, which we regard as a profitable industry, we identified certain opportunities to engage in the business related to telecommunication in Malaysia, and determined that we should pursue that business opportunity. We entered into negotiations with Talk Focus Sdn Bhd, and have closed that acquisition as of January 26, 2018.
+Currently TRON Group Inc. is a holding company and has no principal business. Talk Focus Sdn Bhd is the TRON Group Inc. operating subsidiary that operates in the telecommunication segment in Malaysia. All references to TRON herein include its operating subsidiary unless otherwise noted.
+Telecommunication Segment
+Overview: TRON is a global telecommunication group and mobile virtual network operator (MVNO) that offers borderless voice, data and other value-added services. In Malaysia, TRON received its full-fledged Network Service Provider (NSP) license from the Malaysia Communications and Multimedia Commission (MCMC) in 2011.
+3
+3
+TRONs Product Portfolio
+TRON offers Tron Lite Sim, a prepaid sim card which provides 365 days of validity on a single top-up. This means that with TRON, customers can remain connected for one full year every time when they reload. TRON offers voice, sms, internet data and other value-added services with a goal to connect the world at very affordable costs by facilitating customers digital and mobile lifestyles. TRON provides a wide range of internet data packages that serve different customers, with daily data packages starting as low as One Malaysia Ringgit.
+TRON also intends to expand its business into a new technology sector  Internet of Things (IoT) - by offering TRONs GPS Tracker Kids Phone, which uses our services to stay connected with a device, allowing the customers children to contact them easily during an emergency. With this tracker and our services, our customers can track their childrens current location and monitor them easily.
+Tronexus is a co-branding initiative under TRON, and which is based on referrals member get member program. Tronexus turns the customer into distributor by introducing Tronexus membership packages to their family and friends. Tronexus offers technology and lifestyle solutions in telecommunication and merchant products to their members.
+TRON is considering venturing into the migrant segment. There are 2.07 million legal foreign workers in Malaysia. A majority of the migrants are from Indonesia, Bangladesh and Nepal. They are also considered as high spenders in prepaid sim cards because of their need to call back to their countries regularly to chat with their families.
+TRON is planning to launch new products - myTravelSim and iTravelSim, which cater to both inbound and outbound tourists. As of 2015, there were 25.7 million arrivals to Malaysia, which presents a good opportunity for TRON to provide goods and services to this market segment. With introducing myTravelSim, foreign tourists can now stay connected while travelling in Malaysia. In addition, Malaysians travel overseas for short vacation or business trips, and iTravelSim will provide a cheaper alternative compared to expensive roaming charges.
+Market, Customer and Distribution Methods
+Currently, Malaysia has a population of approximately 30.75 million, 70% of whom live in or near an urban area. Mobile penetration in Malaysia has reached over 140%, where there are more than 40 million mobile subscribers. 80% of the mobile subscribers are prepaid users. Typically, Malaysians own more than 1 mobile phone or a mobile phone with dual Sim. There are more than 10 million smartphone users in Malaysia who consume mobile internet on web browsing, social media and video streaming.
+In Malaysia, anyone 12 years old and above is eligible to subscribe to TRON telecommunication services. TRON is targeting selected market segments which are not the focus of other big Telco companies. 60% of TRON subscribers base are between 31-60 years old, and overall 90% are Malaysians.
+Sales and Marketing
+TRON intends to promote its products using traditional and online distribution channels. Traditional distribution channels require a sales team to market TRON products to the master distributors and their corresponding dealers. Branding and product advertisement in the dealer shops are done through brochures, posters, buntings, and signage.
+TRON has also developed an online distribution channel by listing TRON products on own website, where customers can purchase online, pay via a payment gateway, and receive delivery provided by the Company. TRON also undertakes digital marketing through online website and social media posting.
+4
+4
+In addition to 365 days validity for a single reload of MYR10 and internet data starting from MYR1, TRON rewards subscribers from time to time with special promotions. TRON has offered free calls within the same network. TRON also offers reload promotions with free talktime credit on MYR30/50/100 top up. In addition, TRON subscribers can earn TRON Points thru a reload and redeem the points through merchandise products, vouchers and a TRON reload. TRON subscribers can enjoy TRON Dealz on exclusive merchant discount vouchers as well.
+Government Regulation
+Malaysian Communications and Multimedia Commission (MCMC) is the regulator for the converging communications and multimedia industry in Malaysia.
+We will be required to comply with all regulations, rules and directives of governmental authorities and agencies in any jurisdiction in which we conduct our current business. As of now there are no additional required government approvals present from which we need approval.
+Competition
+Because the telecommunication business is considered to be one of the most profitable industries, competition between competitors is increasing. Competition includes the four Giants in the industry, referring to a Mobile Network Operator (MNO); Maxis, Celcom, Digi and U Mobile. At TRON, we do not intend to engage in a price war or excessive spending on advertising, but will emphasize competitive advantages with our product offerings, distribution network, advertising and customer support. We cannot compete directly with the MNOs, as they are bulk suppliers. Our rates are slightly higher, but we do offer other rewards and benefits which bring more value to our subscribers.
+Business Model
+A Mobile Virtual Network Operator (MVNO) purchases network capacity and connectivity from major mobile carriers, and then resell services along with MVNO-specific value-added features and products, marketing services toward a niche user base or by adding unique content.
+The current TRON business model is to become a wholesaler/reseller by securing capacity from MNOs, rebrand to our own brand TRON and then sell by way of business to consumer (B2C) marketing. TRON is using Digi Telecommunications network and infrastructure to provide services to TRON subscribers. TRON is leveraging its MNO network and infrastructure to keep the operating expenses low, since developing our own facilities would require high setup costs and investment in licensing, radio spectrum, network and billing infrastructure.
+TRON revenue will be generated from sim pack, device and reload sales. Subscribers base is the key factor to TRON monthly recurring revenue, as subscribers reload their talktime credit. Average Revenue Per User (ARPU) is defined as the total revenue divided by the number of subscribers for monthly basis.
+Cost of goods sold (COGS) is charged by Digi based on usage of voice, sms and internet data. TRON will markup the retail pricing of services to achieve certain gross profit margin.
+Strategic Plan
+Key success factors for a leading global business telecommunication brand
+As the MVNO landscape rapidly evolves, we will be facing many technical and strategic challenges.
+5
+5
+Internet of Things (IoT) is a new technology sector which requires data internet to connect devices to users. IoT has evolved from the convergence of wireless technologies, micro-electromechanical systems (MEMS), microservices and the internet. The convergence has the walls between operational technology (OT) and information technology (IT), allowing unstructured machine-generated data to be analyzed for insights that will drive improvements. TRON can bundle the IoT product and services together. TRON can explore further into IoT, which covers market segments in lifestyle, automotive, health, education, services, etc.
+In 2015, the Ministry of Science, Innovation & Technology Malaysia launched the National IoT Strategic Roadmap, which forecasted the IoT economic potential for Malaysia to reach RM9.5 billion in 2020 and RM42.5 billion in 2025, by creating a national ecosystem to proliferate and industrialize IoT as a new source of economic growth. The vision is to make Malaysia the Premier Regional IoT Development Hub.
+With this opportunity, TRON can apply for a government grant or a government link project related to IoT or technology and telecommunication, where the Malaysian government has allocated a budget for development. TRON can then provide telecommunication solutions to companies in a business to business (B2B) approach.
+Value-added services, like remittance services for overseas fund transfers, can be implemented to target the migrant market. E-commerce is another market where Malaysians do shopping via smartphone instead of using computer.
+TRON mart, mini center or concept store can be opened through franchises throughout Malaysia a part of joint ventures or collaboration with interested business partners. TRON can expand the business to East Malaysia  Sabah and Sarawak - to boost the brand awareness.
+Employees
+As of January 26, 2018, we had approximately 39 full time employees in Malaysia. We have never experienced a work stoppage.
+Description of Properties
+Our principal executive offices are located at K-2-8 2nd Floor, Kuchai Business Park, Jalan 1/127, off Jalan Kuchai Lama, Kuala Lumpur, 58200. Our telephone number is +603 7987 8688. We have no present intention of acquiring other facilities during our development stage.
+We do not currently have any investments or interests in any real estate, nor do we have investments or an interest in any real estate mortgages or securities of persons engaged in real estate activities.
+Risk Factors
+You should carefully consider the risks described below and all other information contained in this report before making an investment decision. If any of the following risks actually occur, our business, financial condition and results of operations could be materially and adversely affected. In that event, the trading price of our common stock could decline, and you may lose all or a part of your investment. This report also contains forward-looking information that involves risks and uncertainties. Our actual results could differ materially from those anticipated in these forward-looking statements as a result of many factors, including the risks described below and elsewhere in this report.
+6
+6
+General Risks Relating to our Business, Operations of Financial Condition
+We have a limited operating history and are subject to the risks encountered by early-stage companies.
+TRON officially launched its commercial service in Malaysia in October 2011. Because our operating company has a limited operating history, you should consider and evaluate our operating prospects in light of the risks and uncertainties frequently encountered by early-stage companies in rapidly evolving markets. For us, these risks include:
+ that we may not have sufficient capital to achieve our growth strategy;  that we may not develop our product and service offerings in a manner that enables us to be profitable and meet our customers requirements;  that our growth strategy may not be successful; and  that fluctuations in our operating results will be significant relative to our revenues.
+
+that we may not have sufficient capital to achieve our growth strategy;
+ that we may not develop our product and service offerings in a manner that enables us to be profitable and meet our customers requirements;
+
+that we may not develop our product and service offerings in a manner that enables us to be profitable and meet our customers requirements;
+ that our growth strategy may not be successful; and
+
+that our growth strategy may not be successful; and
+ that fluctuations in our operating results will be significant relative to our revenues.
+
+that fluctuations in our operating results will be significant relative to our revenues.
+These risks are described in more detail below. Our future growth will depend substantially on our ability to address these and the other risks described in this section. If we do not successfully address these risks, our business could be significantly harmed.
+We have a history of net losses, may incur substantial net losses in the future and may not achieve profitability.
+Although we have begun to generate revenues, we have incurred significant losses since inception. We expect to incur increased costs to implement our business plan and increase revenues, such as costs relating to expanding our subscribers growth. If our revenues do not increase to offset these additional expenses, or if we experience unexpected increases in operating expenses, we will continue to incur significant losses, and will not become profitable. If we are not able to significantly increase our revenues, we will likely not be able to achieve profitability in the future.
+Our operating losses and working capital deficiency raise substantial doubt about our ability to continue as a going concern. If we do not continue as a going concern, investors could lose their entire investment.
+Our operating losses and working capital deficiency raise substantial doubt about our ability to continue as a going concern. If we do not generate sufficient revenues, do not achieve profitability or do not have other sources of financing for our business, we may have to curtail or cease our development plans and operations, which could cause investors to lose the entire amount of their investment.
+Increasing competition within our emerging industry could have an impact on our business prospects.
+The telecommunication industry is very competitive, where new competitors are frequently entering the market. These competing companies may have significantly greater financial and other resources than we have, and may have been developing their products and services longer and better than we have been developing ours. Although our portfolio of products and related revenue stream sources are broad, increasing competition may have a negative impact on our profit margins.
+Our operating results may fluctuate in future periods, which may adversely affect our stock price
+Our operating results have been in the past, and will continue to be, subject to quarterly and annual fluctuations as a result of numerous factors, some of which may contribute to more pronounced fluctuations in an uncertain global economic environment. These factors include:
+ Fluctuations in demand for our products and services, especially with respect to telecommunications service providers and Internet businesses, in part due to changes in the global economic environment
+
+Fluctuations in demand for our products and services, especially with respect to telecommunications service providers and Internet businesses, in part due to changes in the global economic environment
+7
+7
+ Changes in sales and implementation cycles for our products and reduced visibility into our customers spending plans and associated revenue
+
+Changes in sales and implementation cycles for our products and reduced visibility into our customers spending plans and associated revenue
+ Our ability to maintain appropriate inventory levels and purchase commitments
+
+Our ability to maintain appropriate inventory levels and purchase commitments
+ Price and product competition in the communications and networking industries, which can change rapidly due to technological innovation and different business models
+
+Price and product competition in the communications and networking industries, which can change rapidly due to technological innovation and different business models
+ The overall movement toward industry consolidation among both our competitors and our customers
+
+The overall movement toward industry consolidation among both our competitors and our customers
+The markets in which we compete are intensely competitive
+The markets in which we compete are characterized by rapid change, converging technologies, and a migration to networking and communications solutions that offer relative advantages. These market factors represent a competitive threat to us. We compete with numerous vendors in each product category. The overall number of our competitors providing niche product solutions may increase. Also, the identity and composition of competitors may change as we increase our activity in markets for our products and in our priorities.
+Industry consolidation may lead to increase competition and may harm our operating results.
+There has been a trend toward industry consolidation in our markets for several years. We expect this trend to continue as companies attempt to strengthen or hold their market positions in an evolving industry, and as companies are acquired or are unable to continue operations. Companies that are strategic alliance partners in some areas of our business may acquire or form alliances with our competitors, thereby reducing their business with us. We believe that industry consolidation may result in stronger competitors that are better able to compete for customers. This could lead to more variability in our operating results and could have a material adverse effect on our business, operating results, and financial condition.
+CAUTIONARY STATEMENT REGARDING FORWARD LOOKING INFORMATION
+This report includes forward-looking statements that relate to future events or our future financial performance and involve known and unknown risks, uncertainties and other factors that may cause our actual results, levels of activity, performance or achievements to differ materially from any future results, levels of activity, performance or achievements expressed or implied by these forward-looking statements. Words such as, but not limited to, believe, expect, anticipate, estimate, intend, plan, targets, likely, aim, will, would, could and similar expressions or phrases identify forward-looking statements. We have based these forward-looking statements largely on our current expectations and future events and financial trends that we believe may affect our financial condition, results of operation, business strategy and financial needs.
+Forward-looking statements include, but are not limited to, statements about:
+ Limited operating history.  History of net loses.  Competition in telecommunication industries.  Increases in the price of cost of goods sold (COGS).  Dependence on certain key personnel.  Lack of market acceptance of new products.  Inability to manage our business expansion.  Availability of skilled labor and increasing labor costs.  Political conditions and government regulations in Malaysia. 8
+
+Limited operating history.
+ History of net loses.
+
+History of net loses.
+ Competition in telecommunication industries.
+
+Competition in telecommunication industries.
+ Increases in the price of cost of goods sold (COGS).
+
+Increases in the price of cost of goods sold (COGS).
+ Dependence on certain key personnel.
+
+Dependence on certain key personnel.
+ Lack of market acceptance of new products.
+
+Lack of market acceptance of new products.
+ Inability to manage our business expansion.
+
+Inability to manage our business expansion.
+ Availability of skilled labor and increasing labor costs.
+
+Availability of skilled labor and increasing labor costs.
+ Political conditions and government regulations in Malaysia.
+
+Political conditions and government regulations in Malaysia.
+8
+8
+You should read thoroughly this report and the documents that we refer to herein with the understanding that our actual future results may be materially different from and/or worse than what we expect. We qualify all of our forward-looking statements by these cautionary statements, including those made in Risk Factors. Other sections of this report include additional factors which could adversely impact our business and financial performance. Moreover, we operate in an evolving environment. New risk factors emerge from time to time, and it is not possible for our management to predict all risk factors, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements. Except for our ongoing obligations to disclose material information under the Federal securities laws, we undertake no obligation to release publicly any revisions to any forward-looking statements, to report events or to report the occurrence of unanticipated events. These forward-looking statements speak only as of the date of this report, and you should not rely on these statements without also considering the risks and uncertainties associated with these statements and our business.
+Managements Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion should be read in conjunction with our audited financial statements and the related notes that appear elsewhere in this annual report. The following discussion contains forward-looking statements that reflect our plans, estimates and beliefs. Our actual results could differ materially from those discussed in the forward looking statements. Factors that could cause or contribute to such differences include, but are not limited to those discussed below and elsewhere in this annual report.
+Our audited financial statements are stated in United States Dollars and are prepared in accordance with United States Generally Accepted Accounting Principles.
+Results of Operations
+Our financial statements have been prepared assuming that we will continue as a going concern and, accordingly, do not include adjustments relating to the recoverability and realization of assets and classification of liabilities that might be necessary should we be unable to continue in operation. We expect we will require additional capital to meet our long term operating requirements. We expect to raise additional capital through, among other things, the sale of equity or debt securities.
+The following comparative analysis on results of operations was based primarily on the comparative audited consolidated financial statements, footnotes and related information for the periods identified below and should be read in conjunction with the consolidated financial statements and the notes to those statements that are included elsewhere in this report.
+9
+9
+Year ended December 31, 2016 compared to the period ended December 31, 2015
+TALK FOCUS SDN BHD
+CONSOLIDATED STATEMENTS OF OPERATIONS
+AND COMPREHENSIVE LOSS
+(Amount expressed in United States Dollars (US$), except for number of shares)
+Years ended December 31, Note 2016 2015 Revenues, net $ 1,476,235 $ 1,868,693 Cost of revenues (784,652 ) (1,964,871 ) Gross profit (loss) 691,583 (96,178 ) Operating expenses: General and administrative (1,602,245 ) (1,717,314 ) Loss from operations (910,662 ) (1,813,492 ) Other income (expense): Interest expense (1,370 ) (270 ) Other income 3,433 4,567 Loss before income taxes (908,599 ) (1,809,195 ) Income tax expense 8 - - NET LOSS $ (908,599 ) $ (1,809,195 ) Net loss attributable to non-controlling interests 21,673 - Net loss attributable to the Company $ (886,926 ) $ (1,809,195 ) Other comprehensive income: -Foreign exchange adjustment gain 345,374 1,224,651 COMPREHENSIVE LOSS $ (541,552 ) $ (584,544 )
+Years ended December 31,
+Note 2016 2015
+Note
+2016
+2015
+Revenues, net $ 1,476,235 $ 1,868,693
+$
+1,476,235
+$
+1,868,693
+Cost of revenues (784,652 ) (1,964,871 )
+(784,652
+)
+(1,964,871
+)
+Gross profit (loss) 691,583 (96,178 )
+691,583
+(96,178
+)
+Operating expenses:
+General and administrative (1,602,245 ) (1,717,314 )
+(1,602,245
+)
+(1,717,314
+)
+Loss from operations (910,662 ) (1,813,492 )
+(910,662
+)
+(1,813,492
+)
+Other income (expense):
+Interest expense (1,370 ) (270 )
+(1,370
+)
+(270
+)
+Other income 3,433 4,567
+3,433
+4,567
+Loss before income taxes (908,599 ) (1,809,195 )
+(908,599
+)
+(1,809,195
+)
+Income tax expense 8 - -
+8
+-
+-
+NET LOSS $ (908,599 ) $ (1,809,195 )
+$
+(908,599
+)
+$
+(1,809,195
+)
+Net loss attributable to non-controlling interests 21,673 -
+21,673
+-
+Net loss attributable to the Company $ (886,926 ) $ (1,809,195 )
+$
+(886,926
+)
+$
+(1,809,195
+)
+Other comprehensive income:
+-Foreign exchange adjustment gain 345,374 1,224,651
+345,374
+1,224,651
+COMPREHENSIVE LOSS $ (541,552 ) $ (584,544 )
+$
+(541,552
+)
+$
+(584,544
+)
+Revenue decreased 21% to $1,476,235 in the year ended December 31, 2016, from $1,868,693 in the year ended December 31, 2015. The decrease in revenue is mainly caused by the closure of one of the companys retail outlets in a prime location at mid-2015.
+Cost of revenues decreased 60.07% to $784,652 in the year ended December 31, 2016, from $1,964,871 in the year ended December 31, 2015. The decrease in cost of revenue is mainly due to the new contract signed with the main supplier. The rates provided in the new contract are much lower as compared to the old contract.
+General and administrative expenses decreased 6.70% to $1,602,245 in the year ended December 31, 2016, from $1,717,314 in the year ended December 31, 2015. The decrease in general and administrative expenses is due to the reduction in Directors Remuneration and Salaries in 2016 as compared to 2015.
+Net interest expenses increased 407.41% to $1,370 in the year ended December 31, 2016, from $270 in the year ended December 31, 2015. The increase in net interest expenses is due to the company acquiring a hire purchase asset in 2016.
+Net other income decreased 24.83% to $3,433 in the year ended December 31, 2016, from $4,567 in the year ended December 31, 2015. The decrease in net other income is due to a one off income acquired in 2015.
+Net loss decreased 49.78% to $908,599 in the year ended December 31, 2016, from $1,809,195 in the year ended December 31, 2015. The main contributing factor that caused the decrease in net loss is the reduction in cost of revenues caused by the new contract signed with the main supplier in 2016.
+10
+10
+Security Ownership of Certain Beneficial Owners and Management
+The following table sets forth, as of May 11, 2017, certain information with respect to the beneficial ownership of our common shares by each shareholder known by us to be the beneficial owner of more than 5% of our common shares, as well as by each of our current directors and executive officers as a group. Each person has sole voting and investment power with respect to the shares of common stock, except as otherwise indicated. Beneficial ownership consists of a direct interest in the shares of common stock, except as otherwise indicated.
+Name and Address of Beneficial Owner Amount and Nature of Beneficial Ownership Percentage of Class(1) Eric Yap K-2-8 2nd Floor, Kuchai Business ParkJalan 1/127 off Jalan Kuchai Lama, Kuala Lumpur MY 58200 81,600,000 Common Direct 51.00 % Peng Soon Yap K-2-8 2nd Floor, Kuchai Business ParkJalan 1/127 off Jalan Kuchai Lama, Kuala Lumpur MY 58200 9,980,000 Common Direct 6.24 % Chui Mean Yap K-2-8 2nd Floor, Kuchai Business ParkJalan 1/127 off Jalan Kuchai Lama, Kuala Lumpur MY 58200 18,400,000 Common Direct 11.50 % Man Tat Teh K-2-8 2nd Floor, Kuchai Business ParkJalan 1/127 off Jalan Kuchai Lama, Kuala Lumpur MY 58200 8,000,000 Common Direct 5.00 % Kian Chye Teh K-2-8 2nd Floor, Kuchai Business ParkJalan 1/127 off Jalan Kuchai Lama, Kuala Lumpur MY 58200 8,000,000 Common Direct 5.00 % Directors and Executive Officers as a Group 125,980,000Common Shares 78.74 % Chee Hou Yap A-12-6 Pelangi Condo, Jalan Pelangi 9 TamanPelangi, Sentul, Kuala Lumpur 51000, MY 8,000,000 Common Direct 5.00 % Chui Chi Yap A-12-6 Pelangi Condo, Jalan Pelangi 9 TamanPelangi, Sentul, Kuala Lumpur 51000, MY 8,000,000 Common Direct 5.00 % Chee Hua Yap K-2-8 2nd Floor, Kuchai Business ParkJalan 1/127 off Jalan Kuchai Lama, Kuala Lumpur MY 58200 8,000,000 Common Direct 5.00 % Yoke Fun Pan K-2-8 2nd Floor, Kuchai Business ParkJalan 1/127 off Jalan Kuchai Lama, Kuala Lumpur MY 58200 8,000,000 Common Direct 5.00 % Beneficial Holder  5% or greater as a Group 32,000,000 Common 20 %
+Amount and Nature of Beneficial Ownership
+Percentage of Class(1)
+Eric Yap K-2-8 2nd Floor, Kuchai Business ParkJalan 1/127 off Jalan Kuchai Lama, Kuala Lumpur MY 58200 81,600,000 Common Direct 51.00 %
+81,600,000 Common Direct
+51.00
+%
+Peng Soon Yap K-2-8 2nd Floor, Kuchai Business ParkJalan 1/127 off Jalan Kuchai Lama, Kuala Lumpur MY 58200 9,980,000 Common Direct 6.24 %
+9,980,000 Common Direct
+6.24
+%
+Chui Mean Yap K-2-8 2nd Floor, Kuchai Business ParkJalan 1/127 off Jalan Kuchai Lama, Kuala Lumpur MY 58200 18,400,000 Common Direct 11.50 %
+18,400,000 Common Direct
+11.50
+%
+Man Tat Teh K-2-8 2nd Floor, Kuchai Business ParkJalan 1/127 off Jalan Kuchai Lama, Kuala Lumpur MY 58200 8,000,000 Common Direct 5.00 %
+8,000,000 Common Direct
+5.00
+%
+Kian Chye Teh K-2-8 2nd Floor, Kuchai Business ParkJalan 1/127 off Jalan Kuchai Lama, Kuala Lumpur MY 58200 8,000,000 Common Direct 5.00 %
+8,000,000 Common Direct
+5.00
+%
+Directors and Executive Officers as a Group 125,980,000Common Shares 78.74 %
+125,980,000Common Shares
+78.74
+%
+Chee Hou Yap A-12-6 Pelangi Condo, Jalan Pelangi 9 TamanPelangi, Sentul, Kuala Lumpur 51000, MY 8,000,000 Common Direct 5.00 %
+8,000,000 Common Direct
+5.00
+%
+Chui Chi Yap A-12-6 Pelangi Condo, Jalan Pelangi 9 TamanPelangi, Sentul, Kuala Lumpur 51000, MY 8,000,000 Common Direct 5.00 %
+8,000,000 Common Direct
+5.00
+%
+Chee Hua Yap K-2-8 2nd Floor, Kuchai Business ParkJalan 1/127 off Jalan Kuchai Lama, Kuala Lumpur MY 58200 8,000,000 Common Direct 5.00 %
+8,000,000 Common Direct
+5.00
+%
+Yoke Fun Pan K-2-8 2nd Floor, Kuchai Business ParkJalan 1/127 off Jalan Kuchai Lama, Kuala Lumpur MY 58200 8,000,000 Common Direct 5.00 %
+8,000,000 Common Direct
+5.00
+%
+Beneficial Holder  5% or greater as a Group 32,000,000 Common 20 %
+32,000,000 Common
+20
+%
+_______________
+(1) Under Rule 13d-3, a beneficial owner of a security includes any person who, directly or indirectly, through any contract, arrangement, understanding, relationship, or otherwise has or shares: (i) voting power, which includes the power to vote, or to direct the voting of shares; and (ii) investment power, which includes the power to dispose or direct the disposition of shares. Certain shares may be deemed to be beneficially owned by more than one person (if, for example, persons share the power to vote or the power to dispose of the shares). In addition, shares are deemed to be beneficially owned by a person if the person has the right to acquire the shares (for example, upon exercise of an option) within 60 days of the date as of which the information is provided. In computing the percentage ownership of any person, the amount of shares outstanding is deemed to include the amount of shares beneficially owned by such person (and only such person) by reason of these acquisition rights. As a result, the percentage of outstanding shares of any person as shown in this table does not necessarily reflect the persons actual ownership or voting power with respect to the number of shares of common stock actually outstanding on January 26, 2018. As of January 26, 2018 there were 160,000,000 shares of our companys common stock issued and outstanding.
+Under Rule 13d-3, a beneficial owner of a security includes any person who, directly or indirectly, through any contract, arrangement, understanding, relationship, or otherwise has or shares: (i) voting power, which includes the power to vote, or to direct the voting of shares; and (ii) investment power, which includes the power to dispose or direct the disposition of shares. Certain shares may be deemed to be beneficially owned by more than one person (if, for example, persons share the power to vote or the power to dispose of the shares). In addition, shares are deemed to be beneficially owned by a person if the person has the right to acquire the shares (for example, upon exercise of an option) within 60 days of the date as of which the information is provided. In computing the percentage ownership of any person, the amount of shares outstanding is deemed to include the amount of shares beneficially owned by such person (and only such person) by reason of these acquisition rights. As a result, the percentage of outstanding shares of any person as shown in this table does not necessarily reflect the persons actual ownership or voting power with respect to the number of shares of common stock actually outstanding on January 26, 2018. As of January 26, 2018 there were 160,000,000 shares of our companys common stock issued and outstanding.
+11
+11
+Changes in Control
+We are unaware of any contract or other arrangement or provisions of our Articles or Bylaws the operation of which may at a subsequent date result in a change of control of our company. There are not any provisions in our Articles or Bylaws, the operation of which would delay, defer, or prevent a change in control of our company.
+Directors, Executive Officers, Promoters and Control Persons
+All directors of our company hold office until the next annual meeting of the security holders or until their successors have been elected and qualified. The officers of our company are appointed by our board of directors and hold office until their death, resignation or removal from office. Our directors and executive officers, their ages, positions held, and duration as such, are as follows:
+Name Position Held with the Company Age Date First Elected or Appointed Eric Yap Chief Executive Officer and Director 51 September 1, 2016 Peng Soon Yap Chief Operating Officer 34 September 1, 2016 Man Tat Teh Chief Financial Officer 23 September 1, 2016 Kian Chye Teh Secretary 51 September 1, 2016 Chui Mean Yap Director 27 September 30, 2016
+Position Held with the Company
+Age
+Date First Elected or Appointed
+Eric Yap Chief Executive Officer and Director 51 September 1, 2016
+Chief Executive Officer and Director
+51
+September 1, 2016
+Peng Soon Yap Chief Operating Officer 34 September 1, 2016
+Chief Operating Officer
+34
+September 1, 2016
+Man Tat Teh Chief Financial Officer 23 September 1, 2016
+Chief Financial Officer
+23
+September 1, 2016
+Kian Chye Teh Secretary 51 September 1, 2016
+Secretary
+51
+September 1, 2016
+Chui Mean Yap Director 27 September 30, 2016
+Director
+27
+September 30, 2016
+Business Experience
+The following is a brief account of the education and business experience during at least the past five years of each director, executive officer and key employee of our company, indicating the persons principal occupation during that period, and the name and principal business of the organization in which such occupation and employment were carried out.
+Eric Yap Chief Executive Officer and Director
+Dr. Yap has been serving as CEO and President of TRON Communications, a telecommunication company in Malaysia since April 2015. Dr. Yap holds an advanced diploma in international marketing, a masters degree in business administration and an honorary doctorate of philosophy degree in business administration from the United States. His career as an entrepreneur for the past 20 years has led him to venture into various industries including insurance, property, construction, travel, security and telecommunication.
+Dr. Yap started his career as an insurance agent before promoted to agency supervisor and later agency manager. With an outstanding sales record in his company, he earned a place in the much coveted Million Dollar Round Member. In 2009, he established Quality Quest International Sdn Bhd and is holding a non-executive director position. He also established Quality Quest International (HK) Ltd in 2010, and is an executive director there. Both companies deal in investment and property holdings in Malaysia and Hong Kong respectively.
+Dr. Yap is a high achiever and he excelled in his business acumen which earned him numerous awards such as The Asia Pacific Entrepreneur Award 2016, The Brandlaureate Best Brand Award, The Brandlaureate Leadership Award, First Diamond Entrepreneur Award 2015, The Malaysia 2016 CSR Award, The Malaysia 2017 CSR Award, The SME And Entrepreneurship Business Award 2017 and The Top 100 Most Influential Sustainable Entrepreneur in 2017. Dr. Yap was also been nominated as an Honorary Member for various organizations such as Malaysia Crime Awareness And Prevention Board (LKPJM), Association Of Malaysian Ex-police Forces (PBPM), Association Of Malaysia Ex-security Forces (PBPKM), Consumer Welfare And Protection Board of Malaysia (LPKPM) and The Emergency Action Forces Of Malaysia (PTCM).
+Our company believes that Dr. Yap's professional background experience give him the qualifications and skills necessary to serve as a director and officer of our company.
+12
+12
+Peng Soon Yap  Chief Operating Officer
+Peng Soon Yap graduated as an Electrical/Electronic Engineer in the University of Technology Malaysia in year 2005. He joined Talk Focus Sdn Bhd in September, 2015, and is now serving as the Executive Vice President in charge of the overall execution of company strategic plans and directions through overseeing operations, sales and marketing and overseeing operations to help Talk Focus achieve its financial goals and objectives. Previously, he was Product Manager responsible for the planning of product roadmap, costing, pricing, simcard provisioning and production. Prior to joining Talk Focus, he was working in Intel Microelectronics (M) Sdn Bhd for 10 years as Senior Technical Software Development Engineer. His responsibilities include path-finding on new software solution, tools architecture and projects roadmap planning. He was assigned for two years relocation at Intel Oregon, USA for on-site support and few business trips to USA for customer face to face meetings and attending global technical conferences.
+Our company believes that Peng Soon Yap's professional background experience give him the qualifications and skills necessary to serve as a director and officer of our company.
+Man Tat Teh  Chief Financial Officer
+Man Tat Teh is a chartered accountant under the Association of Chartered Certified Accountants (ACCA) from the Sunway University, Malaysia in 2015. Mr. Teh is also a Bachelor of Arts (honors) degree holder from Taylors University majoring in Accounting and Finance. Mr. Teh has been servicing as executive director and treasurer of TRON Communications since 2015. His key responsibilities are to manage all accounts related matters of the company and its subsidiaries from AP/AR to preparation of full consolidated accounting reports. Mr. Teh also handles the taxation for TRON to ensure all regulatory requirements are met.
+Our company believes that Man Tat Teh's professional background experience give him the qualifications and skills necessary to serve as a director and officer of our company.
+Kian Chye Teh  Secretary
+Kian Chye Teh has joined Technology Revolution On-Net Sdn Bhd (TRON) as a managing director handling marketing and corporate affairs matters since August 2015. He successfully raised the image of TRON by emphasizing corporate social responsibility and awareness. He is responsible for managing the operational activities, coordinating and executing the business plan. Kian Chye will also be responsible for designing the reward compensation for the staff.
+Previously he had established GPT Ventures Sdn Bhd with partners, a logistics company in 2011, he is the managing director of that company till to date.
+Our company believes that Kian Chye Teh's professional background experience give him the qualifications and skills necessary to serve as a director and officer of our company.
+13
+13
+Chui Mean Yap  Director
+Chui Mean Yap is a member of TRONs board of directors, a role she has held since 2016. She is appointed to act on behalf of the shareholders to oversee the activities of the company. She graduated from University of Sheffield, UK with a Bachelors Degree in Psychology and later on pursued two Masters degrees, namely Social & Organizational Psychology and Consumer Psychology from Leiden University, Netherlands. Previously, she worked in Allocacoc, a Dutch industrial design firm as Social Media Manager since 2015, helping the frim to design online marketing, campaign so they could reach out to their potential customers.
+Executive Compensation
+The particulars of the compensation paid to the following persons:
+(a) our principal executive officer; (b) each of our two most highly compensated executive officers who were serving as executive officers at the end of the years ended December 31, 2016 and 2015; and (c) up to two additional individuals for whom disclosure would have been provided under (b) but for the fact that the individual was not serving as our executive officer at the end of the years ended December 31, 2016 and 2015, who we will collectively refer to as the named executive officers of our company, are set out in the following summary compensation table, except that no disclosure is provided for any named executive officer, other than our principal executive officers, whose total compensation did not exceed $100,000 for the respective fiscal year:
+(a)
+our principal executive officer;
+(b) each of our two most highly compensated executive officers who were serving as executive officers at the end of the years ended December 31, 2016 and 2015; and
+(b)
+each of our two most highly compensated executive officers who were serving as executive officers at the end of the years ended December 31, 2016 and 2015; and
+(c) up to two additional individuals for whom disclosure would have been provided under (b) but for the fact that the individual was not serving as our executive officer at the end of the years ended December 31, 2016 and 2015, who we will collectively refer to as the named executive officers of our company, are set out in the following summary compensation table, except that no disclosure is provided for any named executive officer, other than our principal executive officers, whose total compensation did not exceed $100,000 for the respective fiscal year:
+(c)
+up to two additional individuals for whom disclosure would have been provided under (b) but for the fact that the individual was not serving as our executive officer at the end of the years ended December 31, 2016 and 2015, who we will collectively refer to as the named executive officers of our company, are set out in the following summary compensation table, except that no disclosure is provided for any named executive officer, other than our principal executive officers, whose total compensation did not exceed $100,000 for the respective fiscal year:
+SUMMARY COMPENSATION TABLE Name and Principal Position Year Salary($) Bonus($) StockAwards($) Option Awards($) Non-Equity Incentive Plan Compensa-tion($) Change in PensionValue and Nonqualified Deferred Compensa-tion Earnings($) AllOther Compensa-tion($) Total($) Eric Yap(1) 2016 N/A N/A N/A N/A N/A N/A N/A N/A Chief Executive Officer and Director 2015 N/A N/A N/A N/A N/A N/A N/A N/A Man Tat Teh(2) 2016 N/A N/A N/A N/A N/A N/A N/A N/A Chief Financial Officer 2015 N/A N/A N/A N/A N/A N/A N/A N/A Peng Soon Yap(3) 2016 N/A N/A N/A N/A N/A N/A N/A N/A Chief Operating Officer 2015 N/A N/A N/A N/A N/A N/A N/A N/A
+Name and Principal Position Year Salary($) Bonus($) StockAwards($) Option Awards($) Non-Equity Incentive Plan Compensa-tion($) Change in PensionValue and Nonqualified Deferred Compensa-tion Earnings($) AllOther Compensa-tion($) Total($)
+Year
+Salary($)
+Bonus($)
+StockAwards($)
+Option Awards($)
+Non-Equity Incentive Plan Compensa-tion($)
+Change in PensionValue and Nonqualified Deferred Compensa-tion Earnings($)
+AllOther Compensa-tion($)
+Total($)
+Eric Yap(1) 2016 N/A N/A N/A N/A N/A N/A N/A N/A
+2016
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+Chief Executive Officer and Director 2015 N/A N/A N/A N/A N/A N/A N/A N/A
+2015
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+Man Tat Teh(2) 2016 N/A N/A N/A N/A N/A N/A N/A N/A
+2016
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+Chief Financial Officer 2015 N/A N/A N/A N/A N/A N/A N/A N/A
+2015
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+Peng Soon Yap(3) 2016 N/A N/A N/A N/A N/A N/A N/A N/A
+2016
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+Chief Operating Officer 2015 N/A N/A N/A N/A N/A N/A N/A N/A
+2015
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+_______________
+(1) Eric Yap was appointed as Chief Executive Officer and as a director on September 1, 2016 (2) Man Tat Teh was appointed Chief Financial Officer on September 1, 2016 (3) Peng Soon Yap was appointed Chief Operating Officer on September 1, 2016 (4) Numan Ijaz resigned as President and Chief Executive Officer on September 1, 2016, and as a director on September 30, 2016 (5) Alexander Bains resigned as Chief Financial Officer, Secretary, Treasurer on September 1, 2016, and as a director on September 30, 2016 (6) Chui Mean Yap was appointed as a director on September 30, 2016
+Eric Yap was appointed as Chief Executive Officer and as a director on September 1, 2016
+(2) Man Tat Teh was appointed Chief Financial Officer on September 1, 2016
+Man Tat Teh was appointed Chief Financial Officer on September 1, 2016
+(3) Peng Soon Yap was appointed Chief Operating Officer on September 1, 2016
+Peng Soon Yap was appointed Chief Operating Officer on September 1, 2016
+(4) Numan Ijaz resigned as President and Chief Executive Officer on September 1, 2016, and as a director on September 30, 2016
+Numan Ijaz resigned as President and Chief Executive Officer on September 1, 2016, and as a director on September 30, 2016
+(5) Alexander Bains resigned as Chief Financial Officer, Secretary, Treasurer on September 1, 2016, and as a director on September 30, 2016
+Alexander Bains resigned as Chief Financial Officer, Secretary, Treasurer on September 1, 2016, and as a director on September 30, 2016
+(6) Chui Mean Yap was appointed as a director on September 30, 2016
+Chui Mean Yap was appointed as a director on September 30, 2016
+14
+14
+There are no arrangements or plans in which we provide pension, retirement or similar benefits for directors or executive officers. Our directors and executive officers may receive share options at the discretion of our board of directors in the future. We do not have any material bonus or profit sharing plans pursuant to which cash or non-cash compensation is or may be paid to our directors or executive officers, except that share options may be granted at the discretion of our board of directors.
+Grants of Plan-Based Awards
+During the fiscal year ended December 31, 2016 we did not grant any stock options.
+Option Exercises and Stock Vested
+During our fiscal year ended December 31, 2016 there were no options exercised by our named officers or directors.
+Compensation of Directors
+We do not have any agreements for compensating our directors for their services in their capacity as directors, although such directors are expected in the future to receive stock options to purchase shares of our common stock as awarded by our board of directors.
+Pension, Retirement or Similar Benefit Plans
+There are no arrangements or plans in which we provide pension, retirement or similar benefits for directors or executive officers. We have no material bonus or profit sharing plans pursuant to which cash or non-cash compensation is or may be paid to our directors or executive officers, except that stock options may be granted at the discretion of the board of directors or a committee thereof.
+Indebtedness of Directors, Senior Officers, Executive Officers and Other Management
+None of our directors or executive officers or any associate or affiliate of our company during the last two fiscal years, is or has been indebted to our company by way of guarantee, support agreement, letter of credit or other similar agreement or understanding currently outstanding.
+Certain Relationships and Related Transactions, and Director Independence
+Director Eric Yap and Chui Mean Yap are father and daughter. No director, executive officer, shareholder or any family member thereof, had any material interest, direct or indirect, in any transaction, or proposed transaction since the year ended December 31, 2016, in which the amount involved in the transaction exceeded or exceeds the lesser of $120,000 or one percent of the average of our total assets at the year-end for the last three completed fiscal years.
+Director Independence
+We currently act with two directors, consisting of Eric Yap and Chui Mean Yap.
+We have determined that we do not have an independent director, as that term is used in Rule 4200(a)(15) of the Rules of National Association of Securities Dealers.
+Currently our audit committee consists of our entire board of directors. We currently do not have nominating, compensation committees or committees performing similar functions. There has not been any defined policy or procedure requirements for shareholders to submit recommendations or nomination for directors.
+From inception to present date, we believe that the members of our audit committee and the board of directors have been and are collectively capable of analyzing and evaluating our financial statements and understanding internal controls and procedures for financial reporting.
+15
+15
+Market Price of and Dividends on Common Equity and Related Stockholder Matters
+Market Information
+Our common stock has been quoted on the OTCQB tier of the OTC Markets Group, Inc. since December 28, 2016, and is traded under the symbol TGRP. Our stock is thinly traded on the OTCQB and there can be no assurance that a liquid market for our common stock will ever develop. The closing share price for March 31st 2017 (Q117) is at $.52, and for June 30th 2017 (Q217) and September 30th 2017 (Q317) are at $0.11 respectively.
+th
+Our shares are issued in registered form. Globex Transfer, LLC., 780 Deltona Blvd., Suite 202, Deltona, FL 32725 (Telephone: (813) 344-4490; Facsimile: (386) 267-3124 is the registrar and transfer agent for our common shares.
+Security Holders
+On January 26, 2018, the shareholders list showed 10 registered shareholders with 160,000,000 shares of common stock outstanding.
+Dividend Policy
+We have never declared or paid any cash dividends on our common stock. We currently intend to retain future earnings, if any, to increase our working capital and do not anticipate paying any cash dividends in the foreseeable future.
+Equity Compensation Plan Information
+We do not have any equity compensation plans.
+Recent Sales of Unregistered Securities; Use of Proceeds from Registered Securities
+We did not sell any equity securities which were not registered under the Securities Act during the year ended December 31, 2016, that were not otherwise disclosed on our quarterly reports on Form 10-Q or our current reports on Form 8-K filed during the year ended December 31, 2016.
+Purchase of Equity Securities by the Issuer and Affiliated Purchasers
+We did not purchase any of our shares of common stock or other securities during our fourth quarter of our fiscal year ended December 31, 2016.
+Indemnifications of Directors and Officers
+Our Bylaws provide to the fullest extent permitted by law that our directors or officers, former directors and officers, and persons who act at our request as a director or officer of a body corporate of which we are a shareholder or creditor shall be indemnified by us. We believe that the indemnification provisions in our Bylaws are necessary to attract and retain qualified persons as directors and officers.
+Insofar as indemnification for liabilities arising under the Securities Act of 1933 may be permitted to directors, officers or persons controlling the Company pursuant to provisions of the State of Nevada, the company has been informed that, in the opinion of the Securities and Exchange Commission, such indemnification is against public policy as expressed in the Act and is, therefore, unenforceable.

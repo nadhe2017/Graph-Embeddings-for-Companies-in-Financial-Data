@@ -1,0 +1,609 @@
+Item 2.01.
+Completion of Acquisition or Disposition of Assets
+THE CONTRIBUTION AGREEMENT AND RELATED TRANSACTIONS
+This section describes the material provisions of the Contribution Agreement but does not purport to describe all of the terms thereof. The following summary is qualified in its entirety by reference to the complete text of the Contribution Agreement, a copy of which is attached hereto as Exhibit 2.1. Unless otherwise defined herein, the capitalized terms used below are defined in the Contribution Agreement.
+The Contribution Agreement
+On the Closing Date, B4MC consummated the transactions contemplated by the Contribution Agreement by and among B4MC, RocketFuel, Gert Funk (Funk), Joseph Page (Page), PacificWave Partners Limited (PWP), PacificWave Partners UK Ltd. (PWPUK) and Saxton Capital Ltd (Saxton). Funk, Page, PWP, PWPUK and Saxton are collectively referred to herein as the Sellers, individually each a Seller).
+Pursuant to the Contribution Agreement the Sellers contributed, transferred, assigned and conveyed to the Company all right, title and interest in and to all of the issued and outstanding shares of common stock of RocketFuel for an aggregate of 17,001,312 shares of Purchaser Common Stock. As a result of the Business Combination, RocketFuel became a 100% wholly-owned subsidiary of B4MC.
+The Business Combination will be treated as a reverse acquisition of RocketFuel for financial accounting purposes. RocketFuel will be considered the acquirer for accounting purposes, and the historical financial statements of BFMC before the Business Combination will be replaced with the historical financial statements of RocketFuel before the Business Combination in all future filings with the SEC. The Purchaser Common Stock being issued to the Sellers in connection with the Business Combination has not been registered under the Securities Act, in reliance upon the exemption from registration provided by Section 4(a)(2), which exempts transactions by an issuer not involving any public offering, and Regulation D and/or Regulation S promulgated by the SEC under that section. These shares may not be offered or sold in the United States absent registration or an applicable exemption from registration.
+The foregoing description of the Contribution Agreement does not purport to be complete. For further information, please refer to the copy of the Contribution Agreement that is filed as Exhibit 2.1 to this Report. There are representations and warranties contained in the Contribution Agreement that were made by the parties to each other as of the date of execution. The assertions embodied in these representations and warranties were made solely for purposes of the Contribution Agreement and may be subject to important qualifications and limitations agreed to by the parties in connection with negotiating their terms. Moreover, some representations and warranties may not be accurate or complete as of any specified date because they are subject to a contractual standard of materiality that is
+4
+different from certain standards generally applicable to shareholders or were used for the purpose of allocating risk between the parties rather than establishing matters as facts. For these reasons, investors should not rely on the representations and warranties in the Contribution Agreement as statements of factual information.
+DESCRIPTION OF BUSINESS
+Our Corporate History
+B4MC was organized under the laws of the State of Delaware, on April 2, 1987, as BK Ventures, Inc. We were organized to create a corporate vehicle to seek and acquire a business opportunity. In June 2000, we reincorporated under the laws of the State of Nevada. In October 2013, we amended our articles of incorporation to change our name to B4MC Gold Mines, Inc. Prior to the Business Combination, we were engaged in efforts to identify an operating company to acquire or merge with through an equity-based exchange transaction that would likely result in a change in control. On July 15, 2015, we filed an amendment to our Articles of Incorporation with the Secretary of State of the State of Nevada providing for a one-for-fifty reverse split of the outstanding shares of our Common Stock effective August 21, 2015. The authorized shares of our Common Stock were not adjusted as a result of the reverse stock split. All shares described herein reflect the effect of the one-for-fifty reverse split that was effective on August 21, 2015.
+RocketFuel Blockchain Company is a corporation formed in the State of Nevada on January 12, 2018 for the purpose of bringing more efficient check-out systems to eCommerce.
+RocketFuel is a development stage company that maintains its corporate headquarters and business operations in Las Vegas, Nevada.
+Our Mission and Business
+Our mission is to provide blockchain-based check-out solutions that securely automate and simplify the way online payment and shipping information is received by merchants from their customers. At the same time, our blockchain technology will be designed to enhance customers data protection, enabling consumers to pay for goods online without exposing spending credentials such as credit card data with the merchants.
+RocketFuel was organized to bring highly efficient check-out systems to eCommerce. We are currently developing innovative check-out systems that will be based upon blockchain technology and designed to increase speed, security, and ease of use for both customers and merchants. We are working to develop a user app (Android and iOS) that will enable users to enjoy a seamless check-out experience, allowing them to forget about the clunky cart paradigm of the past. Further, we will be developing software that allows merchants to easily deploy these systems. This includes support for special purpose web stores. It further includes special encoded advertisement schemes having the technology integrated therein. We also plan to develop a merchant blockchain monitor system that can be deployed to effect fulfillment. We believe that merchants using RocketFuels technology will be able to implement new impulse buying schemes that may be unavailable on present day eCommerce sites.
+Our blockchain based check-out solution is being designed to include a single-click functionality to invoke payment conveyance with integrated consumer shipping address data. A significant benefit of this technology is that the entire shopping cart checkout process will be accomplished via a distributed ledger or blockchain, meaning that merchant websites will no longer required to operate complex payment and check-out infrastructures. Rather, merchants will be able to fulfill orders directly from the blockchain, where they can extract their customer shipping information and dispatch products accordingly.
+Since there will be no direct exchange of information between the consumer and the merchant, advertisements in which the entire check-out process is embedded may be able to be placed on third party websites and sales may be completely finalized there. Thus, our technology will enable eCommerce strategies that can include advertisements with a fully integrated check-out process. We believe that this has never before been accomplished in any eCommerce arrangement. It is expected that such advertisements will provide significant new sales channels to retailers that are simply not possible with legacy check-out solutions.
+The single-click RocketFuel check-out solution will be based on a streamlined one- to-three-click check-out process for eCommerce purchases. The system will be designed to operate identically across merchant channels with all participating merchants. eCommerce merchants will be able to encode their check-out protocol to support our technology and the merchants will no longer have to administer complex check-out and payment gateways at their
+5
+eCommerce websites. At the same time, consumers should be able to experience enhanced data protection opportunities and significantly improved convenience.
+Consumers will no longer have to enter credit card information or shipping details every time they want to buy online. Payment and shipping information will be handled automatically on the local app that is invoked via an eCommerce checkout page or simple advertisement. Using the RocketFuel app, credit card data or other spending authority will no longer be shared or transmitted and exposed online. Rather, payments will be made via 100% secure cryptocurrency conveyance on the blockchain.
+eCommerce merchants will be able to find all necessary details for order fulfilment, including item ID, shipping, and payment on the blockchain. Payment will be accomplished automatically and instantly. By using the blockchain, transaction transmissions may include both payment and shipping information from the consumer to the eCommerce merchant. RocketFuel checkout systems may be served anywhere and potentially on any website. Indeed, special versions of these systems will work in the physical world, such as in-store check outs, without need for any eCommerce website.
+Using the single-click RocketFuel check-out technology and check-out button, consumers will no longer be re-directed to a third party website or any payment processor websites requesting personal data, payment details or shipping information. Along with the payment, an encrypted shipping address will be carried as a data-payload in a standard blockchain transaction. No payment card data will be shared with the eCommerce merchant or any other third party. Upon clicking a buy now button, encoded as an href hyperlink, a third-party developed cryptocurrency wallet of the consumers choosing will be instantiated. The hyperlink will encode a bitcoin URI to trigger the wallet to process the hyperlink, which will carry a bitcoin public key to encode the product specification and purchase amount. The wallet will recall from a local registry the shipping address preferred by the consumer. Together, all of this information will be used to formulate the blockchain transaction. The wallet will consist of software that is 100% owned and fully controlled by the consumer with no membership requirement whatever. Possession and custody of all funds will be 100% exclusive to the consumer, and no control of funds will ever be available to any third party, including us. Each blockchain transaction will be parseable and consumable by merchants. Merchants will be able to monitor their receiving addresses with software that we will provide. Upon receipt of transactions, merchants will be able to immediately respond by delivering the correct product to the correct address via conventional shipping services.
+With the RocketFuel solution, eCommerce merchants will need no contact or other information exchange with the consumer in order to receive their payment or shipping details. Instead, they will detect orders and payments on prescribed addresses via our blockchain monitor system, which may be integrated into merchants fulfillment centers. Upon receipt of payment and shipping information, the consumers address may be decrypted and reconstructed as a clear text postal address suitable for human viewers. From there, merchants can coordinate the printing and application of shipping labels to selected goods that are packaged for shipping.
+Our Process
+As consumers browse Internet market places, such as Amazon.com, and social media websites and apps, such as Facebook, they will come across specially configured advertisements carrying the RocketFuel single-click or buy now instant purchase feature. In response to just a single one to three clicks, the consumer can complete the entire purchase transaction and expect selected goods to arrive at their home the following days. No credit card or shipping information will need to be inputted.
+In planned variations of our check-out solution, one-click on a command button will cause an underlying Hyperlink URI to launch a local RocketFuel app with the single-click or buy-now feature enabled. User confirmation (an extra click (optional (or a two-click transaction)) on the yes button) will cause the users shipping address to be recalled from a profile register, compressed and encrypted into an abbreviated data-payload, and inserted into a cryptocurrency transaction. The transaction will then be passed into the peer-to-peer network to be included in the publicly available blockchain. In a three-click transaction, the user will be required to provide two confirmation clicks. RocketFuels app will significantly reduce friction compared to other transaction that may include upwards to 70-clicks.
+A significant feature of this system is that the consumers browser will not leave the originating website (e.g., Facebook). It will not forward to merchant check-out pages and will not forward to any payment processor webserver. Indeed, there will be no direct communication between the consumer and the merchant. The entire checkout process will take place entirely from within the host website (such as Facebook).
+6
+The purchase order will exist entirely as an implicit purchase specification on the blockchain in the form of a common blockchain -based transaction. The payment will be made as a transfer of cryptocurrency value not subject to chargeback. The product being purchased will be specified via association with an address used for the transaction. The shipping address will be set forth in a small (i.e., < 80 bytes) data payload integrated with and carried by the transaction.
+We also intend to design a fulfilment monitor system that, together with the merchants own fulfilment centers, will monitor the blockchain to detect arrival of payments on prescribed addresses. Each merchants address will be associated with a particular product or product configuration, including size/color combinations among others. When these payments arrive and are incorporated into the blockchain (every ten minutes or so), merchants may respond by decrypting customer shipping information and matching the address to the product ordered. Merchants would then enable immediate and highly automated shipping process, including the printing of shipping labels and conveyance to common express couriers.
+Industry Background and Trends
+A blockchain, also known as a distributed ledger technology, is a sequential, ever-growing, time-stamped set of records that are grouped in blocks and maintained by disparate participants. Each block is interdependent, making alterations of records economically difficult if not outright impossible.
+We believe that blockchain technology represents not merely an evolutionary development, but has the potential to become transformational technology. A few facts:
+
+A Blockchain includes the following features:
+
+The Blockchain is a decentralized and distributed digital ledger that is used to record and secure transactions across multiple computers.
+
+The transactions on the Blockchain cannot be changed.
+
+All transactions on the Blockchain can be verified and audited inexpensively by anyone.
+
+The blockchain confirms that each unit of value was transferred only once.
+
+A blockchain database consists of two kinds of records: transactions and blocks. Blocks hold batches of valid transactions that are hashed and encoded.
+
+Each block includes the hash of the prior block in the blockchain, linking the two.
+
+The linked blocks form a virtual chain.
+The blockchain, being a globally distributed ledger running on millions of devices, is capable of recording transfers of anything of value. Transactions in money, equities, bonds, titles, deeds, contracts, and virtually all other kinds of assets can be implemented and stored securely, privately, and from peer to peer, because trust is established, not by powerful intermediaries like banks and governments, but by network consensus, cryptography, collaboration, and sophisticated code. For the first time in human history, two or more parties, be they businesses or individuals who may not even know each other, can forge agreements, make transactions, and build value without relying on intermediaries (such as banks, payment institutions, rating agencies and other third parties) to verify their identities, establish trust, or perform the critical business logic contracting, clearing, settling, and record-keeping tasks that are foundational to all forms of commerce.
+Given the promise and risks associated of such a disruptive technology, many firms in all kinds of industries, such as banks, insurers, audit and other professional service firms, are investing in, and implementing, blockchain solutions, often to take advantage of the opportunities to reduce friction (by which it is meant fewer clicks for the user on RocketFuels user interface) and costs. After all, most financial intermediaries themselves rely on a dizzying, complex, and costly array of intermediaries to run their own operations.
+In 2015, Santander, a European bank, put the potential savings of blockchain technology at $20 billion a year. Capgemini, a consultancy, estimated in 2015 that consumers could save up to $16 billion in banking and insurance fees each year through blockchain-based applications.
+7
+PriceWaterhouse Coopers estimated in 2016 that more than 55% of their Global clients will be blockchain based in 2020. Additionally, a study from Sophia TX in 2016 indicates that more than 10% of the Global GDP will originate from blockchain based solutions by 2025.
+Trends
+Large multi-national corporations are beginning to invest in blockchain technologies and implementing solutions utilizing the benefits of the blockchain, to be more efficient, reduce costs, reduce errors and double registration, increase speed of trading, reduce frictions and intermediaries, etc. Below are a few examples of such investments.
+Microsoft
+The $561 Billion US-based technology company has released the Confidential Consortium (Coco) Framework, an Ethereum-based protocol which commercial companies and large-scale organizations will be able to utilize to process information on the Ethereum Blockchain with increased privacy.
+Daimler Benz
+We believe Daimler Benz recent issuance of a 100m bond on a private version of the Ethereum blockchain signals the first step in a much larger plan by Daimler AG to explore the technology. The type of bond, called a Schuld/schein, is what we believe gives the project a truly global scale. Daimler Benz expects the new business on the Blockchain to develop and become larger in value than their entire Mercedes Benz production.
+
+Goldman Sachs
+Goldman Sachs is now involved in several Blockchain technology-based companies like Circle and even Digital Asset Holdings. Even though the banking giant has been helping start-ups such as the above-mentioned companies, recent positive press from Goldman Sachs further indicates their acceptance of the technology. We believe blockchain technology is making waves in various industries, including finance.
+Bank of America
+We believe Bank of America is emerging as one of the most active banks when it comes to filing patents over claimed innovations in blockchain and cryptocurrency. Three new submissions, initially filed with the U.S. Public Patent and Trademark Office early last year, add to a total of 43 blockchain and cryptocurrency-related patent applications filed by the bank since 2014. Of those, nine were submitted in 2016, four were filed in 2015 and 10 as far back as 2014.
+IBM
+We believe IBM is one of the most dedicated technology companies which has become synonymous with the blockchain. IBM has embarked on a journey to take blockchain into the enterprise and government arena with its permission based blockchain.
+Enterprise Ethereum Alliance
+The Enterprise Ethereum Alliance, which is composed of thirty large banks and technology giants, which include JP Morgan, Microsoft and Intel, have united to build business-ready versions of the software behind Ethereum. The Enterprise Ethereum Alliance is planning to demonstrate a pilot of the financial technology as it exists today and to show off a spot trade on the foreign exchange market for global currencies using an adaptation of Ethereum as the settlement layer.
+Japanese Government
+Japan is reportedly looking to integrate blockchain into its online systems for accepting government contract bids. According to a Nikkei Asian Review report in June 2017, the Ministry of Internal Affairs and Communications, which oversees the Japanese administrative system and manages local governments, will test a blockchain-based system for processing government tenders in the fiscal year ended March 2018.
+Blockchain Technologies for eCommerce Payments and Check-out Solutions
+RocketFuel blockchain technologies are intended to solve many of the issues with traditional payment methods. By utilizing blockchain technology, our system will be designed to credit payments faster, with little or no
+8
+transaction costs, and significantly more secure than current payment systems, while enabling consumers to retain more control over their data.
+Traditional online and offline payment methods route transactions through banks, card-schemes and expensive clearing houses before the money is actually credited to the merchants account. And the consumers must send and expose sensitive data online, making it vulnerable to hackers and fraudsters. The blockchain has the ability to provide solutions that can remove the need for third parties such as VISA, MasterCard, acquirers/banks and other intermediaries and make the payments faster, cheaper and more frictionless. Blockchain technologies enable at the consumer to control his or her personal, sensitive data without the need to share payment credentials, personal information or other vulnerable data. This will remove the need for expensive and complex third party anti-fraud tools, transaction monitoring software, and the like, eliminating the possibility for consumers to have their data stolen and mis-used, such as recently experienced in the Facebook data scandal.
+We believe implementing blockchain technologies in the eCommerce industry will be game changing not only for the payment regimes but also for the way consumers interact with merchants and each other in a peer-to-peer environment, creating multiple benefits and opportunities for both the merchants and the consumers; as described below:
+Cheaper Transactions. No intermediaries such as digital wallets and other traditional payment methods, card-schemes and acquirers, are required. Instead, the system is based on self-executing contract instructions with no complexity of transfers and transactions.
+Faster Transactions. The merchants will no longer have to wait days for the card-processors and acquirers to settle the transactions. With the blockchain, the transactions, payments and shipping and order details will be encoded in the data-load files encoded in the transactions instant stored and logged on the blockchain.
+Transparency. The blockchain can store the entire owner history of a product, no matter where the product goes and how many times it is re-purchased. Thus, the blockchain can help eliminate the fraud and brings transparency to both consumers and merchant.
+Creating Decentralized Blockchain-Based eCommerce Marketplaces. Because of the security that both the network and the cryptography provide, blockchain technology provides a secure system through which individuals and businesses can directly interact and transact with each other without the need for an intermediary. The only minor fees that will be paid are for the network behind the blockchain for validating transactions and securing the network. Both buyer and seller pay no fees to a marketplace company, because technically, there is no company. The platforms through which e-commerce will be conducted in such eCommerce marketplaces are blockchain applications. Because blockchains are decentralized, there is no central party, or company, that sets the rules and decides how users will transact with one another. The users, thus individuals and businesses, determine how the platform will develop and function.
+Security and Consumer Data Protection. Sending consumer data using the blockchain instead of the traditional methods using third party gateways eliminates the possibility for the hackers and fraudsters to steal and mis-use the consumers sensitive data. Also, on the database level, the blockchain provides remarkable attributes. For example, it has previously been impossible to assure a database was not manipulated by criminal actors. As the blockchain regime is currently designed, data stored on a blockchain cannot be changed by any means. Further, the blockchain is designed such that it is with the highest certainty that only a possessor of a private key can cause a transaction to occur. This assures security at a level never before possible in any computing system. With these properties, blockchain now enables improvement in known systems whereby excellent performance never before possible is realized. In another important example, even the highest sophisticated financial systems have been nevertheless exposed to hacking. Because security of the blockchain itself is believed by most to be near perfect and has been very rigorously tested as such, hacking is probably impossible. The cryptography used in blockchain systems has to date been impenetrable. Therefore, we believe that the systems built on the blockchain will bring near perfect security that cannot be hacked.
+Hacker-Proof. To our knowledge, blockchains have remained 100% immune to hacking since inception. It has now become generally accepted that a blockchain is likely to be among the first computer data constructs that can be considered hack proof.
+Anti-Money Laundering Features. Blockchain technologies can be used in powerful anti-money laundering systems as every transaction is 'laid open' and available to all system users. Transactions on the blockchain cannot
+9
+be hidden from the public and they are forever recorded in the ledger.
+Patents
+Our technology is covered by five applications for U.S. patents. Each application was submitted by our Chief Technical Officer (CTO) and director, Joe Page, who assigned them to RocketFuel in exchange for his RocketFuel shares.
+Competitive Strengths
+Our blockchain based check-out technology provides multiple benefits to merchants and consumers, including very high conversion efficiencies.
+General Benefits to Merchants and Consumers
+
+Easier. Just 1 to 3 clicks;
+
+More Convenient. No re-direct and no typing of redundant information. No longer any need to open new accounts with passwords;
+
+Consumer Data Protection. No sensitive data shared with any third party. Shipping information in the data-load file;
+
+Faster. No filling out forms and no need to provide payment details; and
+
+More Cost-Effective. Bypassing banks and card-schemes.
+Benefits to eCommerce Merchants
+
+Conversion efficiencies which we believe could prove to be exceptional;
+
+Enhances impulse buying;
+
+Provides instant receipt of payment thereby mitigating the need for expensive intermediaries such as digital wallets, card-schemes and acquirers;
+
+Elimination of chargeback expenses;
+
+Elimination of expensive anti-fraud tools;
+
+Enables highly-automated fulfillment;
+
+Eliminates browser re-directs;
+
+Improved automation of security whereby encrypted payment and shipping information are received without the requirement of manual processes; and
+
+Seamless processing through simple HTML encoding.
+Benefits to Online Consumers
+
+No sensitive data is shared or sent to third parties thereby providing protection of personal data;
+
+General Data Protection Regulation of the European Union (GDPR) compliant;
+
+Easier and more consumer-friendly check out experience with only 1 to 3 clicks;
+
+Convenience of use is enhanced as a result of, but not limited to: (i) no browser re-directs, (ii) no need to type redundant information, and (iii) no requirement to open new accounts with passwords; and
+
+No requirement to fill out forms with information and payment details thereby facilitating the processing of transactions.
+Our Growth Strategy
+Our CTO, Joe Page, developed the first prototype of the RocketFuel blockchain based check-out solution in 2015 through 2017, based on the technology covered by the patent applications that have been assigned to us. See Patents. Following the consummation of the Business Combination, we intend to develop the technology to obtain
+10
+proof of concept with several larger US eCommerce merchants, social media and blog-sites. We plan to assemble an experienced management and technical team within payments, intellectual property and legal capabilities that will ensure controlled growth the coming one to two years.
+Key benchmarks for our roll -out strategy include:
+
+Design, build and test a user app that is responsive via URI to HTML encoded hyperlinks
+
+Promote technology adoption by general purpose crypto wallet platforms.
+
+Promote a merchant support software package used for blockchain parsing to effect fulfillment.
+
+Deploy wide variety of functional demonstration implementations and support those with vigorous marketing plan to expose operational system to both user and merchants.
+
+Promote further merchant adoption via deployment team.
+Our anticipated operational focus and related cash requirements for the first 6, 12 and 24 months following the closing of the Business Combination are as follows:
+Period Operating Activities Total cash requirements First 6 months Develop RocketFuel App for Android and iOS and fulfillment monitor system USD 1,400,000 First 12 months Maintain RocketFuel App and fulfillment monitor system, conduct merchant outreach, education and software support USD 3,200,000 First 24 months Maintain and scale up RocketFuel App and fulfillment monitor system implementation, increase marketing efforts, in addition to regular merchant and consumer outreach, education and software support, to accelerate user adoption USD 8,500,000
+Period Operating Activities Total cash requirements
+Operating Activities
+Total cash requirements
+First 6 months Develop RocketFuel App for Android and iOS and fulfillment monitor system USD 1,400,000
+Develop RocketFuel App for Android and iOS and fulfillment monitor system
+USD 1,400,000
+First 12 months Maintain RocketFuel App and fulfillment monitor system, conduct merchant outreach, education and software support USD 3,200,000
+Maintain RocketFuel App and fulfillment monitor system, conduct merchant outreach, education and software support
+USD 3,200,000
+First 24 months Maintain and scale up RocketFuel App and fulfillment monitor system implementation, increase marketing efforts, in addition to regular merchant and consumer outreach, education and software support, to accelerate user adoption USD 8,500,000
+Maintain and scale up RocketFuel App and fulfillment monitor system implementation, increase marketing efforts, in addition to regular merchant and consumer outreach, education and software support, to accelerate user adoption
+USD 8,500,000
+We intend to fulfill our cash requirements through additional equity or debt financings. Any potential future sale of equity or debt securities may result in dilution to our stockholders, and we cannot be certain that additional public or private financing will be available in amounts or on terms acceptable to us, or at all. If we are unable to obtain such financing, we may be required to delay, reduce the scope of, eliminate one or more aspects of our operations or business development activities, or cease operations altogether.
+Our Customers
+Our plan for customer acquisition will outreach to the market-dominating market places to establish commercial proof-of-concept targeting, but not limited to, major eCommerce merchants.
+We believe the technology covered by our patent applications and the benefits of our solutions could provide us with a competitive edge over the broader market in the adoption of new strategies and leading technologies. To our knowledge, the conveyance of product specification, payment and shipping address via a blockchain in a single transaction has never been done before and this provides a strong competitive advantage.
+Sales and Marketing
+We believe our business development team, currently comprised of our officers, Joe Page and Gert Funk, is
+11
+highly experienced within eCommerce and online market places with connections to several larger eCommerce merchants. Our sales and marketing efforts will focus on a few larger eCommerce merchants rather than many smaller merchants and will be scaled up as funding permits. We believe that a strong proof-of-concept window with our technology functionally displayed in scale will attract merchants to our technology, and we intend to sell the technology on a license fee basis.
+Our Revenue Model
+We anticipate that our revenues will be derived primarily from license fees from eCommerce merchants and other licensees of our technology. Appreciable revenue generation comes with user adoption. User adoption is a difficult matter to predict in the cryptocurrency community and many have set out with optimism and failed to achieve good user adoption. However, it is believed that superficial revenue generation will arrive in about 240 to 365 days from the Closing Date. Merchants will be required to pay a license fee to the company as well as pay fees for added merchant services that we may develop, such as our fulfillment and order processing services. Cryptocurrency wallet providers may also be asked in the future to pay license fees.
+Competition
+While we are not aware of any companies offering or developing competitive technologies, there are many firms offering or developing shopping cart and checkout-based solutions, including blockchain-based solutions, and there can be no assurance that direct competitors to our solutions will arise. Our technology is designed to be compliant with the new GDPR and other Governmental regulations and initiatives to protect the consumers data.
+Government Regulation
+Our clients are subject to federal, state and foreign laws regarding privacy and the protection of user data. Foreign data protection, privacy, consumer protection, content regulation and other laws and regulations are often more restrictive than those in the United States. As the blockchain industry is still relatively new and in the midst of significant development, there are also potential federal legislative proposals and various state legislative bodies and foreign governments concerning data protection, tracking, behavioral advertising and consumer protection that could affect our clients.
+As of May 25, 2018, the European Unions General Data Protection Regulation will be enforced for all organizations doing business in Europe. GDPR aims to harmonize European data privacy laws, protect and empower all EU citizens data privacy, and set the guidelines on how to embed data privacy controls within participating organizations.
+We believe that our blockchain based check-out solution will help our clients to be compliant with the enhanced privacy rules and regulations as our technology will enable the consumers to pay for goods online without exposing spending credentials (credit card data) with the eCommerce merchants.
+For additional information regarding the laws and regulations that may adversely affect our business, please see the section titled Risk Factors below.
+Employees
+As of March 31, 2018, we had no full-time employees. Within the first twelve months of operations following the Business Combination we expect to hire 16 employees in the areas of management, technical development, R&D, sales and marketing, and administration. Additionally, we intend to use IT development companies with expertise within blockchain technology development as contractors. The purpose is to have portions/modules of the technology developed with such companies whereas the key part and functionalities will be developed and kept in-house.
+Legal Proceedings
+We are not a party to any other legal proceedings, other than ordinary routine litigation incidental to our business, which we believe will not have a material effect on our financial position or results of operations.
+Description of Properties
+Currently, we do not own or lease any properties. We do intend to rent an office in Nevada for day to day business operations.
+12
+RISK FACTORS
+The following risk factors apply to the business and operations of the Company. These risk factors are not exhaustive. Investors are encouraged to perform their own investigation with respect to the business, financial condition and prospects of the Company. You should carefully consider the following risk factors, as well as the other information included in this Report. In particular, please refer to the section entitled Cautionary Note Regarding Forward-Looking Statements. We may face additional risks and uncertainties that are not presently known to us, or that we currently deem immaterial, which may also impair our business. The following discussion should be read in conjunction with the financial statements and notes to the financial statements included herein.
+Risks Related to our Capital Structure
+There is no assurance of an active established public trading market, which would adversely affect the ability of the Companys investors to sell their securities in the public market.
+Although the Companys common stock is registered under the Exchange Act and is traded on the OTC Pink Marketplace, an active trading market for the securities does not yet exist and may not exist or be sustained in the future. The OTC Pink Marketplace is an over-the-counter market that provides significantly less liquidity than the NASDAQ Stock Market. Prices for securities traded solely on the OTC Pink may be difficult to obtain and holders of common stock may be unable to resell their securities at or near their original offering price or at any price. Market prices for the Companys common stock will be influenced by a number of factors, including:
+
+The Companys ability to obtain additional financing and the terms thereof;
+
+The Companys financial position and results of operations;
+
+Any litigation against the Company;
+
+Possible regulatory requirements on the Companys business;
+
+The issuance of new debt or equity securities pursuant to a future offering;
+
+Competitive developments;
+
+Variations and fluctuations in the Companys operating results;
+
+Change in financial estimates by securities analysts;
+
+The depth and liquidity of the market for the Companys common stock;
+
+Investor perceptions of the Company; and
+
+General economic and business conditions.
+Shares eligible for future sale may adversely affect the market price of the Companys common stock, as the future sale of a substantial amount of outstanding stock in the public marketplace could reduce the price of the Companys common stock.
+Approximately 92.0 percent (92.0%) of the shares of common stock issued and outstanding are owned by eight stockholders who will be eligible to sell some of their shares of common stock by means of ordinary brokerage transactions in the open market pursuant to Rule 144 promulgated under the Securities Act (Rule 144), subject to certain limitations commencing in one year. Rule 144 also permits the sale of securities, without any limitations, by a non-affiliate that has satisfied a six-month holding period commencing one year after the Company is no longer a shell company. Any substantial sale of common stock pursuant to Rule 144 may have an adverse effect on the market price of our common stock by creating an excessive supply.
+The Companys common stock is considered a penny stock and may be difficult to sell.
+The Companys common stock is considered to be a penny stock since it meets one or more of the definitions in Rules 15g-2 through 15g-6 promulgated under Section 15(g) of the Exchange Act. These include but are not limited to the following: (i) the stock trades at a price less than $5.00 per share; (ii) it is not traded on a recognized national exchange; (iii) it is not quoted on the NASDAQ Stock Market, or even if so, has a price less than $5.00 per share; or (iv) it is issued by a company with net tangible assets less than $2.0 million, if in business more than a continuous three years, or with average revenues of less than $6.0 million for the past three years. The
+13
+principal result or effect of being designated a penny stock is that securities broker-dealers cannot recommend the stock but must trade in it on an unsolicited basis.
+Additionally, Section 15(g) of the Exchange Act and Rule 15g-2 promulgated thereunder by the SEC require broker-dealers dealing in penny stocks to provide potential investors with a document disclosing the risks of penny stocks and to obtain a manually signed and dated written receipt of the document before effecting any transaction in a penny stock for the investors account.
+Holders in the Companys common stock are urged to obtain and read such disclosure carefully before purchasing any shares that are deemed to be penny stock. Moreover, Rule 15g-9 requires broker-dealers in penny stocks to approve the account of any investor for transactions in such stocks before selling any penny stock to that investor. This procedure requires the broker-dealer to: (i) obtain from the investor information concerning its financial situation, investment experience and investment objectives; (ii) reasonably determine, based on that information, that transactions in penny stocks are suitable for the investor and that the investor has sufficient knowledge and experience as to be reasonably capable of evaluating the risks of penny stock transactions; (iii) provide the investor with a written statement setting forth the basis on which the broker-dealer made the determination in (ii) above; and (iv) receive a signed and dated copy of such statement from the investor, confirming that it accurately reflects the investors financial situation, investment experience and investment objectives. Compliance with these requirements may make it more difficult for holders of the Companys common stock to resell their shares to third parties or to otherwise dispose of them in the market or otherwise.
+The Financial Industry Regulatory Authority, or FINRA, has adopted sales practice requirements that may also limit a stockholders ability to buy and sell our stock.
+In addition to the penny stock rules described above, FINRA has adopted rules that require that, in recommending an investment to a customer, a broker-dealer must have reasonable grounds for believing that the investment is suitable for that customer. Prior to recommending speculative low-priced securities to their non-institutional customers, broker-dealers must make reasonable efforts to obtain information about the customers financial status, tax status, investment objectives and other information. Under interpretations of these rules, FINRA believes that there is a high probability that speculative low-priced securities will not be suitable for at least some customers. FINRA requirements make it more difficult for broker-dealers to recommend that their customers buy our common stock, which may limit your ability to buy and sell our stock and have an adverse effect on the market for our shares.
+A decline in the price of our common stock could affect our ability to raise additional working capital, it may adversely impact our ability to continue operations and we may go out of business.
+A prolonged decline in the price of our common stock could result in a reduction in the liquidity of our common stock and a reduction in our ability to raise capital. Because we may attempt to acquire a significant portion of the funds we need in order to conduct our planned operations through the sale and issuance of equity securities, a decline in the price of our common stock could be detrimental to our liquidity and our operations because the decline may cause investors not to choose to invest in our stock. If we are unable to raise the funds we require for all our planned operations, we may be forced to reallocate funds from other planned uses and we may suffer a significant negative effect on our business plan and operations, including our ability to develop new products and continue our current operations. As a result, our business may suffer, and not be successful and we may go out of business. We also might not be able to meet our financial obligations if we cannot raise enough funds through the sale and issuance of our common stock and we may be forced to go out of business.
+The Company does not intend to pay dividends and stockholders may not experience a return on investment without selling their securities.
+The Company has never declared or paid, nor does it intend in the foreseeable future to declare or pay, any cash dividends on its common stock. Since the Company intends to retain all future earnings to finance the operation and growth of its business, stockholders will likely need to sell their securities in order to realize a return on their investment, if any.
+Unfavorable general economic conditions may materially adversely affect our business.
+While it is difficult for us to predict the impact of general economic conditions on our business, these conditions could reduce customer demand for some of our products or services which could cause our revenue to decline. Also, our customers that are especially reliant on the credit and capital markets being liquid, retail investors
+14
+having investment capital and other factors which could affect their ability to host successful capital raises and continue as a going concern. Moreover, we rely on obtaining additional capital and/or additional funding to provide working capital to support our operations. We regularly evaluate alternative financing sources. Further changes in the commercial capital markets or in the financial stability of our investors and creditors may impact the ability of our investors and creditors to provide additional financing. For these reasons, among others, if the economic conditions stagnate or decline, our operating results and financial condition could be adversely affected.
+If we fail to maintain an effective system of internal control over financial reporting, we may not be able to accurately report our financial results. As a result, current and potential shareholders could lose confidence in our financial reporting, which would harm our business and the trading price of our stock.
+We are a development stage company with limited resources. Therefore, we cannot assure investors that we will be able to maintain effective internal controls over financial reporting based on criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control-Integrated Framework. A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the company's annual or interim financial statements will not be prevented or detected on a timely basis. For these reasons, we are considering the costs and benefits associated with improving and documenting our disclosure controls and procedures and internal controls and procedures, which includes (i) hiring additional personnel with sufficient U.S. GAAP experience and (ii) implementing ongoing training in U.S. GAAP requirements for our CFO and accounting and other finance personnel. If the results of these efforts are not successful, or if material weaknesses are identified in our internal control over financial reporting, our management will be unable to report favorably as to the effectiveness of our internal control over financial reporting and/or our disclosure controls and procedures, and we could be required to further implement expensive and time-consuming remedial measures and potentially lose investor confidence in the accuracy and completeness of our financial reports which could have an adverse effect on our stock price and potentially subject us to litigation.
+Our management has limited experience in operating a public company.
+Our executive officers and director have limited experience in the management of a publicly traded company. Our management team may not successfully or effectively manage our transition to a public company that will be subject to significant regulatory oversight and reporting obligations under federal securities laws. Their limited experience in dealing with the increasingly complex laws pertaining to public companies could be a significant disadvantage to us in that it is likely that an increasing amount of their time will be devoted to these activities which will result in less time being devoted to the management and growth of our company. It is possible that we will be required to expand our employee base and hire additional employees, such as a chief financial officer experienced in public company financial reporting, to support our operations as a public company which will increase our operating costs in future periods.
+A significant majority of our outstanding ordinary shares are held by a small number of shareholders, which may have significantly greater influence on us due to the size of their shareholdings relative to other shareholders.
+As of the date of this Report, eight persons beneficially own approximately 92.0% of the outstanding shares of Common Stock of the Company. These major shareholders have significant influence in determining the outcome of any corporate transactions or other matters submitted to our shareholders for approval, including mergers, consolidations and schemes of arrangement, election and removal of directors and other significant corporate actions. They may not act in our best interests or our minority shareholders interests. In addition, without the consent of these major shareholders, we could be prevented from entering into transactions that could be beneficial to us. This concentration of ownership may also discourage, delay or prevent a change in control, which could deprive our shareholders of an opportunity to receive a premium for their shares as part of a sale of our company and might reduce the price of our Common Stock. These actions may be taken even if they are opposed by our other shareholders.
+We are subject to the periodic reporting requirements of the Exchange Act that will require us to incur audit fees and legal fees in connection with the preparation of such reports. These additional costs could reduce or eliminate our ability to earn a profit.
+We are required to file periodic reports with the SEC pursuant to the Exchange Act and the rules and regulations promulgated thereunder. In order to comply with these requirements, our independent registered public accounting firm will have to review our financial statements on a quarterly basis and audit our financial statements
+15
+on an annual basis. Moreover, our legal counsel will have to review and assist in the preparation of such reports. The costs charged by these professionals for such services cannot be accurately predicted at this time because factors such as the number and type of transactions that we engage in and the complexity of our reports cannot be determined at this time and will have a major effect on the amount of time to be spent by our auditors and attorneys. However, the incurrence of such costs will obviously be an expense to our operations and thus have a negative effect on our ability to meet our overhead requirements and earn a profit. We may be exposed to potential risks resulting from any new requirements under Section 404 of the Sarbanes-Oxley Act of 2002. If we cannot provide reliable financial reports or prevent fraud, our business and operating results could be harmed, investors could lose confidence in our reported financial information, and the trading price of our common stock, if a market ever develops, could drop significantly.
+Pursuant to Section 404 of the Sarbanes-Oxley Act of 2002, as amended by SEC Release 33-8889, we are required to include in our annual report our assessment of the effectiveness of our internal control over financial reporting. Furthermore, if we cease to be a smaller reporting company, our independent registered public accounting firm will be required to report separately on whether it believes that we have maintained, in all material respects, effective internal control over financial reporting. We have not yet commenced any assessment of the effectiveness of our internal control over financial reporting. We expect to incur additional expenses and diversion of managements time as a result of performing the system and process evaluation, testing and remediation required in order to comply with the management certification and auditor attestation requirements.
+We do not have a sufficient number of employees to segregate responsibilities and may be unable to afford increasing our staff or engaging outside consultants or professionals to overcome our lack of employees. During the course of our testing, we may identify other deficiencies that we may not be able to remediate in time to meet the deadline imposed by the Sarbanes-Oxley Act for compliance with the requirements of Section 404. In addition, if we fail to achieve and maintain the adequacy of our internal controls, as such standards are modified, supplemented or amended from time to time, we may not be able to ensure that we can conclude on an ongoing basis that we have effective internal controls over financial reporting in accordance with Section 404 of the Sarbanes-Oxley Act. Moreover, effective internal controls, particularly those related to revenue recognition, are necessary for us to produce reliable financial reports and are important to help prevent financial fraud. If we cannot provide reliable financial reports or prevent fraud, our business and operating results could be harmed, investors could lose confidence in our reported financial information, and the trading price of our common stock, if a market ever develops, could drop significantly.
+The capital markets may experience periods of disruption and instability. Such market conditions may materially and adversely affect debt and equity capital markets, which may have a negative impact on our business and operations.
+Volatility and dislocation in the capital markets can also create a challenging environment in which to raise or access debt capital. The reappearance of market conditions similar to those experienced from 2008 through 2009 for any substantial length of time could make it difficult to extend the maturity of or refinance our existing indebtedness or obtain new indebtedness with similar terms and any failure to do so could have a material adverse effect on our business. The debt capital that will be available to us in the future, if at all, may be at a higher cost and on less favorable terms and conditions than what we currently experience including being at a higher cost due to a rising rate environment. If we are unable to raise or refinance debt, then our equity investors may not benefit from the potential for increased returns on equity resulting from leverage and we may be limited in our ability to make new commitments or to fund existing commitments to our portfolio companies.
+Significant changes or volatility in the capital markets may also have a negative effect on the valuations of our investments. While most of our investments are not publicly traded, applicable accounting standards require us to assume as part of our valuation process that our investments are sold in a principal market to market participants (even if we plan on holding an investment through its maturity). Significant changes in the capital markets may also affect the pace of our investment activity and the potential for liquidity events involving our investments. Thus, the illiquidity of our investments may make it difficult for us to sell such investments to access capital if required, and as a result, we could realize significantly less than the value at which we have recorded our investments if we were required to sell them for liquidity purposes. An inability to raise or access capital could have a material adverse effect on our business, financial condition or results of operations.
+16
+Risks Relating to our Business and Industry
+We are a start-up company, and we may be unable to generate significant revenues and may never become profitable.
+We are a start-up company that has not generated revenue to date and we may incur significant operating losses for the foreseeable future. We may not be able to validate and create business to business market for blockchain technology and infrastructure in a manner that will generate significant revenues. In addition, any revenues that we may generate may be insufficient for us to become profitable.
+In particular, potential investors should be aware that we have not proven that we can raise sufficient capital in the public and/or private markets; successfully develop a fully functional blockchain technology platform; build a pipeline of businesses seeking such services from us, develop and maintain relationships with key strategic partners that will be necessary to optimize the market value of our services; respond effectively to competitive pressures; or recruit and build a management team to accomplish our business plan. If we are unable to accomplish these goals, our business is unlikely to succeed.
+Our future capital needs are uncertain and our independent registered public accounting firm has expressed in its report on our 2018 audited financial statements a substantial doubt about our ability to continue as a going concern. Our ability to continue as a going concern is dependent on our ability to raise additional capital and our operations could be curtailed if we are unable to obtain the required additional funding when needed. We may not be able to do so when necessary, and/or the terms of any financings may not be advantageous to us.
+The financial statements for RocketFuel for the period from January 12, 2018 (date of inception) through March 31, 2018, attached hereto as Exhibit 99.1 to this Report have been prepared assuming we will continue to operate as a going concern. However, due to our recurring losses from operations, and working capital deficiency, there is substantial doubt about our ability to continue as a going concern. Because we expect to continue to experience negative cash flow, our ability to continue as a going concern is subject to our ability to obtain necessary funding from outside sources, including obtaining additional funding from the sale of our securities, grants or other forms of financing. Our continued negative cash flow increases the difficulty in completing such sales or securing alternative sources of funding, and there can be no assurances that we will be able to obtain such funding on favorable terms or at all. If we are unable to obtain sufficient financing from the sale of our securities or from alternative sources, we may be required to reduce, defer or discontinue certain of our research and development and operating activities or we may not be able to continue as a going concern. As a result, our independent registered public accounting firm has expressed in its auditors report on the financial statements attached as Exhibit 99.1 to this Report for the period from January 12, 2018 (date of inception) through March 31, 2018, a substantial doubt regarding our ability to continue as a going concern. Our financial statements do not include any adjustments that might result from the outcome of the uncertainty regarding our ability to continue as a going concern. If we cannot continue as a going concern, our shareholders may lose their entire investment in our Common Stock. Future reports from our independent registered public accounting firm may also contain statements expressing doubt about our ability to continue as a going concern.
+Because of our limited operating history, we may not be able to correctly estimate our future operating expenses, which could lead to cash shortfalls.
+We have only a limited operating history from which to evaluate our business. We have not generated any revenues to date. Accordingly, our prospects must be considered in light of the risks, expenses, and difficulties frequently encountered by companies in an early stage of development. We may not be successful in addressing such risks, and the failure to do so could have a material adverse effect on our business, operating results and financial condition.
+Because of this limited operating history and because of the emerging nature of the markets in which we compete, our historical financial data is of limited value in estimating future operating expenses. Our budgeted expense levels are based in part on our expectations concerning future revenues.
+We may be unable to adjust our operations in a timely manner to compensate for any unexpected shortfall in revenues. Accordingly, a significant shortfall in demand for our product could have an immediate and material adverse effect on our business, results of operations, and financial condition.
+Our operating results may fluctuate as a result of a number of factors, many of which are outside of our
+17
+control. For these reasons, comparing our operating results on a period-to-period basis may not be meaningful, and you should not rely on our past results as any indication of our future performance. Our quarterly and annual expenses are likely to increase substantially over the next several years, and revenues from the sale of our services may not meet our expectations. Our operating results in future quarters may fall below expectations. Any of these events could adversely impact our business prospects and make it more difficult to raise additional equity capital at an acceptable price per share. Each of the risk factors listed in this "Risk Factors" section may affect our operating results.
+Our business, the design of our product may change and evolve over time. Furthermore, we compete in an unpredictable industry against companies in the same business that have substantially more capital than we do and have existing distribution systems well established. Our ability to succeed depends on our ability to execute our business plan including navigating regulatory hurdles, launching a fully featured product and attracting both businesses seeking loans and investors interested in making loans. As such, our actual operating results may differ substantially from our projections.
+We expect to need additional substantial capital to fund our growing operations and if we are unable to obtain sufficient capital, we may be forced to limit the scope of our operations.
+We expect that for our business to grow we will need substantial additional working capital. If adequate additional debt and/or equity financing is not available on reasonable terms or at all, we may not be able to continue to expand our business or pay our outstanding obligations, and we will have to modify our business plans accordingly. These factors would have a material adverse effect on our future operating results and our financial condition.
+We will operate in an ever-evolving industry and changes to it can have a material effect on our business model which makes it difficult to evaluate our business and prospects.
+We expect to derive nearly all of our revenue from the sale of blockchain technology services, which is an immature industry that has undergone rapid and dramatic changes in its short history. The industry in which we operate is characterized by eCommerce over public blockchain or distributed ledger technology. Our business model is also evolving and is distinct from many other companies in our industry, and it may not be successful. As a result of these factors, the future revenue and income potential of our business is uncertain. Any evaluation of our business and our prospects must be considered in light of these factors and the risks and uncertainties often encountered by companies in an immature industry with an evolving business model such as ours. Some of these risks and uncertainties relate to our ability to:
+
+acquisition of potential customers;
+
+maintain and expand customer relationships once established;
+
+potential blockchain network failure;
+
+raise capital at attractive costs, or at all;
+
+respond effectively to competition and potential negative effects of competition on profit margins;
+
+attract and retain qualified management, employees and independent service providers;
+
+successfully introduce new processes and technologies and upgrade our existing technologies and services;
+
+protect our proprietary technology and intellectual property rights; and
+
+respond to government regulations relating to the Internet, personal data protection, email, software technologies and other aspects of our business.
+If we are unable to address these risks, our business, results of operations and prospects could suffer.
+If we do not effectively manage our anticipated growth, our operating performance will suffer and we may lose potential customers.
+We could experience rapid growth in our operations. This anticipated growth could place significant demands on our management and our operational and financial infrastructure. In particular, rapid growth, if realized, could
+18
+make it more difficult for us to execute on our business plan.
+In addition, our personnel, systems, procedures and controls, once implemented may be inadequate to support our anticipated future operations. The improvements which could be required to manage our anticipated growth could require us to make significant expenditures, expand, train and manage our employee base and allocate valuable management resources. If we fail to effectively manage our anticipated growth, our operating performance will suffer and we could lose potential customers and key personnel.
+We need to hire and retain additional qualified personnel to grow and manage our business. If we are unable to attract and retain qualified personnel, our business and growth could be seriously harmed.
+Our performance depends on the talents and efforts of our key employees specifically our CTO, Joseph Page, and Chief Executive Officer (CEO), Gert Funk, who are charged with daily operations and strategy to reach commercial success. Our future success will depend on our ability to attract, retain and motivate highly skilled personnel in all areas of our organization and, in particular, in our engineering/technology, sales and marketing, media, finance and legal/regulatory teams. We plan to continue to grow our business and will need to hire additional personnel to support this growth. We have found it difficult from time to time to locate and hire suitable personnel. If we experience similar difficulties in the future, our growth may be hindered. Qualified individuals are in high demand, particularly in the blockchain technology industry, and we may incur significant costs to attract and retain them. Employees may be more likely to leave us following our initial public offering as a result of the establishment of a public market for our common stock. If we are unable to attract and retain the personnel we need to succeed, our business and growth could be harmed.
+If we fail to compete effectively against other blockchain technology companies and other competitors, we could fail to attract customers and we may never generate revenues.
+The market for blockchain technology is intensely competitive. We expect this competition to continue to increase in the future. Further, technical evolution is quite fast and small changes in the network can have fatal implications regarding proposed operations. Other platforms may devise superior technical approaches that do not infringe the IP portfolio of patent applications. Should those technical solutions outperform the technologies proposed as RocketFuel solutions, competition could render the business not competitive.
+If the market for blockchain technology fails to continue to develop, our future growth may be limited and our revenue may decrease.
+The blockchain technology market is relatively new and rapidly evolving. The protocols to define blockchain performance are not fixed and change often, sometimes with profound implication. We cannot assure that the market, support, or participation for/in blockchain will continue to grow. If the market for blockchain technology fails to continue to develop or develops more slowly than we anticipate, our ability to grow our business may be limited and our revenue may decrease.
+Third-party website publishers can engage in unauthorized or unlawful acts that could subject us to significant liability or cause us to lose clients.
+We intend to source significant portion of our web visitors from media advertising that we will purchase from third-party website publishers. Some of these publishers are authorized to display our clients brands, subject to contractual restrictions. In the past, some of our third-party website publishers have engaged in activities that certain of our clients have viewed as harmful to their brands, such as displaying outdated descriptions of a clients offerings or outdated logos. Any activity by publishers that clients view as potentially damaging to their brands can harm our relationship with the client and cause the client to terminate its relationship with us, resulting in a loss of revenue. In addition, the law is unsettled on the extent of liability that an advertiser in our position has for the activities of third-party website publishers. We could be subject to costly litigation and, if we are unsuccessful in defending ourselves, damages for the unauthorized or unlawful acts of third-party website publishers.
+Unauthorized access to or accidental disclosure of consumer personally-identifiable information that we collect may cause us to incur significant expenses and may negatively impact our credibility and business.
+There is growing concern over the security of personal information transmitted over the Internet, consumer identity theft and user privacy. Despite our implementation of security measures, our computer systems may be susceptible to electronic or physical computer break-ins, viruses and other disruptions and security breaches. Any perceived or actual unauthorized disclosure of personally-identifiable information regarding website visitors,
+19
+whether through breach of our network by an unauthorized party, employee theft, misuse or error or otherwise, could harm our reputation, impair our ability to attract website visitors and attract and retain our clients, or subject us to claims or litigation arising from damages suffered by consumers, and thereby harm our business and operating results. In addition, we could incur significant costs in complying with the multitude of state, federal and foreign laws regarding the unauthorized disclosure of personal information.
+If we are unable to price our services appropriately, our margins and revenue may decline.
+Our clients purchase our services according to a variety of pricing formulae, the sometimes these include formula based on pay for performance, meaning clients pay only after we have delivered the desired result to them. Regardless of how a given client pays us, we ordinarily pay the vast majority of the costs associated with delivering our services to our clients according to contracts and other arrangements that do not always condition payment to vendors upon receipt of payments from our clients. This means we typically pay for the costs of providing our services before we receive payment from clients. Additionally, certain of our services costs are highly variable and may fluctuate significantly during each calendar month. Accordingly, we run the risk of not being able to recover the entire cost of our services from clients if pricing or other terms negotiated prior to the performance of services prove less than the cost of performing such services.
+In some arrangements anticipated, value will be held in one cryptocurrency or another. Such holdings exposes the company to exchange rate risk. In the event that cryptocurrency markets move significantly and unexpectedly, it remains possible that the company could suffer losses due to such movements which are beyond the control of the company and its employees.
+Changes in government regulation and industry standards applicable to the Internet and our business could decrease demand for our technologies and services or increase our costs.
+Laws and regulations that apply to Internet communications, commerce and advertising are becoming more prevalent. These regulations could increase the costs of conducting business on the Internet and could decrease demand for our technologies and services.
+In the United States, federal and state laws have been enacted regarding copyrights, sending of unsolicited commercial email, user privacy, search engines, Internet tracking technologies, direct marketing, data security, childrens privacy, pricing, sweepstakes, promotions, intellectual property ownership and infringement, trade secrets, export of encryption technology, taxation and acceptable content and quality of goods. Other laws and regulations may be adopted in the future. Laws and regulations, including those related to privacy and use of personal information, are changing rapidly outside the United States as well which may make compliance with such laws and regulations difficult and which may negatively affect our ability to expand internationally. This legislation could: (i) hinder growth in the use of the Internet generally; (ii) decrease the acceptance of the Internet as a communications, commercial and advertising medium; (iii) reduce our revenue; (iv)increase our operating expenses; or (v) expose us to significant liabilities.
+The laws governing the Internet remain largely unsettled, even in areas where there has been some legislative action. While we actively monitor this changing legal and regulatory landscape to stay abreast of changes in the laws and regulations applicable to our business, we are not certain how our business might be affected by the application of existing laws governing issues such as property ownership, copyrights, encryption and other intellectual property issues, libel, obscenity and export or import matters to the Internet advertising industry. The vast majority of such laws were adopted prior to the advent of the Internet. As a result, they do not contemplate or address the unique issues of the Internet and related technologies. Changes in laws intended to address such issues could create uncertainty in the Internet market. It may take years to determine how existing laws apply to the Internet and Internet marketing. Such uncertainty makes it difficult to predict costs and could reduce demand for our services or increase the cost of doing business as a result of litigation costs or increased service delivery costs.
+We may become reliant on Internet bandwidth and data center providers and other third parties for key aspects of the process of providing services to our clients, and any failure or interruption in the services and products provided by these third parties could harm our business.
+We rely on third-party vendors, including data center and Internet bandwidth providers. Any disruption in the network access or co-location services provided by these third-party providers or any failure of these third-party providers to handle current or higher volumes of use could significantly harm our business. Any financial or other difficulties our providers face may have negative effects on our business, the nature and extent of which we cannot
+20
+predict. We exercise little control over these third-party vendors, which increases our vulnerability to problems with the services they provide. We license technology and related databases from third parties to facilitate analysis and storage of data and delivery of offerings. Any errors, failures, interruptions or delays experienced in connection with these third-party technologies and services could adversely affect our business and could expose us to liabilities to third parties.
+Interruption or failure of our information technology and communications systems could impair our ability to effectively deliver our services, which could cause us to lose clients and harm our operating results.
+Our delivery of blockchain technology services depends on the continuing operation of our technology infrastructure and systems. Any damage to or failure of our systems could result in interruptions in our ability to deliver offerings quickly and accurately and/or process visitors responses emanating from our various web presences. Interruptions in our service could reduce our revenue and profits, and our reputation could be damaged if people believe our systems are unreliable. Our systems and operations are vulnerable to damage or interruption from earthquakes, terrorist attacks, floods, fires, power loss, break-ins, hardware or software failures, telecommunications failures, computer viruses or other attempts to harm our systems, and similar events.
+Any constraints on the capacity of our technology infrastructure could delay the effectiveness of our operations or result in system failures, which would result in the loss of clients and harm our business and results of operations.
+Our future success depends in part on the efficient performance of our software and technology infrastructure. As the numbers of websites and Internet users increase, our technology infrastructure may not be able to meet the increased demand. A sudden and unexpected increase in the volume of user responses could strain the capacity of our technology infrastructure. Any capacity constraints we experience could lead to slower response times or system failures and adversely affect the availability of websites and the level of user responses received, which could result in the loss of clients or revenue or harm to our business and results of operations.
+Limitations on director and officer liability and our indemnification of our officers and directors may discourage stockholders from bringing suit against a director.
+Our articles of incorporation and bylaws provide, as permitted by Nevada corporation law, that a director or officer shall not be personally liable to us or our stockholders for breach of fiduciary duty as a director or officer, except for acts or omissions which involve intentional misconduct, fraud or knowing violation of law. These provisions may discourage stockholders from bringing suit against a director for breach of fiduciary duty and may reduce the likelihood of derivative litigation brought by stockholders on our behalf against a director. In addition, our amended and restated articles of incorporation and bylaws require indemnification of directors and officers to the fullest extent permitted by Nevada law.
+Our ability to maintain accurate accounts may be adversely affected by computer viruses, physical or electronic break-ins and similar disruptions.
+The highly automated nature of our software platform may make it an attractive target and potentially vulnerable to computer viruses, physical or electronic break-ins and similar disruptions. If a computer hacker were able to infiltrate our software platform as implemented by any client, our clients users would be subject to an increased risk of fraud or borrower identity theft, and might may not receive the payments that they expect to receive. Hackers might also disrupt the accurate processing and posting of payments to accounts or cause the destruction of data and thereby undermine rights to repayment. While we have taken steps to prevent hackers from accessing our software platform, if we are unable to prevent hacker access, our ability to fulfill our obligations to our clients and to maintain our software platform would be adversely affected.
+Any significant disruption in service on our website or in our computer systems could reduce the attractiveness of our product as a platform and result in a loss of clients.
+If a catastrophic event resulted in a platform outage and physical data loss, our ability to perform our servicing obligations would be materially and adversely affected. The satisfactory performance, reliability and availability of our technology and our underlying network infrastructure are critical to our operations, level of customer service, reputation and ability to attract new clients and retain existing clients.
+21
+Risks Related to Our Intellectual Property
+It may be difficult and costly to protect our intellectual property rights, and we may not be able to ensure their protection.
+Our ability to maintain the RocketFuel software platform, in part, upon our proprietary technology. We may not protect our proprietary technology effectively, however, which would allow competitors to duplicate our products and adversely affect our ability to compete with them. A third party may attempt to reverse engineer or otherwise obtain and use our proprietary technology without our consent. In addition, the RocketFuel software platform may infringe upon claims of third-party patents, and we may face intellectual property challenges from such other parties. We may not be successful in defending against any such challenges or in obtaining licenses to avoid or resolve any intellectual property disputes. Furthermore, our technology may become obsolete, and there is no guarantee that we will be able to successfully develop, obtain or use new technologies to adapt the seriesOne software platform to compete with other person-to-person lending platforms as they develop. If we cannot protect our proprietary technology from intellectual property challenges, or if the product becomes obsolete, our ability to maintain the product or perform our obligations to our clients, we could be adversely affected.
+If we do not adequately protect our intellectual property rights, our competitive position and business may suffer.
+Our ability to compete effectively depends in part upon our proprietary systems and technology. We rely on trade secret, trademark and copyright law, confidentiality agreements, technical measures and patents to protect our proprietary rights. We currently have 5 patent applications pending in the United States and no issued patents. Further, our ability to litigate should patents be issued is not certain. Patent litigation is often very expensive and complex. The outcome of patent litigation may be years away even where a favorable result is obtained. Effective trade secret, copyright, trademark and patent protection may not be available in all countries where we currently operate or in which we may operate in the future. Some of our systems and technologies are not covered by any copyright, patent or patent application. We cannot guarantee that: (i) our intellectual property rights will provide competitive advantages to us; (ii) our ability to assert our intellectual property rights against potential competitors or to settle current or future disputes will not be limited by our agreements with third parties; (iii) our intellectual property rights will be enforced in jurisdictions where competition may be intense or where legal protection may be weak; (iv) any of the patents, trademarks, copyrights, trade secrets or other intellectual property rights that we presently employ in our business will not lapse or be invalidated, circumvented, challenged, or abandoned; (v) competitors will not design around our protected systems and technology; or (vi) that we will not lose the ability to assert our intellectual property rights against others.
+Risks Related to Compliance and Regulation
+Our clients are dependent on a favorable government regulatory environment over which we have limited control.
+It is not yet known to which extent regulators will put in place regulation that is adverse to our operations. It is possible that payment transmission regulation could interrupt some schemes which are proposed by the company. It is not yet know what kinds of licensing schemes regulators might impose nor whether we could establish such licenses when required. The regulatory framework for cryptocurrency is highly dynamic and quite immature at the present time and it remains impossible to determine what burdens the company will face as these become known.
+As Internet commerce develops, federal and state governments may draft and propose new laws to regulate Internet commerce, which may negatively affect our business.
+As Internet commerce continues to evolve, increasing regulation by federal and state governments becomes more likely. Our business could be negatively affected by the application of existing laws and regulations or the enactment of new laws applicable to social lending. The cost to comply with such laws or regulations could be significant and would increase our operating expenses, and we may be unable to pass along those costs to our members in the form of increased fees. In addition, federal and state governmental or regulatory agencies may decide to impose taxes on services provided over the Internet. These taxes could discourage the use of the Internet as a means of consumer lending, which would adversely affect the viability of the RocketFuel software platform.
+22
+MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Forward-Looking Statements
+The following discussion and analysis should be read it in conjunction with the accompanying consolidated financial statements and the related notes filed hereafter as Exhibit 99.1. The discussion contains forward-looking statements that involve risks and uncertainties, such as statements of our future plans, objectives, expectations and intentions. Our actual results could differ materially from those discussed in these forward-looking statements. Factors that could cause or contribute to these differences include those discussed below and elsewhere in this Report, particularly in Risk Factors.
+Overview
+RocketFuel was formed on January 12, 2018 for the purpose of bringing highly efficient check-out systems to eCommerce. We are currently developing innovative check-out systems based upon blockchain technology and designed to increase speed, security, and ease of use. We believe that users of RocketFuels systems will enjoy a seamless check-out experience compared to current online shopping solutions. We believe that with RocketFuels technology, online merchants will be able to implement new impulse buying schemes that are unavailable in present day eCommerce sites. During the period from January 12, 2018 (date of inception) and through March 31, 2018, we had no significant operations.
+On June 27, 2018, we consummated the Business Combination and related transactions contemplated by the Contribution Agreement. Pursuant to the Contribution Agreement, B4MC issued 17,001,312 shares of its $0.001 par value common stock to the Sellers in exchange for a 100% ownership interest in us, resulting in 22,668,416 post-merger shares of B4MC common stock issued and outstanding.
+Results of Operations
+From January 12, 2018 (date of inception) through March 31, 2018
+Revenues
+We had no revenue generating operations from January 12, 2018 (date of inception) through March 31, 2018.
+General and Administrative Expenses
+General and administrative expenses for period from January 12, 2018 (date of inception) through March 31, 2018 were $3,805, which was primarily composed of $3,500 in audit fees.
+Other Expense
+Other expense for the period from January 12, 2018 (date of inception) through March 31, 2018 was $250,000 and composed of a non-refundable commitment fee which we paid to a target company pursuant to a non-binding letter of intent to enter into a proposed merger transaction. The terms of the letter of intent provided for the non-refundable commitment fee to be used for specific payments of accounts payable and costs related to the proposed transaction. As of March 31, 2018, no merger transaction had been effected.
+Liquidity and Capital Resources
+As of March 31, 2018, we had cash of $300.
+During the period from January 12, 2018 (date of inception) through March 31, 2018, we had net cash of $250,305 used in operating activities, which was composed of our net loss of $253,805 and offset by an increase in accrued expenses for audit fees.
+During the period from January 12, 2018 (date of inception) through March 31, 2018, we had net cash of $250,605 provided by financing activities, which was composed of cash proceeds of $250,300 received from the issuance of our common stock and $305 in advances from a related party.
+Our financial statements have been presented on the basis that we are a going concern, which contemplates the realization of assets and satisfaction of liabilities in the normal course of business. We incorporated our business on January 12, 2018, the date of our inception, and prior to the Business Combination had not yet commenced commercial operations. From January 12, 2018 (date of inception) through March 31, 2018, we reported a loss from
+23
+operations of $3,805 a net loss of $253,805 and negative cash flows from operating activities of $250,305. As a result, management believes that there is substantial doubt about our ability to continue as a going concern.
+During the period from January 12, 2018 (inception) through March 31, 2018, management was engaged in efforts to identify and negotiate a transaction with a public company quoted on the OTC Markets having shell status where a contemplated transaction would be treated as a reverse merger. On June 27, 2018, we consummated the transactions as contemplated by the Contribution Agreement. Pursuant to the Contribution Agreement, B4MC issued 17,001,312 shares of its $0.001 par value common stock to us in exchange for a 100% ownership interest in us, resulting in 22,668,416 post-merger shares of B4MC common stock issued and outstanding. We financed our efforts to consummate this reverse merger transaction through the issuance of equity securities. We will require additional financing in order to build out our operations and execute on our business plan. However, there can be no assurances that we will be successful in raising the additional capital necessary to do so. If we are unable to obtain such financing, we may be required to delay, reduce the scope of, eliminate one or more aspects of our operations or business development activities, or cease operations altogether.
+Off-Balance Sheet Arrangements
+As of March 31, 2018, we did not have any off-balance sheet arrangements that have, or are reasonably likely to have, a current or future material effect on our financial condition, results of operations, liquidity, capital expenditures or capital resources.
+24
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+The following table sets forth information known to the Company regarding beneficial ownership of our Common Stock immediately following consummation of the Business Combination on June 27, 2018.
+Beneficial ownership is determined in accordance with the rules of the SEC and generally includes voting or investment power with respect to securities. In accordance with SEC rules, shares of our Common Stock which may be acquired upon exercise of stock options or warrants which are currently exercisable or which become exercisable within 60 days of the date of the applicable table below are deemed beneficially owned by the holders of such options and warrants and are deemed outstanding for the purpose of computing the percentage of ownership of such person, but are not treated as outstanding for the purpose of computing the percentage of ownership of any other person. Subject to community property laws, where applicable, the persons or entities named in the tables below have sole voting and investment power with respect to all shares of our Common Stock indicated as beneficially owned by them.
+The business address of each person listed below, unless otherwise specified, is c/o B4MC Gold Mines, Inc., 3651 Lindell Road, Las Vegas, Nevada 89103.
+Name and Address of Beneficial Owner Amount and Nature of Beneficial Ownership Percent of Class Gert Funk 5,100,394 22.5% Joseph Page 5,100,394 22.5% Bennett J. Yankowitz 790,000 3.5% All officers and directors as a group (three persons) 10,990,788 48.5% Carsten Mark Jensen (1) Rungstedvej 127 2960 Rungsted Denmark 2,472,908 10.9% Henrik Rouf (2) Islands Brygge 75B, P1 2300 Copenhagen S Denmark 2,925,543 12.9% Henrik Oerbekker (3) 9 rue des Aubepines L-1145 Luxembourg 3,454,989 15.2%
+Name and Address of Beneficial Owner Amount and Nature of Beneficial Ownership Percent of Class
+Amount and Nature of Beneficial Ownership
+Percent of Class
+Gert Funk 5,100,394 22.5%
+5,100,394
+5,100,394
+22.5%
+22.5%
+Joseph Page 5,100,394 22.5%
+5,100,394
+5,100,394
+22.5%
+22.5%
+Bennett J. Yankowitz 790,000 3.5%
+790,000
+790,000
+3.5%
+3.5%
+All officers and directors as a group (three persons) 10,990,788 48.5%
+10,990,788
+10,990,788
+48.5%
+48.5%
+Carsten Mark Jensen (1) Rungstedvej 127 2960 Rungsted Denmark 2,472,908 10.9%
+Rungstedvej 127
+2960 Rungsted
+Denmark
+2,472,908
+2,472,908
+10.9%
+10.9%
+Henrik Rouf (2) Islands Brygge 75B, P1 2300 Copenhagen S Denmark 2,925,543 12.9%
+Islands Brygge 75B, P1
+2300 Copenhagen S
+Denmark
+2,925,543
+2,925,543
+12.9%
+12.9%
+Henrik Oerbekker (3) 9 rue des Aubepines L-1145 Luxembourg 3,454,989 15.2%
+9 rue des Aubepines
+L-1145 Luxembourg
+3,454,989
+3,454,989
+15.2%
+15.2%
+(1)
+Includes 622,777 shares are held in the name of Ejendomsselskabet A/S af 24/6 1988, over which Mr. Jensen exercises sole voting and dispositive power, and 1,850,131 shares held by Saxton Capital Ltd., which is controlled by Mr. Jensens mother and over which Mr. Jensen disclaims beneficial ownership.
+(2)
+Includes 2,750,197 shares held by PacificWave Partners Limited, of which Mr. Rouf is Managing Director and exercises sole voting and dispositive power.
+(3)
+Includes 133,959 shares of common stock held in the name of PacificWave Partners Europe sarl, 3,276,030 shares of common stock held in the name of PacificWave Partners UK Ltd., and 45,000 shares of common stock held in the name of Richway Finance Ltd. Mr. Oerbekker exercises sole voting and dispositive power over all such entities.
+Change of Control
+As a result of the issuance of the shares of our Common Stock pursuant to the Business Combination and related transactions, a change in control occurred as of June 27, 2018. Except as described in this Report, no arrangements or understandings exist among present or former controlling shareholders with respect to the election
+25
+of members of our Board and, to our knowledge, no other arrangements exist that might result in a change of control.
+DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND CONTROL PERSONS
+Directors and Executive Officers
+Below are the names of and certain information regarding our current executive officers and directors who were appointed effective as of the closing of the Business Combination and, with respect to incoming directors Joseph Page and Gert Funk, subject to Rule 14f-1 of the Exchange Act (Rule 14f-1):
+Name Age Positions Held with the Registrant Joseph Page 54 Chairman of the Board, Chief Technical Officer Gert Funk 53 Director, Chief Executive Officer Bennett Yankowitz 63 Director, Chief Financial Officer, Secretary
+Name Age Positions Held with the Registrant
+Age
+Positions Held with the Registrant
+Joseph Page 54 Chairman of the Board, Chief Technical Officer
+54
+Chairman of the Board, Chief Technical Officer
+Gert Funk 53 Director, Chief Executive Officer
+53
+Director, Chief Executive Officer
+Bennett Yankowitz 63 Director, Chief Financial Officer, Secretary
+63
+Director, Chief Financial Officer, Secretary
+Biographies of Directors and Executive Officers
+Joseph Page. Joseph Page is a computer science and blockchain technologies inventor with background in patent law and formation of start-up companies. Mr. Page has participated in the initiation and founding of several technology companies since 1989. This work primarily includes developing intellectual property strategies for earliest stage technical companies. Mr. Page earned his B.S. degree in Physics from San Diego State University. He is a member of the USPTO patent bar and registered to practice as a patent agent.
+Gert Funk. Gert Funk has been a serial entrepreneur since 1990 with considerable experience and specialty in banking and payments processing. He has more than 14 years as director in various companies within banking and payments. Mr. Funk has since 2005 been CEO of CNG PRO ApS in Denmark and CNG PRO SARL in Monaco. CNG PRO is a European Payment Service Provider for International eCommerce merchants especially within travel and retail. From 2005 until 2013, Mr. Funk has also been CEO of BigeFinancials A/S, a fully EMI licensed company operating under the European Payment Directive and monitored by the Danish Financial Supervisory Authority, as well as a Principal Member of MasterCard. Mr. Funk has been approved as Fit and Proper and Qualified CEO and owner by the Danish Financial Supervisory Authority. Mr. Funk is currently also President of the Monaco Blockchain Association. Mr. Funk has received Masters degree in economics in Denmark.
+Bennett J. Yankowitz. Mr. Yankowitz has more than 30 years of experience as a corporate attorney with leading law firms, specializing in securities, financial and merger and acquisition transactions, and has a background in financial analysis and real estate investment and development. He is of counsel to the law firm Shumaker Mallory LLP, and was previously of counsel to its predecessor firm Parker Shumaker Mills LLP. He was previously counsel to Kaye Scholer LLP and a partner of Heenan Blaikie and of Stroock & Stroock & Lavan LLP. From 2002 to 2014, he was a director of Proteus Energy Corporation, a California-based private oil and gas production and development company and was its Chief Executive Officer from 2008 to 2014. From 1997 to 2003, he was a principal of SY Development Corporation, a Los Angeles-based real estate development company. Mr. Yankowitz earned his B.A. degree in Mathematics from the University of California, Berkeley (1977), his J.D. degree from the University of Southern California (1980), where he was an editor of the Southern California Law Review, and his LL.M. degree (First Class Honours) from the University of Cambridge (1981), where he was an Evan Lewis-Thomas Scholar at Sidney Sussex College. He is a member of the California and New York bars.
+Southern California Law Review
+Code of Ethics
+We have adopted a Code of Ethics that allows for us to establish a committee to ensure that our disclosure controls and procedures remain effective. Our Code also defines the standard of conduct expected by our officers, directors and key employees. A copy of our Code of Ethics and Business Conduct will be furnished without charge to any person upon written request. Requests should be sent to: Secretary, B4MC Gold Mines, Inc., 3651 Lindell Road, Suite D565, Las Vegas, Nevada 89103.
+Audit Committee
+We currently have no separate audit committee. The entire Board oversees our audits and auditing procedures.
+26
+Director Independence
+We are not currently subject to listing requirements of any national securities exchange or inter-dealer quotation system which has requirements that a majority of the Board be independent and, as a result, we are not at this time required to have our Board comprised of a majority of Independent Directors. As of the date of this Report, none of our directors are considered to be independent.
+27
+EXECUTIVE COMPENSATION
+This section discusses the material components of the executive compensation program for our named executive officers for the period from January 12, 2018 (date of inception) through March 31, 2018. This discussion may contain forward-looking statements that are based on our current plans, considerations, expectations and determinations regarding future compensation programs.
+The following table provides information regarding the compensation awarded to, or earned by, the named executive officers for the period from January 12, 2018 (date of inception) through March 31, 2018 while with us.
+Named Executive Officer Period as Set Forth Above Salary ($) Bonus ($) Stock Awards ($) Option Awards ($) All Other Compensation ($) (1) Total ($) Joseph Page 2018 $ - $ - $ - $ - $ - $ - Chief Technical Officer Gert Funk 2018 $ - $ - $ - $ - $ - $ - Chief Executive Officer Bennett Yankowitz 2018 $ - $ - $ - $ - $ - $ - Chief Financial Officer
+Named Executive Officer Period as Set Forth Above Salary ($) Bonus ($) Stock Awards ($) Option Awards ($) All Other Compensation ($) (1) Total ($)
+Period as Set Forth Above
+Salary ($)
+Bonus ($)
+Stock Awards ($)
+Option Awards ($)
+All Other Compensation ($) (1)
+($) (1)
+Total ($)
+($)
+Joseph Page 2018 $ - $ - $ - $ - $ - $ -
+2018
+$ -
+-
+$ -
+-
+$ -
+-
+$ -
+-
+$ -
+-
+$ -
+-
+Chief Technical Officer
+Gert Funk 2018 $ - $ - $ - $ - $ - $ -
+2018
+$ -
+-
+$ -
+-
+$ -
+-
+$ -
+-
+$ -
+-
+$ -
+-
+Chief Executive Officer
+Bennett Yankowitz 2018 $ - $ - $ - $ - $ - $ -
+2018
+$ -
+-
+$ -
+-
+$ -
+-
+$ -
+-
+$ -
+-
+$ -
+-
+Chief Financial Officer
+Employment Agreements and Other Arrangements with Named Executive Officers
+None. However, these executives expect to enter into employment agreements with us in the near future.
+Director Compensation
+None of our directors have received compensation for their services as directors.
+CERTAIN RELATIONSHIPS AND RELATED PARTY TRANSACTIONS
+During the period from January 12, 2018 (date of inception) through March 31, 2018, one of our officers advanced us $305. As of March 31, 2018, we reported $305 as an advance payable to related party.
+28
+MARKET PRICE OF AND DIVIDENDS ON COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+Our common stock is quoted on the OTC Market under the symbol BFMC. There is very limited trading of our common stock. The stock market in general has experienced extreme stock price fluctuations in the past few years. In some cases, these fluctuations have been unrelated to the operating performance of the affected companies. Many companies have experienced dramatic volatility in the market prices of their common stock. We believe that a number of factors, both within and outside our control, could cause the price of our common stock to fluctuate, perhaps substantially. Factors such as the following could have a significant adverse impact on the market price of our common stock:
+
+Our ability to obtain additional financing and the terms thereof;
+
+Our financial position and results of operations;
+
+Any litigation against us;
+
+Possible regulatory requirements on our business;
+
+The issuance of new debt or equity securities pursuant to a future offering;
+
+Changes in interest rates;
+
+Competitive developments;
+
+Variations and fluctuations in our operating results;
+
+Change in financial estimates by securities analysts;
+
+The depth and liquidity of the market for our common stock;
+
+Investor perceptions of us; and
+
+General economic and business conditions.
+The following table sets forth the high and low bid quotations for our common stock for each of the last two fiscal years, as reported on the OTC Market. Quotations from the OTC Market reflect inter-dealer prices, without retail mark-up, mark-down or commission and may not necessarily represent actual transactions.
+Year Ended 2017 High Low 4th Quarter $ 8.10 $ 8.00 3rd Quarter 8.85 7.65 2nd Quarter 7.65 7.00 1st Quarter 7.00 5.00
+Year Ended 2017
+Year Ended 2017
+High Low
+High
+Low
+4th Quarter $ 8.10 $ 8.00
+$ 8.10
+8.10
+$ 8.00
+8.00
+3rd Quarter 8.85 7.65
+8.85
+7.65
+2nd Quarter 7.65 7.00
+7.65
+7.00
+1st Quarter 7.00 5.00
+7.00
+5.00
+Year Ended 2016 High Low 4th Quarter $ 6.00 $ 5.00 3rd Quarter 6.00 4.25 2nd Quarter 6.00 2.50 1st Quarter 6.75 6.75
+Year Ended 2016
+Year Ended 2016
+High Low
+High
+Low
+4th Quarter $ 6.00 $ 5.00
+$ 6.00
+6.00
+$ 5.00
+5.00
+3rd Quarter 6.00 4.25
+6.00
+4.25
+2nd Quarter 6.00 2.50
+6.00
+2.50
+1st Quarter 6.75 6.75
+6.75
+6.75
+Dividend Policy
+Our dividend policy is determined by our Board of Directors and depends upon a number of factors, including our financial condition and performance, its cash needs and expansion plans, income tax consequences, and the
+29
+restrictions that applicable laws and any credit or other contractual arrangements may then impose. B4MC has not paid any cash dividends on the common stock. We do not anticipate paying a cash dividend on our common stock in the foreseeable future.
+DESCRIPTION OF SECURITIES
+The following description of our common stock and provisions of our articles of incorporation and our bylaws, each of which will be in effect prior to the completion of the Business Combination, are summaries and are qualified by reference to the articles of incorporation and the bylaws.
+Our current authorized capital stock consists of 750,000,000 shares of common stock.
+Common Stock
+At any general meeting every shareholder who is present in person (or, in the case of a shareholder being a corporation, by its duly authorized representative) or by proxy will have one vote for each share held on all matters to be voted on by shareholders. There is no cumulative voting with respect to the election of directors, with the result that the holders of more than 50% of the shares voted for the election of directors can elect all of the directors (provided, that, holders of at least 50% of the shares so voted can remove a director with or without cause).
+In the event of a liquidation or winding up of the company, our shareholders are entitled to share ratably in all assets remaining available for distribution to them after payment of liabilities and after provision is made for each class of shares, if any, having preference over the Common Stock. Our shareholders have no preemptive or other subscription rights.
+Dividends
+Our shareholders are entitled to receive ratable dividends when, as and if declared by the board of directors out of legally available funds. Our dividend policy is determined by our Board of Directors and depends upon a number of factors, including our financial condition and performance, its cash needs and expansion plans, income tax consequences, and the restrictions that applicable laws and any credit or other contractual arrangements may then impose. We have not paid any cash dividends on our common stock and at the current time we do not anticipate paying a cash dividend on our common stock in the foreseeable future. We did not declare or pay any cash dividends on our common stock during the past two fiscal years.
+LEGAL PROCEEDINGS
+We are not a party to any legal proceedings.
+There are no proceedings in which any of our directors, officers or any of their respective affiliates, or any beneficial shareholder of more than five percent of voting securities, is an adverse party or has a material interest adverse to the above-mentioned companies interest.
+INDEMNIFICATION OF DIRECTORS AND OFFICERS
+Nevada law provides that our directors and officers will not be personally liable to us, our stockholders or our creditors for monetary damages for any act or omission of a director or officer other than in circumstances where the director or officer breaches his or her fiduciary duty to us or our stockholders and such breach involves intentional misconduct, fraud or a knowing violation of law. Nevada law allows the articles of incorporation of a corporation to provide for greater liability of the corporations directors and officers. Our articles of incorporation do not provide for greater liability of the companys officers and directors than is provided under Nevada law.
+Nevada law allows a corporation to indemnify officers and directors for actions pursuant to which a director or officer either would not be liable pursuant to the limitation of liability provisions of Nevada law or where he or she acted in good faith and in a manner which he or she reasonably believed to be in or not opposed to our best interests, and, in the case of an action not by or in the right of the corporation and with respect to any criminal action or proceeding, had no reasonable cause to believe the conduct was unlawful. Our articles of incorporation and bylaws provide indemnification for our directors and officers to the fullest extent permitted by Nevada law. We have entered into an indemnity agreement with our former sole director that provides for indemnification to the fullest extent permitted by law, and we intend to enter into indemnification agreements with each of our current directors that may, in some cases, be broader than the specific indemnification provisions contained under Nevada law. In addition, as permitted by Nevada law, we intend to amend our articles of incorporation to include provisions that eliminate the personal liability of our directors for monetary damages resulting from certain breaches of fiduciary
+30
+duties as a director. The effect of these provisions is and will be to restrict our rights and the rights of our stockholders in derivative suits to recover monetary damages against a director for breach of fiduciary duties as a director, except that a director will be personally liable for acts or omissions not in good faith or in a manner which he or she did not reasonably believe to be in or not opposed to the best interest of the corporation if, subject to certain exceptions, the act or failure to act constituted a breach of fiduciary duty and such breach involved intentional misconduct, fraud or knowing violations of law.
+subject to certain exceptions, the act or failure to act constituted a breach of fiduciary duty and such breach involved intentional misconduct, fraud or knowing violations of law.
+These provisions may be held not to be enforceable for certain violations of the federal securities laws of the United States.
+We are also expressly authorized to carry directors and officers insurance to protect our directors, officers, employees and agents against certain liabilities.
+The limitation of liability and indemnification provisions under Nevada law and in our articles of incorporation and bylaws may discourage stockholders from bringing a lawsuit against directors for breach of their fiduciary duties. These provisions may also have the effect of reducing the likelihood of derivative litigation against directors and officers, even though such an action, if successful, might otherwise benefit us and our stockholders. However, these provisions do not limit or eliminate our rights, or those of any stockholder, to seek non-monetary relief such as injunction or rescission in the event of a breach of a directors fiduciary duties. Moreover, the provisions do not alter the liability of directors under the federal securities laws. In addition, your investment may be adversely affected to the extent that, in a class action or direct suit, we pay the costs of settlement and damage awards against directors and officers pursuant to these indemnification provisions.

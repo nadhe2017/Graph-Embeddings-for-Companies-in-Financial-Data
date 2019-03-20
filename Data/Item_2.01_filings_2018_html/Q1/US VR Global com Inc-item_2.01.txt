@@ -1,0 +1,1316 @@
+Item 2.01. Completion of Acquisition or Disposition of Assets.
+Immediately prior to the Share Exchange described in detail below, the Company was a shell company, as such term is defined in Rule 12b-2 under the Securities Exchange Act of 1934, as amended (the Exchange Act). Item 2.01(f) of Form 8-K states that if the registrant was a shell company, such as the Company was immediately before the Share Exchange, then the registrant must disclose on a Current Report on Form 8-K the information that would be required if the registrant were filing a general form for registration of securities on Form 10. Accordingly, this report includes all of the information that would be included in a Form 10. Please note that unless indicated otherwise, the information provided below relates to the Company after the Share Exchange. Information relating to periods prior to the Share Exchange relate only to the party specifically indicated.
+EXCHANGE AGREEMENT AND TRANSACTION
+As described in Item 1.01 above, on February 6, 2018, the Company completed its acquisition of 51% of US VR Subs outstanding shares pursuant to the Exchange Agreement. The acquisition was accounted for as a recapitalization effected by a share exchange, wherein US VR Sub is considered the acquirer for accounting and financial reporting purposes.
+DESCRIPTION OF THE BUSINESS
+The disclosure in this Description of the Business section relates primarily to US VR Sub, an operating company that became a subsidiary of the Company at the time of the Share Exchange.
+Overview
+Company History
+The Company was incorporated in the State of Delaware in 2003 and was a shell company immediately prior to the Share Exchange. The Company had no assets or operations prior to the Share Exchange.
+US VR Sub was incorporated in the State of Delaware on February 27, 2017 and commenced operations at that time.
+was incorporated in the State of Delaware on February 27, 2017 and commenced operations at that time.
+Executive Summary
+As discussed further below, the main focus of our business will be our Hero Central theme parks, which are new generation playgrounds that use virtual reality (VR) and augmented reality (AR) technologies to provide interactive and immersive rides, games and attractions. They will also have conventional rides, games and attractions, as well as sports-entertainment facilities for those who enjoy an active lifestyle. The Company is a provider of cutting-edge VR and AR enhanced leisure and entertainment activities. We are creating our Hero Central Digital Platform as an online enabler and integrated platform for our businesses:
+ Hero Central theme parks, a chain of next generation indoor shopping mall-based VR and AR enhanced theme parks and arcades;  Publishing AR Trading Card Game Applications; and  Collaborating with Hero Makers, our brand and IP partners and application developers to develop content.
+
+Hero Central theme parks, a chain of next generation indoor shopping mall-based VR and AR enhanced theme parks and arcades;
+ Publishing AR Trading Card Game Applications; and
+
+Publishing AR Trading Card Game Applications; and
+ Collaborating with Hero Makers, our brand and IP partners and application developers to develop content.
+
+Collaborating with Hero Makers, our brand and IP partners and application developers to develop content.
+develop
+In addition, we are developing Hero Central Theme Parks as a multi-level platform with intellectual property (IP) developed by us and by third party interested IP owners and developers, who we refer to as Hero Makers. We can select from a variety of IP to create the best guest experience, and are not limited to any single brand, theme or Hero Maker. We intend our flagship Hero Central theme park will cover 170,000 square feet of high-energy space at Empire City Damansara, in Malaysia. This is a mixed development in Damansara Perdana, which is in Malaysias Greater Kuala Lumpur conurbation.
+Maker. We intend our flagship Hero Central theme park will cover 170,000 square feet of high-energy space at Empire City Damansara, in Malaysia. This is a mixed development in Damansara Perdana, which is in Malaysias Greater Kuala Lumpur conurbation.
+The global theme park industry is large and has enjoyed good growth. In Malaysia, the leading water amusement parks grew attendance 16% in 2016 over attendance rates in 2015, and the Themed Entertainment Associations 2016 Global Attractions Attendance Report forecasts steady growth for most of Asia through 2020.
+According to industry research, the VR and AR industry is new and poised for explosive growth. VR can provide an immersive experience in a digital environment for a user, typically through the use of devices such as goggles or visors that can block out the room and transpose the user to the perception of a unique environment. It can be deployed successfully in entertainment situations, such as simulating a roller coaster ride, concert, cartoon or outdoor adventure. AR places digital content on top of the physical world you see around you. AR works by adding two-dimensional (2D) or three-dimensional (3D) layered content on top of real world objects or locations, allowing the user to unlock additional information, virtual toys, gadgets or pop up experiences. Digi-Capital, a leading advisor in the VR and AR industries, estimated that the VR and AR industry generated revenue of $3.9 billion in 2016. It projects that revenue will grow at compounded annual growth rate (CAGR) of 94.3% between 2016 and 2015, to reach $108 billion. Dig-Capital more recently forecasts that AR/VR could hit $150 billion in revenue by 2020, with AR taking the lions share of approximately $120 billion and VR at $30 billion.
+We are in the process, through documentation, of establishing the first use of our tradename and the originality of our copyright , so our intellectual property will be protected in Malaysia. Our logo has trademark protection in Malaysia and consequently the protections of the international Berne Convention Treaties, which covers 175 countries, including China, the United States, Canada, Singapore, Japan, and other major nations around the world. In the latest publication of the US Chamber of Commerces International Intellectual Property Index, Malaysia has been ranked second among the Association of Southeast Asian Nations in terms of intellectual property protection.
+, so our intellectual property will be protected in Malaysia. Our logo has trademark protection in Malaysia and consequently the protections of the international Berne Convention Treaties, which covers 175 countries, including China, the United States, Canada, Singapore, Japan, and other major nations around the world. In the latest publication of the US Chamber of Commerces International Intellectual Property Index, Malaysia has been ranked second among the Association of Southeast Asian Nations in terms of intellectual property protection.
+We have a flexible expansion model that is highly modular and scalable for our Hero Central Theme Parks. We can create locations that range in size from a VR theme park, to arcades that fit in retail lots. Each theme park and arcade will be tied together by our Hero Central Digital Platform and operate with common management systems. To support our Hero Central Theme Park expansion plan, we plan to develop a licensing program for third party licensees. Licensees will be provided with access to our content, online platform, management system and other back-office systems. Licensees will be responsible for the initial capital investment and daily operations.
+is
+highly
+modular
+and
+scalable for our Hero Central Theme Parks. We can create locations that range in size from a VR theme park, to arcades that fit in retail lots. Each theme park and arcade will be tied together by our Hero Central Digital Platform and operate with common management systems. To support our Hero Central Theme Park expansion plan, we plan to develop a licensing program for third party licensees. Licensees will be provided with access to our content, online platform, management system and other back-office systems. Licensees will be responsible for the initial capital investment and daily operations.
+We
+can
+locations
+that range
+in
+from
+VR
+to
+that fit
+in
+Each
+park and
+arcade
+will
+be
+tied
+by
+our Hero
+Platform and
+with
+To
+back-office
+We are also developing our own AR-enhanced trading card game application that is enabled and driven by our Hero Central Digital Platform. We plan to publish applications to users in Malaysia and globally. The trading card will be a physical card with printed codes such that a smartphone or tablet will be able to read the codes to create 3D images overlaid on the viewers existing environment. The 3D image will be displayed on the viewers device. The viewer may also interact with the created 3D image using the device.
+VR and AR Explained
+What is VR?
+Virtual reality uses a combination of technologies to create a 3D environment and present it to the user in a manner that makes the user feel as if he or she is actually immersed in that environment. Current VR systems consist of at least two components, the processor and head mounted display (HMD). The processor may be a computer or laptop, smartphone, game console or some other device. Its function is to run the VR application content, gather feedback from the HMD and sensors, and render the virtual 3D environment for the user. A powerful processor is needed to render a convincing environment quickly enough to avoid lag and visual stuttering. The HMD contains the screens that display the immersive visual 3D environment to the user, and headphones to deliver audio content. It is equipped with sensors to detect the users head movement to control his field of view in the virtual environment. At a minimum, VR immersion usually involves:
+environment.
+for
+user.
+user,
+users
+environment.
+involves:
+ Vision: The HMD is usually a visor or helmet that filters out the users peripheral vision. Visual content is presented to the user with high-definition screens. Equipment manufacturers currently use a number of techniques to achieve 3D images, including dual displays on single or double screens, and stereoscopic display with lenses. Screen refresh rate must be at least 60 frames per second (fps) to avoid vision stuttering and user disorientation. Contemporary HMDs commonly have refresh rates of 90 fps and 120 fps.  Sound: Headphones with active and passive noise cancelling are used to block out external sounds. To enhance realism the sound fed to the user is modulated to create the impression that it originates from a particular direction and point in the distance.  Head Tracking: The HMD has a number of sensors to track the movement of the users head so that his view of the virtual environment can be updated accordingly. To achieve an even higher level of realism some HMD have infra-red cameras and other sensors to track the users eye movement.
+
+Vision: The HMD is usually a visor or helmet that filters out the users peripheral vision. Visual content is presented to the user with high-definition screens. Equipment manufacturers currently use a number of techniques to achieve 3D images, including dual displays on single or double screens, and stereoscopic display with lenses. Screen refresh rate must be at least 60 frames per second (fps) to avoid vision stuttering and user disorientation. Contemporary HMDs commonly have refresh rates of 90 fps and 120 fps.
+users
+ Sound: Headphones with active and passive noise cancelling are used to block out external sounds. To enhance realism the sound fed to the user is modulated to create the impression that it originates from a particular direction and point in the distance.
+
+Sound: Headphones with active and passive noise cancelling are used to block out external sounds. To enhance realism the sound fed to the user is modulated to create the impression that it originates from a particular direction and point in the distance.
+To
+ Head Tracking: The HMD has a number of sensors to track the movement of the users head so that his view of the virtual environment can be updated accordingly. To achieve an even higher level of realism some HMD have infra-red cameras and other sensors to track the users eye movement.
+
+Head Tracking: The HMD has a number of sensors to track the movement of the users head so that his view of the virtual environment can be updated accordingly. To achieve an even higher level of realism some HMD have infra-red cameras and other sensors to track the users eye movement.
+users
+accordingly.
+To
+users
+movement.
+Using more interactive features on top of these minimum requirements can make the VR experience more immersive and realistic:
+ Customized Control: Some VR systems and games use a set of wireless controls that are designed to make the user feel as if they are using their own hands in the VR environment. For example, users squeeze on a hand trigger on their controller to fire a gun in a VR application.  Customized Set: The users immediate surroundings can be outfitted to resemble a vehicle or other environment that matches their VR world. This concept is usually paired with customized controls. For example, the user of an advanced flight simulator may be strapped into a simulated cockpit, and control his VR aircraft with a joystick, throttle and foot pedals.  Movement: Equipment such as moving platforms and 6-degree-of-freedom seats equipped with force feedback systems can be used to create a realistic sense of motion that matches the users movement through the VR environment.
+
+Customized Control: Some VR systems and games use a set of wireless controls that are designed to make the user feel as if they are using their own hands in the VR environment. For example, users squeeze on a hand trigger on their controller to fire a gun in a VR application.
+own
+ Customized Set: The users immediate surroundings can be outfitted to resemble a vehicle or other environment that matches their VR world. This concept is usually paired with customized controls. For example, the user of an advanced flight simulator may be strapped into a simulated cockpit, and control his VR aircraft with a joystick, throttle and foot pedals.
+
+Customized Set: The users immediate surroundings can be outfitted to resemble a vehicle or other environment that matches their VR world. This concept is usually paired with customized controls. For example, the user of an advanced flight simulator may be strapped into a simulated cockpit, and control his VR aircraft with a joystick, throttle and foot pedals.
+users
+vehicle
+world.
+customized
+ Movement: Equipment such as moving platforms and 6-degree-of-freedom seats equipped with force feedback systems can be used to create a realistic sense of motion that matches the users movement through the VR environment.
+
+Movement: Equipment such as moving platforms and 6-degree-of-freedom seats equipped with force feedback systems can be used to create a realistic sense of motion that matches the users movement through the VR environment.
+platforms
+users
+environment.
+What is AR?
+With augmented reality, users perceive the real world with the addition of computer-generated images that are overlaid on specific objects. Unlike an immersive VR experience, users are aware that they are in the real world. Users employ a device that is equipped with a camera, such as a smartphone or a tablet. The camera scans the environment, feeding the applications image recognition capability. The applications AR content is triggered when specific images are recognized, such as QR codes, borders, faces, locations and names. Location-based AR works in a similar manner, using devices equipped with a global position system or other location sensors. Bringing the device to a specific location or area triggers the applications AR content.
+world.
+applications
+capability.
+applications
+Industry and Market Assessment
+Overview
+The VR and AR industry is still in its infancy, with many companies investing heavily in research and development. While there are many forecasts and estimates on the future market size of this industry, the one thing that many industry experts agree on is that the industry will experience rapid growth over the next few years.
+next
+AR and VR Market Revenue Forecast
+(Source: Digi-Capital)
+In 2016, total revenue generated by the industry stood at $3.9 billion, with VR contributing the biggest share at $2.7 billion. By 2021, Digi-Capital expects revenue generated by the VR and AR industry to reach an estimated $108 billion. Between 2016 and 2021, the industry is expected to record CAGR of 94.3%, with the AR segment surging ahead of VR after 2018.
+revenue
+2021,
+Goldman Sachs anticipates that the hardware segment will account for the biggest portion of the VR and AR industrys revenue. Below is the breakdown of Goldman Sachs base case revenue expectations in 2025:
+breakdown
+Revenue Breakdown Software Video games 14.5% Healthcare 6.4% Engineering 5.9% Live events 5.1% Video entertainment 4.0% Real estate 3.3% Retail 2.0% Military 1.8% Education 0.9% Hardware HMD, host systems, tracking systems and controllers 56.3% OVERALL 100.0%
+Software
+Video games 14.5%
+14.5
+%
+Healthcare 6.4%
+6.4
+%
+Engineering 5.9%
+5.9
+%
+Live events 5.1%
+5.1
+%
+Video entertainment 4.0%
+4.0
+%
+Real estate 3.3%
+3.3
+%
+Retail 2.0%
+2.0
+%
+Military 1.8%
+1.8
+%
+Education 0.9%
+0.9
+%
+Hardware
+HMD, host systems, tracking systems and controllers 56.3%
+56.3
+%
+OVERALL 100.0%
+100.0
+%
+(Source: Goldman Sachs)
+Hardware is expected to be the main driver of growth for the VR and AR industry. Even now, there are numerous HMDs available which are used primarily for video games, such as the Oculus Rift and HTC Vive. However, the adoption rate is still low as prices of these headsets are costly, not taking into account the high-end processors needed to run the games smoothly to provide players with a satisfactory experience. In the near future, prices of hardware are expected to fall to more affordable levels, on the back of technological improvements in components such as display technology and graphics card, competition among manufacturers as well as the effect of economies of scale on the industry. Goldman Sachs predicts that HMD prices could fall by as much as 5% to 10% annually.
+industry.
+now,
+HTC
+However, the
+costly,
+fall
+industry.
+annually.
+Case Study  Pokmon Go
+Study  Pokmon Go
+Pokmon Go is an AR mobile phone game which was released by Niantic Labs in July 2016. The game was an immediate hit upon launching and got many people to go outdoors in search of Pokmon, flooding places such as parks and landmarks in many countries. Pokmon Gos first day revenue was between $3.9 million and $4.9 million. By August 2016 the mobile app had achieved 100 million downloads worldwide; as of March 2017 the total number is approximately 650 million downloads. At the height of its popularity, the game had 22.5 million active daily users.
+Go is an AR mobile phone game which was released by Niantic Labs in July 2016. The game was an immediate hit upon launching and got many people to go outdoors in search of Pokmon, flooding places such as parks and landmarks in many countries. Pokmon Gos first day revenue was between $3.9 million and $4.9 million. By August 2016 the mobile app had achieved 100 million downloads worldwide; as of March 2017 the total number is approximately 650 million downloads. At the height of its popularity, the game had 22.5 million active daily users.
+Pokmon Gos
+The game, which is free-to-play, generates revenue by offering players optional in-application purchases such as PokBalls, lures and other virtual goods which enhance a players gaming experience. Additionally, Pokmon Go derives revenues from businesses who want to increase pedestrian traffic at their locations. In general, the business pays Niantic a sum of money to increase spawn rates of rare Pokmon in their area, or create a game checkpoint such as a PokStop or PokGym at their location.
+revenue
+PokBalls,
+players
+Additionally, Pokmon
+Pokmon Go Daily Active Users (DAU)
+(Source: Wandera)
+App Annie, a mobile analytics firm, estimated that Pokmon Go had earned approximately $950 million in revenue in 2016 alone, and breached the $1 billion barrier in January 2017. While the number of daily active users has dropped, it still averaged 7.5 million daily active users in January 2017. There was a small surge in user activity in February 2017 following the release of a collection of new Pokmon, indicating that players are still interested enough to play if there are new developments. Within the first few days of Pokmon Gos release, the market capitalization of Japanese game maker Nintendo more than doubled to reach a high of $42.5 billion.
+2017.
+7.5
+2017.
+following
+Pokmon,
+Pokmon Gos
+Aside from its surreal business success, Pokmon Go was able to promote the concept of AR to a vast number of consumers worldwide better than any other software or hardware at the time. More importantly, it also gave corporations a preview of the potential impact of AR technology on their businesses.
+importantly,
+Theme Parks and Attractions
+As discussed further below, the main focus of our business will be our Hero Central theme parks, which are new generation playgrounds that use VR and AR technologies to provide interactive and immersive rides, games and attractions. They will also have conventional rides, games and attractions, as well as sports-entertainment facilities for those who enjoy an active lifestyle.
+The global theme park industry is large and had enjoyed good growth.
+EMEA = Europe, Middle East and Africa
+Source: Themed Entertainment Association and AECOM
+From 2006 and 2015, market growth was toward Asia-Pacific, where it increased its market share from 35% to 42%, respectively.
+Competitive Analysis Home VR and AR
+VR and AR theme parks have various advantages over home-based gaming systems. In general, VR and AR games that run on home computers or consoles require gamers to own high end HMD such as the Oculus and HTC Vive that on its own, can cost approximately $600 in order to enjoy the full experience. Computer gamers will need to spend more money to make sure that their systems have the right amount of processing power needed to run the game smoothly.
+HTC
+$600
+smoothly.
+In short, setting up a proper home-based VR system may prove to be out of reach of the vast majority of consumers at this point in time. AR and VR theme parks will be able to offer gamers a significantly cheaper alternative through a pay-per-use system. Furthermore, the availability of a wide range of games in the theme park will give gamers the opportunity to play a range of games without having to purchase the game itself. VR and AR theme parks in Malaysia could provide a lower cost alternative to VR and AR gaming enthusiasts who do not have the capacity to purchase a system of their own.
+own.
+Home-based systems will also not be able to duplicate free-roam VR experiences that can be achieved in VR and AR theme parks. Free-roam VR is a concept which uses a tracking system to detect movements of players across a large area. It allows players to move freely while inside a virtual world. The tracking system can coordinate more than one player at a time, which allows gamers to share their virtual environment with friends. This increases the immersion factor of the game and makes the game more memorable as they are able to share the same virtual experience with friends.
+Conventional Theme Parks
+The table below shows the number of visitor arrivals to selected Malaysian theme parks from 2013 to 2015 .
+Selected Malaysian Theme Park Attendance
+Year 2013 2014 2015 Sunway Lagoon, Kuala Lumpur (000) 1,100 1,100 1,077 Growth (%) n.a. 0.0% -2.1% Sunway Lost World of Tambun, Perak (000) 500 700 859 Growth (%) n.a. 40.0% 22.7% Legoland Water Park, Johor (000) n.a. 630 700 Growth (%) n.a. n.a. 11.1%
+2013
+2014
+2015
+Sunway Lagoon, Kuala Lumpur (000) 1,100 1,100 1,077
+1,100
+1,100
+1,077
+Growth (%) n.a. 0.0% -2.1%
+n.a.
+0.0
+%
+-2.1
+%
+Sunway Lost World of Tambun, Perak (000) 500 700 859
+500
+700
+859
+Growth (%) n.a. 40.0% 22.7%
+n.a.
+40.0
+%
+22.7
+%
+Legoland Water Park, Johor (000) n.a. 630 700
+n.a.
+630
+700
+Growth (%) n.a. n.a. 11.1%
+n.a.
+n.a.
+11.1
+%
+(Source: International Association-Amusement Parks and Attractions)
+Association-Amusement Parks and Attractions)
+Attractions)
+According to Sentoria Group Berhads 2016 annual report, between 2011 and 2015, Bukit Gambang Resort Citys theme park in Pahang serviced an average of 592,000 visitors a year. In 2012, KidZania KL commenced operations and attracted over 400,000 visitors in its first full year of operations. In 2015, Khazanah Nasional Berhad, the co-owner of KidZania KL, reported that it had over two million visitors since its launch. It estimated that 500,000 people visited KidZania in 2015.
+592,000
+400,000
+500,000
+Just as VR and AR technologies are disrupting various industries across the globe, VR and AR theme parks could potentially outperform their traditional counterparts due to the various advantages and unique value propositions. A major business advantage that VR and AR theme parks have over conventional theme parks is that they require significantly fewer resources to setup and operate. This is because VR and AR theme parks do not need large structures requiring large space and incurring high capital cost. Instead, VR and AR theme parks can be opened in malls with exciting interior decorations and minor structures requiring relatively lower initial capital outlay. VR and AR theme parks can also easily upgrade or change their content regularly to provide visitors with fresh and new experiences. We believe that this will encourage recurrent visits. This is unlike conventional theme parks, where rides and attractions stay the same for many years.
+years.
+Business Model
+Overview
+We are providers of cutting-edge VR and AR enhanced leisure and entertainment activities. We are creating our Hero Central Digital Platform as an online enabler of the key business areas that we are developing:
+ Operating a chain of next generation indoor shopping mall-based VR and AR enhanced theme parks; and  Publishing AR game applications.
+
+Operating a chain of next generation indoor shopping mall-based VR and AR enhanced theme parks; and
+ Publishing AR game applications.
+
+Publishing AR game applications.
+Our business model is based on developing our own content and applications, as well as collaborating with local and international IP owners to develop engaging VR and AR enhanced leisure and educational activities.
+Our Integrated Platform Business Model
+Our business model is premised on all our activities being linked and integrated to our Hero Central Digital Platform. Our current proposed business activities include VR and AR theme parks and arcades, which we name Hero Central Theme Parks, and AR Trading Card Game Applications.
+Hero Central Digital Platform
+The Hero Central Digital Platform is the online platform that unifies all our various business areas. Users, whom we like to call Hero Lovers, create a single profile for all of their online and offline experiences and purchases from us. Regardless of where they start, their profile will follow them as they immerse themselves in any of our theme parks and arcades, and AR trading card games.
+Lovers,
+for
+follow
+Our Hero Central Digital Platform will host a centralized database, collecting and mapping all our Hero Lovers activities across all our locations, games and applications. Over time, with sufficient data points, we will be able to undertake meaningful analytics and proactively suggest new experiences to our Hero Lovers based on their likes, preferences and habits. In addition, we can use such analytics for joint marketing with external parties to create new revenue streams for our business.
+likes,
+Our Hero Central Digital Platform is also a multi-level platform for Hero Makers, our brand and IP partners and application developers, to collaboratively create new and innovative games, rides and applications.
+Makers,
+Global Theme Park and Attractions Statistics
+The main focus of our business will be our Hero Central theme parks  which are new generation playgrounds that use VR and AR technologies to provide interactive and immersive rides, games and attractions. They will be designed to have conventional rides, games and attractions, as well as sports-entertainment facilities for those who enjoy an active lifestyle. The theme park industry in general is experiencing excellent growth and provide a fertile ground for the Company to introduce its products and services, as shown in the charts below.
+(Source: Wilkofsky Gruen Associates as published by The International Association of Amusement Parks and Attractions)
+Source: Wilkofsky Gruen Associates as published by The International Association of Amusement Parks and Attractions
+Asia-Pacific and Malaysia Theme Park and Attractions Statistics
+(Source: Wilkofsky Gruen Associates as published by The International Association of Amusement Parks and Attractions)
+Theme parks and attractions in Asia-Pacific countries are generally forecasted to grow at CAGR of 8.8% between 2014 and 2019.
+Hero Central Theme Parks and Arcades
+Parks
+and
+Overview
+The main focus of our business will be our Hero Central theme parks. Our Hero Central theme parks will be new generation playgrounds that use VR and AR technologies to provide interactive and immersive rides, games and attractions. They will also have conventional rides, games and attractions, as well as sports-entertainment facilities for those who enjoy an active lifestyle.
+The key difference of our Hero Central theme parks will be that they will be established in shopping malls. This approach will enable us to benefit from each malls strategic location as well as tapping on their regular visitor traffic flow. More importantly, the set-up cost is significantly reduced as we will be using the malls infrastructure including the building, parking facilities, security and the ready availability of utilities, amenities and facilities. Since we plan to have most of our theme parks located in indoor malls, we have a significant advantage over outdoor based theme parks whose attendance can be significantly affected by bad weather.
+flow.
+importantly,
+malls
+We will adopt three operating models for our theme park and arcade business comprising:
+ Grand VR Park, a flagship theme park with over 100,000 square feet of space;  VR Park, a typical theme park with 30,000 square feet to 50,000 square feet of space;  Arcades, with between 500 square feet and 15,000 square feet of space.
+
+Grand VR Park, a flagship theme park with over 100,000 square feet of space;
+over 100,000 square feet
+ VR Park, a typical theme park with 30,000 square feet to 50,000 square feet of space;
+
+VR Park, a typical theme park with 30,000 square feet to 50,000 square feet of space;
+30,000 square feet
+50,000 square feet
+ Arcades, with between 500 square feet and 15,000 square feet of space.
+
+Arcades, with between 500 square feet and 15,000 square feet of space.
+15,000 square feet
+Our business concept is designed to be flexible, modular and scalable. This will allow us to open new theme parks and arcades that are of the proper size to fit their locations, and with the best content to suit economic, social and cultural needs. We aim to establish a chain of Hero Central theme parks and arcades in Malaysia and Asian countries together with our licensees.
+Multiple IP at Each Location
+Hero Central theme parks and arcades will employ an all-inclusive multi-level platform IP strategy. For example, our theme parks could include VR or AR enhanced games modelled after popular video games, adventure rides through a Jurassic forest or interactive activities with a popular character. This approach means our theme parks are not tied to one brand or IP. In our flagship Hero Central Grand VR Park, we could have up to 100 different IP rides, games, attractions and contents. We will develop our own content as well as collaborate with interested IP owners and developers, or Hero Makers, to bring in multiple, interesting and popular content for our theme parks. Each Hero Maker can set up an entire themed zone at our theme parks and arcades or participate at a smaller scale by placing one or a few rides, games and attractions.
+character.
+IP.
+Makers,
+We plan to collaborate with Malaysian, regional and global Hero Makers to bring their content and IP into our theme parks and arcades. This will give our locations a diverse multi-cultural atmosphere that is exciting and new. Our customers, whom we call Hero Lovers, will have an opportunity to interact with their favorite characters, and also discover and enjoy new characters and virtual worlds.
+new.
+Lovers,
+favorite
+This multi-level platform approach will also mean that each Hero Central theme park and arcade can have a different mix of themed zones and attractions, so that no two are the same. This will enable us to open multiple theme parks and arcades in a particular area, and encourage guests to visit different ones.
+Fun for Everyone
+Everyone
+Our Hero Central theme park and arcade concept is designed to appeal to a wide range of age groups  from toddlers to adults. We expect that it will have five zones:
+ Hero Kids will appeal to young children from 3 to 7 years old, and their parents;  Hero Power will excite children from 8 to 12 years old, teenagers and young adults;  Hero Rides are for people of all ages;  Hero Challenge is for families, friends and corporate groups looking for active challenges.  Hero Education dedicated edutainment area filled with digital learning experience, child-size replica of real city and more.
+
+Hero Kids will appeal to young children from 3 to 7 years old, and their parents;
+ Hero Power will excite children from 8 to 12 years old, teenagers and young adults;
+
+Hero Power will excite children from 8 to 12 years old, teenagers and young adults;
+ Hero Rides are for people of all ages;
+
+Hero Rides are for people of all ages;
+ Hero Challenge is for families, friends and corporate groups looking for active challenges.
+
+Hero Challenge is for families, friends and corporate groups looking for active challenges.
+ Hero Education dedicated edutainment area filled with digital learning experience, child-size replica of real city and more.
+
+Hero Education dedicated edutainment area filled with digital learning experience, child-size replica of real city and more.
+Grand VR Park  Our Flagship Hero Central Theme Park
+Grand VR Park, which will be our flagship Hero Central theme park will be at the Empire City Damansara Shopping Mall. It will have 170,000 square feet of space and will be the shopping malls main attraction. The flagship will have gated Hero Kids, Hero Power, Hero Rides and Hero Challenge zones, and a Central Square with themed retail and food and beverage outlets that is open to the public.
+malls
+Power,
+VR Park  Our Typical Theme Park
+Hero Central VR Park will cover between 30,000 square feet and 50,000 square feet of space. They will follow the template what we will set out at our flagship Grand VR Park, with a Central Square and five Hero zones. Hero Lovers will get to enjoy the full Hero Central experience at these theme parks. Hero Central theme parks are designed so that they are a shopping malls star attraction, creating win-win partnerships with property owners.
+follow
+malls
+win-win
+Hero Central Arcades
+Hero Central arcades have a smaller footprint of between 500 square feet and 15,000 square feet. They are designed to operate comfortably in a shopping malls retail lot and are designed to complement the malls other attractions. Arcades will have Hero Power and Hero Ride zones, and generally have fewer rides and games compared to full-fledged theme parks. Entry to our arcades will be free, but Hero Lovers will have to purchase points to play some of the rides and games. Some retail and food and beverage options will be available, although they will not be as extensive as our theme parks.
+malls retail
+fewer
+Hero Central arcades will help to introduce our brand and experience to a wider audience. They can also help us launch new content and IP partners before we commit to setting up full-fledged theme park. Their smaller size and set-up cost will also appeal to potential licensees with a good operational track record but have fewer financial resources.
+fewer
+Common Standard Operating Procedure
+We will develop a common standard operating procedure (SOP) that will be adopted at all Hero Central theme parks and arcades. The SOP will cover all aspects of day-to-day operations including integration with the Hero Central Digital Platform; guest relations and dispute resolution; point-of-sales, inventory and procurement; staff training program; food and beverage and retail outlet management; maintenance of equipment and facilities; and upgrades and renovations. Adopting a common SOP across all locations will help to ensure that Hero Lovers will receive the same service regardless of where they play.
+play.
+The SOP will be an integral part of our licensing program as it will be the basis of how our licensees will operate their locations. It will help to streamline the process of setting up new theme parks and arcades.
+Moving forward, we expect to benefit from economies of scale due to the use of SOP for theme park and arcade management.
+Licensing Program
+We plan to execute our Hero Central theme park and arcade expansion program through a combination of setting up and operating new locations ourselves, and also through a licensing program.
+We plan to develop the licensing program to identify, train and manage suitable licensees to set up and operate new Hero Central theme parks and arcades at carefully selected locations in target countries. We will provide licensees with access to our SOP, management system and staff training program, Hero Central Digital Platform, relevant VR and AR rides, games and attractions, and IP content. Moving forward, we will help suitable licenses that have demonstrated their capability to set up and operate multiple locations.
+SOP,
+Licensees will be responsible for funding the capital investment required to set up the new locations. They are then responsible for day-to-day operations when their theme parks or arcades open. Licensees will pay us scheduled licensing fees and a share of their profit, subject to final agreement.
+Advanced Technology Launch Pad
+Pad
+We will use our flagship Hero Central theme park as our launch pad for advanced next-generation rides and games that we and our Hero Maker collaborators are developing. VR and AR enhanced rides and games that we are developing will be deployed at the theme park for guests to use under real-world conditions.
+This will allow us to quickly identify and resolve any performance and guest experience issues that may arise from actual usage. We will collect feedback directly from Hero Lovers who try these games and use it to enhance guest experience.
+This process also gives visitors to our theme parks and arcades the opportunity to be the first in the world to enjoy these new experiences.
+Revenue Streams
+We expect our Hero Central theme parks and arcades to benefit from their ability to generate multiple revenue streams, including from our Hero Lovers and guests, Hero Makers and licensees. Hero Lovers purchase a regular entry or fast track ticket to enter the gated Hero zones where most of the more exciting attractions are located. Fast track ticket holders are given priority when lining up for games and rides. The ticket contains points as part of the purchase price, and these points are used to play games and rides. Once these points are used up, Hero Lovers purchase top-up points at automated kiosks located throughout the theme parks and arcades.
+Hero Lovers purchase
+regular
+fast track ticket
+enter
+gated Hero zones where most
+the more exciting attractions
+located. Fast track ticket holders
+given priority
+lining
+for games and rides.
+ticket contains points
+purchase price,
+these points
+used
+play games
+rides. Once these points
+used
+Hero Lovers purchase top-up points
+automated kiosks located throughout
+theme parks
+arcades.
+All ticket and point purchases will be linked to the Hero Lovers profile on the Hero Central Digital Platform. This is our method to collect profiles and transactional activities of all our paying customers.
+Platform.
+Guests will also be able to purchase merchandise and food and beverage items from outlets inside the Hero Zones and at the non-gated Central Square. Guests who purchase promotional items or who spend a certain amount on merchandise and food and beverage items will receive bonus points as an incentive to stay and play more games.
+Some of our Hero Maker collaborators will set up themed zones at our theme parks and arcades. They will place their rides and games at these zones and may also operate their own retail and food and beverage outlets. In such situations, we will undertake a profit sharing model with Hero Makers.
+We expect that the licensing program will result in a stream of licensing fees, as well as profit sharing with licensees.
+Our Flagship Hero Central Theme Park
+Overview of the Empire City Damansara Shopping Mall
+We expect that our flagship Hero Central theme park will be in Empire City Damansara (Empire City), which is a mixed development in the Damansara Perdana area, part of the Greater Kuala Lumpur conurbation in Malaysia. The shopping mall is currently under construction and is expected to complete construction by end of 2017. Depending on the outcome of our present Regulation 506(c) and Regulation S private placement raises, we expect to open our doors to the public by the second quarter of 2018. We intend our flagship Hero Central theme park to cover approximately 170,000 square feet of high-energy space spread out over two levels. Our subsidiary, Hero Central Dot Com Sdn Bhd, has executed a three year renewable lease for 170,000 square feet of retail space in Empire City, with customary terms and conditions.
+2017. Depending on the outcome of our present Regulation 506(c) and Regulation S private placement raises,
+170,000 square feet
+Attractions
+Overview
+Our flagship Hero Central theme park design will be able to accommodate up to 100 games, rides and attractions. It will be divided into two main sections, the un-gated Central Square open to the public, and gated section with four inter-connected Hero zones, Hero Kids, Hero Power, Hero Rides and Hero Challenge.
+Hero Kids
+The Hero Kids zone will be a dedicated park within a park focused on appealing to young children aged between three and seven years, and their parents. The VR and AR enhanced games and rides will have a strong education and play element to delight our young Hero Lovers and their families. These include an AR coloring game and a virtual-aquarium. Hero Kids will also feature conventional attractions such as a playground, kiddie rides, sand boxes, and games with fishing and planting themes.
+Hero Power
+The Hero Power zone will have a large open area featuring table games, VR simulators and signature VR robotic rides. The zone will also have conventional rides and games. This high-excitement zone is designed for older aged groups including children aged between eight and 12 years, teenagers and young adults.
+Hero Rides
+The Hero Rides zone will be for Hero Lovers of all ages, with signature rides that are based on our Hero Makers IP. Some of these rides will have VR and AR enhanced features to create an immersive experience. For example, it could be a virtual ride through a Jurassic forest, under water, through space and a tour through Mars. The rides will be on movable platforms that will synchronize with the travel through the virtual world.
+IP.
+For
+water,
+world.
+Hero Education
+In Hero Education, children embark on a journey of early childhood development via a unique informal platform inspired by the need to create a fun-loving process for education, one that opens the minds creativity and brings a new delight to the process of learning. We intend to partner with industry leading play facility providers to be featured in Hero Education such as Funtory House from Korea and several other award-winning providers trusted for their reliability with proven track records in providing quality learning experiences for children of all ages.
+minds
+Education
+Hero Challenge
+Hero Challenge will be an active playground where guests of all ages can work up a sweat while having fun. It will have facilities for new and conventional physical activities, as well as VR simulators. This zone is for groups including families, friends and corporate groups. The sports-entertainment facilities include trampoline arena, rock climbing wall and ninja park for guests to compete and test their physical limits. There will be male and female locker rooms and showers for our guests to freshen up after their adventures. The VR simulators will run sports-based content, such as car racing, cycling and aircraft racing simulators.
+Central Square
+Our Central Square will be designed as the grand entrance to our theme park. It will be an open exposition area featuring front desk interface facilities to welcome guests. We intend to have two Hero Caf food and beverage outlets at Central Square where guests can have quick snacks or full meals. The Hero Cafes will feature themed interior decorations and menus to create iconic meal dining experiences for our guests.
+Retail Outlets
+We expect to allocate space for themed retail outlets and gift shops at each of the Hero Zones. Hero Lovers can buy branded and other merchandise to bring home memories of their visit. We expect to also set up kiosks and other retail space at the gated Hero Zones. We expect that these outlets will be themed after our Hero Makers IP.
+IP.
+VR and AR Enhanced Activities
+Our expectation is that our Hero Central Theme Parks will be new generation playgrounds that are equipped with cutting-edge VR and AR enhanced rides, games and activities. The immersive nature of these VR and AR enhanced activities will let our guests experience new ways of playing and learning. We expect to be among the first in the region to employ these new technologies for leisure activities at such a scale.
+Shopping Mall-Based Theme Park
+Hero Central Theme Parks are intended to be located in shopping malls, with the intention of the first at the Empire City Damansara Shopping Mall in Greater Kuala Lumpur, Malaysia.
+Our Hero Central Theme Parks are expected to be quicker and less capital intensive to set up compared to a conventional theme park. This is because most of the physical infrastructure will have already been developed as part of the host shopping mall. In addition, large Hero Central Theme Parks can be anchor tenants that receive beneficial rental rates and other privileges. Property owners will benefit from our ability to attract visitors to their shopping malls, while we also benefit from visitor traffic created by other shopping mall tenants.
+Our Hero Central Theme Parks are also not materially affected by the weather, which will help improve utilization rates and reduce operational disruptions. Our guests are also kept comfortable in an air- conditioned environment, which should help extend average stay and spending.
+extend
+Multi-Level Platform
+We are developing Hero Central Theme Parks as a multi-level platform where IP developed by Hero Makers is used to create themes for zones, rides, games and activities. We will not be restricted to any single brand, theme or Hero Maker, and can make selections from a variety of third party owned intellectual property licenses (IP) for the best guest experience. It also gives us the flexibility to change and upgrade theme park content from time to time, which helps to encourage repeat visits. The multi-level platform also allows Hero Makers the opportunity to test new concepts and new markets before making large investment commitments. We can work together with Hero Makers to develop ideas and quickly test new concepts.
+Flexible Expansion Model
+The VR and AR enabled theme park concept that we are developing uses a flexible expansion model that can be replicated in other regions not only in construction but with respect to the use of IPs. Construction is highly modular as it is easy to add zones, rides, games and attractions to create locations that range in size from a VR theme park that is between 30,000 square feet and 50,000 square feet in size, to arcades that fit in retail lots. Our multi- level platform approach also means that content can be easily adapted to fit local conditions and preferences. Each theme park and arcade will use our online platform as well as common management system, SOP, payment system, staff training program and other back-office systems. All of them will be tied together by our Hero Central Digital Platform.
+50,000 square feet
+preferences.
+platform
+Platform.
+VR theme parks will have multiple VR and AR enhanced rides and games in multiple Hero Maker zones to give guests the full experience. The arcades will focus on one or a small number of Hero Makers and have fewer rides and games.
+fewer
+These characteristics will help enable rapid expansion in Malaysia and throughout Asia.
+Strategic Global Collaboration
+The Company is proud to have achieved the accomplishment of bringing together a convergence of world class brand names to provide strong IP content for its Hero Central Theme Parks. We intend to license or buy intellectual property and AR and VR equipment from leading makers and developers.
+The diversity of market place leaders in the entertainment industry is the backbone of Hero Centrals thrust, e.g. Iconix, Rainbow and many more are behind the award-winning content providers and IP owners. An enthralling immersive experience using VR, AR, the new dimension of Mixed Reality, Holograms & 4D motion arenas is provided to thrill visitors. 4D refers to outside stimuli such as water splashes, etc., in addition to the 3D electronic presentation.
+We anticipate that Hero Central will feature the 3D flying theatre experience with advanced technology motion seats and converges simulation with ear shattering sounds coming from the walls that echo in the air as the earth shakes and rumbles beneath.
+AR-Enhanced Trading Cards
+We are currently developing our own AR-enhanced trading card game application. We are also building our application publishing business for applications and related products that are developed by us and our Hero Maker collaborators. This business will be enabled and driven by our Hero Central Digital Platform. We plan to publish applications to users in Malaysia and globally.
+our
+Maker collaborators.
+and
+Platform.
+globally.
+We expect that our application publishing will involve active marketing and promotions to build brand awareness and user engagement. In addition to promoting our own applications to our target markets, we will actively extend the same service to our Hero Maker collaborators. This will enable them to focus on their key competencies of developing applications and creating IP. We can also collaborate with retail and food and beverage operators to hold joint promotion campaigns, product tie-ins and brand placement.
+marketing
+awareness
+promoting
+Using the Hero Central Digital Platform has the benefit of reaching a large user base with potentially rich data. We can easily communicate with Hero Lovers through online media. Hero Makers that collaborate with us will gain access to the large Hero Central Digital Platform user base.
+data.
+Lovers
+Makers
+Platform
+base.
+AR Enhanced Game Application
+We are currently developing AR enhanced games where we will co-own the rights to these games. We plan to publish them on our Hero Central Digital Platform publishing platform, where users who want to play the game must have an existing profile or create new user profiles. The AR enhanced games are played through applications installed on a compatible smartphone or tablet device, paired with corresponding AR enhanced trading cards that we produce. The trading cards vary in terms of the power of the hero, in-game resources, attribute or ability that they represent. Cards are sold in randomized packs and players can trade with one another to customize their card decks.
+enhanced games
+played through applications
+Each trading card contains information related to the game, along with a proprietary code. Players scan the code with their devices camera to trigger the cards AR content. Players view and interact with the AR hero and characters through their devices screens.
+cards
+Hero Makers
+Makers
+We intend to help our Hero Maker collaborators grow their businesses. We will extend our marketing and promotional expertise and effort to help popularize the game applications and IPs that they develop. This support may be particularly valuable to start-up Hero Makers who have excellent technical skills and are developing cutting-edge applications, but lack the resources, marketing skills and platform needed to distribute them widely.
+widely.
+Our application publishing expertise can also help Hero Makers with popular applications to bring them to the next level. We can work with Hero Makers to expand their brands by creating physical experiences at our Hero Central theme parks. These can include creating VR and AR enhanced rides and games, and developing associated merchandise and food and beverage experiences.
+developing
+Revenue Streams
+The potential revenue streams from our application publishing business include:
+ Revenue from application users in the form of initial download purchases (for non-free applications) and in-application purchases;  Revenue from the sale of physical accessories such as AR trading cards, 3D cubes and AR business cards;  Shared revenue, licensing and other fees from Hero Makers that use our application publication business to market and promote their applications, including related physical accessories;  Shared revenue, marketing and other fees from retail and food and beverage operators for joint promotion, product tie-in, brand and product placement campaigns.
+
+Revenue from application users in the form of initial download purchases (for non-free applications) and in-application purchases;
+ Revenue from the sale of physical accessories such as AR trading cards, 3D cubes and AR business cards;
+
+Revenue from the sale of physical accessories such as AR trading cards, 3D cubes and AR business cards;
+ Shared revenue, licensing and other fees from Hero Makers that use our application publication business to market and promote their applications, including related physical accessories;
+
+Shared revenue, licensing and other fees from Hero Makers that use our application publication business to market and promote their applications, including related physical accessories;
+ Shared revenue, marketing and other fees from retail and food and beverage operators for joint promotion, product tie-in, brand and product placement campaigns.
+
+Shared revenue, marketing and other fees from retail and food and beverage operators for joint promotion, product tie-in, brand and product placement campaigns.
+Application Publishing
+We are developing a platform to publish and distribute applications that we develop, as well as those developed by our Hero Maker collaborators. We will publish and distribute game and other applications, and related physical accessories such as AR trading cards, 3D cubes, AR business cards, AR promotional material and other AR titles and applications. The applications that we publish will target users globally.
+globally.
+Maintaining control over application publication allows us to control brand development and marketing. The brand development and marketing activities that we will employ include:
+ Develop and execute marketing campaigns;  Host live events such as meet-and-greet, road shows and application launches at our Hero Central theme parks and arcades, and other locations;  Manage the production and distribution of merchandise and other related physical accessories;  Collaborate with retail and food and beverage operators to hold joint promotion campaigns and product tie-ins;  Promote new applications through our Hero Central Digital Platform, and other online media;  Product placement for companies that wish to create brand awareness among our Hero Lovers and guests. We intend to use relevant data from Hero Lovers profiles to create targeted both online and real-world marketing and promotion campaigns for greater efficiency. Once we have established our own collection of well- known applications and brands, we can use these to promote our other new applications as and when they are launched.
+
+Develop and execute marketing campaigns;
+ Host live events such as meet-and-greet, road shows and application launches at our Hero Central theme parks and arcades, and other locations;
+
+Host live events such as meet-and-greet, road shows and application launches at our Hero Central theme parks and arcades, and other locations;
+ Manage the production and distribution of merchandise and other related physical accessories;
+
+Manage the production and distribution of merchandise and other related physical accessories;
+ Collaborate with retail and food and beverage operators to hold joint promotion campaigns and product tie-ins;
+
+Collaborate with retail and food and beverage operators to hold joint promotion campaigns and product tie-ins;
+ Promote new applications through our Hero Central Digital Platform, and other online media;
+
+Promote new applications through our Hero Central Digital Platform, and other online media;
+ Product placement for companies that wish to create brand awareness among our Hero Lovers and guests. We intend to use relevant data from Hero Lovers profiles to create targeted both online and real-world marketing and promotion campaigns for greater efficiency. Once we have established our own collection of well- known applications and brands, we can use these to promote our other new applications as and when they are launched.
+
+Product placement for companies that wish to create brand awareness among our Hero Lovers and guests. We intend to use relevant data from Hero Lovers profiles to create targeted both online and real-world marketing and promotion campaigns for greater efficiency. Once we have established our own collection of well- known applications and brands, we can use these to promote our other new applications as and when they are launched.
+real-world
+efficiency.
+well-
+Hero Central Digital Platform
+Our Hero Central Digital Platform will be the integrator for all our business activities. It will also be the main online interface with our Hero Lovers. The first-time guests make purchases, for example buying tickets for our theme parks and arcades, they will need to register through our Hero Central Digital Platform. We will then have profiles of all our Hero Lovers. Each time Hero Lovers make additional purchases, they will interface with our Hero Central Digital Platform. In this manner, Our Hero Central Digital Platform will build a database of all the transactions undertaken by every Hero Lover. With sufficient data points, we will be able to undertake analytics to know every Hero Lovers location of visits, frequency of visits, preference levels for various games and rides, and other likes and habits.
+manner,
+Lover.
+Lovers
+A rich database of all our Hero Lovers will be a very useful marketing tool for our business. Among others, this will include the following:
+ We will be able to suggest additional purchases of our products and services;  We can send them updates of new locations, rides and games, and other marketing materials;  We can conduct joint marketing with Hero Makers;  It can serve as a marketing platform for companies that want to reach out to a certain profile of our Hero Lovers.
+
+We will be able to suggest additional purchases of our products and services;
+ We can send them updates of new locations, rides and games, and other marketing materials;
+
+We can send them updates of new locations, rides and games, and other marketing materials;
+ We can conduct joint marketing with Hero Makers;
+
+We can conduct joint marketing with Hero Makers;
+ It can serve as a marketing platform for companies that want to reach out to a certain profile of our Hero Lovers.
+
+It can serve as a marketing platform for companies that want to reach out to a certain profile of our Hero Lovers.
+Our Hero Central Digital Platform will serve as an e-commerce platform where we will be able to make sales of VR and AR related products as well as any of our thematic merchandise. It will also serve as a publishing platform for applications and AR trading cards. In addition to serving as an interface with Hero Lovers, our Hero Central Digital Platform will provide and integrate all the backroom functions including ticketing, top-ups, downloads, purchasing, and payment system.
+ticketing,
+Key Differentiation Factors For Hero Central
+Currently there are no large-scale mall-based VR and AR theme parks in Malaysia. Nevertheless, there are plans by at least one company in Malaysia to launch a VR theme park sometime in 2017. There are also existing VR arcades in Malaysia. However, Management expects that most of these theme parks and arcades in Malaysia are anticipated to be small compared to our planned flagship Hero Central Theme Park. This creates a unique opening for us to dominate this new market. We aim to take full advantage of this window of opportunity, starting in Malaysia and subsequently expanding to other parts of Asia.
+this window
+opportunity,
+Malaysia
+subsequently expanding
+other
+Asia.
+Forefront of New Technologies
+All of our businesses are enabled by new and emerging VR and AR technologies. Many of our Hero Central Theme Park guests and AR game players will be using these technologies for the first time, leading to an exciting eye-opening experience. This use of new and emerging technologies to create new user experiences will help attract guests to our theme parks and arcades, and players to play our AR game application.
+Developing our Own Content
+We are currently developing our own content for our Hero Central theme parks and arcades, and our own AR enhanced trading card game applications. In addition, we are developing our own application publishing business and Hero Central Digital Platform. The ability to develop our own content, publishing business and online platform will enable us to independently grow and develop our business. Our plan includes expansion in Malaysia and on a regional scale throughout Asia.
+Competitive Advantages Modular and Scalable Business Model
+Our business model for Hero Central theme parks and arcades is highly modular and scalable. All locations are tied together by our Hero Central Digital Platform, and their operations are based on a common management system, SOP, payment system, staff training program and other back-office systems.
+It is easy to add and change the layout of zones at each location. In addition, our multi-level platform approach allows the mix of VR, AR and conventional rides, games and attractions in each zone to be customized to suit each locations specific social, economic and cultural conditions.
+The business model works equally well for arcades that are between 500 square feet and 15,000 square feet in size, to theme parks between 30,000 square feet and 50,000 square feet, all the way up to our 170,000 square feet flagship theme park. This flexibility will make it easier for us to quickly conceptualize, design and set up new Hero Central theme parks and arcades to execute our expansion plans.
+30,000 square feet
+50,000 square feet,
+170,000 square feet
+Licensing for Rapid Regional Expansion
+Our licensing program will enable us to leverage the financial and operational capabilities of our licensees to set up and operate new Hero Central theme parks and arcades. Licensees are highly motivated to achieve a high level of operational performance as they share directly in the success of their theme parks and arcades. In addition, the fact that successful licensees are normally given priority in allocating new locations creates an incentive to perform well. These factors will help to support us in executing our overall regional expansion plan.
+Licensees in other countries may also have local knowledge and contacts that may take too long for us to establish. Working with them will allow us to access their local contacts and knowledge to operate to expand our business regionally.
+Multi-Level Platform for Wide Range of Content
+Our multi-level platform means that we are not tied to a single IP owner and developer to provide content for our Hero Central theme parks and arcades, and AR games applications. We are free to develop our own content, as well as collaborate with Hero Makers around the world to develop content and applications. We can thus offer Hero Lovers and game players a wide variety of experiences and gameplay options.
+We will also have more flexibility in designing our Hero Central theme parks and arcades. We can make each location unique by varying their themes and content, which will not be possible if we are tied to a single IP or brand owner and developer. This will help encourage repeat visits to our theme parks and arcades, and also enable us to open several locations in a single area. In addition, we envision that ardent fans may also visit our future Hero Central theme parks and arcades in other countries when those parks are developed.
+Online Platform for User Data Analytics
+The user profiles on our Hero Central Digital Platform may contain interesting information and data as each Hero Lover creates and uses a single profile for all of their engagement with us. This includes purchasing tickets and points for theme parks and arcades, downloading and playing game applications, and purchasing in-application items. As a result, the profiles may contain information on their online habits, online search priorities, where they prefer to shop, what games they like to play and their willingness to spend money, all of which is linked to their personal information.
+profiles on our Hero Central Digital Platform may contain interesting information and data as each Hero Lover creates and uses a single profile for all of their engagement with us. This includes purchasing tickets and points for theme parks and arcades, downloading and playing game applications, and purchasing in-application items. As a result, the profiles may contain information on their online habits, online search priorities, where they prefer to shop, what games they like to play and their willingness to spend money, all of which is linked to their personal information.
+our Hero
+Platform
+may
+interesting information
+and data
+as
+each Hero
+Lover
+and uses
+all
+of
+with us. This
+purchasing tickets
+and
+for
+and
+arcades, downloading
+and
+game applications,
+and
+purchasing in-application
+As
+the
+may
+information
+online
+priorities,
+they
+prefer
+to
+what
+they
+to
+play and
+willingness
+to
+spend
+money,
+all
+of
+is
+linked
+to
+information.
+This will make Hero Central Digital Platform useful to us in enabling cross-selling theme park experiences, games applications and other services branded with our own and Hero Makers IP and content. We can tailor promotions and discounts based on events such as birthdays, anniversaries and festivities. It also creates a potential for us to conduct joint marketing campaigns, product tie-ins and brand placement with other businesses, such as retail, food and beverage leisure and entertainment operators.
+marketing
+Economies of Scale for Cost Efficient Operations
+Our theme park and games application business will benefit from economies of scale. Once the common online platform, management system, SOP, payment system, staff training program and other back-office systems are in place, the level of management required for the theme park and arcade operations at the headquarters level is likely to remain relatively flat even if the number of Hero Central theme parks and arcades, and Hero Lovers increase.
+back-office
+even
+Similarly, we anticipate the cost of operating the Hero Central Digital Platform is likely to remain relatively stable even as the number of Hero Lover profiles, game application titles and players increase. The main server/machine will be managed by the Company, and the Company will have a technical team supporting the flagship and the rest of the parks.
+the cost of operating the Hero Central Digital Platform is likely to remain relatively stable even as the number of Hero Lover profiles, game application titles and players increase. The main server/machine will be managed by the Company, and the Company will have a technical team supporting the flagship and the rest of the parks.
+As a result, there is potential for our operating margins to improve as our revenue increase as the number of Hero Central locations, Hero Lovers, game applications and players grow, while our operating costs remain relatively flat.
+grow,
+Value Proposition
+Theme Park Expansion Strategy for Business and Financial Growth
+Our Hero Central Theme Park concept is flexible, modular and thus highly scalable. Parks can be designed to fit practically most locations. Our planned licensing program will support the expansion program by bringing in licensees who contribute capital to set up new locations. Our modular concept means that each new location can be created to match the licensees ability to invest capital.
+This high scalability and planned license program means that we are in a good position to implement our expansion strategy for our Hero Central Theme Parks in Malaysia and Asia. This will, in turn, helps us to achieve our financial growth projections and targets.
+Involved in VR and AR Industry Experiencing Explosive Growth
+The VR and AR industry is still in its infancy, with many operators conducting R&D to develop processors, HMDs, controllers and other accessories. In general, standards have not been established yet, and there is a lot of potential for growth. Digi Capital estimated that between 2016 and 2021, the revenue generated by the VR and AR industry worldwide will almost double every year to reach $108 billion.
+2021,
+worldwide
+We are committed to opening our flagship Hero Central theme park in Malaysia by the second quarter of 2018, presuming the success of our Offerings and our successful negotiation of necessary contracts. We hope to dominate the market by executing our expansion plan in Malaysia and Asia.
+Successful AR Games can be Lucrative- The Pokemon Go Example
+The Pokmon Go AR game application was launched in July 2016, and it quickly became one of the most successful mobile applications to date. It was downloaded 100 million times in its first month and generated approximately $10 million of in- application purchases per day during this period. Within the first few days of the games release market sentiment associating Nintendo with the game doubled its market capitalization to $42.5 billion, even though Pokmon Go is actually published by Niantic Lab.
+games
+Pokmon
+While Pokemon is not affiliated with our Company, this example shows that engaging AR game applications can, over time and with proper marketing and investment, become extremely successful and lucrative. It also suggests that financial markets appreciate the value of successful AR game applications.
+Opportunity to Invest in a New Technology Sector at an Early Stage
+to Invest in a New Technology Sector at an Early Stage
+Technology
+Sector
+We are presenting prospective investors with an opportunity to participate in a new technology at an early stage. To the best of our knowledge, we will be setting up the first large scale VR and AR theme park in Malaysia. We are also actively working to develop this business into a chain of theme parks and arcades in Asia. In addition, we believe our AR enabled trading card game will be one of the first of its kind when it is published. ,In managements view, we are entering the VR and AR industry on the ground floor at a very early stage of its development.
+Asia.
+addition,
+enabled trading card game will
+first
+kind
+is published. ,In managements view,
+entering
+AR industry
+ground
+its
+development.
+Future Plans and Strategies
+Our future plans and strategies include the following:
+Hero Central Theme Park Expansion
+Once we have set up our first flagship Hero Central Theme Park at Empire City Damansara shopping mall in Malaysia, we intend to expand our theme parks and arcades to a regional level. This will comprise VR theme parks and arcades.
+Licensing
+We intend to also launch our licensing program once we have established ourselves in the Malaysian market as well as developed and fine-tuned our SOP and staff training program. Licensing will be our key strategy in being one of the first operators to launch VR and AR theme parks and arcades in Asia.
+Develop AR Game Applications
+We are currently developing a series of AR enhanced trading card game applications. We will publish the game through our publishing platform within the online Hero Central Digital Platform. We plan to grow this business by developing a range of AR game applications by ourselves, and with our Hero Maker collaborators. These game applications will feature heroes and characters set in a variety of different worlds and settings. Our publishing platform will be global and will reach a large market of potential users.
+Possible Conflict of Interest
+Mr. Ramli, our President, Chief Executive Officer and Chairman, is a minority shareholder in MAPS Perak (Movie Animation Park Studio of Perak), a theme park in Ipoh, Perak, Malaysia which was created from a joint venture between Perak Corporation Berhad and the Sanderson Group. The theme park, which opened in June 2017, is the first fully animation-based theme park in Asia and contains attractions based on animations such as DreamWorks Animation and The Smurfs. Mr. Ramli is also acting as developer on another integrated theme park attraction in Melaka, Malaysia, which will be operated by the R-Segari Group. Mr. Ramli is not part of the R-Segari Group management team.
+MAPS can be considered a competitor to the VR and AR parks which the Company is aiming to develop in Malaysia. However, Mr. Ramlis involvement with MAPS has facilitated introductions with major animation intellectual property developers. Mr. Ramli is essentially a passive investor in MAPS, and he does not have management or control responsibilities. Similarly, Mr. Ramlis involvement with the Melaka project is that of passive investor. As a board member, Mr. Ramli owes a fiduciary duty to our stockholders and must act in good faith and in a manner he reasonably believes to be in the best interests of our stockholders.
+Competition
+EXA Global Sdn Bhd
+EXA Global Sdn Bhd is a wholly owned subsidiary of Havson Group Berhad. The company was incorporated in June 2016. It expects to launch their flagship VR theme park, EXA VR Park, in Greater Kuala Lumpur around the first quarter of 2017. As there are currently no VR theme parks in Malaysia, EXA VR Park envisaged that its theme park will be the first of its kind in the country. Games offered in the park will revolve around the free- roam VR concept. The company is said to be developing its own unique games and hardware in-house with the help of its subsidiaries. In addition to gaming rooms, the theme park is expected to have a VR museum to showcase the companys development in VR .
+companys
+Zero Latency, Melbourne
+Zero Latency is an Australian based company which is the pioneer in free-roam, warehouse-scale, multi-player, VR games. Approximately 10 months after its commencement in August 2015 the companys first VR facility in Melbourne serviced close to 10,000 visitors and added that they were on track to generate close to $2 million in revenue in its first full year of operations. Customers are charged a fee of AUD88 per person for around 45 minutes of game time and are able to select from a list of four different types of games. To date, Zero Latency has expanded to countries such as US, Japan and Spain through partnerships with venues who buy a license to run the games. Locations of these facilities are as follows:
+companys
+10,000
+ Joypolis amusement park, Tokyo, Japan;  7Fun Centre, Madrid, Spain;  Main Event Entertainment Centre, Orlando, Florida, United States;  Kalahari Resorts, Pocono Mountains, Pennsylvania, United States;  Kalahari Resorts, Wisconsin Dells, Wisconsin, United States.
+
+Joypolis amusement park, Tokyo, Japan;
+ 7Fun Centre, Madrid, Spain;
+
+7Fun Centre, Madrid, Spain;
+ Main Event Entertainment Centre, Orlando, Florida, United States;
+
+Main Event Entertainment Centre, Orlando, Florida, United States;
+ Kalahari Resorts, Pocono Mountains, Pennsylvania, United States;
+
+Kalahari Resorts, Pocono Mountains, Pennsylvania, United States;
+ Kalahari Resorts, Wisconsin Dells, Wisconsin, United States.
+
+Kalahari Resorts, Wisconsin Dells, Wisconsin, United States.
+In 2016, Zero Latency won the Peoples Choice Award at the annual International Association of Amusement Parks and Attractions (IAAPA) Expo.
+Award
+(IAAPA)
+Shanda Group
+Shanda Group is a privately owned investment group that invests in a wide variety of asset classes, focusing on financial services, technology and healthcare sectors. The company which was incorporated in 1999 started off as an online games company which eventually grew to become one of the leading online game platform operators in China at the time. In 2016, Shanda announced its plans to build a VR theme park in China. The company which is in the process of shifting its strategy away from online games to the VR market pledged to invest $350 million to build the VR facility with the help of The Void, a US-based entertainment company that specializes in VR. Apart from the founders, Shanda is the sole investor of The Void.
+Void,
+founders,
+Void.
+Landmark Entertainment Group
+Landmark Entertainment Group is a US based entertainment company that designs and creates a wide range of entertainment products such as themed attractions, Broadway shows, motion pictures and television productions. Universal Studios Hollywood houses a number of the companys legacy attractions such as Jurassic Park, The Ride, Terminator 2 3-D, The Amazing Adventures of Spiderman and Kongfrontation. The company has also designed multiple theme parks in various countries such as the Enchanted Kingdom in the Philippines, Floraland Theme Park in China and Puroland Theme Park in Japan. In 2015, the company announced that they intend to open a VR theme park in China which is expected to commence operations by 2018. The facility which is known as the Landmark Interactive Virtual Experience (L.I.V.E.) Centre is expected to utilize a combination of VR and AR technologies to entertain their visitors. The project which is said to be funded by a group of private Chinese investors will cost approximately $200 million. Moving forward, Landmark Entertainment said that it expects to operate around 20 to 30 L.I.V.E. Centres around the world.
+Terminator
+3-D,
+Kongfrontation.
+(L.I.V.E.)
+world.
+Beijing Shenlinqijing Culture Inc.
+Beijing Shenlinqijing Culture Inc. is a China based company offering VR entertainment solutions such as 3D shooting simulators, 7D interactive cinemas, VR thrill rides and VR theme parks. The companys theme park which was built in 2016 allows their visitors to enjoy from a range of four different types of free-roam VR games.
+Shanghai Famiku Network Technology
+Shanghai Famiku Network Technology is a China based company that was established in 2014. The company which operates in the high-tech interactive entertainment field provides interactive entertainment products as well as indoor and outdoor amusement park solutions. The company also operates a large-scale virtual reality theme park, Famiku Park VR Zone located in Qibao shopping plaza in Shanghai. The facility commenced operations in July 2016 and houses 30 different games with interactive arcade machines, including mobile arm chairs for amusement park simulations, simulated revolvers for shooter games, and chairs equipped with handles for tank driving simulations. The majority of the games offered at their facility are developed in-house. Moving forward, the company plans to open another 100 Famiku parks.
+Global Competition
+Besides the specific Asian based competitors above, the Company also faces global competition in the AR and VR entertainment and theme park space. Disney, Dreamscape Immersive, Liongate Entertainment Corporation, Google and Apple are major global corporations which are investing significant funds and resources into the AR and VR space and could expand into our territories.
+Government Regulation and Theme Park Operation
+In Malaysia and other jurisdictions, our Company will be subject to local permitting, health and safety, and operational approvals, as well as employment and disability laws and regulations. While there are no national regulations in Malaysia covering amusement parks or AR and VR, we are mindful that such regulation could be implemented in the future. Further, international jurisdictions in which we do business could impose additional regulation upon us. Any such implementation of regulation could increase our cost of doing business and may cause us to change or delay our business plans.
+Malaysian Anti-Corruption Commission Act of 2009
+The Malaysian Anti-Corruption Commission Act of 2009 (MACC), to which we are subject, prohibits corporations and individuals from engaging in certain activities to obtain or retain business or to influence a person working in an official capacity. It is illegal to give gratification or pay, offer to pay or authorize the payment of anything of value to any foreign government official, government staff member, political party or political candidate in an attempt to obtain or retain business or to otherwise influence a person working in an official capacity. While the culture of corporate gift giving and hospitality is deeply entrenched in Malaysia, and such practice is not generally viewed as corrupt, overly generous gestures should be avoided. The Company intends to abide by the MACC and the policies and rules of the Malaysian Anti-Corruption Commission.
+Legal Proceedings
+Currently, there are no legal proceedings, government actions, administration actions, investigations or claims pending against us or involve us that, in the opinion of our management, could reasonably be expected to be have a material adverse effect on our business and financial condition.
+Employees
+As of this date, we have no employees. We do have a dedicated management team, however.
+Properties
+Our principal executive offices at Lot A-2-10, Galeria Hartamas, Jalan 26A/70A, Desa Sri Hartamas, 50480 Kuala Lumpur, Malaysia are occupied under a two-year lease with an initial term that expires in 2019. The lease has a two-year renewal term, however. The lease is for approximately 6,000 square feet of space providing for rental payments of approximately $7,250 per month.
+RISK FACTORS
+Risks Relating to US VR Global
+The Company has no operating history.
+We are a newly incorporated company that has yet to commence commercial operations. As a result, prospective investors may not have a conventional basis with which to evaluate our ability to achieve our business objectives, which include:
+ Establishing a VR and AR enhanced theme park in Malaysia;  Expanding a chain of VR and AR enhanced theme parks and arcades in Malaysia and the Asian region;  Publishing an AR enhanced trading card game, and other applications.
+
+Establishing a VR and AR enhanced theme park in Malaysia;
+ Expanding a chain of VR and AR enhanced theme parks and arcades in Malaysia and the Asian region;
+
+Expanding a chain of VR and AR enhanced theme parks and arcades in Malaysia and the Asian region;
+ Publishing an AR enhanced trading card game, and other applications.
+
+Publishing an AR enhanced trading card game, and other applications.
+We do not have any history of earnings, and will not generate any significant revenue until, at the earliest, our VR and AR enhanced theme park commences operations, or we publish our AR enhanced trading card game.
+Our prospects must therefore be considered in light of the risks, uncertainties and difficulties that we may encounter as we develop and set up our business. Any difficulty, delay and failure in executing our start up and expansion plans may have an adverse effect on our business, operations, financial condition and prospects.
+We have entered into an agreement to lease retail space at Empire City Damansara shopping center to set up the theme park. We are targeting to open our flagship Hero Central theme park by second quarter of 2018.
+Because of the lack of operating history, there is no operating or financial data about the business upon which to base an evaluation of its current or future performance. It would be prudent to consider the risks, expenses and difficulties faced by a company seeking to establish a new business. The Company may not be able to:
+ Attract and retain customers;  Attract and retain sales and other qualified personnel; or  Raise additional capital if and when needed.
+
+Attract and retain customers;
+ Attract and retain sales and other qualified personnel; or
+
+Attract and retain sales and other qualified personnel; or
+ Raise additional capital if and when needed.
+
+Raise additional capital if and when needed.
+If the Company cannot achieve these goals it may be unable to develop or sustain its business.
+We are subject to risks associated with the industry.
+The VR and AR industries are constantly evolving. The current generation of VR and AR equipment has speed limitation and manufacturers are regularly pushing improved products into the market. To stay competitive, US VR Global will need to regularly update its technology, or partner with new technologies, for improved speed and to support different applications. There can be no assurance that the Company will be able to update its technology, or partner with new technologies, as needed to remain viable and competitive in the industry. In addition, other competitors with access to more capital and resources could leapfrog the Company if action is not taken quickly.
+We are subject to risks associated with a new industry.
+As a company to come to market with offerings and plans in a new industry, we are unable to learn from mistakes of others before us. Therefore, we cannot be sure of the efficacy of a course of action until we have tested and undertake it. Some avenues that we elect to pursue may not be successful, which would result in the Company mot earning a return on the funds invested in that endeavor and would also result in the time and attention of our officers and employees being diverted from other possible avenues that the Company could have pursued.
+The Company expects to incur substantial initial operating losses.
+The Company has incurred losses since inception and expects to continue to incur net losses until it can produce revenues sufficient to cover its operating and other expenses, which may not occur. Even if the Company does achieve profitability, it may be unable to sustain or increase profitability in the future since the Companys management intends to invest in the marketing and promotion of the Companys business and further development of the Companys operating infrastructure.
+The Company expects initial negative operating cash flow. We will likely have a need for additional capital. New investors and existing shareholders will likely be diluted.
+The Company expects to continue to experience negative operating cash flows for the immediate future because it intends to continue to develop its technology and infrastructure. The development of the business and technology will most likely require additional capital, which the Company may be unable to obtain on suitable terms, or at all. If it is unable to obtain adequate funding on suitable terms, or at all, the Company may have to delay, reduce or eliminate some or all of its advertising, marketing, product development efforts, general operations or any other initiatives. If the Company raises additional funds through the issuance of equity or equity-related or debt securities, these securities may have rights, preferences, or privileges senior to others interests in the Company, and the current owners of the Company may experience additional dilution to their equity ownership.
+We may be unsuccessful in protecting our intellectual property rights.
+may be unsuccessful in protecting our intellectual property rights.
+Our intellectual property and proprietary rights are, and will continue to be, of material importance to our business. Our ability to produce and sell our products and services depends in part on maintaining various trademarks and protecting our operational trade secrets and on securing patent protection for our products and services. To protect our proprietary technology, we intend to rely upon a combination of proprietary technology and know-how, patents, trademarks, copyrights, confidentiality agreements and other contractual covenants, each category as appropriate to the type of intellectual property to be protected, to establish and protect our intellectual property rights.
+We are in the process, through documentation, of establishing the first use of our tradename and the originality of our copyright, so our intellectual property will be protected in Malaysia. Because we believe we can legitimately claim first use and originality of these intellectual property components, we believe such intellectual property claims will be recognized as rights under Malaysian law. There is risk, however, as with any administrative process, of the discovery of facts or technicalities that could delay or abrogate our claims. Given our and our intellectual property counsels prior analysis and research, we believe the possibility of abrogation of our intellectual property rights is remote.
+Our ability to compete effectively against other companies in our industry may depend, in part, on our ability to protect our current and future proprietary technology under patent, copyright, trademark, trade secret and other intellectual property laws. We cannot guarantee that our means of protecting our intellectual property rights in Malaysia or abroad will be adequate, or that others will not develop technologies similar or superior to our intellectual property.
+Any infringement or misappropriation could have a material adverse effect on our future financial results. We believe our business does not infringe upon the valid proprietary rights of others, but there can be no assurance that third parties will not assert infringement claims against us and that, in the event of an unfavorable ruling on any such claim, a license or similar agreement to utilize the intellectual property rights in question upon which we rely in the conduct of our business will be available to us on reasonable terms, if at all. In addition, the laws of some foreign countries do not protect proprietary rights in brand names to the same extent as do the laws of Malaysia. We cannot assure you that we will be able to successfully protect our trademarks from infringement or otherwise. The loss or infringement of our trademarks could impair the goodwill associated with our brands, harm our reputation and materially adversely affect our financial results. The loss of such rights (or our failure to obtain similar licenses or agreements) could have a material adverse effect on our business, financial condition and results of operations. In addition, it is believed that, from time to time, we may become involved in intellectual property disputes with third parties, the result from which may not favorable. We also could incur substantial costs to assert its intellectual property or proprietary rights against others.
+We license, or may license, additional intellectual property from third parties to be used in our theme parks. To access this intellectual property, we must enter into, maintain and extend our licensing agreements with third parties, and we cannot assure you that we will be successful in maintaining these licensing agreements. Any significant impairment of the intellectual property covered by these licenses, or in our rights to use this intellectual property, may cause our revenue to decline.
+We are subject to risks related to managing future growth and expansion.
+The Company anticipates undergoing growth in the number of its employees and the scope of its operations. Such expansion could place a strain on the Companys management and operational and financial resources. To manage the expected growth of the operation and personnel, the Company will need to:
+ Continue to upgrade its business processes and controls;  Expand, train, and manage a growing employee base; and  Expand its finance, administrative and operations staff.
+
+Continue to upgrade its business processes and controls;
+ Expand, train, and manage a growing employee base; and
+
+Expand, train, and manage a growing employee base; and
+ Expand its finance, administrative and operations staff.
+
+Expand its finance, administrative and operations staff.
+The Company can make no assurances that:
+ Its current and planned systems, business processes, and controls will be adequate to support its future operations;  It will be able to hire, train, retain, motivate and manage required personnel; or  It will be able to identify, manage and benefit from existing and potential customer relationships and market opportunities.
+
+Its current and planned systems, business processes, and controls will be adequate to support its future operations;
+ It will be able to hire, train, retain, motivate and manage required personnel; or
+
+It will be able to hire, train, retain, motivate and manage required personnel; or
+ It will be able to identify, manage and benefit from existing and potential customer relationships and market opportunities.
+
+It will be able to identify, manage and benefit from existing and potential customer relationships and market opportunities.
+Difficulties in effectively managing the budgeting, forecasting and other process control issues presented by such a rapid expansion could have a material adverse effect on the Companys business, results of operations and financial condition by leading to increased costs, reduced margins and lower revenue. If the Company is unable to undertake new business due to a shortage of staff or technology resources, its growth may be impeded. Therefore, there may be times when the Companys opportunities for revenue growth may be limited by the capacity of its internal resources rather than by the absence of market demand.
+Our ability to achieve our desired growth depends on our execution in functional areas such as management, sales and marketing, and general administration and operations. To manage any future growth, we must continue to improve our distribution, operational and financial processes and systems and expand, train and manage our employee base. If we are unable to manage our growth effectively, our business and results of operations could be adversely affected.
+We are dependent on our directors and key managers
+Our ability to develop our business and begin operations is dependent on the efforts of our directors and key managers. Thereafter, we will rely on our directors and key managers to successful operate our business and execute our expansion plan. As our VR and AR theme park will be a first of its kind in this part of the region, our key managers may not have sufficient experience in starting and operating such a theme park. In addition, our ability to operate and expand our business may be reduced if any of our directors and key managers leaves us, for any reason. We do not presently have employment contracts with our directors and key managers so there is no assurance that we can presently retain them for any length of time.
+In order to compete, we must attract, retain and motivate key employees, and our failure to do so could have an adverse effect on our results of operations.
+In order to compete, we must attract, retain and motivate key employees, including those in managerial, operations, engineering, service, sales, marketing, and support positions. As we grow, hiring and retaining qualified employees in all areas of the Company will be critical to our business. If we should lose the services of any of these individuals our ability to operate our business as it is currently conducted could be materially adversely impacted.
+Our success largely depends on the performance of our management team and other key personnel and our ability to continue to recruit qualified senior executives and other key personnel. Competition for senior management personnel is intense and there can be no assurance that we will be able to retain our personnel or attract additional qualified personnel. The loss of a member of senior management may require the remaining executive officers to divert immediate and substantial attention to fulfilling his or her duties and to seeking a replacement. We may not be able to continue to attract or retain such personnel in the future. Any inability to fill vacancies in our senior executive positions on a timely basis could impair our ability to implement our business strategy, which would harm our business and results of operations.
+We are dependent on hiring an adequate number of hourly employees to run our business and are subject to government regulations concerning these and our other employees, including minimum wage and child labor laws.
+Severe adverse weather conditions result in reduced attendance at our parks, which materially reduces our revenues and profitability.
+We anticipate most of our parks and attractions will be located in indoor malls and venues, and this will mitigate the effects of mildly adverse weather upon our attendance rates, and in fact may give us a competitive advantage over theme parks based completely outdoors. Severe adverse weather conditions, however, may significantly reduce our guests attendance because transportation avenues to our parks may be impaired, Attendance at our parks is the key driver of our revenues and profitability, and reduced attendance directly and negatively affects revenues and profitability. Prolonged severe bad weather or unfavorable weather on weekends when we experience the highest attendance levels and forecasts of bad or mixed weather conditions can reduce the number of people who come to our parks, which materially and adversely affects our revenues and profitability.
+Major earthquakes, hurricanes, tropical cyclones, and other instances of severe weather or other natural phenomena would cause significant losses.
+Our parks are subject to interruption in their operating season, decreases in consumer entertainment spending and damage and destruction to park property as a result of severe local weather conditions or other natural phenomena. Our parks could be materially and adversely affected by damage resulting from a major earthquake, typhoon, tropical cyclone, a hurricane, or other severe weather phenomena.
+Such adverse weather occurrences could materially impact attendance to our parks and attractions, thus severely decreasing. Further, in the event of any such weather occurrence, our insurance may not be sufficient to cover the costs of repairing or replacing damaged equipment and we may suffer a significant decline in revenues if any of our parks or attractions is closed for an extended period of time. Any such events could materially and adversely affect our business and our results of operations.
+Accidents and disturbances at our parks could cause materially decreased attendance, revenues and profitability.
+Attendance at our parks and attractions and, consequently, revenues may be adversely affected by any serious accident or similar occurrence with respect to a ride or an experience. a possible risk of serious personal injury. If a serious personal injury were to occur at one of our parks or facilities, attendance at the parks and, consequently, revenues might be materially adversely affected. If any such accidents or injuries do occur, our insurance may not adequately cover the costs stemming from such accidents and injuries, or other disturbances and incidents. Any of such disturbances or incidents could also adversely affect our image or the publics perception of our parks and facilities safety, leading to decreased attendance, revenues and profitability. In addition, accidents or injuries at parks operated by our competitors may create a perception that our parks and facilities are unsafe, which could cause a decline in attendance, revenues and profitability.
+Instances of illness, as well as negative publicity relating thereto, could result in reduced guest attendance and materially and adversely impact our business.
+Instances of illness to our customers, whether or not traced to our parks and facilities, could reduce guest attendance at our parks and facilities materially. Claims of illness or injury relating to food quality or handling at the restaurants and food preparation centers at our parks and facilities could also cause us to lose attendance materially. In addition, any negative publicity relating to these and other health related matters might affect consumers perceptions of our parks and facilities and reduce guest visits to us materially. Any of these events would materially and adversely impact our business.
+While we can operate year round at most of our proposed facilities, attendance may be seasonable, resulting in material adverse impact to our business.
+We may depend upon vacation traffic, weekend, student, and holiday for our revenues and customer traffic. Thus while we may theoretically be operational many days of the year, each or our facilities may experience severe seasonality and fluctuation of revenue from day to day, week to week, and season to season, Accordingly, such conditions or events occurring during these seasonal periods may have a disproportionately adverse effect upon our annual revenues.
+Attendance and revenues at our parks are subject to changing consumer preferences, and we must make investments in our parks in order to attract consumers.
+As with other types of recreational facilities and forms of entertainment, our parks and facilities are subject to changing consumer tastes, preferences and demands. In general, we will compete indirectly with all phases of the entertainment and recreation industry within our primary markets, including but not limited to, movie theaters, bowling alleys, skating rinks, sporting events, restaurants, zoos, museums, carnivals, aquariums, resorts, natural and historical attractions and playgrounds, and other AR and VR facilities. Any shifts in consumer preferences for alternative forms of entertainment to our parks could materially and adversely affect attendance and our business.
+In order to anticipate and adapt to the changing consumer preferences, we must continually invest in new and novel intellectual property, amusement, games and attractions. Such investments require capital availability and spending on our part. We may not have the funds necessary to make such investments. If we add new rides, attractions and games at our parks, we may not be successful in predicting which of these rides, attractions and games will be popular. In addition, we may not have the funds necessary to make such investment.
+Our business may be harmed by general economic conditions and demographic factors.
+Periods of economic slowdown or recession, whether national, regional or industry-related, may decrease the entertainment expenditures of our customer base. These periods may also be accompanied by decreased consumer demand for AR and VR attractions. Our financial results may be adversely affected by changes in prevailing economic conditions, changes in interest rates, inflation, adverse employment conditions, the monetary and fiscal policies of the federal government and of local governments (with respect to any locale in which one of our parks is located) and other significant external events as well as changes in demographics in our markets. Actual or perceived fear of recession may also adversely affect our business since such fears tend to lead to increased savings by our target guest demographic, which leads to decreased discretionary spending, adversely affecting attendance at our parks and facilities and our results of operations.
+Significant competition in the AR and VR park industry could result in our losing market share and reducing prices. Our access to AR and VR equipment may be limited by our smaller size and lack of market power.
+Our AR and VR facilities and parks will compete directly with other amusement and theme parks and indirectly with all other types of recreational facilities and forms of entertainment, including movie theatres, sports attractions and vacation travel within their market areas. All of these industries and the companies therein compete for the publics limited leisure time and limited disposable income. To compete successfully, we may be required to reduce prices, increase our operating costs or take other measures that could have an adverse effect on our financial condition, results of operations, margins and cash flow. Certain of our existing competitors and potential competitors are much larger and have substantially greater financial, marketing and other resources than we do. Our direct competitors in Malaysia include, but are not limited to, EXA Global Sdn Bhd, Legoland, Kidzania, and Berjaya Times Square Theme Park. Our competitors also include large US exchange traded companies such as IMAX Corp., Dreamscape Immersive, Lionsgate Entertainment Corporation, Google, Inc. and Apple, Inc., which have indicated plans to develop national and international VR and AR facilities and parks. In additions, our access to recognized suppliers of AR and VR equipment, such as Microsoft Hololens, Vuzix , Meta Company, and Magic Leap, may be impaired by our small initial size and lack of capital and track record.
+Increases in losses for general liability and workers compensation claims could materially and adversely affect our business and operating results.
+We intend to use a combination of self-insurance and insurance coverage programs for property, casualty, workers compensation and health care insurance. Pursuant to such programs, we are responsible for the amount of claims, including general liability and workers compensation claims, up to specified limits, and we have insurance coverage for claims above such limits. Any claims that we self-insure or for which we buy commercial insurance could increase. In addition, insurance may not be available to us on commercially acceptable terms or at all, or we could experience increases in the cost of such insurance. Any increase in the number of claims or amount per claim or increase in the cost of insurance could materially and adversely affect our results of operations.
+Future acquisitions and/or park openings may expose us to unanticipated negative consequences.
+We may explore opportunities for the acquisition or construction of VR and AR parks and facilities in the future. We may not be able to integrate effectively any VR or AR parks or facilities we acquire or build or successfully implement appropriate operational, financial and management systems and controls to achieve the benefits expected to result from such acquisitions or new parks. We may also be subject to unexpected claims and liabilities arising from such acquisitions or new parks. These claims and liabilities could be costly to defend, could be material to our financial position and might exceed either the limitations of any applicable indemnification provisions or the financial resources of the indemnifying parties. The diversion of managements attention and any delays or difficulties encountered in connection with the integration of the businesses we acquire or develop could negatively impact our business and results of operations. Further, the benefits that we anticipate from these acquisitions or new parks or FECs may not be realized.
+Compliance with Malaysian employment and disability laws may impose significant costs upon the Company.
+The Malaysian Employment Act of 1955, the Malaysian Persons with Disabilities Act, the Minimum Wage Order 2016, and other national and local laws and regulations with respect to both our employees and our attendees at our parks. We will need to maintain adequate compliance and training obligations through efforts of our staff. We risk litigation and regulatory action for non-compliance or perceptions of non-compliance. We also risk the effects of inflation and changing regulatory policy with respect to such laws and our obligations thereunder. While we have made a reasonable effort to budget for compliance obligations and unforeseen circumstances regarding these laws and regulations, there is no assurance that we have budgeted accurately, or that unforeseen or unexpected circumstances will not impact our costs or operations.
+We need to obtain adequate insurance for our potential operational and other liabilities.
+As we have not yet opened an AR and VR park or commenced operations which involve attendees, employees, or other third parties to whom we may owe a duty of care, we have not yet obtained insurance coverage. We are currently investigating and pricing the scope of various levels of such insurance coverage. While we intend to make a good faith effort to evaluate various levels of insurance coverage and pricing, there can be no assurance that we will be able to obtain adequate insurance coverage for all our potential operational and other liabilities at pricing affordable to s and at the levels of coverage we seek
+Voting control by the officers and directors of the Companys common stock.
+The Companys executive officers and directors hold approximately 29.9% of the Companys outstanding Common Stock. In addition, VR Global Sdn Bhd, the Companys majority stockholder, holds approximately 57.3% of our outstanding Common Stock. The Companys officers, directors and controlling stockholders currently are, and in the foreseeable future will continue to be, in a position to control the Company by being able to nominate and elect a majority of the Companys Board of Directors. The Board of Directors establishes corporate policies and has the sole authority to nominate and elect the Companys officers to carry out those policies. Prospective investors therefore will have limited participation in the Companys affairs.
+The Company anticipates that it will also use additional advisors in areas where they Company management and personnel are not sufficiently specialized and although such advisors are available; a delay could occur in obtaining these individuals or their availability at any particular time.
+The Company could face difficulty finding and retaining qualified advisors in the future. Currently the Company believes that it has sufficient expertise either in management or as advisors, however, the Companys management could find itself in need of additional expertise, the availability or expense of which could delay the Companys implementation of its business plan or cause increased expense.
+We are subject to risks related to the failure to raise additional capital.
+The Company expects it will require additional capital to develop and market its business. Equity offerings will only provide temporary working capital for the Company. In addition, the Companys actual financing requirements could vary significantly from the Companys projections. The Company might have to raise more funds than it expects, or raise them sooner than it expects, to remain in business and to continue to develop, market and distribute its products or provide its services.
+If the Company is not able to obtain required funds when needed, on commercially reasonable terms, the Company might not be able to continue its operations. In the event our plans change, its assumptions change or prove to be inaccurate or if the proceeds of this Offering otherwise prove to be insufficient to fund operations because of unanticipated expenses or difficulties or otherwise, we may be required to seek additional financing or may be required to curtail our plans. Such financing may include the issuance of additional and/or newly created shares of Common Stock or preferred stock and/or the incurrence of debt financing. There can be no assurance that any additional financing will be available to us on acceptable terms or at all. Any additional equity financing will dilute the interests of our then existing shareholders. The Company may be limited in its ability to develop and market any new products and services on its own account at this time beyond its own revenue production and thus its projected profits could be substantially reduced if the full Offering proceeds are not achieved.
+We have a new business strategy. Our new theme parks may not achieve broad market acceptance, which would prevent us from generating revenue and market share.
+If we fail to achieve broad market acceptance of our theme parks, there could be an adverse impact on our ability to generate revenue, gain market share, and achieve and sustain profitability. Our ability to achieve broad market acceptance for our theme parks will be impacted by a number of factors, including:
+ our ability to market our theme parks to demographic groups that will be likely to become attendees of our parks;  our ability to provide innovative entertainment that compete favorably against other theme parks on the basis of price, quality, design, reliability and performance; and  our ability to continue to develop and maintain successful relationships with our customers and suppliers.
+
+our ability to market our theme parks to demographic groups that will be likely to become attendees of our parks;
+ our ability to provide innovative entertainment that compete favorably against other theme parks on the basis of price, quality, design, reliability and performance; and
+
+our ability to provide innovative entertainment that compete favorably against other theme parks on the basis of price, quality, design, reliability and performance; and
+ our ability to continue to develop and maintain successful relationships with our customers and suppliers.
+
+our ability to continue to develop and maintain successful relationships with our customers and suppliers.
+In addition, our ability to achieve increased market share will depend on our ability to increase sales to our future customers.
+Our success depends on our ability to anticipate and respond in a timely manner to changing consumer demand for theme parks.
+.
+Our success depends on our theme parks appeal to customers, whose preferences cannot be predicted with certainty and are subject to change. If our theme parks do not meet our customers demands, our sales may be affected. In addition, our growth depends upon our ability to develop new theme parks and entertainment offerings which involve numerous risks. We may not be able to accurately identify customers preferences and translate our knowledge into sought after entertainment offerings s We may also experience increased expenses incurred in connection with project development, content licensing marketing and advertising that are not subsequently supported by a sufficient level of sales, which would negatively affect our margins. We cannot assure you that new theme parks and entertainment offerings and services will contribute favorably to our operating results.
+If we are unable to effectively develop, manage and expand our venues sand locations for our theme parks our operating results may suffer.
+We anticipate a three tier strategy with a major flagship theme park, smaller corporate operate theme parks, and licensed franchised theme parks. If we are unable to effectively penetrate additional markets and locations or develop alternate venues to ensure our products and services are reaching the appropriate customer base, our financial results may be adversely impacted. In addition, if we successfully penetrate or develop these channels, we cannot guarantee that customers will accept our products and services or that we will be able to deliver them in the timeline established by our customers.
+The adoption of, or changes in, government or industry policies, standards or regulations relating to our products and services or changes in government or industry policies, standards or regulations that discourage the use of certain products and services, could impact the demand for our products and services.
+The adoption of or changes in government and/or industry policies, standards or regulations relating to the efficiency, performance or other aspects of products and services may impact the demand for our products and services. Demand for our products and services may also be impacted by changes in government or industry policies.
+Our operating results may fluctuate due to factors that are difficult to forecast and not within our control.
+Our operating results could fluctuate in the future. Factors that may contribute to fluctuations include:
+ changes in aggregate capital spending, cyclicality and other economic conditions, or domestic and international demand in the industries we serve;  our ability to effectively manage our working capital;  our ability to satisfy consumer demands in a timely and cost-effective manner;  pricing and availability of labor and materials;  our inability to adjust certain fixed costs and expenses for changes in demand;  seasonal fluctuations in demand and our revenue; and  disruption in component supply from foreign and or domestic vendors.
+
+changes in aggregate capital spending, cyclicality and other economic conditions, or domestic and international demand in the industries we serve;
+ our ability to effectively manage our working capital;
+
+our ability to effectively manage our working capital;
+ our ability to satisfy consumer demands in a timely and cost-effective manner;
+
+our ability to satisfy consumer demands in a timely and cost-effective manner;
+ pricing and availability of labor and materials;
+
+pricing and availability of labor and materials;
+ our inability to adjust certain fixed costs and expenses for changes in demand;
+
+our inability to adjust certain fixed costs and expenses for changes in demand;
+ seasonal fluctuations in demand and our revenue; and
+
+seasonal fluctuations in demand and our revenue; and
+ disruption in component supply from foreign and or domestic vendors.
+
+disruption in component supply from foreign and or domestic vendors.
+We may be subject to legal claims against us or claims by us which could have a significant impact on our resulting financial performance.
+.
+At any given time, we may be subject to litigation, the disposition of which may have an adverse effect upon our business, financial condition, or results of operation. Such claims include but are not limited to and may arise from personal liability and related claims in the event that any of the theme parks and entertainment offerings that we promote results in personal injury. In addition in the event we experience negative cash flow, we may be subject to claims by our creditors, suppliers and lessors, which could have a significant negative impact on our operations.
+Negative publicity could adversely affect our business and operating results.
+Negative publicity about our industry or us, including the utility of our services and offerings, even if inaccurate, could adversely affect our reputation and the confidence in, and the use of, our marketplace, which could harm our business and operating results. Harm to our reputation can arise from many sources, including employee misconduct, misconduct by our partners, outsourced service providers or other counter-parties, failure by us or our partners to meet minimum standards of service and quality and compliance failures and claims.
+Our operations may be impaired as a result of disasters, business interruptions or similar events.
+A natural disaster such as a hurricane, tornado, fire, flood, or a catastrophic event such as a terrorist attack, an epidemic affecting our operating activities, major facilities (including the theme parks), or a computer system failure could cause an interruption or delay in our business and loss of facilities, equipment or data or render us unable to provide entertainment services in a timely manner, or at all. We do not currently have a disaster recovery plan and our business interruption insurance that we obtain in the future may not adequately compensate us for losses that may occur. In the event that a hurricane, natural disaster, terrorist attack or other catastrophic event were to destroy any part of our facilities or interrupt our corporate headquarters or any of our third-party distribution or manufacturing facilities operations for any extended period of time, or if harsh weather conditions prevent us from delivering products and services in a timely manner, our business, financial condition and operating results could be seriously harmed.
+Our risk management efforts may not be effective which could result in unforeseen losses.
+.
+We could incur substantial losses and our business operations could be disrupted if we are unable to effectively identify, manage, monitor, and mitigate financial risks, such as credit risk, interest rate risk, prepayment risk, liquidity risk, and other market-related risks, as well as operational risks related to our business, assets and liabilities. Our risk management policies, procedures, and techniques, including our scoring methodology, may not be sufficient to identify all of the risks we are exposed to, mitigate the risks we have identified or identify additional risks to which we may become subject in the future.
+As a new business, we have limited financial statements.
+Our operating business was founded in 2017. Accordingly, we have limited historical financial statements. The financial statements of our predecessor, US VR Sub have been audited and are attached as Exhibit 99.1 to this Current Report on Form 8-K. The combined financials of our predecessor Boly Group Holdings Corp. have not been audited and are presented on a pro forma basis from the time of our combination in 2018.
+Changes in accounting standards and subjective assumptions, estimates and judgments by management related to complex accounting matters could significantly affect our financial results.
+Generally accepted accounting principles and related pronouncements, implementation guidelines and interpretations with regard to a wide variety of matters that are relevant to our business, such as, but not limited to, revenue recognition, stock-based compensation, trade promotions, and income taxes are highly complex and involve many subjective assumptions, estimates and judgments by our management. Changes to these rules or their interpretation or changes in underlying assumptions, estimates or judgments by our management could significantly change our reported results.
+We do not currently have an external line of credit facility with any financial institution.
+We intend to attempt to establish an external line of credit in the future, but there can be no assurances we will be able to do so. The failure to obtain an external line of credit could have a negative impact on our ability to generate profits. Our failure to generate operating cash flow or to obtain additional financing could result in substantial dilution of our property interests, or delay or cause indefinite postponement of further expansion. We will require significant additional capital to fund our future activities. Our failure to find the financial resources necessary to fund our planned activities and service any debt and other obligations could adversely affect our business.
+Our financial results may fluctuate from period to period as a result of several factors which could adversely affect our stock price.
+Our operating results may fluctuate significantly in the future as a result of a variety of factors, many of which are outside our control. Factors that will affect our financial results include:
+ acceptance of our products and services and market penetration;  the amount and timing of capital expenditures and other costs relating to the implementation of our business plan;  the introduction of new products and services by our competitors; and  general economic conditions and economic conditions specific to our industry.
+
+acceptance of our products and services and market penetration;
+ the amount and timing of capital expenditures and other costs relating to the implementation of our business plan;
+
+the amount and timing of capital expenditures and other costs relating to the implementation of our business plan;
+ the introduction of new products and services by our competitors; and
+
+the introduction of new products and services by our competitors; and
+ general economic conditions and economic conditions specific to our industry.
+
+general economic conditions and economic conditions specific to our industry.
+As a strategic response to changes in the competitive environment, we may from time to time make certain pricing, service, or marketing decisions or acquisitions that could have a material adverse effect on our business, prospects, financial condition, and results of operations.
+Accidents at our theme parks and arcades may affect our performance.
+There is a risk that accidents may occur as guests are using our rides, games and attractions at our theme parks and arcades. Such accidents may result in injury or even death to guests, or damage to our equipment and facilities. The occurrence of an accident may also have a negative effect on our brand and reputation, resulting in a decline in guest attendance.
+Risks Relating to our Industries
+Economic slowdowns may affect consumer spending.
+Widespread, prolonged and/or severe economic slowdown in Malaysia and other countries can affect consumer income and confidence. Uncertainty over the prospect of global economic growth and political events may also have a negative effect on their income and confidence.
+This may reduce the willingness of consumers to spend, particularly on discretionary leisure and entertainment items such as visits to theme parks and arcades, and spending on game applications. This may affect the ability of operators in the industry to grow and expand.
+Slower than expected adoption of VR and AR technologies; and competition.
+VR and AR are relatively new technologies, and the general publics adoption of them may be slower than currently anticipated. This would have an impact on the future growth of businesses whose operations are heavily reliant on these technologies, including VR and AR enhanced theme parks developers and operators, and AR enhanced trading card game application publishers.
+In addition, consumers have many choices in allocating their leisure time and spending, of which VR and AR theme parks and arcades, and AR enhanced trading card games are two out of many options. For example, VR and AR enhanced theme parks and arcades face competition from conventional theme parks and arcades, movies, television, cinemas and home entertainment. AR enhanced trading cards face competition from conventional trading cards, game applications, home consoles and board games.
+In addition, operators that provide these services also compete against each other. Operators who have the ability to develop their own IP and content are in a better position to compete and gain market share. Similarly, operators that constantly improve their services and continue to provide new and exciting experiences are more likely to attract and retain users and succeed.
+Failure to keep up with technological advancement may materially impact our results.
+The VR and AR industry is subjected to advances in technology, like all other digital, electronics and web- based industries. There is a constant need for operators to keep pace with technology, either by developing it themselves or adopting technology from other developers. Operators who fail to keep up with evolving technology face the risk of their products and services becoming increasingly outdated, and may lose market share as a result.
+We are currently developing our own IPs, including the AR enhanced trading card game. This places us in a position to keep abreast with developments in AR technology. We are also taking on a multi-level platform approach, which means that we are not tied to a single IP or technology. We have the ability to adopt IPs and technology from a range of sources and collaborators.
+Political, economic and regulatory policies may vary from country to country.
+Changes in the general political, economic and regulatory policies of the countries that we plan to operate in may adversely affect our business activities, ability to execute our expansion plan and financial performance. Examples of political, economic and regulatory policy changes include, among others, changes in political leadership or system of government; changes in monetary and fiscal policy; expropriation or nationalization of businesses owned by foreigners; currency devaluation; the imposition of foreign exchange controls; changes to the tax code; renegotiation or nullification of existing licenses, permits, leases or other contracts or agreements; and financial crisis.
+Our business is subject to various government regulations, non-compliance with which could result in park or facilities closures and/or fines.
+We are subject to federal, state and local government regulation relating to the operation of our AR and VR amusement park rides and facilities, and also for our offering any food and beverages at our facilities, (including the sale of alcohol at certain of our parks), as well as regulations relating to building and zoning requirements. For example, all the locations in which we plan to operate have inspectors who will periodically examine our facilities and attractions for compliance with safety regulations and will issue citations, assess fines and close facilities and attractions if violations are found. In addition, we are subject to local health ordinances for the manufacture, handling, storage and labeling of food products in our restaurants. If we do not obtain or retain required licenses or permits, do not pass inspections of our attractions or comply with future changes in existing regulations, we may be required to close our parks or attractions, prevented or delayed from opening new parks or attractions or subject to fines.
+Risks Relating to Investing in Our Company
+We do not have a dividend policy.
+.
+The Company has never declared or paid any cash dividends on its capital stock. The Company currently intends to retain all of its earnings to finance future growth and, therefore, does not anticipate paying any cash dividends in the foreseeable future. Any future decision with respect to dividends will depend upon the Companys future earnings, future capital needs, and the Companys operating and financial condition, among other factors.
+Ramelle Ramli, our CEO and Chairman, owns a majority of our shares, either directly or indirectly, and will be able to control many matters submitted to our stockholders for approval.
+Ramelle Ramli, our CEO and Chairman, controls a majority of our voting shares and will be able to control all matters submitted to our stockholders for approval, as they, in the aggregate, beneficially owns approximately of our outstanding voting shares of Common Stock. As a result, ,Mr. Ramli is able to control most matters requiring approval of our stockholders, without a stockholder vote, including a sale of the Company or substantially all of its assets.
+We have blank check preferred stock.
+Our Certificate of Incorporation authorizes blank check preferred stock. Our board of directors, without stockholder approval, has the right to designate additional series of preferred stock with such preferences, limitations and relative rights, as they deem appropriate.
+Risks Relating to Our Common Stock
+The sale of the additional shares of Common Stock could cause the value of our Common Stock to decline.
+The sale of a substantial number of shares of our Common Stock, or anticipation of such sales, could make it more difficult for us to sell equity or equity-related securities in the future at a time and at a price that we might otherwise wish.
+The price of our shares of Common Stock in the future may be volatile.
+The market price of our Common Stock can be volatile and could fluctuate widely in response to various factors, many of which are beyond our control, including: technological innovations or new products and services by us or our competitors; additions or departures of key personnel; sales of our Common Stock; our ability to integrate operations, technology, products and services; our ability to execute our business plan; operating results below expectations; loss of any strategic relationship; industry developments; economic and other external factors; and period-to-period fluctuations in our financial results. Because we have a very limited operating history, and no revenues to date, you may consider any one of these factors to be material. Our stock price may fluctuate widely as a result of any of the above. In addition, the securities markets have from time to time experienced significant price and volume fluctuations that are unrelated to the operating performance of particular companies. These market fluctuations may also materially and adversely affect the market price of our Common Stock.
+The Common Stock constitutes restricted securities and is subject to limited transferability.
+The Common Stock should be considered a long-term, illiquid investment. The Common Stock has not been registered under the Securities Act of 1933, as amended (the Securities Act), and cannot be sold without registration under the Securities Act or any exemption from registration. In addition, the Common Stock is not registered under any state securities laws that would permit their transfer. Because of these restrictions and the absence of an active trading market for our securities, a stockholder will likely be unable to liquidate an investment even though other personal financial circumstances would dictate such liquidation.
+There is no public trading market for our Common Stock.
+.
+There is no established public trading marketing for our Common Stock and there can be no assurance that one will ever develop. Market liquidity will depend on the perception of our operating business and any steps that our management might take to bring us to the awareness of Investors. There can be no assurance given that there will be any awareness generated. Consequently, Investors may not be able to liquidate their investment or liquidate it at a price that reflects the value of the business. As a result, holders of our securities may not find purchasers for our securities should they to sell securities held by them. Consequently, our securities should be purchased only by Investors having no need for liquidity in their investment and who can hold our securities for an indefinite period of time.
+Because we will likely issue additional shares of our Common Stock, investment in the Company could be subject to substantial dilution.
+Investors interests in the Company will be diluted and Investors may suffer dilution in their net book value per share when we issue additional shares. We are authorized to issue 200 million shares of Common Stock, $0.001 par value per share, and 30 million shares of preferred stock, $0.001 par value per share. We anticipate that all or at least some of our future funding, if any, will be in the form of equity financing from the sale of our Common Stock. If we do sell or issue more Common Stock, Investors investment in the Company will be diluted. Dilution is the difference between what you pay for your stock and the net tangible book value per share immediately after the additional shares are sold by us. If dilution occurs, any investment in the Companys Common Stock could seriously decline in value.
+Our Certificate of Incorporation and Bylaws contain provisions indemnifying our officers and directors against all costs, charges and expenses incurred by them.
+Our Certificate of Incorporation and Bylaws contain provisions with respect to the indemnification of our officers and directors against all costs, charges and expenses, including an amount paid to settle an action or satisfy a judgment, actually and reasonably incurred by them, including an amount paid to settle an action or satisfy a judgment in a civil, criminal or administrative action or proceeding to which they are made parties by reason of their being or having been our directors or officers.
+Our Bylaws do not contain anti-takeover provisions which could result in a change of our management and directors if there is a take-over of the Company.
+We do not currently have a shareholder rights plan or any anti-takeover provisions in our Bylaws. Without any anti-takeover provisions, there is no deterrent for a take-over of the Company, which may result in a change in our management and directors. This could result in a disruption to the activities of the Company, which could have a material adverse effect on our operations.
+Our Certificate of Incorporation and Bylaws could discourage acquisition proposals, delay a change in control or prevent other transactions.
+.
+Provisions of our Certificate of Incorporation and Bylaws, as well as provisions of the Delaware corporate law, may discourage, delay or prevent a change in control of the Company or other transactions that you as a shareholder may consider favorable and may be in your best interest. The Certificate of Incorporation and Bylaws contain provisions that authorize the issuance of shares of blank check preferred stock that could be issued by our board of directors to increase the number of outstanding shares and discourage a takeover attempt; limit who may call special meetings of shareholders; and require advance notice for business to be conducted at shareholder meetings, among other anti-takeover provisions.
+Our directors have the authority to issue common and preferred shares without shareholder approval, and preferred shares can be issued with such rights, preferences, and limitations as may be determined by our board of directors. The rights of the holders of Common Stock will be subject to, and may be adversely affected by, the rights of any holders of preferred stock that may be issued in the future. Authorized and unissued preferred stock could delay, discourage, hinder or preclude an unsolicited acquisition of the Company, could make it less likely that shareholders receive a premium for their shares as a result of any such attempt, and could adversely affect the market prices of and the voting and other rights, of the holders of outstanding shares of our Common Stock.
+MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion and analysis of the results of operations and financial condition of US VR Sub for the fiscal year ended September 30, 2017 should be read in conjunction with US VR Subs audited financial statements and the notes to those financial statements, and the combined unaudited interim financial statements and the notes to thereto for the three months ended December 31, 2017 for the Company and US VR Sub that are included elsewhere in this Current Report on Form 8-K. References in this Managements Discussion and Analysis of Financial Condition and Results of Operations to the Company, us, we, our, and similar terms refer to US VR Sub. Our discussion and analysis below will focus on the business and financial condition of US VR Global Inc., or US VR Global Sub, our operating subsidiary.
+This discussion includes forward looking statements, as that term is defined in the federal securities laws, based upon current expectations that involve risks and uncertainties, such as plans, objectives, expectations and intentions. Actual results and the timing of events could differ materially from those anticipated in these forward-looking statements as a result of a number of factors. Words such as anticipate, estimate, plan, continuing, ongoing, expect, believe, intend, may, will, should, could, and similar expressions are used to identify forward-looking statements. We caution you that these statements are not guarantees of future performance or events and are subject to a number of uncertainties, risks and other influences, many of which are beyond our control, which may influence the accuracy of the statements and the projections upon which the statements are based. Factors that may affect our results include, but are not limited to, the risk factors elsewhere in this Current Report on Form 8-K. Any one or more of these uncertainties, risks and other influences could materially affect our results of operations and whether forward-looking statements made by us ultimately prove to be accurate. Our actual results, performance and achievements could differ materially from those expressed or implied in these forward-looking statements. We undertake no obligation to publicly update or revise any forward-looking statements, whether from new information, future events or otherwise.
+Overview
+We are a smaller reporting company that engages in the development and operation of AR and VR amusement parks and entertainment venues in Malaysia.
+US VR Sub was incorporated in the State of Delaware on February 17, 2017 and commenced operations on or about that time.
+We believe our success primarily will be dependent on (i) our ability to raise sufficient capital to fund our development plans for US VR Sub, and, in particular, our Empire AR and VR theme park project, for which we have already executed a lease; (ii) our ability to identify and execute on other AR and VR theme park development sites and projects; and (iii) numerous other factors discussed in our Risk Factors herein. There are also numerous other factors that will affect our success, such as competitive products, our ability to maintain a proprietary position, and the relative resources of others.
+We have no revenues, and we will need to complete additional development and raise capital for the Company before we commence operations. Accordingly, our liquidity and results of operations are dependent on our ability to obtain additional funds for our development activities.
+We have experienced negative cash flows from operations since the commencement of operations, and we expect these losses to continue into the foreseeable future as we continue the development and operations of US VR Sub. We are currently seeking financing that would fund operations through at least 2019. Accordingly, our continued operations are dependent on our ability to raise additional capital through the sale of equity or debt securities. In the event we are unable to raise sufficient funds, we would have to substantially alter, our business plans. This uncertainty raises substantial doubt about our ability to continue as a going concern, as noted in the opinion of our independent registered public accounting firm in the accompanying financial statements as of September 30. The accompanying financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+In the fourth quarter of 2017, US VR Sub entered into Subscription Agreements with various investors in connection with a Regulation S offering. As of December 31, 2017, US VR Sub raised $1,678,000 through this Regulation S offering at a price of $0.15 per share and intends to issue 11,186,664 shares of restricted US VR Sub Common Stock to third parties upon the closing of this offering. US VR Sub also issued an aggregate of 3,564,050 shares of Common Stock to 37 investors at a price of $0.20 per share, for aggregate consideration of $712,810 cash. US VR Sub also authorized the issuance of 660,000 shares of Common Stock to an investor in consideration of $660 in connection with a dispute resolution. There was no litigation between these parties and the matter is considered settled.
+Use of Estimates
+The preparation of financial statements in conformity with U.S. generally accepted accounting principles (GAAP) requires us to make estimates and judgments that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. In addition, significant estimates were made regarding realization of deferred tax assets, the calculation of the fair value of stock options awarded, the estimation of the value of warrants issued in conjunction with capital stock, and the projected realization of the carrying basis of our assets. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results could differ from the estimates and assumptions used.
+Critical Accounting Policies
+Our significant accounting policies are described in more detail in the notes to our financial statements appearing elsewhere in this Current Report on Form 8-K. We believe the following accounting policies to be most critical to the judgments and estimates used in the preparation of our financial statements.
+Concentrations of risk. We derive risk from our uncertainty about our ability to raise additional capital; our entry into a new consumer entertainment market and our dependence upon consumer acceptance of our AR and VR theme park product; our substantial and well-funded competition in a variety of entertainment venues; and a variety of other significant risks, See Risk Factors.
+Financial instruments. Our financial instruments consist of cash and cash equivalents, accounts payable and notes payable.
+Results of Operations
+General. We are in the early stage of development our VR and AR park and entertainment business. To date, we have not generated any revenues from operations. While we may in the future generate revenue from a variety of sources, the Company expects to continue to incur substantial losses from operations for the foreseeable future and there can be no assurance that we will ever generate significant revenues or achieve profitability.
+AR and VR Park Development Expense.
+General and Administrative Expense. General and administrative expense includes wages and associated employee benefits of employees engaged in administration; professional fees for legal, consulting, audit and tax services, rent and other general operating expenses.
+We expect general and administrative expenses to increase as we expand our activities to support our expanded operational and development activities and incur costs related to the expanded infrastructure and increased professional fees associated with being a reporting company under the Exchange Act.
+Year Ended September 30, 2017. The results of operations of US VR for the years ended September 30, 2017 are as follows:
+February 27, 2017 to September 30, 2017 Audited Revenue $- Cost of Revenue - Gross ProfitT - Other Income - General and Administrative Expenses (1,270,130) Loss from Operations (1,270,130) Interest Expense - Loss Before Income Tax (1,270,130) Income Tax Provision - Net Loss $(1,270,130) Other comprehensive income: - Comprehensive loss (1,270,130) Net income/(loss) per share- Basic and diluted (0.00)
+February 27, 2017 to September 30, 2017
+to
+September 30, 2017
+Audited
+Audited
+Revenue $-
+$
+-
+Cost of Revenue -
+-
+Gross ProfitT -
+-
+Other Income -
+-
+General and Administrative Expenses (1,270,130)
+(1,270,130
+)
+Loss from Operations (1,270,130)
+(1,270,130
+)
+Interest Expense -
+-
+Loss Before Income Tax (1,270,130)
+(1,270,130
+)
+Income Tax Provision -
+-
+Net Loss $(1,270,130)
+$
+(1,270,130
+)
+Other comprehensive income: -
+-
+Comprehensive loss (1,270,130)
+(1,270,130
+)
+Net income/(loss) per share- Basic and diluted (0.00)
+(0.00
+)
+Liquidity and Capital Resources
+We are an AR and VR park developer and operator focused on the development and commercialization of AR and VR entertainment venues. Based on our current expectations, we believe this development will require at least $30 million of additional funds.
+The Company believes that it has sufficient cash on hand to fund its operations into early 2018. The exact duration that our liquidity will be sufficient to fund operations depends upon many factors, some of which are outside the control of the Company and are difficult to predict. We expect our licensing, development and operational expenses to increase in connection with our ongoing activities relating
+Accordingly, we will need to raise additional capital to fund future operations and we expect to finance future cash needs through public or private equity offerings, debt financings or corporate collaboration and licensing arrangements. Such funding may not be available on favorable terms, if at all. Failure to raise additional capital could cause us to curtail operations and result in the loss of your investment in our common stock.
+If adequate funds are not available, we may be required to delay, reduce the scope of, or eliminate one or more of our contemplated development theme park projects. To the extent we raise additional funds by issuing equity securities, our stockholders may experience additional significant dilution, and debt financing, if available, may involve restrictive covenants. We may seek to access the public or private capital markets whenever conditions are favorable, even if we do not have an immediate need for additional capital at that time.
+Our forecast of the period of time through which our current capital will be adequate to support our operations is a forward-looking statement and involves risks and uncertainties, and actual results could vary as a result of a number of factors. We have based this estimate on assumptions that may prove to be wrong, and we could utilize our available capital resources sooner than we currently expect.
+US VR Sub authorized the issuance of 660,000 shares of Common Stock to an individual in consideration of $660 in connection with the resolution of a dispute. There was no litigation between these parties and the matter is considered settled.
+As of December 31, 2017, we had cash of approximately $478,610. In addition, we have liabilities to third parties and related parties totaling approximately $1,000,920, as of December 31, 2017.
+Our CEO has agreed to defer the payment of prior compensation until US VR Sub and the Company has raised substantial additional equity.
+We expect to incur substantial expenditures in the foreseeable future for the lease expenses, operational development and sales and marketing of US VR Sub. We will require additional financing to develop, our theme parks, fund operations, license third party intellectual property, invest in equipment, and manage potential operating losses
+Accordingly, our continued operations are dependent on our ability to raise additional capital through the sale of equity or debt securities and through our ability to make our theme park projects operational and profitable. There can be no assurances that we will be able to obtain funding, or that any such funding arrangements will be on terms attractive to us. In the event we are unable to raise sufficient funds, we would have to substantially alter our business plans.
+We have no revenues, and we will need to complete additional development and raise capital for the Company before we commence operations.
+We have experienced negative cash flows from operations since the commencement of operations, and we expect these losses to continue into the foreseeable future as we continue the development and roll out of AR and VR theme parks.
+AR and VR Theme Park Development Expense
+We expect to incur substantial expense in the leasing, outfitting, operations and marketing of our AR and VR theme parks.
+The net loss for the year ended September 31, 2017 and the three months ended December 31, 2017 was $1,967,052.
+As of September 30, 2017 we had cash of approximately $1,235,061 and we have liabilities to third parties and related parties totaling approximately $1,240,237 of December 31, 2017.
+Our CEO has agreed to continue to defer the payment of prior compensation until the Company has raised substantial additional equity or until certain operational milestones had been achieved. We will require additional resources to fund future activities and to complete our Phase I clinical study.
+Off-Balance Sheet Arrangements
+We do not currently have, nor have we ever had, any relationships with unconsolidated entities or financial partnerships, such as entities often referred to as structured finance or special purpose entities, established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes. In addition, we do not engage in trading activities involving non-exchange traded contracts.
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+At February 9, 2018, we had 126,325,791 shares of our common stock issued and outstanding. The following table sets forth, as of February 9, 2018, certain information concerning the beneficial ownership of our Common Stock following the First Closing by:
+ Each named executive officer,  Each director,  All of our executive officers and directors as a group, and  Each stockholder known by us to own beneficially 5% or more of either our outstanding Common Stock.
+
+Each named executive officer,
+ Each director,
+
+Each director,
+ All of our executive officers and directors as a group, and
+
+All of our executive officers and directors as a group, and
+ Each stockholder known by us to own beneficially 5% or more of either our outstanding Common Stock.
+
+Each stockholder known by us to own beneficially 5% or more of either our outstanding Common Stock.
+Information on beneficial ownership of securities is based upon a record list of our stockholders and we have determined beneficial ownership in accordance with the rules of the SEC. We believe3, based on the information furnished to us, that the persons and entities named in the table below have sole voting and investment power with respect to all shares of common stock they beneficially own, subject to applicable community property laws, except as otherwise provide below.
+Unless otherwise indicated, the business address of each person listed in c/o US VR Global.com Inc., Lot A-2-10, Galeria Hartamas, Jalan 26A/70A, Desa Sri Hartamas, 50480 Kuala Lumpur, Malaysia.
+Name and Address of Beneficial Owner Number of Shares Beneficially Owned Percentage of Outstanding Common Stock Owned Named Executive Officers and Directors: Ramelle Ramli 24,418,414 (1)(2) 19.1% Gary Chaw 161,500 * Jaime Terauds 170,000 * Amanda Lai 12,134,430(2)(3) * Daniel Ra Wha Hyun 850,000 * Ranjeet Rustogi  0.0% Erkan Sabanovic  0.0% Ivon Smith 31,705 * All directors and executive officers as a group (8 persons) 37,766,049 29.9% 5% Stockholders: VR Global Sdn Bhd (2) 72,331,260 57.3%
+Number of Shares Beneficially Owned
+Percentage of Outstanding Common Stock Owned
+Named Executive Officers and Directors:
+Ramelle Ramli 24,418,414 (1)(2) 19.1%
+24,418,414
+(1)(2)
+19.1
+%
+Gary Chaw 161,500 *
+161,500
+*
+Jaime Terauds 170,000 *
+170,000
+*
+Amanda Lai 12,134,430(2)(3) *
+12,134,430
+(2)(3)
+*
+Daniel Ra Wha Hyun 850,000 *
+850,000
+*
+Ranjeet Rustogi  0.0%
+Rustogi
+
+0.0
+%
+Erkan Sabanovic  0.0%
+
+0.0
+%
+Ivon Smith 31,705 *
+31,705
+*
+All directors and executive officers as a group (8 persons) 37,766,049 29.9%
+37,766,049
+29.9
+%
+5% Stockholders:
+VR Global Sdn Bhd (2) 72,331,260 57.3%
+72,331,260
+57.3
+%
+* Less than 1%.
+*
+Less than 1%.
+(1) Includes 307,994 shares held directly and one-third of the shares held by VR Global Sdn Bhd (VR Global). (2) VR Global Sdn Bhd (VR Global) is 33.33% owned by each of the following: SG Fairview Sdn Bhd (SG Fairview), ARVR Holdings (M) Sdn Bhd (ARVR), and Pedoman Prasarana Sdn Bhd (Pedoman). SG Fairview is owned by Ramelle Ramli, our President, Chief Executive Officer and Chairman of the Board. ARVR is owned by Tan Sri Ooi Kee Liang. Pedoman is owned 50% by Lai Chee Mei and 50% by Chong Lee Min. Voting and dispositive power over the shares held by VR Global is shared among SG Fairview, ARVR and Pedoman, in accordance with their respective ownership percentages. (3) Includes 79,220 shares held directly and one-half of one-third of shares held by VR Global.
+(1)
+Includes 307,994 shares held directly and one-third of the shares held by VR Global Sdn Bhd (VR Global).
+(2) VR Global Sdn Bhd (VR Global) is 33.33% owned by each of the following: SG Fairview Sdn Bhd (SG Fairview), ARVR Holdings (M) Sdn Bhd (ARVR), and Pedoman Prasarana Sdn Bhd (Pedoman). SG Fairview is owned by Ramelle Ramli, our President, Chief Executive Officer and Chairman of the Board. ARVR is owned by Tan Sri Ooi Kee Liang. Pedoman is owned 50% by Lai Chee Mei and 50% by Chong Lee Min. Voting and dispositive power over the shares held by VR Global is shared among SG Fairview, ARVR and Pedoman, in accordance with their respective ownership percentages.
+(2)
+VR Global Sdn Bhd (VR Global) is 33.33% owned by each of the following: SG Fairview Sdn Bhd (SG Fairview), ARVR Holdings (M) Sdn Bhd (ARVR), and Pedoman Prasarana Sdn Bhd (Pedoman). SG Fairview is owned by Ramelle Ramli, our President, Chief Executive Officer and Chairman of the Board. ARVR is owned by Tan Sri Ooi Kee Liang. Pedoman is owned 50% by Lai Chee Mei and 50% by Chong Lee Min. Voting and dispositive power over the shares held by VR Global is shared among SG Fairview, ARVR and Pedoman, in accordance with their respective ownership percentages.
+(3) Includes 79,220 shares held directly and one-half of one-third of shares held by VR Global.
+(3)
+Includes 79,220 shares held directly and one-half of one-third of shares held by VR Global.
+DIRECTORS AND EXECUTIVE OFFICERS
+The following table and biographical summaries set forth information, including principal occupation and business experience, about our directors and executive officers as of February 9, 2018. There is no familial relationship between or among the nominees, directors or executive officers of the Company.
+None of the events listed in Item 401(f) of Regulation S-K has occurred during the past ten years and that is material to the evaluation of the ability or integrity of any of our directors or executive officers.
+Name Age Position Ramelle Ashram Bin Ramli 40 President, Chief Executive Officer, Chairman of the Board of US VR Global.com Inc. Gary Chaw 37 Chief Financial Officer and Director of US VR Global.com Inc. Amanda Lai 42 Vice President of Marketing and Director of US VR Global.com Inc. Jaime Alexander Louis Terauds 51 Director of Business Development and Director of US VR Global.com Inc. Daniel Ra Wha Hyun 49 Chief Operating Officer of US VR Global Inc. Ranjeet Rustogi 44 Chief Technology Officer - Platform Integration of US VR Global Inc. Ivon Smith 51 Vice President of Operations of US VR Global Inc.
+Age
+Position
+Ramelle Ashram Bin Ramli 40 President, Chief Executive Officer, Chairman of the Board of US VR Global.com Inc.
+40
+President, Chief Executive Officer, Chairman of the Board of US VR Global.com Inc.
+Gary Chaw 37 Chief Financial Officer and Director of US VR Global.com Inc.
+37
+Chief Financial Officer and Director of US VR Global.com Inc.
+Amanda Lai 42 Vice President of Marketing and Director of US VR Global.com Inc.
+42
+Vice President of Marketing and Director of US VR Global.com Inc.
+Jaime Alexander Louis Terauds 51 Director of Business Development and Director of US VR Global.com Inc.
+51
+Director of Business Development and Director of US VR Global.com Inc.
+Daniel Ra Wha Hyun 49 Chief Operating Officer of US VR Global Inc.
+49
+Chief Operating Officer of US VR Global Inc.
+Ranjeet Rustogi 44 Chief Technology Officer - Platform Integration of US VR Global Inc.
+44
+Chief Technology Officer - Platform Integration of US VR Global Inc.
+Ivon Smith 51 Vice President of Operations of US VR Global Inc.
+51
+Vice President of Operations of US VR Global Inc.
+Ramelle Ashram Bin Ramli. Mr. Ramli has served as Chief Executive Officer, President, and Chairman of our Company since February 2017. He is also the Chairman of US VR Sub. He is the founder and director of Movie Animation Park Studios, the first animation-based theme park in Asia, which commenced operation in June 2017 (MAPS), and Executive Chairman of R-Segari Group Sdn Bhd (R-Segari Group). Mr. Ramli is also acting as developer on another integrated theme park attraction in Melaka, Malaysia, which will be operated by the R-Segari Group. Mr. Ramli earned a Bachelor of Business Studies from the American Intercontinental University of London.
+Gary Chaw. Mr. Chaw has served as our Chief Financial Officer since April 2017. Mr. Chaw is a Fellow of the Association of Chartered Certified Accountants. He also holds a Bachelor of Arts (Hons) in Accounting from University of Hertfordshire. Mr. Chaw has more than 10 years experience in accounting, finance and advisory services, most of which was acquired through his employment with KPMG, Ernst and Young in Malaysia and PricewaterhouseCoopers LLP in Singapore. In 2012, Mr. Chaw joined Ultimate Harvest Limited, an asset management company in Hong Kong, before returning to Malaysia in 2013 to join _________, a major developer, as Financial Controller.
+Amanda Lai. Ms. Lai has served as our Vice President of Marketing since March 2017. In this role, she focuses on marketing our company to the commercial leasing retail community, as well as overseeing our consumer retail efforts and IP licensing efforts. Ms. Lai holds a certificate in Estate Agency recognized by The Board of Valuers, Appraisers, and Real Estate Agents in Malaysia and a Diploma in Marketing. She has 17 years of experience in the real estate industry and began her career with Henry Butcher, an international real estate and valuation firm. Ms. Lais passion for people lead to her involvement in the commercial property sector culminating in her successfully leasing retail space in one of the largest malls in East Malaysia. From 2015 to 2016, Ms. Lai was the head of marketing cum leasing with KL Northgate Sdn. Bhd., which is a property development company undertaking RM3 billion commercial development covering 1.6 million sq.ft. net lettable retail space along Jalan Kuching Kuala Kumpur, Malaysia.
+Jaime Alexander Louis Terauds. Mr. Terauds has served as our Director of Business Development since March 2017. Mr. Terauds has a diverse range of experience in industries ranging from IT and telecommunications to food and beverage, hospitality and agriculture to green tech, and specializes in advising start-ups and early stage endeavors on corporate structuring, intellectual property strategies, angel, seed and investment capital sourcing, and in business and success coaching. Mr. Terauds has founded over a dozen start-up ventures, which have operated on three continents and has held the positions of Chief Executive Officer, Managing Director and Chairman. Mr. Terauds also serves as the executive chairman of the ilipa Ventures group of companies, whose portfolio companies include Jaime Alexander Ltd (HK), ilipa IT PLT (MY), Intercontinental Dental Services Pty Ltd (AU), ilipa IT Inc (USA) and After 3 Marine ltd (SEY).
+Daniel Ra Wha Hyun. Mr. Hyun has served as our Chief Operating Officer since March 2017. Mr. Hyun is a graduate of Swiss Hotel Management School Les Roches. He has nine years of experience in the hotel industry within the broader Asia-Pacific region. He has worked with well-known hotel chains such as Conrad, Le Meridien and Renaissance. He acts as an International Associate and Consultant for Dome Coffees Australia Pty. Ltd. In 2009, he co-founded the Outto Dine food and beverage group in Malaysia. The Outto Dine group has grown to a chain of nine outlets within five years. It has also expanded its business to develop cloud-based hospitality solutions for food and beverage.
+Ranjeet Rustogi. Mr. Rustogi has served as our Chief Technology Officer for Platform Integration. He has extensive international experience , having served with Cisco Systems, Transworld Group, Knoa Software Inc, Keku and twaqk. From 2013 to 2017, he was Group CTO/EVP, Product Development for ilipa Ventures, a private investment company. He was also actively involved with ilipa Management Services and ilipa IT. His role involved formulating IT strategies and discovering, identifying and evaluating tools/technologies to facilitate smooth intra-group/inter-company operations. Mr. Rustogi graduated from Griffith University, Australia, with a degree in Microelectronic Engineering and continued his studies with a Masters in Computer Networking from North Carolina State University. Mr. Rustogi brings 18 years of product strategy, development, R&D and engineering experience in US, Australia and Asia to the team.
+Known as a prolific tech inventor, large-scale web and real-time communications solutions architect and a visionary, Mr. Rustogi has gained recognition among his peers for his work in conception and design and in creating a wide range of breakthrough, disruptive technologies, products and services in artificial intelligence, search and discovery and telecommunications. His expertise ranges from singlehanded work in the implementation and development of groundbreaking technologies that range from proof-of-concept commercial launches, managing large-scale software development, agile software development, high performance ultra-low latency real-time communications systems and big data analytics. His areas of expertise also include timing the market, predicting yet unidentified markets, envisioning solutions, defining engineering/development, defining frictionless user-experiences through intuitive user interface and mentoring and providing guidance to young professionals.
+Ivon Smith. Mr. Smith has served as our Vice President of Operations since May 2017. From 2007 to 2009, he was employed by Autodesk, a software developer in Singapore, as an application engineer. From 2009 to 2017, Mr. Smith was employed as a technical art trainer Codemasters Studio, a Malaysian games company. Prior to such time. he also worked at production studios and training institutes in Australia and New Zealand. Mr. Smith is above to develop and deliver training documentation and classes based on digital 3D industry experience and methods, and to liaise with government and educational institutions, perform public relations and recruitment duties and manage staff. Throughout his career, Mr. Smith has worked in film, games, broadcast and design visualization creating and instructing in 3D art, animation, visual effects and technical art production pipelines. He originally studied Mechanical Engineering at university and is also an Autodesk certified instructor and examiner, and has nearly 20 years of experience in the field of 3D animation and visual effects. Mr. Smith also has acted as an industry advisory panel member for many Malaysian universities and colleges.
+Corporate Governance
+Meetings and Committees of the Board of Directors
+Our board of directors did not hold any formal meetings during the fiscal year ended September 30, 2017. We were a smaller reporting company with a small number of directors and officers who had active roles in our operations. As a result, we do not have a standing compensation
+We are a smaller reporting company with a small number of directors and officers who had active roles in our operations. As a result, we do not have a standing compensation or nominating committee, nor do we have an audit committee with an audit committee financial expert serving on that committee. Our entire board of directors acts as our compensation, nominating, and audit committee. The functions of those committees are undertaken by our Board of Directors. We believe that the creation of these committees, at this time, would be cumbersome and constitute more form over substance.
+Board Leadership Structure and Role in Risk Oversight
+Although we have not adopted a formal policy on whether the Chairman of the Board and the Chief Executive Officer positions should be separate or combined, we have determined that at this time, it is in the best interests of the Company and its shareholders to combine these roles. Mr. Ramli serves as our Chief Executive Officer and Chairman of the Board. We believe it is in the best interests of the Company to have the roles combined at this time because it provides us with an efficient leadership structure.
+Our board of directors is primarily responsible for overseeing our risk management processes. The board of directors receives and reviews periodic reports from management, auditors, legal counsel and others, as considered appropriate regarding our Companys assessment of risks. Management keeps our board apprised of material risks and provides our directors access to all information necessary for them to understand and evaluate how these risks interrelate, how they affect the Company, and how management addresses those risks. The board of directors focuses on the most significant risks facing our Company and our Companys general risk management strategy. While the board oversees our Company, our Companys management is responsible for day-to-day risk management processes. We believe this division of responsibilities is the most effective approach for addressing the risks facing our Company and that our board leadership structure supports this approach.
+Board Diversity
+While we do not have a formal policy on diversity, our board considers diversity to include the skill set, background, reputation, type and length of business experience of our board members, as well as a particular nominees contributions to that mix. Although there are many other factors, the board seeks individuals with industry knowledge and experience, senior executive business experience, and legal and accounting skills.
+Board Independence
+We do not have any independent directors, as such term is defined in the listing standards of The NASDAQ Stock Market, at this time.
+Code of Ethics
+We have not yet adopted a code of ethics that applies to all of our employees, officers and directors, including those officers responsible for financial reporting. As we develop our infrastructure and business, we expect that we will adopt a code of ethics. Once adopted, we expect that such code of ethics will be available on our website at www.us-vrglobal.com, and that we will post any amendments to the code, or any waivers of its requirements, on our website.
+EXECUTIVE COMPENSATION
+The following table sets forth the cash and non-cash compensation for the last two fiscal years awarded to or earned by our Named Executive Officers. The term Named Executive Officer means.
+2017 Summary Compensation Table
+Name and Principal Position Fiscal Year Salary ($) Bonus ($) Stock Awards ($) Option Awards ($) Non-Equity Incentive Plan Compensation ($) Non-Qualified Deferred Compensation Earnings ($) All Other Compensation ($) Total ($) Ramelle Ramli, 2017         Chief Executive Officer (1) 2016         Alex Jen, 2017         Former Chief Executive Officer and Chief Financial Officer (2) 2016        
+Fiscal Year
+Salary ($)
+($)
+($)
+Bonus ($)
+($)
+($)
+Stock Awards ($)
+($)
+($)
+Option Awards ($)
+($)
+($)
+Non-Equity Incentive Plan Compensation ($)
+($)
+($)
+Non-Qualified Deferred Compensation Earnings ($)
+($)
+($)
+All Other Compensation ($)
+($)
+($)
+Total ($)
+($)
+($)
+Ramelle Ramli, 2017        
+2017
+
+
+
+
+
+
+
+
+Chief Executive Officer (1) 2016        
+2016
+
+
+
+
+
+
+
+
+Alex Jen, 2017        
+2017
+
+
+
+
+
+
+
+
+Former Chief Executive Officer and Chief Financial Officer (2) 2016        
+2016
+
+
+
+
+
+
+
+
+(1) Mr. Ramli was appointed as Chief Executive Officer on December 15, 2017. (2) Mr. Jen ceased to be an executive officer on December 15, 2017
+(1)
+Mr. Ramli was appointed as Chief Executive Officer on December 15, 2017.
+(2) Mr. Jen ceased to be an executive officer on December 15, 2017
+(2)
+Mr. Jen ceased to be an executive officer on December 15, 2017
+US VR Sub currently does not have any employment agreements or other compensatory arrangements with its Named Executive Officers.
+currently does not have any employment agreements or other compensatory arrangements with its Named Executive Officers.
+Outstanding Equity Awards at 2017 Fiscal Year-End
+The following table provides information concerning unexercised options, stock that has not vested and equity incentive plan awards for each Named Executive Officer outstanding as of September 30, 2017:
+OPTION AWARDS STOCK AWARDS Name Number of Securities Underlying Unexercised Options (#) Exercisable Number of Securities Underlying Unexercised Options (#) Unexercisable Equity Incentive Plan Awards: Number of Securities Underlying Unexercised Unearned Options (#) Option Exercise Price ($) Option Expiration Date Number of Shares or Units of Stock That Have Not Vested (#) Market Value of Shares or Units of Stock That Have Not Vested ($) Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights that Have Not Vested (#) Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested (#) Ramelle Ramli (1)          Alex Jen (2)         
+STOCK AWARDS
+Name Number of Securities Underlying Unexercised Options (#) Exercisable Number of Securities Underlying Unexercised Options (#) Unexercisable Equity Incentive Plan Awards: Number of Securities Underlying Unexercised Unearned Options (#) Option Exercise Price ($) Option Expiration Date Number of Shares or Units of Stock That Have Not Vested (#) Market Value of Shares or Units of Stock That Have Not Vested ($) Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights that Have Not Vested (#) Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested (#)
+Number of Securities Underlying Unexercised Options (#) Exercisable
+Number of Securities Underlying Unexercised Options (#) Unexercisable
+Equity Incentive Plan Awards: Number of Securities Underlying Unexercised Unearned Options (#)
+(#)
+(#)
+Option Exercise Price ($)
+($)
+($)
+Option Expiration Date
+Number of Shares or Units of Stock That Have Not Vested (#)
+(#)
+(#)
+Market Value of Shares or Units of Stock That Have Not Vested ($)
+($)
+($)
+Equity Incentive Plan Awards: Number of Unearned Shares, Units or Other Rights that Have Not Vested (#)
+(#)
+(#)
+Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Units or Other Rights That Have Not Vested (#)
+(#)
+(#)
+Ramelle Ramli (1)         
+
+
+
+
+
+
+
+
+
+Alex Jen (2)         
+
+
+
+
+
+
+
+
+
+(1) Mr. Ramli was appointed as Chief Executive Officer on December 15, 2017. (2) Mr. Jen ceased to be an executive officer on December 15, 2017
+(1)
+Mr. Ramli was appointed as Chief Executive Officer on December 15, 2017.
+(2) Mr. Jen ceased to be an executive officer on December 15, 2017
+(2)
+Mr. Jen ceased to be an executive officer on December 15, 2017
+Director Compensation
+Neither the directors of the Company nor the directors of US VR Sub received compensation for services rendered as a director during the fiscal year ended September 30, 2017. As of the date of this Current Report on Form 8-K, we do not compensate our directors for their services as directors. In order to attract and retain qualified independent directors, in the future we may adopt a compensation plan for non-employee directors that may include cash, as well as equity-based, compensation.
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+VR Global Sdn Bhd (VR Global) provides certain operations, finance and human resource services to the Company . VR Global has also advanced funds to the Company for working capital and other business purposes. No specific term is stated for the advance. Accordingly, it is payable on demand .
+The ownership of VR Global is as follows:
+Entity Ownership in VR Global Shareholder(s) Director(s) SG Fairview Sdn Bhd 33.33% Ramelle Ramli* Ramelle Ramli (1) ARVR Holdings (M) Sdn Bhd 33.33% Tan Sri Ooi Kee Liang Tan Sri Ooi Kee Liang Pedoman Prasarana Sdn Bhd 33.33% Lai Chee Mei (50%) Lai Chee Mei Chong Lee Min (50%) Chong Lee Min
+Ownership in VR Global
+Shareholder(s)
+Director(s)
+SG Fairview Sdn Bhd 33.33% Ramelle Ramli* Ramelle Ramli (1)
+33.33
+%
+Ramelle Ramli*
+Ramelle Ramli (1)
+ARVR Holdings (M) Sdn Bhd 33.33% Tan Sri Ooi Kee Liang Tan Sri Ooi Kee Liang
+33.33
+%
+Tan Sri Ooi Kee Liang
+Tan Sri Ooi Kee Liang
+Pedoman Prasarana Sdn Bhd 33.33% Lai Chee Mei (50%) Lai Chee Mei
+33.33
+%
+Lai Chee Mei (50%)
+Lai Chee Mei
+Chong Lee Min (50%) Chong Lee Min
+Chong Lee Min (50%)
+Chong Lee Min
+(1) Mr. Ramli is the Companys President, Chief Executive Officer and Chairman of the Board. On February 2, 2018, US VR Sub cancelled indebtedness in the aggregate amount of $800,000 advanced to it for early stage working capital purposes by US VR Global in consideration of the issuance of 4,000,000 shares of restricted stock of US VR Sub.
+(1)
+Mr. Ramli is the Companys President, Chief Executive Officer and Chairman of the Board. On February 2, 2018, US VR Sub cancelled indebtedness in the aggregate amount of $800,000 advanced to it for early stage working capital purposes by US VR Global in consideration of the issuance of 4,000,000 shares of restricted stock of US VR Sub.
+DESCRIPTION OF OUR CAPITAL STOCK
+The following description of our capital stock is based upon our certification of incorporation, as amended, our amended and restated bylaws and applicable provisions of law, in each case as currently in effect. This discussion does not purport to be complete and is qualified in its entirety by reference to our certificate of incorporation, as amended, and our amended and restated bylaws.
+Authorized Capital Stock
+We are authorized to issue 200,000,000 shares of common stock, par value $0.001, and 30,000,000 shares of preferred stock. As of February 9, 2018, there were 126,325,791 shares of common stock issued and outstanding, and no shares of preferred stock issued and outstanding.
+Common Stock
+The holders of Common Stock are entitled to one vote per share with respect to all matters required by law to be submitted to stockholders. The holders of Common Stock have the sole right to vote, except as otherwise provided by law or by our certificate of incorporation. The Common Stock does not have any cumulative voting, preemptive, subscription or conversion rights. Election of directors requires the affirmative vote of a majority of shares represented at a meeting, and other general stockholder action requires the affirmative vote of a majority of shares represented at a meeting in which a quorum is represented. The outstanding shares of Common Stock are validly issued, fully paid and non-assessable.
+The holders of Common Stock are entitled to receive dividends, when, if, and as declared by our Board of Directors, out of funds legally available. In the event of liquidation, dissolution or winding up of the affairs of the Company, the holders of Common Stock are entitled to share ratably in all assets remaining available for distribution to them after payment or provision for all liabilities.
+The authorized but unissued shares of our Common Stock are available for future issuance without stockholder approval. These additional shares may be used for a variety of corporate purposes, including future offerings to raise additional capital, corporate acquisitions and employee benefit plans. The existence of authorized but unissued shares of Common Stock may enable our Board to issue shares of stock to persons friendly to existing management, which may deter or frustrate a takeover of the Company.
+Preferred Stock
+We are authorized to issue 30 million shares of preferred stock. We have no shares of preferred stock outstanding or designated. We intend to file a Certificate of Designation for Series A Preferred Stock in the near future in accordance with our Exchange Agreement. See Item 1.01 herein. The various rights and preferences of such Series A Preferred Stock may or may not be senior and preferential to those of our common stock.
+Anti-Takeover Effects of Certain Provisions of Our Amended and Restated Articles of Incorporation, as Amended, and Our Amended and Restated Bylaws
+Provisions of our amended and restated articles of incorporation, as amended, and our amended and restated bylaws could make it more difficult to acquire us by means of a merger, tender offer, proxy contest, open market purchases, removal of incumbent directors and otherwise. These provisions, which are summarized below, are expected to discourage types of coercive takeover practices and inadequate takeover bids and to encourage persons seeking to acquire control of us to first negotiate with us. We believe that the benefits of increased protection of our potential ability to negotiate with the proponent of an unfriendly or unsolicited proposal to acquire or restructure us outweigh the disadvantages of discouraging takeover or acquisition proposals because negotiation of these proposals could result in an improvement of their terms.
+Calling of Special Meetings of Stockholders. Our amended and restated bylaws provide that special meetings of the stockholders (other than a special meeting for the election of directors), unless otherwise prescribed by statute, may only be called by the Board and may be called at any time by the Board. At any special meeting of stockholders, only such business may be transacted as is related to the purpose(s) of such meeting set forth in the notice thereof given pursuant to the amended and restated bylaws.
+Removal of Directors; Vacancies. Our amended and restated bylaws provide that a director may be removed either for or without cause at any time by the affirmative vote of the holders of two-thirds of the voting power of the issued and outstanding stock entitled to vote, at a special meeting of the stockholders called for that purpose and the vacancies thus created may be filled, at the meeting held for the purpose of removal, by the affirmative vote of a majority in interest of the stockholders entitled to vote. Except as set forth in the amended and restated bylaws, if the office of any director, member of a committee or other officer becomes vacant (whether resulting from an increase in the number of directors, resignations, removals or otherwise), the remaining directors in office, though less than a quorum, by a majority vote, may appoint any qualified person to fill such vacancy, who shall hold office for the unexpired term and until his successor shall be duly chosen.
+Amendment of Bylaws. Our amended and restated bylaws provide that the amended and restated bylaws may be altered or repealed and bylaws may be made at any annual meeting of the stockholders or at any special meeting thereof, if notice of the proposed alteration or repeal of a bylaw or bylaws to be made be contained in the notice of such special meeting, by the affirmative vote of a majority of the voting power of the capital stock issued and outstanding and entitled to vote thereat, or by the affirmative vote of a majority of the Board at any regular meeting of the Board, or at any special meeting of the Board, if notice of the proposed alteration or repeal, or bylaw or bylaws to be made, be contained in the notice of such meeting.
+Preferred Stock. Our amended and restated articles of incorporation, as amended, authorize the issuance of up to 30,000,000. Our board of directors may, without stockholder approval, issue series of preferred stock with dividends, liquidation, conversion, voting or other rights that could adversely affect the voting power or other rights of the holders of our common stock.
+Transfer Agent
+The transfer agent for our common stock is Globex Transfer, LLC, 780 Deltona Blvd., Suite 202, Deltona, FL 32725.
+LEGAL PROCEEDINGS
+Currently, there are no legal proceedings, government actions, administration actions, investigations or claims pending against us or involve us that, in the opinion of our management, could reasonably be expected to be have a material adverse effect on our business and financial condition.
+MARKET PRICE AND DIVIDENDS ON OUR COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+There is no established trading market for the Companys Common Stock. No dividends have been paid or declared and none are expected to be paid or declared on the Companys Common Stock in the foreseeable future. The Companys Common Stock is currently quoted on the OTCPink under the symbol USVR.
+RECENT SALES OF UNREGISTERED SECURITIES
+Reference is made to Item 3.02 of this Current Report on Form 8-K for a description of certain recent sales of unregistered securities, which is hereby incorporated by reference.
+On February 2, 2018, US VR Sub cancelled indebtedness in the aggregate amount of $800,000 advanced to it for early stage working capital purposes by US VR Global in consideration of the issuance of 4,000,000 shares of restricted stock of US VR Sub.
+On February 5, 2018, the Board of US VR Sub authorized the issuance of an aggregate of 3,564,050 shares of common stock to 37 investors in exchange for receipt of aggregate consideration of $712,810. In addition, on February 5, 2018, the Board of US VR Sub authorized the issuance of 660,000 shares of common stock to one individual in exchange for receipt of $660 and in connection with resolution of a dispute with such individual. On February 5, 2018, the Board of US VR Sub also authorized the issuance of an aggregate of 11,186,664 shares of common stock to 42 investors in exchange for receipt of aggregate consideration of 1,678,000.
+The issuance of the above securities was exempt from the registration requirements of the Securities Act in reliance upon Regulation S promulgated pursuant to the Securities Act.
+INDEMNIFICATION OF DIRECTORS AND OFFICERS
+Title 8, Section 145 of the Delaware Code permits a corporation to have power to indemnify any person who was or is a party to any proceeding (other than an action by, or in the right of, the corporation), by reason of the fact that he or she is or was a director, officer, employee, or agent of the corporation or is or was serving at the request of the corporation as a director, officer, employee, or agent of another corporation, partnership, joint venture, trust, or other enterprise against liability incurred in connection with such proceeding, including any appeal thereof, if he or she acted in good faith and in a manner he or she reasonably believed to be in, or not opposed to, the best interests of the corporation and, with respect to any criminal action or proceeding, had no reasonable cause to believe his or her conduct was unlawful. The termination of any proceeding by judgment, order, settlement, or conviction or upon a plea of nolo contendere or its equivalent shall not, of itself, create a presumption that the person did not act in good faith and in a manner which he or she reasonably believed to be in, or not opposed to, the best interests of the corporation or, with respect to any criminal action or proceeding, had reasonable cause to believe that his or her conduct was unlawful.
+A corporation shall have power to indemnify any person, who was or is a party to any proceeding by or in the right of the corporation to procure a judgment in its favor by reason of the fact that the person is or was a director, officer, employee, or agent of the corporation or is or was serving at the request of the corporation as a director, officer, employee, or agent of another corporation, partnership, joint venture, trust, or other enterprise, against expenses and amounts paid in settlement not exceeding, in the judgment of the board of directors, the estimated expense of litigating the proceeding to conclusion, actually and reasonably incurred in connection with the defense or settlement of such proceeding, including any appeal thereof. Such indemnification shall be authorized if such person acted in good faith and in a manner he or she reasonably believed to be in, or not opposed to, the best interests of the corporation, except that no indemnification shall be made under this subsection in respect of any claim, issue, or matter as to which such person shall have been adjudged to be liable unless, and only to the extent that, the court in which such proceeding was brought, or any other court of competent jurisdiction, shall determine upon application that, despite the adjudication of liability but in view of all circumstances of the case, such person is fairly and reasonably entitled to indemnity for such expenses which such court shall deem proper.
+To the extent that a director, officer, employee, or agent of a corporation has been successful on the merits or otherwise in defense of any indemnification pursuant to Section 145, or in defense of any claim, issue, or matter therein, he or she shall be indemnified against expenses actually and reasonably incurred by him or her in connection therewith.
+Any indemnification, unless pursuant to a determination by a court, shall be made by the corporation only as authorized in the specific case upon a determination that indemnification of the director, officer, employee, or agent is proper in the circumstances because he or she has met the applicable standard of conduct set forth in 145.
+Expenses incurred by an officer or director in defending a civil or criminal proceeding may be paid by the corporation in advance of the final disposition of such proceeding upon receipt of an undertaking by or on behalf of such director or officer to repay such amount if he or she is ultimately found not to be entitled to indemnification by the corporation pursuant to this section. Expenses incurred by other employees and agents may be paid in advance upon such terms or conditions that the board of directors deems appropriate.
+The indemnification and advancement of expenses provided pursuant to this section are not exclusive, and a corporation may make any other or further indemnification or advancement of expenses of any of its directors, officers, employees, or agents, under any bylaw, agreement, vote of shareholders or disinterested directors, or otherwise, both as to action in his or her official capacity and as to action in another capacity while holding such office. However, indemnification or advancement of expenses shall not be made to or on behalf of any director, officer, employee, or agent if a judgment or other final adjudication establishes that his or her actions, or omissions to act, were material to the cause of action so adjudicated.
+Our Articles of Incorporation and bylaws contain provisions that provide for indemnification of officers and directors to the full extent permitted by, and in the manner permissible under Delaware law.

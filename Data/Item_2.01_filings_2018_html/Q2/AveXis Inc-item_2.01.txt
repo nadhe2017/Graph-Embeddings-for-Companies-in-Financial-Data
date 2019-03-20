@@ -1,0 +1,39 @@
+Item 2.01. Completion of Acquisition or Disposition of Assets.
+As previously disclosed in the Current Report on Form 8-K filed by AveXis, Inc., a Delaware corporation (the Company), with the Securities and Exchange Commission (the SEC) on April 9, 2018, the Company entered into an Agreement and Plan of Merger (the Merger Agreement), dated as of April 6, 2018, with Novartis AG, a company organized under the laws of Switzerland (Parent), and Novartis AM Merger Corporation, a Delaware corporation and an indirect wholly owned subsidiary of Parent (Merger Sub). Pursuant to the Merger Agreement, on April 17, 2018, Merger Sub commenced a cash tender offer for all of the Companys outstanding shares of common stock, par value $0.0001 per share (Shares), at a purchase price of $218.00 per Share (the Offer Price), net to the seller in cash, without interest, subject to any required withholding of taxes, upon the terms and subject to the conditions set forth in the Offer to Purchase dated April 17, 2018 (as amended or supplemented from time to time, the Offer to Purchase) and in the related Form of Letter of Transmittal (the Letter of Transmittal and, together with the Offer to Purchase, the Offer), filed as Exhibit (a)(1)(A) and Exhibit (a)(1)(B), respectively, to the Schedule TO originally filed with the SEC by Parent and Merger Sub on April 17, 2018.
+Company
+
+SEC
+
+Merger Agreement
+
+
+Parent
+
+
+Merger Sub
+
+
+
+Shares
+
+
+Offer Price
+
+Offer to Purchase
+Letter of Transmittal
+Offer
+The Offer and withdrawal rights expired at 12:00 midnight, New York City time, at the end of the day on May 14, 2018 (the Expiration Time). American Stock Transfer & Trust Company, LLC, in its capacity as depositary and paying agent for the Offer (the Depositary and Paying Agent), has advised Parent and Merger Sub that, as of the Expiration Time, a total of 30,368,057 Shares (not including 1,058,258 Shares tendered by notice of guaranteed delivery) were validly tendered and not withdrawn pursuant to the Offer, representing approximately 82.48% of the outstanding Shares. All conditions to the Offer having been satisfied, on May 15, 2018, Merger Sub accepted for payment (such time of acceptance for payment, the Acceptance Time) all Shares validly tendered and not withdrawn prior to the Expiration Time, and payment of the Offer Price for such Shares will be made by the Depositary and Paying Agent.
+American Stock Transfer & Trust Company, LLC, in its capacity as depositary and paying agent for the Offer
+Depositary and Paying Agent
+, has
+Acceptance Time
+On May 15, 2018 (the Closing Date), pursuant to the terms of the Merger Agreement, Merger Sub merged with and into the Company, with the Company surviving as an indirect wholly owned subsidiary of Parent (the Merger). The Merger was effected without a vote of the Company stockholders in accordance with Section 251(h) of the Delaware General Corporation Law (the DGCL).
+Merger
+DGCL
+At the effective time of the Merger (the Effective Time), each issued and outstanding Share (other than Shares owned by (i) the Company, any subsidiary of the Company, Parent, Merger Sub or any other subsidiary of Parent and (ii) stockholders of the Company who validly exercised their statutory rights of appraisal under the DGCL) was canceled and converted into the right to receive the Offer Price, in cash, without interest, subject to any required withholding of taxes (the Merger Consideration).
+Effective Time
+
+Merger Consideration
+Each stock option outstanding immediately prior to the Effective Time, whether or not vested, was canceled at the Effective Time and converted into the right to receive (i) the excess, if any, of the Merger Consideration (or, in the case of stock options granted under the Companys Amended and Restated 2014 Stock Plan, if greater, the volume-weighted average trading price of Shares on May 14, 2018 over the exercise price per Share of the stock option), multiplied by (ii) the number of Shares subject to the stock option immediately prior to the Effective Time. Each restricted stock unit and performance stock unit outstanding immediately prior to the Effective Time was canceled at the Effective Time and converted into the right of the holder to receive (i) the Merger Consideration multiplied by (ii) the number of Shares subject to such restricted stock unit or performance stock unit (as applicable) immediately prior to the Effective Time (assuming in the case of performance stock units, that applicable performance conditions were achieved at maximum performance levels).
+The aggregate consideration paid in the Offer and the Merger was approximately $8.7 billion, excluding related transaction fees and expenses. Parent provided Merger Sub with the necessary funds to fund the Offer and the Merger through a combination of its cash on hand and short-term borrowing.
+The foregoing summary description of the Merger Agreement and related transactions does not purport to be complete and is qualified in its entirety by reference to the terms of the Merger Agreement, a copy of which was filed as Exhibit 2.1 to the Current Report on Form 8-K filed by the Company with the SEC on April 9, 2018 and is incorporated herein by reference.

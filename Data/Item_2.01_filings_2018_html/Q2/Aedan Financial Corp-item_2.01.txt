@@ -1,0 +1,354 @@
+ITEM 2.01 Completion of Acquisition or Disposition of Assets
+On June 20, 2018, Aedan Financial Corp., a Delaware corporation (AFC or the Company), entered into an acquisition agreement (the Acquisition Agreement) with Aedan, Inc. (AI), a private company organized under the laws of Delaware.
+Company
+Acquisition Agreement
+The Acquisition was effected by the Company through the exchange of all the issued and outstanding capital stock of AI for a total amount of 33,900,000 shares of its common stock, at an aggregate cost basis of $25,000. At the time of the Acquisition, there was four shareholders of the Company who were also officers, directors and shareholders of Aedan, Inc. prior to the Acquisition and are related parties. AI has become a wholly owned subsidiary of the Company and the Company has taken over the operations and business plan of AI. Prior to the Acquisition, the Company was a shell and had no ongoing business or operations.
+Aedan, Inc. is a Cloud Application Developer based in San Francisco, CA with its primary focus being Secured Cloud-Based Software Development and Secured Application Streaming for Computing Devices, with an emphasis on remotely emulated application hosting, true cloud computing and HaaS hardware as a service.
+1
+1
+BUSINESS AND BUSINESS PLAN
+Prior to the Acquisition, the Company had no business or operations. Pursuant to the Acquisition, the Company has acquired the business plan, operations and contracts of its now wholly-owned subsidiary, Aedan, Inc. (AI).
+Business Overview
+Aedan, Inc. is a Cloud Application Developer based in San Francisco, CA with its primary focus being Secured Cloud-Based Software Development and Secured Application Streaming for Computing Devices, with an emphasis on remotely emulated application hosting, true cloud computing and HaaS hardware as a service.
+Aedan has developed the capability to provide the consumer the ability to access a computer system running on a cloud infrastructure from anywhere in the world with internet access. Aedans HaaS is accessible from various client devices through a thin client interface such as a web browser. In this model, a complete application is offered to the customer as a software service on demand without ever having the need to upgrade the users hardware. A single instance of the service runs on the cloud and multiple end users are serviced. On the customers side, there is no need for upfront investment in servers or software licenses, while for the provider, only a single application needs to be hosted and maintained.
+Hardware as A Service: The R.E.A.C.H. Service will allow users to upgrade RAM, Number of GPU Cores and SSD Storage by a simple click. Each feature will be charged to the user account.
+Online Games: The R.E.A.C.H. Gaming server will bring online gaming to the next level. A LAN Party on the R.E.A.C.H. Network will be the most secured way to play online. With the R.E.A.C.H., a user may simply rent games and stream them within their Internet connected web browser. Our next step, will be streaming only the application requested to the user device within the web browser without the full OS streaming for the session.
+NAS Local: The R.E.A.C.H. will allow the users local network attached storage to sync with the client session, so the user may upload and download files from a NAS to the R.E.A.C.H. or to another R.E.A.C.H. user on its buddy list. This makes it easy to share content and backup your cloud. The R.E.A.C.H. platform is compatible with multiple cloud environments and remote storage, so the user may connect all cloud environments to one primary and secured host.
+In summary, in this model, the customers do not manage or control the underlying cloud infrastructure, network, servers, operating systems, storage, or even individual application capabilities, with the possible exception of limited user-specific application configuration settings.
+Products and Services
+R.E.A.C.H - Remotely Emulated Application Cloud Host
+REACH is the first cloud-based operating system which allows the user to install and operate applications from all Operating Systems such as Windows & Android within a remote cloud.
+A Cloud is being able to run an application remotely and stream it to the user client without installing or effecting the local client device. When using Our Secured Cloud-Based Operating System, the users desktop environment is free floating on the remote server, so when the user logs in after a system crash, all of the content and data are well preserved just as the user left it previously. In contrast, under a Standard Local System, if a user is working on something important, and their computer shuts down unprecedentedly, or the application malfunctions, the data is lost and compromised and the user may not be able to recover its data from the local device, which causes an inconvenience.
+The R.E.A.C.H. is a Cloud Server which allows the user to REACH an emulated version of any operating system and run the applications remotely. An Emulator or Emulation is an application which mimics the behavior of another application, such as Android OS and all of its applications. The REACH will stream all applications to the remote user via web-browser, and allow the user to access a full Operating System through the web-browser without installing anything to the local device. This keeps all contents quick and secure.
+Running your applications and/or entire Operating System in a cloud prevents unauthorized hacker intrusion, viruses, and keeps the user information in an accessible location at all times, which can be reached from any location in the world from a stable Internet or local area network. With the REACH, any user may install applications from Android, Windows, Linux, and soon iOS Devices all to one virtual Desktop environment that provides security, stability, and compatibility. The REACH will stream any windows application to the remote user, or dedicated Android application to any Internet connected device authorized by the user for compatibility and convenience.
+2
+2
+The REACH supports the x86 Architecture on mobile devices, unlike Microsoft which unfortunately does not support their own software on their own mobile devices with x86 support. The REACH supports all architecture. AedanOS: DropKick will run on all mobile devices when locally installed, so the user may enjoy the off-line and ubiquitous application experience.
+AedanOS: REACH allows the user to host a cloud-server on a mobile phone and stream a desktop environment to any device on the connected network. This saves time and adds flexibility on the go. The user may remotely connect to the AedanOS which allows the user to install Windows, iOS, Linux, and Android to be streamed to any other device without effecting or compromising both devices.
+Aedan OS and all other Aedan [Safe] Technology are built on a Security Platform which makes it virtually impossible to be infected by a computer virus. Aedan [Safe] implements a sophisticated form of pattern detection to identify known and unknown threats on multiple Operating Environments in real-time to serve as a superior preemptive security solution.
+Aedan has incorporated a series of preemptive security solutions developed by real hackers to safeguard businesses from cyber terrorism and fraud. Companies may build applications through our virtual supercomputer platform from within their own network without compromising the local system and the remote client.
+Cloud Computing Services
+In addition to its Cloud-based operating system, Aedan also offers services related to Cloud-based configuration management, which Aedan believes is a game-changing technology that no security team working with virtual infrastructures should be without.
+Amid growing enterprise adoption of cloud computing, it is no surprise that security professionals have been searching for security mechanisms to secure cloud-based server hosting. The effort often begins by looking to the same technologies that were used to secure the data center, such as firewalls, antivirus and intrusion detection systems. It is a logical approach, however, the types of risks traditional security technologies were created to combat focus on risks to local resources only, which limits their effectiveness when attempting to secure a cloud-based resource.
+While Cloud services offer flexibility, scalability and economies of scale, there have been commensurate concerns about security. As more data moves from centrally located server storage to the Cloud, the potential for personal and private data to be compromised will increase. Confidentiality, availability and integrity of data are at risk if appropriate measures are not put in place prior to selecting a Cloud vendor or implementing your own cloud and migrating to Cloud services. Cloud services such as Software as a service, Platform as a service or Infrastructure as a service will each have their own security concerns that need to be addressed and the Companys services are designed to ensure maximum security.
+Aedan Safe - Firewall, Antivirus & Cleanup Application for Android
+Aedan specializes in the field of cyber security and firewall technologies. From over 5 years of observation and study of various operating systems, antivirus software and hijack prevention methodologies, we believe that Aedan has come up with a unique, revolutionary approach to device security. The Aedan Safe application uses a modified VPN protocol to monitor port access to previously permitted applications on the local device and blocks incoming connections thus preventing application hijack. The Aedan Safe application pairs security application with a residue and cache cleaner tool, which is currently being upgraded to have a better User Interface (UI) and enhanced features.
+The Aedan Safe application will operate as both a virus scanner and a cleaner app and will integrate the virus scanner and cleaner in a single UI. It will have the capability to function as a browser cache data purge to remove temporary internet files, a residual data purge to remove all residual junk data from all apps, a RAM cleaner to purge or suspend background services and as an ad blocker and will also be designed to scan and remove applications and URLs that cause excessive junk and cookies.
+3
+3
+Intellectual Property
+Aedan Inc. holds the registered copyright to the AEDAN Operating System computer program, Registration Number TXu001999995, effective as of December 21, 2015.
+The Market  Cloud Computing Services
+According to Gartner, Inc., a leading research and advisory company, the worldwide public cloud services market is projected to grow 21.4 percent in 2018 to total $186.4 billion, up from $153.5 billion in 2017. The fastest-growing segment of the market is cloud system infrastructure services (infrastructure as a service or IaaS), which is forecast to grow 35.9 percent in 2018 to reach $40.8 billion. Software as a service (SaaS) remains the largest segment of the cloud market, with revenue expected to grow 22.2 percent to reach $73.6 billion in 2018. Gartner expects SaaS to reach 45 percent of total application software spending by 2021. Within the platform as a service (PaaS) category, the fastest-growing segment is database platform as a service (dbPaaS), expected to reach almost $10 billion by 2021. Hyperscale cloud providers are increasing the range of services they offer to include dbPaaS.
+The cloud computing services market can be segmented broadly into three categories based on service types (*aaS). These can be:
+SaaS (Software as a Service)
+
+SaaS (Software as a Service)
+IaaS (Infrastructure as a Service)
+
+IaaS (Infrastructure as a Service)
+PaaS (Platform as a Service)
+
+PaaS (Platform as a Service)
+Among the three categories, SaaS is expected to grow the fastest followed by IaaS. The Saas market can be further segmented in categories such as: Cloud Security, Corporate and SMB SaaS Cloud services, and Mobile Corporate and SMB SaaS Cloud services. However, in the near future all the three segments are projected to experience healthy demand.
+The cloud computing services market growth would be influenced by the global demand for technology based services, which in turn depends on the state of the global economy. Currently the growth is driven by demand in developed nations in Western markets such as North America and Europe. The developing nations are slow to adapt to the concept, and are expected to drive the growth towards the later part of the decade. The technological backwardness of emerging economies poses restrictions on cloud computing services due to lack of infrastructure availability and technical know-how.
+We believe that in the future of computing, security, reliability and compatibility issues will slow down and prevent productivity which costs companies billions per year, and consumers more unnecessary burdens. We believe that Aedans platform will set a standard for virtualization and cloud information security systems, and will have a significant impact in how to address these everyday evolving threats.
+Marketing and Sales Strategy
+In the growing spectrum of the Cloud, we believe that security, reliability, and compatibility are the key elements to a successful and flexible solution to market to the worlds demand for powerful mobile computing. The following are the categories of our potential customers and their needs. Various marketing programs will be created and implemented to reach and successfully penetrate each of our target markets. All marketing and advertising programs will be monitored and evaluated for effectiveness and performance.
+Business: Small Business and Large Corporations may implement a secured in-house and fully scalable cloud platform which allows employees and clients to access their own series of applications for any Operating System securely through a web browser on the fly via mobile or stationary devices.
+Full Version Applications of full version Operating Systems such as Aedan OS, MacOS and Windows can be updated without taking down the server, and configuration is made simpler to tailor the needs of the client to the source content without compromising security of both the client and the distributor.
+4
+4
+Individual Consumers: Students and all other consumers may use our platform as their own private and remote supercomputer to install and operate high-end applications from AutoCAD 3D to Photoshop, Microsoft Office to Pro Tools Audio Editor. Students and All other consumers have reliability issues with their local operating system, and in most cases it is a security issue. In other cases, it is a hardware resource matter which we have resolved with our pay for on-demand computing power, which puts 99% of the system resources on the cloud, and streams it to the users primitive and inefficient device.
+When a user wishes to use an application which they do not have or cant run on their device because of hardware and or software issues, the user may simply login to the Remotely Emulated Application Cloud Host and streams the application to the user on-demand. If the cloud application requires more computing power, the user may rent this from our platform at a very reasonable price.
+Competition
+The current cloud computing services market leaders who are defining the growth path are:
+Amazon (Amazon Web Services  AWS)
+
+Amazon (Amazon Web Services  AWS)
+Google (SaaS, PaaS)
+
+Google (SaaS, PaaS)
+VMware (vCloud)
+
+VMware (vCloud)
+Rackspace (IaaS)
+
+Rackspace (IaaS)
+Salesforce.com (SaaS  CRM)
+
+Salesforce.com (SaaS  CRM)
+Microsoft (PaaS  Azure)
+
+Microsoft (PaaS  Azure)
+Joyent (3*aaS)
+
+Joyent (3*aaS)
+IBM (Blue Cloud)
+
+IBM (Blue Cloud)
+Net Suite (SaaS - SuitCloud)
+
+Net Suite (SaaS - SuitCloud)
+3Tera (CloudWare)
+
+3Tera (CloudWare)
+Some of the newcomers in the market are:
+Enomaly (services to cloud providers)
+
+Enomaly (services to cloud providers)
+GoGrid (IaaS)
+
+GoGrid (IaaS)
+AT&T
+
+AT&T
+Employees
+Aedan, Inc. has approximately 5 employees.
+Legal Matters
+We know of no material, existing or pending legal proceedings against Aedan, Inc., nor are we involved as a plaintiff in any material proceeding or pending litigation. There are no proceedings in which our directors, officers or any affiliates, or any registered or beneficial shareholder, is an adverse party or has a material interest adverse to our interest.
+5
+5
+THE COMPANY
+The Company was originally named Tulip Grove Acquisition Corporation (Tulip Grove) and incorporated on May 17, 2017 under the laws of the State of Delaware to engage in any lawful corporate undertaking, including, but not limited to, selected mergers and acquisitions.
+In July 2017, Tulip Grove filed a registration statement with the Securities and Exchange Commission on Form 10-12g pursuant to Securities Exchange Act of 1934 and became a public reporting company. In April 2018, the Company effected a change in control of Tulip Grove. As part of that change in control, the then officers and directors of Tulip Grove resigned, but retained 500,000 shares of common stock and the Company redeemed 19,500,000 shares of the then 20,000,000 shares of common stock outstanding.
+Eric Fitzgerald, Sammy Yu, Gary Griffes, Brian Hettrick, Victor Citron, Neil Cresswell, Guy Conner, Nicholas Alaniz and Dawnte Bailey were appointed as officers and Eric Fitzgerald was appointed as the sole director of the Company and the Company issued 5,080,000 shares of common stock to a group of 9 new investors as part of the change in control. In addition, the Company changed its name to Aedan Financial Corp.
+The Companys corporate offices are located at 1390 Market Street, Suite 200, San Francisco, California. The Companys telephone number is 866-601-7727.
+As a public reporting company pursuant to the Securities Exchange Act, the Company files with the Securities and Exchange Commission quarterly and annual reports and management shareholding information. The Company intends to deliver a copy of its annual report to its security holders, and will voluntarily send a copy of the annual report, including audited financial statements, to any registered shareholder who requests the same.
+The Companys documents filed with the Securities and Exchange Commission may be inspected at the Commissions principal office in Washington, D.C. Copies of all or any part of the registration statement may be obtained from the Public Reference Section of the Securities and Exchange Commission, 100 F Street N.E., Washington, D.C. 20549. Call the Commission at 1-800-SEC-0330 for further information on the operation of the public reference rooms. The Securities and Exchange Commission also maintains a web site at http://www.sec.gov that contains reports, proxy statements and information regarding registrants that file electronically with the Commission.
+Emerging Growth Company
+The Company qualifies as an emerging growth company as defined in the Jumpstart Our Business Startups Act which became law in April, 2012. The definition of an emerging growth company is a company with an initial public offering of common equity securities which occurred after December 8, 2011 and has less than $1 billion of total annual gross revenues during the last completed fiscal year. The disclosure regarding the company and The Jumpstart Our Business Startups Act is incorporated herein by reference from the Form 10-12G filed on July 7, 2017.
+6
+6
+2.02 Results of Operations and Financial Conditions
+MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS
+The following discussion should be read in conjunction with our audited financial statements and notes to our financial statements included elsewhere in this report. This discussion contains forward-looking statements that involve risks and uncertainties. Actual results could differ materially from those anticipated in these forward-looking statements as a result of various factors discussed elsewhere in this report. Certain information included herein contains statements that may be considered forward-looking statements, such as statements relating to our anticipated revenues, gross margin and operating results, future performance and operations, plans for future expansion, capital spending, sources of liquidity, and financing sources. This forward-looking information involves important risks and uncertainties that could significantly affect anticipated results in the future, and accordingly, such results may differ from those expressed in any forward-looking statements made herein. These risks and uncertainties include those relating to our liquidity requirements, the continued growth of the Companys industry, the success of our product development, marketing and sales activities, vigorous competition in the construction industry, dependence on existing management, leverage and debt service (including sensitivity to fluctuations in interest rates), domestic or global economic conditions, the inherent uncertainty and costs of prolonged arbitration or litigation, and changes in federal or state tax laws or the administration of such laws.
+Overview
+References to the financial condition and performance of the Company below in this section Managements Discussion and Analysis of Financial Condition and Results of Operations are to Aedan, Inc., the Companys wholly-owned subsidiary.
+As of March 31, 2018, the Company had not generated revenues since inception and had shareholders equity of $588, a cash balance of $588 and a net loss of $20,195.
+The Companys independent auditors have issued a report raising substantial doubt about the Companys ability to continue as a going concern. At present, the continuation of the Company as a going concern is dependent upon generation of revenues from the Companys business, financial support from its stockholders and its ability to obtain necessary equity financing to continue operations. The Company anticipates that it will need $100,000 to continue as a going concern, satisfy its capital commitments and continue its operations in accordance with its current business plan. In addition to revenues generated from sales, the Chief Executive Officer plans to continue to fund the Companys operations, if needed, during the next 12 months or until the Company can generate an ongoing source of capital sufficient to independently continue growing its operations.
+Revenues and Net Income
+During the three months ended March 31, 2018, the Company posted sales of $0, total operating expenses of $20,195, consisting of administrative expenses of $9,414, computer expense of $350 and legal expense of $10,431, and net loss of $20,195. In contrast, during the three months ended March 31, 2017, the Company posted sales of $0, total operating expenses of $1,321, consisting of rent expense of $1,321, and net loss of $1,321.
+During the year ended December 31, 2017, the Company posted sales of $0, total operating expenses of $6,040, consisting of rent expense of $5,284, travel expense of $484, and computer expense of $272, and net loss of $6,040. In contrast, during the year ended December 31, 2016, the Company posted sales of $0, total operating expenses of $14,643, consisting of rent expense of $5,284, travel expense of $3,380, computer expense of $2,816 and legal expense of $3,163, and net loss of $14,643.
+Liquidity and Capital Resources
+As of March 31, 2018, the Company had cash available of $588. The Company may raise additional capital through sales of debt or equity, obtain loan financing or develop and consummate other alternative financial plans.
+7
+7
+Discussion of the Three Months Ended March 31, 2018 compared to the Three Months Ended March 31, 2017
+The Company has not generated any revenues since inception.
+During the three months ended March 31, 2018, the Company posted total operating expenses of $20,195, consisting of administrative expenses of $9,414, computer expense of $350 and legal expense of $10,431. In contrast, during the three months ended March 31, 2017, the Company posted total operating expenses of $1,321, consisting of rent expense of $1,321. The increase in operating expenses was a result of the expansion of the Companys operations.
+During the three months ended March 31, 2018, the Company posted net loss $20,195 as compared to net loss of $1,321 for the three months ended March 31, 2017. The increase in net loss is primarily due to an increase in operating expenses as a result of the expansion of the Companys operations.
+During the three months ended March 31, 2018, the Company generated cash in operating activities of $588. In contrast, during the three months ended March 31, 2017, the Company generated cash from operating activities of $17.
+Discussion of Year ended December 31, 2017 compared to Year Ended December 31, 2016
+The Company has not generated any revenues since inception.
+During the year ended December 31, 2017, the Company posted total operating expenses of $6,040, consisting of rent expense of $5,284, travel expense of $484, and computer expense of $272. In contrast, during the year ended December 31, 2016, the Company posted total operating expenses of $14,643, consisting of rent expense of $5,284, travel expense of $3,380, computer expense of $2,816 and legal expense of $3,163. The decrease in operating expenses was a result of a shift in focus of the Companys operations from business development to commercialization.
+During the year ended December 31, 2017, the Company posted net loss $6,040 as compared to net loss of $14,643 for the year ended December 31, 2016. The decrease in net loss is primarily due to a decrease in operating expenses as a result of a shift in focus of the Companys operations from business development to commercialization.
+During the year ended December 31, 2017, the Company used cash in operating activities of $34. In contrast, during the year ended December 31, 2016, the Company used cash from operating activities of $1,908.
+Off-Balance Sheet Arrangements
+The Company has no off-balance sheet arrangements.
+Equipment Financing
+The Company has no equipment financing arrangements.
+Source of Revenues
+The Company earns revenue from fees collected in connection with its cryptocurrency financial products.
+Alternative Financial Planning and Liquidity
+As of March 31, 2018, the Company had cash available of $588.
+The Company has no alternative financial plans at the moment. If the Company is not able to successfully raise monies as needed through a private placement or other securities offering (including, but not limited to, a primary public offering of securities), the Companys ability to implement its business plan may be jeopardized. The Company anticipates that it would need no additional funds to maintain its current profitable mode of operations over the next twelve months to continue as a going concern, satisfy its capital commitments and continue its operations in accordance with its current business plan requiring no additional funding.
+8
+8
+Critical Accounting Policies
+Basis of Presentation and Principles of Consolidation
+The financial statements of the Company have been prepared in accordance with generally accepted accounting principles in the United States of America (US GAAP). This basis of accounting involves the application of accrual accounting and consequently, revenues and gains are recognized when earned, and expenses and losses or recognized when incurred.
+All intercompany accounts and transactions are eliminated in consolidation.
+Going Concern
+The accompanying consolidated financial statements have been prepared assuming the Company will continue as a going concern, which contemplates realization of assets and the satisfaction of liabilities in the normal course of business for the twelve-month period following the date of these financial statements. On a consolidated basis, the Company has incurred significant operating losses since inception.
+Because the Company does not expect that existing operational cash flow will be sufficient to fund presently anticipated operations, this raises substantial doubt about the Companys ability to continue as a going concern. Therefore, the Company will need to raise additional funds and is currently exploring alternative sources of financing. Historically, the Company has raised all of its capital from its chief executive officer/founder of the company, as a measure to finance working capital needs. The Company will be required to continue to rely on its CEO until its operations become profitable.
+Use of Estimates
+The preparation of financial statements in conformity with US GAAP requires management to make estimates and assumptions that affect the reported amounts of liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. The most significant estimates relate to revenue recognition, valuation of accounts receivable and inventories, purchase price allocation of acquired businesses, impairment of long lived assets and goodwill, valuation of financial instruments, income taxes, and contingencies. The Company bases its estimates on historical experience, known or expected trends and various other assumptions that are believed to be reasonable given the quality of information available as of the date of these financial statements. The results of these assumptions provide the basis for making estimates about the carrying amounts of assets and liabilities that are not readily apparent from other sources. Actual results could differ from these estimates.
+Cash and Cash Equivalents
+The Company considers all highly liquid temporary cash investments with an original maturity of three months or less to be cash equivalents. At March 31, 2018 and December 31, 2017, the Company cash equivalents totaled $588 and $-0- respectively.
+Income taxes
+The Company accounts for income taxes under FASB ASC 740, Accounting for Income Taxes. Under FASB ASC 740, deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. Under FASB ASC 740, the effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment date. FASB ASC 740-10-05, Accounting for Uncertainty in Income Taxes prescribes a recognition threshold and a measurement attribute for the financial statement recognition and measurement of tax positions taken or expected to be taken in a tax return. For those benefits to be recognized, a tax position must be more-likely-than-not to be sustained upon examination by taxing authorities.
+Accounting for Uncertainty in Income Taxes
+9
+9
+The amount recognized is measured as the largest amount of benefit that is greater than 50 percent likely of being realized upon ultimate settlement. The Company assesses the validity of its conclusions regarding uncertain tax positions on a quarterly basis to determine if facts or circumstances have arisen that might cause it to change its judgment regarding the likelihood of a tax positions sustainability under audit.
+Stock-based Compensation
+We account for stock-based compensation using the fair value method following the guidance set forth in section 718-10 of the FASB Accounting Standards Codification for disclosure about Stock-Based Compensation. This section requires a public entity to measure the cost of employee services received in exchange for an award of equity instruments based on the grant-date fair value of the award (with limited exceptions). That cost will be recognized over the period during which an employee is required to provide service in exchange for the award- the requisite service period (usually the vesting period). No compensation cost is recognized for equity instruments for which employees do not render the requisite service. To date, the Company has not adopted a stock option plan and has not granted any stock options.
+Leases
+We follow the guidance in ASC 840 Leases, which requires us to evaluate the lease agreements we enter into to determine whether they represent operating or capital leases at the inception of the lease.
+Net Loss per Share
+Net loss per common share is computed by dividing net loss by the weighted average common shares outstanding during the period as defined by Financial Accounting Standards, ASC Topic 260, Earnings per Share. Basic earnings per common share (EPS) calculations are determined by dividing net income by the weighted average number of shares of common stock outstanding during the year. Diluted earnings per common share calculations are determined by dividing net income by the weighted average number of common shares and dilutive common share equivalents outstanding.
+Recent Accounting Pronouncements
+The Company has implemented all new accounting pronouncements that are in effect and that may impact its financial statements and does not believe that there are any other new pronouncements that have been issued that might have a material impact on its financial position or results of operations.
+MANAGEMENT
+Officers and Directors
+The following persons were named to the offices of the Company appearing next to their names:
+Eric Fitzgerald Chief Executive Officer and sole Director Sammy Yu Chief Financial Officer Gary Griffes Chief Information Officer Brian Hettrick Chief Compliance Officer Victor Citron Secretary Neil Cresswell Chief Cloud Architect Guy Conner Chief Datacenter Architect Nicholas Alaniz Chief Technology Officer Dawnte Bailey Chief of Security
+Chief Executive Officer and sole Director
+Sammy Yu Chief Financial Officer
+Chief Financial Officer
+Gary Griffes Chief Information Officer
+Chief Information Officer
+Brian Hettrick Chief Compliance Officer
+Chief Compliance Officer
+Victor Citron Secretary
+Secretary
+Neil Cresswell Chief Cloud Architect
+Chief Cloud Architect
+Guy Conner Chief Datacenter Architect
+Chief Datacenter Architect
+Nicholas Alaniz Chief Technology Officer
+Chief Technology Officer
+Dawnte Bailey Chief of Security
+Chief of Security
+10
+10
+Eric Fitzgerald
+Chief Executive Officer and Director
+Eric Fitzgerald serves as Chief Executive Officer and the sole director of the Company. Mr. Fitzgerald is a former intelligence and defense contractor specializing in signal intelligence, preemptive security solutions, vulnerability assessments, and information technology forensics. In 2003, Mr. Fitzgerald co-founded and created a browser-deployed cloud based operating system. In 2010, Mr. Fitzgerald formed Aedan Inc. in China, which focused on bringing cloud based desktops, gaming systems, and applications to the world on any internet connected device. In 2013, Mr. Fitzgerald was an investor and board member of G3T LIV3 Inc., a PC game streaming service founded in 2012 competing with OnLive; both companies failed to perform and dissolved in 2015. Aedan Inc branched out and incorporated in Delaware in early 2015 and with two partners established a US market for the AedanOS Cloud Spaces.
+Sammy Yu
+Chief Financial Officer
+Sammy Yu serves as Chief Financial Officer of the Company. Mr. Yu is the co-founder of Aedan, Inc. Mr. Yu has served as the Chief Financial Officer with experience in financial technology and private banking. In 2015, Mr. Yu served on the Board of G3T LIV3 Inc. which dissolved in 2015. From 2008 to 2009, Mr. Yu served as a private banker for Bank of America and from 2009 to 2013 he served as general manager of Bee Automotive. Mr. Yu attended the Galileo Academy of Science and Technology.
+Gary Griffes
+Chief Information Officer
+Gary Griffes serves as Chief Information Officer of the Company. Since 1999, Mr. Griffes has been the owner and president of Air Purification Services working with business owners to help meet indoor air quality goals. Mr. Griffes is a leader with talent in selling quality service and value over price as a proven revenue generator. For 25 years prior to starting his own company, he demonstrated successful sales leadership in building new territories and expanding opportunities within existing client bases in the cable television and merchant services, as well as the water treatment industry. Mr. Griffes is adept at business-to-business sales and negotiations with decision makers leading to fulfilling partner relationships. Mr. Griffes was a first responder CERT team member of the Isle of Capri Fire Department in Florida. His continuing education includes a CTAM: Marketing & Management Courses, as well as W. Steven Brown Marketing Manager and Telesale Skills. Mr. Griffes was part of the team creating the highly successful HBO national sales campaign A buck a month which led to a 42% increase in its customer base.
+Brian Hettrick
+Chief Compliance Officer
+Brian Hettrick serves as Chief Compliance Officer of the Company. Mr. Hettrick is a consulting professional with more than 25 years combined experience working with clients as well as in financial and operational systems roles. He has expertise in communications with experience building effective internal communications campaigns that employ innovative technologies including buzz committees and social media to drive and support business strategy. He has demonstrated leadership in implementation and audits of agile and adaptive business management systems e.g., ISO 9001/Total Quality Management and Baldrige including integration of quality, risk, and regulatory functions with a process focus. In the past five years, Mr. Hettrick served as the Chief Growth Officer of Actiview Analytics (2017) and as the Principal and Chief Knowledge Officer of Soma Associates (2002-Present).
+11
+11
+Victor Citron
+Secretary
+Victor Citron serves as Secretary of the Company. With over 30 years of international technical and management systems experience, he designs and lead implementation projects, lead training venues and participates in third-party assessment-audits within a variety of industries at numerous companies worldwide. His background includes support training for governments in matters of third-party certification and accreditation activities. His third-party accreditation and certification experience encompasses a variety of industries including food, laboratories, quality, security, safety, health, medical and other sectors and within each sector requires the application of statutes and regulations. His experience extends through North America, Europe, Latin America, Australasia and Asia Pacific. His experience precedes international management system protocols through implementation to the British Standard 5750 P1 in 1982. Reiterating, he is a designer, developer and carries assessment team leader certification as well to conduct internationally recognized and generally accepted benchmarks and normative references. In 1984, he established BULLTEK LTD (Bullish Technologies Ltd). Throughout his career, Mr. Citron has successfully worked at several companies and agencies including the U.S. Atomic Energy Commission Revlon Medical Group (for laboratory and blood analyzing systems), Motorola Digital Controls Div., Westinghouse Nuclear Div., MITEL Systems, and Bourns Medical and Commercial Groups. During tenure with the projects and organizations, he maintained and developed systems for health-physics, engineering, environmental, quality, medical, hazard analysis and risk management, continuous improvement, manufacturing, security, law enforcement, customer service and project management for organizational development, product development and internationally outsourcing. He has been commended for his effort by foreign governments. Mr. Citrons education combines engineering technology and advanced management with status of facilitator-instructor by the State of California and completed Productivity Management (Philip Crosby Institute) certifications.
+Neil Cresswell
+Chief Cloud Architect
+Neil Cresswell serves as Chief Cloud Architect of the Company. Mr. Cresswell has spent the last 18 years working with VMware Technologies as a technologist running the VMware pre-sales team for the ASEAN region Mr. Cresswell recently transitioned to emergent technologies such as Docker. Mr. Cresswell is the founder of Portainer.io, an open-source human friendly management UI for Docker. He is also the founder of CloudInovasi.id, an Indonesia-centric Docker container service provider (and which provided the initial inspiration for Portainer). Mr. Cresswell is the co-founder of Emerging Technology Partners, a New Zealand company. He also serves as advisor to GPnow, a virtual consultation application for doctors. Mr. Cresswell obtained initial exposure to Docker technologies through his previous role as CEO of IndonesianCloud, a public cloud provider based in Jakarta. At that time, he anticipated the effect that Docker would bring and the possible impact it would have on traditional IaaS and infrastructure providers. Mr. Cresswell retrained himself in Docker, obtaining exposure through enduring the early pain of Docker versions 1.6. Mr. Cresswell continues to provide advisory services through Emerging Technology Partners, sharing insight and vision in regard to the adoption of Docker and surrounding technologies in New Zealand.
+Guy Conner
+Chief Data Center Architect
+Guy Conner serves as Chief Data Center Architect for the Company. Mr. Conner has a substantial background in technology development, market entry strategy and business to business acquisitions. Mr. Connor has a background in technology development, market entry strategy and business to business acquisitions. Mr. Connor is an innovator in data intelligence with the ability to monetize complex business models to increase in revenues. In addition, Mr. Connor has in-depth background in building, negotiating, maintaining and driving scalable direct sales and channel initiatives and demonstrates comprehensive skills in strategic and tactical planning in support of corporate and/or investor benchmarks.
+Nicholas Alaniz
+Chief Technology Officer
+Nicholas Alaniz serves as Chief Technology Officer of the Company. From 2015 to the present, Mr. Alaniz has served with the Aedan, Inc. team to focus on virtualization. In the past five years, Mr. Alaniz served as the former CEO of G3T LIV3 INC.
+12
+12
+Dawnte Bailey
+Chief of Security
+Dawnte Bailey serves as Chief of Security for the Company. From 2015-2018 Dawnte Bailey served in the United States Marine Corps as a Field Wireman for Military Communications. Mr. Bailey is trained in various martial arts including; Muay Thai, Tae Kwon Do, Krav Maga, Judo, and Boxing. Mr. Bailey has undergone extensive training in tactical warfare and continues to be trained by former intelligence community and law enforcement operatives. From 2016-2018, Mr. Bailey worked for Securitas Security Company where he acquired California Armed Guard Card Certification. In the year 2014-2015, Dawnte Bailey worked at Big State Industrial Supply.
+Director Compensation
+Directors do not receive any compensation for serving on the Board of Directors.
+Committees and Terms
+The Board of Directors has not established any committees. The Company will notify its shareholders for an annual shareholder meeting and that they may present proposals for inclusion in the Companys proxy statement to be mailed in connection with any such annual meeting; such proposals must be received by the Company at least 90 days prior to the meeting. No other specific policy has been adopted in regard to the inclusion of shareholder nominations to the Board of Directors.
+Indemnification of Officers, Directors, Employees and Agents
+The Certificate of Incorporation and bylaws of the Company provide that the Company shall, to the fullest extent permitted by applicable law, as amended from time to time, indemnify all directors of the Company, as well as any officers or employees of the Company to whom the Company has agreed to grant indemnification.
+Section 145 of the Delaware General Corporation Law empowers a corporation to indemnify its directors and officers and to purchase insurance with respect to liability arising out of their capacity or status as directors and officers provided that this provision shall not eliminate or limit the liability of a director (I) for any breach of the directors duty of loyalty to the corporation or its stockholders, (ii) for acts or omissions not in good faith or which involve intentional misconduct or a knowing violation of law, (iii) arising under Section 174 of the Delaware General Corporation Law, or (iv) for any transaction from which the director derived an improper personal benefit.
+The Delaware General Corporation Law provides further that the indemnification permitted thereunder shall not be deemed exclusive of any other rights to which the directors and officers may be entitled under the corporations by-laws, any agreement, vote of shareholders or otherwise.
+The effect of the foregoing is to require the Company to indemnify the officers and directors of the Company for any claim arising against such persons in their official capacities if such person acted in good faith and in a manner that he reasonably believed to be in or not opposed to the best interests of the corporation, and, with respect to any criminal action or proceeding, had no reasonable cause to believe his conduct was unlawful.
+INSOFAR AS INDEMNIFICATION FOR LIABILITIES ARISING UNDER THE SECURITIES ACT OF 1933, AS AMENDED, MAY BE PERMITTED TO DIRECTORS, OFFICERS OR PERSONS CONTROLLING THE COMPANY PURSUANT TO THE FOREGOING PROVISIONS, IT IS THE OPINION OF THE SECURITIES AND EXCHANGE COMMISSION THAT SUCH INDEMNIFICATION IS AGAINST PUBLIC POLICY AS EXPRESSED IN THE ACT AND IS THEREFORE UNENFORCEABLE.
+EXECUTIVE COMPENSATION
+Summary Compensation
+The officers and directors of the Company received no compensation for their services as an officer or director.
+13
+13
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS
+AND MANAGEMENT
+The following table sets forth information with respect to ownership of issued and outstanding stock of the Company as of the date hereof by each executive officer and director of the Company and any person or group known by the Company to be the beneficial owner of more than 5% of any class of the Companys voting securities:
+COMMON STOCK
+Common Shares Percentage Owned Of Class(1) Eric Fitzgerald (2)(3) 34,000,000 86% Chief Executive Officer and Director Sammy Yu (2)(4) Chief Financial Officer 4,010,000 10% Gary Griffes (2)(5) Chief Information Officer 110,000 <1% Brian Hettrick (2)(6) Chief Compliance Officer 10,000 <1% Victor Citron (2)(7) Secretary 10,000 <1% Neil Cresswell (2)(8) Chief Cloud Architect 10,000 <1% Guy Conner (2)(9) Chief Datacenter Architect 10,000 <1% Nicholas Alaniz (2)(10) Chief Technology Officer 110,000 <1% Dawnte Bailey (2)(11) Chief of Security 10,000 <1%
+Common Shares
+Percentage
+Owned Of Class(1)
+Owned
+Of Class(1)
+Eric Fitzgerald (2)(3) 34,000,000 86%
+34,000,000
+86
+%
+Chief Executive Officer and Director
+Sammy Yu (2)(4) Chief Financial Officer 4,010,000 10%
+Chief Financial Officer
+4,010,000
+10
+%
+Gary Griffes (2)(5) Chief Information Officer 110,000 <1%
+Chief Information Officer
+110,000
+<1
+%
+Brian Hettrick (2)(6) Chief Compliance Officer 10,000 <1%
+Chief Compliance Officer
+10,000
+<1
+%
+Victor Citron (2)(7) Secretary 10,000 <1%
+Secretary
+10,000
+<1
+%
+Neil Cresswell (2)(8) Chief Cloud Architect 10,000 <1%
+Chief Cloud Architect
+10,000
+<1
+%
+Guy Conner (2)(9) Chief Datacenter Architect 10,000 <1%
+Chief Datacenter Architect
+10,000
+<1
+%
+Nicholas Alaniz (2)(10) Chief Technology Officer 110,000 <1%
+Chief Technology Officer
+110,000
+<1
+%
+Dawnte Bailey (2)(11) Chief of Security 10,000 <1%
+Chief of Security
+10,000
+<1
+%
+(1) Based on 39,480,000 common stock shares outstanding.
+Based on 39,480,000 common stock shares outstanding.
+(2) The address of the officers and directors of the Company is 390 Market Street, Suite 200, San Francisco, California 94102.
+The address of the officers and directors of the Company is 390 Market Street, Suite 200, San Francisco, California 94102.
+(3) Consists of 5,000,000 common stock shares initially owned in the Company pursuant to the change in control and 29,000,000 shares received in exchange for common stock shares of Aedan, Inc. owned by him pursuant to the Acquisition. (4) Consists of 10,000 common stock shares initially owned in the Company pursuant to the change in control and 4,000,000 shares received in exchange for common stock shares of Aedan, Inc. owned by him pursuant to the Acquisition. (5) Consists of 10,000 common stock shares initially owned in the Company pursuant to the change in control and 100,000 shares received in exchange for common stock shares of Aedan, Inc. owned by him pursuant to the Acquisition. (6) Consists of 10,000 common stock shares initially owned in the Company pursuant to the change in control. (7) Consists of 10,000 common stock shares initially owned in the Company pursuant to the change in control. (8) Consists of 10,000 common stock shares initially owned in the Company pursuant to the change in control. (9) Consists of 10,000 common stock shares initially owned in the Company pursuant to the change in control. (10) Consists of 10,000 common stock shares initially owned in the Company pursuant to the change in control and 100,000 shares received in exchange for common stock shares of Aedan, Inc. owned by him pursuant to the Acquisition. (11) Consists of 10,000 common stock shares initially owned in the Company pursuant to the change in control.
+Consists of 5,000,000 common stock shares initially owned in the Company pursuant to the change in control and 29,000,000 shares received in exchange for common stock shares of Aedan, Inc. owned by him pursuant to the Acquisition.
+(4) Consists of 10,000 common stock shares initially owned in the Company pursuant to the change in control and 4,000,000 shares received in exchange for common stock shares of Aedan, Inc. owned by him pursuant to the Acquisition.
+Consists of 10,000 common stock shares initially owned in the Company pursuant to the change in control and 4,000,000 shares received in exchange for common stock shares of Aedan, Inc. owned by him pursuant to the Acquisition.
+(5) Consists of 10,000 common stock shares initially owned in the Company pursuant to the change in control and 100,000 shares received in exchange for common stock shares of Aedan, Inc. owned by him pursuant to the Acquisition.
+Consists of 10,000 common stock shares initially owned in the Company pursuant to the change in control and 100,000 shares received in exchange for common stock shares of Aedan, Inc. owned by him pursuant to the Acquisition.
+(6) Consists of 10,000 common stock shares initially owned in the Company pursuant to the change in control.
+Consists of 10,000 common stock shares initially owned in the Company pursuant to the change in control.
+(7) Consists of 10,000 common stock shares initially owned in the Company pursuant to the change in control.
+Consists of 10,000 common stock shares initially owned in the Company pursuant to the change in control.
+(8) Consists of 10,000 common stock shares initially owned in the Company pursuant to the change in control.
+Consists of 10,000 common stock shares initially owned in the Company pursuant to the change in control.
+(9) Consists of 10,000 common stock shares initially owned in the Company pursuant to the change in control.
+Consists of 10,000 common stock shares initially owned in the Company pursuant to the change in control.
+(10) Consists of 10,000 common stock shares initially owned in the Company pursuant to the change in control and 100,000 shares received in exchange for common stock shares of Aedan, Inc. owned by him pursuant to the Acquisition.
+Consists of 10,000 common stock shares initially owned in the Company pursuant to the change in control and 100,000 shares received in exchange for common stock shares of Aedan, Inc. owned by him pursuant to the Acquisition.
+(11) Consists of 10,000 common stock shares initially owned in the Company pursuant to the change in control.
+Consists of 10,000 common stock shares initially owned in the Company pursuant to the change in control.
+14
+14
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+James Cassidy, a partner in the law firm which acts as counsel to the Company, owns 250,000 shares of the Companys common stock.
+James Cassidy and James McKillop were both formerly officers and directors of the Company and each own 250,000 shares of the Companys common stock. As the organizers and developers of the Company as Tulip Grove Acquisition Corp., Mr. Cassidy and Mr. McKillop were involved with the Company prior to the Acquisition. In particular, Mr. Cassidy provided services to the Company without charge, including preparation and filing of the charter corporate documents and preparation of the Companys regulatory filings.
+In April 2018, the Company issued to Eric Fitzgerald, Sammy Yu, Gary Griffes, Brian Hettrick, Victor Citron, Neil Cresswell, Guy Conner, Nicholas Alaniz and Dawnte Bailey, the Companys officers and directors, 5,080,000 shares of its common stock, at a cost basis equal to $0.0001 per share, as part of a change in control.
+On June 20, 2018, the Company issued 33,900,000 shares of its common stock, valued at an aggregate cost basis of $25,000, as a result of the Acquisition, including a total issuance of 33,200,000 common shares to Eric Fitzgerald, Sammy Yu, Gary Griffes and Nicholas Alaniz, who are officers and directors of the Company and are related parties.
+MARKET PRICE OF AND DIVIDENDS AND RELATED STOCKHOLDER MATTERS
+Dividends
+The Company has not paid any dividends to date. The Company has not made any determination about if and when it will pay dividends on its common stock.
+Common Stock
+The Company is authorized to issue 100,000,000 shares of common stock, par value $0.0001 per share, and has 39,480,000 shares issued and outstanding.
+Preferred Stock
+The Company has 20,000,000 authorized undesignated shares of preferred stock. No preferred stock has been designated nor issued.
+Market Price
+There is no public market for the Companys common stock and there is no market price for the Companys common stock.
+Disclosure of Commission Position on Indemnification for Securities Act Liabilities
+The Companys Certificate of Incorporation include an indemnification provision that provides that the Company shall indemnify directors against monetary damages to the Company or any of its shareholders by reason of a breach of the directors fiduciary except (i) for any breach of the directors duty of loyalty to the Company or its shareholders or (ii) for acts or omissions not in good faith or which involve intentional misconduct of (iii) for unlawful payment of dividend or unlawful stock purchase or redemption or (iv) for any transaction from which the director derived an improper personal benefit.
+15
+15
+The Bylaws of the Company provide that the Company shall, to the fullest extent permitted by applicable law, as amended from time to time, indemnify all directors of the Company, as well as any officers or employees of the Company to whom the Company has agreed to grant indemnification. Section 145 of the Delaware General Corporation Law (DCL) empowers a corporation to indemnify its directors and officers and to purchase insurance with respect to liability arising out of their capacity or status as directors and officers provided that this provision shall not eliminate or limit the liability of a director (i) for any breach of the directors duty of loyalty to the corporation or its stockholders, (ii) for acts or omissions not in good faith or which involve intentional misconduct or a knowing violation of law, (iii) arising under Section 174 of the Delaware General Corporation Law, or (iv) for any transaction from which the director derived an improper personal benefit. The Delaware General Corporation Law provides further that the indemnification permitted thereunder shall not be deemed exclusive of any other rights to which the directors and officers may be entitled under the corporations by-laws, any agreement, vote of shareholders or otherwise.
+The effect of the foregoing is to require the Company to indemnify the officers and directors of the Company for any claim arising against such persons in their official capacities if such person acted in good faith and in a manner that he reasonably believed to be in or not opposed to the best interests of the corporation, and, with respect to any criminal action or proceeding, had no reasonable cause to believe his conduct was unlawful.
+The Certificate of Incorporation does not specifically indemnify the officers or directors or controlling persons against liability under the Securities Act.
+The Securities and Exchange Commissions position on indemnification of officers, directors and control persons under the Securities Act by the Company is as follows:
+INSOFAR AS INDEMNIFICATION FOR LIABILITIES ARISING UNDER THE SECURITIES ACT OF 1933 MAY BE PERMITTED TO DIRECTORS, OFFICERS AND CONTROLLING PERSONS OF THE SMALL BUSINESS ISSUER PURSUANT TO THE RULES OF THE COMMISSION, OR OTHERWISE, THE SMALL BUSINESS ISSUER HAS BEEN ADVISED THAT IN THE OPINION OF THE SECURITIES AND EXCHANGE COMMISSION SUCH INDEMNIFICATION IS AGAINST PUBLIC POLICY AS EXPRESSED IN THE ACT AND IS, THEREFORE, UNENFORCEABLE.

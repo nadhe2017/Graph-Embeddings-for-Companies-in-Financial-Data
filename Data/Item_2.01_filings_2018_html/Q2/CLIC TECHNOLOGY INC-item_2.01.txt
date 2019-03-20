@@ -1,0 +1,101 @@
+Item 2.01 Completion of Merger or Disposition of Assets.
+The Merger and Related Transactions
+As described in Item 1.01 above, on May 3, 2018, the Company and CTI closed the Merger. CTI is located in Miami, Florida, and its strategic focus will be in the development of tools, based on blockchain technology, to facilitate digital asset management, including whose specific to processing e-commerce and financial industry payments, in multiple countries and multiple payment platforms.
+The following sets forth information about the agreements and events relating to the Merger.
+Tax Treatment and Small Business
+The Merger is intended to constitute a tax-free reorganization within the meaning of the Internal Revenue Code of 1986. Following the Merger, the Combined Company continues to be a smaller reporting company, as defined in Item 10(f )( 1) of Regulation S-K, as promulgated by the SEC.
+FORM 10 INFORMATION
+10 INFORMATION
+Prior to the Merger, we were a public reporting company with development stage operations. While we did not deem ourselves a  shell company,  as defined in Rule 12b-2 of the Securities Exchange Act of 1934, as amended and the rules and regulations promulgated thereunder (Exchange Act) we previously marked ourselves as a shell in prior SEC filings, and, in light of the scope of operations prior to the Merger and the resulting change in our business, we are voluntarily providing the information as is required pursuant to Item 2.01(f) of Form 8-K, as if we were filing a general form for registration of securities on Form 10 under the Exchange Act for our common stock, which is the only class of our securities subject to the reporting requirements of Section 13 or Section 15(d) of the Exchange Act upon consummation of the Merger.
+3
+3
+BUSINESS
+Business Overview
+The Company was originally formed under the name, FundThatCompany ("FTC") for the purpose of establishing a rewards-based on-line crowdfunding platform. The Company had planned to offer small startup businesses or entrepreneurs the ability to post a project available for funding on FTC's proposed reward-based crowdfunding platform.
+However, prior to the Merger (as herein after defined), this business plan was abandoned.
+The Company has not earned any revenues to date and its independent registered public accountant has issued an audit opinion which includes statement expressing substantial doubt as to our ability to continue as a going concern.
+As a result of the Merger with CLIC Technology, Inc., a Florida corporation, effective May 3, 2018, the Company is undertaking a new business plan in a new industry related to, and built around and integrated with, blockchain technology.
+Under terms of the Merger, the Company is changing its name from FundThatCompany to CLIC Technology, Inc., a Nevada corporation, and the Florida merging corporation, CLIC Technology, Inc. will cease to exist.
+CLIC Technology, Inc. remains an early stage company with revenues yet to be generated.
+Products
+CLIC Technology, Inc. strategic focus will be in the development of tools, based on blockchain technology, to facilitate digital asset management, including whose specific to processing e-commerce and financial industry payments, in multiple countries and multiple payment platforms. Such tools will include, but not be limited to, those that:
+a. Provide e-commerce payment processing, clearing and multi-bank settlements; b. Provide multi-currency and omni-channel solutions; c. Offer advanced risk and fraud management;
+Provide e-commerce payment processing, clearing and multi-bank settlements;
+b. Provide multi-currency and omni-channel solutions;
+Provide multi-currency and omni-channel solutions;
+c. Offer advanced risk and fraud management;
+Offer advanced risk and fraud management;
+i. Provide PCI-DSS Level 1 certified offering highest level of security for payments; ii. Provide advanced solutions for anti-fraud with bank cards; iii. Provide bank wire support in challenging markets;
+i.
+Provide PCI-DSS Level 1 certified offering highest level of security for payments;
+ii. Provide advanced solutions for anti-fraud with bank cards;
+ii.
+Provide advanced solutions for anti-fraud with bank cards;
+iii. Provide bank wire support in challenging markets;
+iii.
+Provide bank wire support in challenging markets;
+d. Offer clear concise reporting and monitoring tools; e. Offer customized parameters for specific business models; f. Provide optional professional advice and optimization counsel on business processes specific to markets served; g. Provide settlement of funds to nominated bank account; h. Process all major currencies; i. Are licensed by government regulators within the countries served.
+Offer clear concise reporting and monitoring tools;
+e. Offer customized parameters for specific business models;
+Offer customized parameters for specific business models;
+f. Provide optional professional advice and optimization counsel on business processes specific to markets served;
+Provide optional professional advice and optimization counsel on business processes specific to markets served;
+g. Provide settlement of funds to nominated bank account;
+Provide settlement of funds to nominated bank account;
+h. Process all major currencies;
+Process all major currencies;
+i. Are licensed by government regulators within the countries served.
+Are licensed by government regulators within the countries served.
+All customer funds will be managed by a Financial Conduct Authority (UK) (FCA) regulated gateway solution in coordination with European banks, and the Company plans to assemble a worldwide group of strategic partner/financial institutions who will use its services.
+In addition, using blockchain technology, the Company plans to be able to offer a unique payment gateway capable of accepting payments in the eleven most popular crypto coins besides bitcoin, that is intended to help integrate crypto-payments across varying platforms on the Internet. The intent of such technology is to help facilitate smooth and fast transactions across the web.
+In connection with the use of blockchain technology, the Company intends to also enter the emerging cryptocurrency mining industry through participation in a specific 24/7 multi-currency mining pool using a proprietary multi mining feature.
+As a result, we plan to generate revenues from all the above activities.
+4
+4
+Corporate History
+The Company was incorporated by Mr. Chayut Ardwichai in the State of Nevada on September 4, 2015 and established a September 30 fiscal year end.
+Recent Developments
+Capital Stock
+The Companys initial capitalization was 75,000,000 common shares with a par value of $0.001 per share, of which 73,850,000 and 1,750,000,000 shares issued and outstanding at September 30, 2017 and September 30, 2016, respectively. No preferred shares have been authorized or issued.
+All references to number of common shares, price per share and weighted average number of shares outstanding prior to the 175:1 forward split on December 2, 2016, have been adjusted to reflect the stock split on a retroactive basis unless otherwise noted.
+On September 4, 2015, the Company issued 1,750,000,000 (pre-split 10,000,000) common shares at $0.000005714 (pre-split $0.001) per share to the sole director and President of the Company for cash proceeds of $10,000.
+On October 26, 2015, the Company received $10,000 for issued 1,750,000,000 common shares at $0.000005714 per share to the sole director and President of the Company on September 4, 2015.
+On December 2, 2016 the Company has sold 30,100,000 (pre-split 172,000) common shares at $0.0001714 (pre-split $0.03) per share to 30 shareholders of the company for proceeds of $5,160. Funds were received by the Company on January 5, 2017.
+On December 2, 2016, the founding shareholder of the Company, Chayut Ardwichai, returned 1,706,250,000 (pre-split 9,750,000) restricted shares of common stock to treasury and the shares were subsequently cancelled by the Company. The shares were returned to treasury for $0.000000005 per share for a total consideration of $10 to the shareholder.
+On December 2, 2016, the directors of the Company approved a special resolution to undertake a forward split of the common stock of the Company on a basis of 175 new common shares for 1 old common share. The issued and outstanding common stock increased from 422,000 to 73,850,000 as of December 2, 2016.
+On April 11, 2018, following a change of control effective April 9, 2018, as reported on Form 8-K, filed with the Securities and Exchange Commission on April 10, 2018, the board of directors of the Company increased the total quantity of authorized shares to 350,000,000 common shares with a par value of $0.001 per share. No preferred shares have been authorized or issued.
+Patent and Trademarks
+We do not currently own any domestic or foreign patents or trademarks for any purpose.
+Employees
+As of the date of this Current Report on Form 8-K, we have no employees. We have no employment or other agreement with Mr. Biton, our President and Chief Executive Officer or any other person. Mr. Biton currently devotes approximately twenty hours per week to company matters.
+RISK FACTORS
+As a smaller reporting company, as defined in Rule 12b-2 of the Exchange Act, we are not required to provide the information called for by this Item.
+UNRESOLVED STAFF COMMENTS
+Not applicable to a smaller reporting company as defined in Item 10(f)(1) of Regulation S-K.
+5
+5
+PROPERTIES
+The Company does not own any real estate or other properties and has not entered into any long-term lease or rental agreements for property.
+LEGAL PROCEEDINGS
+There are no pending legal proceedings to which the Company is a party or in which any director, officer or affiliate of the Company, any owner of record or beneficially of more than 5% of any class of voting securities of the Company, or stockholder is a party adverse to the Company or has a material interest adverse to the Company.
+MINESAFETY DISCLOSURES
+Not applicable.
+MARKET FOR REGISTRANTS COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+FOR
+REGISTRANTS COMMON
+EQUITY,
+RELATED
+STOCKHOLDER
+MATTERS
+AND
+ISSUER
+PURCHASES
+OF
+EQUITY
+SECURITIES
+Market Information
+Our common stock was not quoted on any exchange or trading platform and therefore no data is available for the periods ended December 31, 2017 or December 31, 2016.
+SELECTED FINANCIAL DATA
+Not applicable to a smaller reporting company as defined in Rule 12b-2 of the Exchange Act.
+MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+This Managements Discussion and Analysis of Financial Condition and Results of Operations is intended to provide a reader of our financial statements with a narrative from the perspective of our management on our financial condition, results of operations, liquidity, and certain other factors that may affect our future results. The following discussion and analysis should be read in conjunction with our audited consolidated financial statements and the accompanying notes thereto included in Item 8. Financial Statements and Supplementary Data. In addition to historical financial information, the following discussion and analysis contains forward-looking statements that involve risks, uncertainties and assumptions. See Forward-Looking Statements. Our results and the timing of selected events may differ materially from those anticipated in these forward-looking statements as a result of many factors.

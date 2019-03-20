@@ -1,0 +1,943 @@
+Item 2.01. Completion of Acquisition or Disposition of Assets
+As used in this report, unless otherwise indicated, the terms we and us refer to CX Network Group, Inc., a Nevada corporation (previously known as mLight Tech, Inc., a Florida corporation,), its owned subsidiary CX Cayman, Chuangxiang (Hong Kong) Holdings Limited (CX HK), Chuangxiang Network Technology (Shenzhen) Limited (CX Network) and Shenzhen Chuangxiang Network Technology Limited (Shenzhen CX), who is controlled by us via various contracts.
+CX Network
+Shenzhen CX
+Overview
+MLGT was founded in September 2010 to provide software solutions that simplify the management of networked personal computers. MLGT originally planned to develop products to automate network inventory and reporting, diagramming and documentation, problem identification and resolution, and compliance. On September 3, 2010, a total of 12,000,000 shares of Common Stock were issued to our then sole officer and director, Edward Sanders, all of which are restricted securities, as defined in Rule 144 of the Rules and Regulations of the SEC promulgated under the Securities Act.
+The Company became a publicly reporting company pursuant to a Registration Statement on Form S-1 (file No.333-169805), declared effective on December 16, 2010 by the U.S. Securities and Exchange Commission (the SEC). Subsequently on January 31, 2011, the Company sold 1,600,000 shares of its Common Stock to 24 shareholders pursuant to the registration statement.
+On February 26, 2013, the Company effectuated a 20-for-1 forward split of its Common Stock, upon which 20,000,000 shares of the Companys Common Stock were authorized.
+On June 7, 2013, the board of directors of the Company (the Board of Directors) elected Todd Sudeck as President, Secretary, CFO and sole director of the Company and accepted the resignation of Edward Sanders as President and sole director of the Company. On August 1, 2013, Todd Sudeck acquired all of the capital stock of the Company owned by Edward Sanders, consisting of 12,000,000 shares of Common Stock of the Company, which constituted approximately 88.2% of the then total issued and outstanding shares of Common Stock.
+Acquisition of Ding King Training Institute, Inc.
+On October 31, 2013, MLGT acquired all of the issued and outstanding capital stock of The Ding King Training Institute, Inc. (Ding King), an entity controlled by Todd Sudeck, our then sole officer and director pursuant to an agreement of exchange and sale of stock dated October 31, 2013. Upon closing of the transactions underlying the exchange agreement, the Company acquired Ding King and Ding King became a wholly-owned subsidiary of the Company.
+1
+1
+Securities Purchase Agreement Mr. Huibin Su, Mr. Jiyin Li and Chaoran Zhang
+On March 31, 2017, Todd Sudeck entered into a securities purchase agreement (the SPA) with Mr. Huibin Su, Mr. Jiyin Li, Mr. Chaoran Zhang (each a Purchaser and together, the Purchasers) and MLGT pursuant to which the Purchasers acquired an aggregate of 12,000,000 shares of Common Stock (the SPA Shares) from Todd Sudeck for an aggregate purchase price of $325,000. The transaction contemplated in the SPA closed on the same day (the SPA Closing). The SPA Shares represented approximately 87.17% of then issued and outstanding Common Stock of MLGT. In connection with the SPA Closing, Todd Sudeck, resigned from all his positions with the Company as the President, Chief Executive Officer, Chief Financial Officer, Secretary and the sole member of the Board of Directors.
+Purchaser
+Purchasers
+SPA Shares
+SPA Closing
+Simultaneously with the SPA Closing, Mr. Huibin Su was appointed as the Companys Chief Executive Officer, Chief Financial Officer and a director of the Board, Mr. Jiyin Li was appointed as the Chairman of the Board, and Mr. Zizhong Huang was appointed as the Companys Chief Operating Officer, all effective immediately upon SPA Closing.
+Disposition of our Wholly-owned Subsidiary, Ding King
+On March 31, 2017, MLGT entered into a spin-off with Ding King, and Todd Sudeck (the Spin-Off Agreement). Pursuant to the Spin-Off Agreement, Todd Sudeck received all of the issued and outstanding capital stock of Ding King in exchange for approximately 166,667 shares of Common Stock of the Company owned by Mr. Sudeck. Immediately upon and after the closing of the Spin-Off Agreement, Mr. Sudeck became the sole equity owner of Ding King and MLGT no long holds any equity interest in Ding King.
+Issuance and Conversion of the Promissory Notes
+Pursuant to the Spin-Off Agreement, MLGT issued three promissory notes (the Notes) to three holders for an aggregate amount of $133,000, with a 5% annual interest rate. On April 19, 2017, MLGT entered into a note conversion Agreement (the Conversion Agreement) with three note holders (the Converters) to convert their Notes into the Companys common stock. Pursuant to the Conversion Agreement, the entire principal amount of the Notes was converted into an aggregate number of approximately 886,667 shares of common stock of the Company at a conversion price of $0.15 per share (the Note Conversion). Upon execution of the Conversion Agreement, all the Converters agree to waive their rights to receive the payment of accrued and outstanding interest under the Notes as of the date of the Conversion Agreement.
+Conversion Agreement
+Converters
+Note Conversion
+Issuance of Debenture
+On April 19, 2017, MLGT entered into a securities purchase agreement (the Debenture Purchase Agreement) pursuant to which MLGT issued and sold in a private placement to a non-U.S. person a series A convertible debenture in an aggregate principal amount of $150,000 (the Debenture) with a 8% annual interest convertible into shares of Common Stock at price of $0.15 per share. The Debenture Purchase Agreement includes customary representations, warranties and covenants by the parties and customary termination provisions including that, subject to the terms of the Debenture Purchase Agreement, the Debenture Purchase Agreement may be terminated prior to closing by mutual written agreement between the Company and the Purchaser.
+Name Change, Domicile Change and Reverse Split
+On July 11, 2017, MLGT merged with and into CXKJ (the Merger), with CXKJ as the surviving corporation that operates under the name CX Network Group, Inc. (the Name Change), pursuant to an agreement and plan of merger (the Merger Agreement) dated July 3, 2017.
+Name Change
+Merger Agreement
+Pursuant to the Merger Agreement, immediately after the effective time of the Merger, the Companys corporate existence is governed by the laws of the State of Nevada and the Articles of Incorporation and bylaws of CXKJ (the Domicile Change), and each outstanding share of MLGTs common stock, par value $0.0001 per share was converted into 0.0667 outstanding share of common stock of CXKJ, par value $0.0001 per share at a one-for-fifteen reverse split ratio.
+2
+2
+The Name Change, Merger and Reverse Split was approved by the Financial Industry Regulatory Authority (FINRA) on July 11, 2017 and such corporation actions took effect at the open of business on July 12, 2017. Immediately prior to the effectiveness of the Reverse Split, we had 217,300,000 shares of common stock of MLGT issued and outstanding. Immediately upon the effectiveness of the reverse stock split, we have 14,486,670 shares of Common Stock of CXKJ issued and outstanding.
+On August 11, 2017, the Company was notified by FINRA Department of Market Operations (the Department) that they did not process the Reverse Split because they believed that the documentation provided by the Company did not support the Companys request to process a reverse split. In the same letter, the Department notified the Company that they processed the Companys request of the Merger, the mechanism the Company used to consummate the corporate actions mentioned above. Also in that letter, the Department mentioned that it announced the Reverse Split on July 11, 2017 but subsequently revised the announcement on July 28, 2017. On August 14, 2017, the Company received a notice from the Department that they did not process the symbol change because there is currently no symbol assigned to the Company.
+On August 16, 2017, the Company appealed the decisions made by the Department as mentioned herein above in connection with Reverse Stock Split, Name Change and Domicile Change (for more information about the corporate actions, refer to the current report on Form 8-K the Company filed on July 12, 2017). On October 3, 2017, a Subcommittee of FINRAs Uniform Practice Code Committee decided to remand the case to the Department for further review. Subsequently, the Department granted the Companys application for a symbol change. On November 3, 2017, the trading symbol for the Company was changed to CXKJ, effective immediately. The new CUSIP number is 12672T 108.
+Acquisition of CX Cayman.
+On March 20, 2018, pursuant to the Share Exchange Agreement, CXKJ acquired 100% of the issued and outstanding equity securities of CX Cayman in exchange for 5,350,000 shares of Common Stock of CXKJ. The acquisition was accounted for as a reverse merger and recapitalization effected by an acquisition. CX Cayman is considered the acquirer for accounting and financial reporting purposes. The assets and liabilities of the acquired entity have been brought forward at their book value and no goodwill has been recognized.
+3
+3
+The corporate structure of the Company subsequent to the closing of the Share Exchange is illustrated as follows:
+The address of our principal executive offices and corporate offices is Room 1205, 1A Building, Shenzhen Software Industry Base, Xuefu Rd, Nanshan District, Shenzhen City, Guangdong Province, China.
+Principal Terms of the Share Exchange Agreement
+On March 20, 2018, the Company, CX Cayman and the shareholders of CX Cayman entered into the Share Exchange Agreement pursuant to which the Company agreed to issue an aggregate of 5,350,000 shares of its Common Stock, representing 26.91% of the issued and outstanding shares of the Company immediately after closing, to CX Caymans shareholders in exchange for 100% of the issued and outstanding securities of CX Cayman.
+Both the Company and CX Cayman believed that the Share Exchange is in the best interest of their respective shareholders. The Company believed that the Share Exchange would enhance the value of the Company through the acquisition of 100% equity interest in CX Caymans viable business, and CX Cayman believed that such transaction would afford CX Cayman access to the U.S. capital market and other possible financial resources. Prior to the execution of the Share Exchange Agreement, there is material relationship had existed between the Company and CX Cayman that the shareholders of CX Cayman are shareholders and officers and/or directors of CXKJ. As a result of the execution of the Share Exchange Agreement, Mr. Huibin Su and Mr. Jiyin Li collectively hold 16,683,334 shares of Common Stock of CXKJ, representing 84.11% equity interest of CXKJ.
+4
+4
+As a result of the Share Exchange, the business of CX Cayman is now our business.
+CX Cayman and its operations
+CX Cayman does not have any substantive operations other than holding CX HK, which in return holding CX Network, who controls Shenzhen CX through certain contractual arrangements
+VIE Agreements
+In April 2017, Shenzhen Chuangxiang Network Technology (Shenzhen) Limited (CX Network), the wholly owned subsidiary of Chuangxiang (Hong Kong) Holdings Limited (CX HK), which is the wholly owned subsidiary of CX Cayman, Shenzhen Cuangxiang Network Technology Limited (Shenzhen CX) and the shareholders of Shenzhen CX entered into a series of contractual agreements for Shenzhen CX to qualify as variable interest entity or VIE (the VIE Agreements). The VIE Agreements are as follows:
+CX HK
+Shenzhen CX
+VIE Agreements
+Consulting Service Agreement
+Pursuant to the terms of certain Exclusive Technology Consulting Service Agreement dated April 20, 2017, between CX Network and Shenzhen CX (the Consulting Service Agreement), CX Network is the exclusive technology consulting service provider to Shenzhen CX to provide research and development support to related software and technology, responsible for computer network equipment, web design, monitor, test and security, in charge of the network maintenance, repair and security; applications development and market study, etc. Pursuant to the Consulting Service Agreement, Shenzhen CX agreed to pay a service fee to CX Network at a range of 90% to 100% of the monthly gross profit of Shenzhen CX based on certain factors set forth in the agreement, and Shenzhen CX agreed not to engage any third party for any of its technology consulting services provided under the agreement without the written consent of CX Network. In addition, Shenzhen CX has agreed not to establish any business cooperation with any third party without a written consent of CX Network and CX Network and/or its affiliates are entitled to a right of first refusal to cooperate with Shenzhen CX under the same conditions. This Agreement is valid for a term of 10 years subject to any extension requested by CX Network unless terminated by CX Network unilaterally prior to the expiration.
+The foregoing summary of the Consulting Service Agreement does not purport to be complete and is subject to, and qualified in its entirety by, the Consulting Service Agreement, which is filed as Exhibit 10.1 to this Form 8-K.
+Management Agreement
+Pursuant to the terms of certain Management Agreement dated April 20, 2017, among CX Network, Shenzhen CX and the shareholders of Shenzhen CX (the Management Agreement), Shenzhen CX has agreed to subject the operations and management of its business to the control of CX Network. According to the Management Agreement, Shenzhen CX is not allowed to conduct any transactions that has substantial impact upon its operations, assets, rights, obligations and personnel without the CX Networks written approval. CX Network has agreed to provide necessary financial supports whenever Shenzhen CX has operational difficulties. The shareholders of Shenzhen CX have agreed to transfer any dividends, distributions or any other profits that they receive as the shareholders of Shenzhen CX to CX Network without consideration. This Agreement is valid for a term of 10 years unless terminated earlier by CX Network with a 30-day written notice, provided that CX Network can extend the agreement before its expiration.
+The foregoing summary of the Management Agreement does not purport to be complete and is subject to, and qualified in its entirety by, the Management Agreement, which is filed as Exhibit 10.2 to this Form 8-K.
+5
+5
+Irrevocable Powers of Attorney
+The shareholders of Shenzhen CX have each executed an irrevocable power of attorney, dated April 20, 2017, to appoint CX Network as their exclusive attorneys-in-fact to vote on their behalf on all Shenzhen CXs matters requiring shareholders approval. The term of each power of attorney is valid for 10 years but may be extended upon CX Networks request.
+The foregoing summary of the Exclusive Option Agreement does not purport to be complete and is subject to, and qualified in its entirety by, the Exclusive Option Agreement, which is filed as Exhibit 10.3 to this Form 8-K.
+Exclusive Option Agreement
+Pursuant to the terms of certain Exclusive Option Agreement dated April 20, 2017, among CX Network, Shenzhen CX, and the shareholders of Shenzhen CX (the Exclusive Option Agreement), the shareholders of Shenzhen CX granted CX Network or its designees an irrevocable and exclusive purchase option (the Option) to purchase Shenzhen CXs all equity interests and/or assets at a purchase price of RMB 10, 000 subject to an adjustment to the amount equal to 1% of the evaluation of the total equity interest or asset of Shenzhen CX if such evaluation is required under the applicable PRC laws and regulations. The Option is exercisable at any time at CX Networks discretion in full or in part, to the extent permitted by PRC law. In the event that CX Network chooses to exercise only a portion of the Option, the purchase price shall be determined pro rata based on the portion of the equity interest and assets that CX Network desires to purchase. The Option is transferrable in full or in part by CX Network. Shenzhen CX has agreed without the written consent of CX Network, not to, among others, (i) amend its articles of incorporation; (ii) increase or decrease its registered capital or change its capital structure; (iii) transfer, dispose or pledge its material assets, business, profit or interest; (iv) provide loan or credit to any third party; or (v) enter into material contract or carry any debt out of the ordinary course of business. It further agrees to maintain good standing during the term of the Exclusive Option Agreement. The Exclusive Option Agreements is valid until that it is terminated by CX Network with 30 days written notice or all Shenzhen CXs equity interest and assets are transferred to CX Network or its third party designee.
+The foregoing summary of the Exclusive Option Agreement does not purport to be complete and is subject to, and qualified in its entirety by, the Exclusive Option Agreement, which is filed as Exhibit 10.4 to this Form 8-K.
+Equity Pledge Agreement
+Pursuant to the terms of certain Equity Pledge Agreement dated April 20, 2017, among CX Network and the shareholders of Shenzhen CX (the Pledge Agreement), the shareholders of Shenzhen CX pledged all of their equity interests in Shenzhen CX to CX Network, including the proceeds thereof, to guarantee Shenzhen CXs performance of its obligations under the Management Agreement, the Consulting Service Agreement and the Exclusive Option Agreement (each, a Agreement, collectively, the Agreements). If Shenzhen CX or its shareholders breach its respective contractual obligations under any Agreement, or cause to occur one of the events regards as an event of default under any Agreement, CX Network, as pledgee, will be entitled to certain rights, including the right to dispose of the pledged equity interest in Shenzhen CX. During the term of the Pledge Agreement, the pledged equity interests cannot be transferred without CX Networks prior written consent. The Pledge Agreements is valid until all the obligations due under the Agreements have been fulfilled unless terminated upon 30 days written notice by CX Network.
+Agreements
+The foregoing summary of the Equity Pledge Agreement does not purport to be complete and is subject to, and qualified in its entirety by, the Equity Pledge Agreement, which is filed as Exhibit 10.5 to this Form 8-K.
+Intellectual Property License Agreement
+Pursuant to the terms of certain intellectual property license agreement dated April 20, 2017 between the CX Network and Shenzhen CX (the  IP License Agreement), the CX Network is entitled to receive (i) a non-assignable, exclusive, and revocable license to certain registered trademarks owned by Shenzhen CX for use in connection with the goods or services approved by Shenzhen CXs registered trademarks, and (ii) a license to all of Shenzhen CXs copyrights, use and exploitation rights of Shenzhen CXs computer software products, including resale rights and rights in and to any and all associated media.
+6
+6
+The term of the IP License Agreement is 10 year from April 20, 2017 to April 20, 2027. The IP License Agreement can be renewed subject to a renewal notice from CX Network 2 months prior to its expiration. Additionally, both parties can terminate this IP License Agreement if either party commits a material breach and fails to cure such breach after 10 days of receiving the notice to cure from the other party. The License contains certain quality control requirements, branding and advertising guidelines and approval processes that CX Network is required to maintain.
+The foregoing summary of the IP License Agreement does not purport to be complete and is subject to, and qualified in its entirety by, the IP License Agreement, which is filed as Exhibit 10.6 to this Form 8-K.
+BUSINESS
+COMPANY OVERVIEW
+Immediately prior to entering into the Share Exchange Agreement with CX Cayman and shareholders of CX Cayman, we were a shell company with no significant asset or operation. As a result of the Share Exchange, we operate through our PRC affiliated entity, namely Shenzhen CX, located in Shenzhen, China. CX Cayman does not have any substantive operations other than holding CX HK, which in return holding CX Network, who controls Shenzhen CX through certain contractual arrangements.
+All references to the Company, we, our or us in this report are to CXKJ and its subsidiaries and Shenzhen CX.
+Our business consists of development and operation of online dating and mobile gaming products.
+Our online dating products Little Love () and Hotchat () are mobile applications geared towards Chinese singles designed to increase a users likelihood of finding a romantic connection. Our mission is to help individuals forge life-long relationships with others that share their interests and values. Through these mobile applications, our users can search for and communicate with other like-minded individuals. Our product creates a virtual community where users can meet, chat and message. We operate location-based social networks for meeting new people on mobile platforms, including on iPhone, Android, iPad and other tablets that facilitate interactions among users and encourage users to connect and chat with each other.
+Our online dating mobile platforms monetize through advertising, in-app purchases, and paid subscriptions. The Company offers online marketing capabilities, which enable marketers to display their advertisements in different formats and in different locations. In the near future, we plan to offer sophisticated data science for highly effective hyper-targeting. The Company is actively seeking the opportunities to works with its advertisers to maximize the effectiveness of their campaigns by optimizing advertisement formats and placements.
+Our mobile gaming products Eternal Tribe () and Bole Jiangmen Card and Board Game (Bole) () are Android-based mobile games developed solely by us to diversify our product portfolio. As China mobile game market continues to grow at rapid pace, our management team believe it is the right time to leverage our expertise in gaming app development to tap into this hot market. Both of our game apps offer interesting features that we feel have potentially wide appeal. With Eternal Tribe targeting at young millennial gamers who enjoy role-playing games on the go and Bole targeting at casual gamers who need easy-to-play games to past time, we expect these two products to become the major force in driving the growth of our company in the future. Our R&D team is currently developing Eternal Tribe international edition and Bole Guangdong edition to attract more users and subscribers.
+Our Industry
+Our current primary business is in the online dating industry, which we believe fulfills significant needs for single adults looking to meet a companion. Traditional methods such as printed personals advertisements, offline dating services and public gathering places often do not meet the needs of single people. Printed personals advertisements offer individuals limited personal information and interaction before meeting. Offline dating services are time-consuming, expensive and offer a smaller number of potential partners. Public gathering places such as restaurants, bars and other social venues provide a limited opportunity to learn about others prior to an in-person meeting. In contrast, online personals services facilitate interaction between singles by allowing them to screen and communicate with a large number of potential companions before they meet in-person. With features such as detailed personal profiles, email, mobile chat and instant messaging, this medium allows users to communicate with other singles at their convenience and affords them the ability to meet multiple people in an anonymous, convenient and secure setting.
+7
+7
+The online personals industry in China has experienced significant growth in recent years. According to 2017 Chinas Online Dating & Matchmaking Report, the revenue of Chinas online dating & matchmaking sector reached approximately 500 million USD in 2016, accounting for 36.5% of the total revenue of dating & matchmaking market. It is expected that the proportion will expand to 41.7% by 2019. Members of the millennial generation (individuals under 35 years old) tend to have the highest usage of online or mobile personals sites because of the large gender imbalance caused by one-child policy launched by Chinese government back in 1980. (source: http://www.iresearchchina.com/content/details8_31990.html)
+Another focus of our business is mobile gaming. According to the 2017 China Mobile Games Market Report, China is the single most important market in the world for mobile games. There are more than 500 million gamers in China, more than the entire population of the United States, which presents a great opportunity for local and global game developers and publishers. Mobile game revenue is the fastest growing segment and is projected to overtake PC online games in 2018, making up 58% of total games revenue in 2021. There were 503 million mobile gamers in 2016, rising to 699 million in 2021. Domestic market size in 2016 was $8.4 billion, rising to $14.4 billion in 2021. The demand for e-sports and the expansion into new genres suitable for core gamers are two of many drivers in the fast-growth mobile games market. The Top 20 of 400+ Android app stores account for 95% of distribution. Market share of new, expensive phones has fallen dramatically to the demand for quality, low-cost Android phones with mid to high-end specs (source data: http://www.cgigc.com.cn).
+Our Products
+Online Dating Products
+Our core subscription online dating services offer single adults a convenient and secure setting for meeting other singles. Users of our mobile applications are encouraged to become registered members and post profiles. Posting a profile is a process in which visitors are asked various questions about themselves, including information such as their tastes in food, hobbies and desired attributes of potential partners. Members may also post photos of themselves. Members can perform detailed searches of other profiles and save their preferences, and their profiles can be viewed by other members. In most cases, for a member to initiate email and instant message communication with others, that member must purchase a subscription and become a subscriber. A subscription affords access to the paying subscribers on-site email, mobile chat, and instant messaging systems, enabling such subscribers to communicate with other members and paying subscribers. Our uses make in-app purchases on an on-demand basis. Our users can pay subscription fee on monthly or annual basis to receive discounted prices for in-app purchases and additional or expanded features available only for subscribers. As of September 30, 2017, we had 761,764 users in Little Love and 91,232 users in Hot Chat, respectively. As of December 31, 2017, we had 1,200,825 users in Little Love and 110,209 users in Hot Chat, respectively.
+Little Love ()
+Platform Features. Little Love offers different ways for our users to communicate including:
+Private Chat. Users can utilize this feature to share message, voice mail, photos and emojis with each other in a completely private setting.
+On-Site Email. We provide all subscribers with private message centers. These personal on-site email boxes offer features such as customizable folders for storing correspondence, the ability to know when sent messages were read, as well as block and ignore functions, which allow paying subscribers to control future messages from specific paying subscribers.
+8
+8
+Hot Lists and Favorites. Hot Lists enable users to see who is interested in them and to save those favorite members in which they have an interest. Lists include (1) who has viewed their profile, (2) their favorites and (3) who has emailed them. Users can maintain their favorites on a list and add their own customized notes.
+Instant Message. Paying subscribers can use our instant messaging system to communicate with other subscribers in real-time. This allows subscribers to communicate directly with another subscriber online at the same time instantly.
+People Nearby. People Nearby connects users with random nearby locals for chatting and meeting up. This feature allows users to quickly establish connections and increase likelihood of finding someone who has similar interests.
+In-App Purchase Store. Our In-App Purchase feature enables users to purchase and give virtual gifts to other users who think they would be compatible with each other. A user can also purchase virtual items to customize and personalize her profile.
+Hotchat ()
+Platform Features. Hotchat offers different ways for our users to establish connections with professional live chat hosts instead of unknown strangers. The live chat between users and hosts are protected by high level of privacy so that our users could feel comfortable and engaged. Although Hotchat offers similar features as Little Love, it primarily focuses on assisting our male users connecting with female live chat hosts.
+Mobile Gaming Products
+During the three months ended December 31, 2017, our R&D department focused on the development of mobile gaming products. In January 2018, we launched two mobile gaming applications: Eternal Tribe () and Bole Jiangmen Card and Board Game (). For Eternal Triber, our users can deposit fund on as needed basis for the in-app purchases and for Bole, our users pay for each game that they want to play.
+Eternal Tribe
+The Eternal Tribe is a battle role-playing mobile game (RPG). This game, built with unity 3D engine, is designed to bring gamers intense and character-driven narratives, transport them into the most authentic World of Warcraft (WOW) environment and allow gamers to live out fantasy epics. Players take command of heroes from various races and have the options to customize their characters in a way similar to WOW. There is also the deluxe edition that offers additional features to help gamers in turn-based battles and give gamers options to waltz their ways through the story campaign and adjust their strategies in extra game modes. The combat system in this game is well-crafted to capture the intense sensation of fantasy warfare, and the unique weapon selection system further enhances the game experience. The abundance of strategic combat options offered by this game makes it well worth a go for fans of tactical RPGs.
+Bole Jiangmen Card and Board Game ()
+Card Bo-Le Collection is an Android-based puzzle casual mobile game. It is designed to be an online multiplayer game that delivers the thrill of real time friendly competitions. Card Bo-Le Collection has several exciting features including but not limited to the following:
+ a diverse and growing collection of card collectibles.
+
+a diverse and growing collection of card collectibles.
+a comprehensive online Frequently Asked Question (FAQ) section available in-game for beginners.
+
+a comprehensive online Frequently Asked Question (FAQ) section available in-game for beginners.
+9
+9
+ a smartly designed drag-drop interface.
+
+a smartly designed drag-drop interface.
+seamless online multiplayer experience, allowing gamers connecting with their friends from around the world.
+
+seamless online multiplayer experience, allowing gamers connecting with their friends from around the world.
+easy-to-use Invite and Compete features allowing gamers and their friends to enjoy the game anywhere, anytime.
+
+easy-to-use Invite and Compete features allowing gamers and their friends to enjoy the game anywhere, anytime.
+ tons of in-game trophies, awards, and achievements ready to be earned.
+
+tons of in-game trophies, awards, and achievements ready to be earned.
+Sales and Marketing
+We engage in a variety of marketing activities intended to drive user traffic to our mobile applications and give us the opportunity to introduce our products and services to prospective users. For our online dating apps, we (i) pay various mobile app channels to broadcast our apps to raise awareness of our products and increase their ranking to attract new users, (ii) engage in self-promoting on social media, (iii) advertise our products via our cooperative public platforms, (iv) organize off-line experience events and activities; and (v) we work with Hong Kong Xinglong Entertainment to engage its celebrity Girls Group 1n1 sisters as our product representative and singing the song Little Love for our application. With respect to our mobile gaming application which we launched in January 2018, our marketing strategy focus on seeking well known network and platform providers to broadcast the games, improving the products to raise its ranking in appstores, and display advertising to increase the exposure to attract new users.
+Customer Service
+Our call center and email support teams monitor our mobile applications for fraudulent activity, assist members with billing questions, help members complete personal profiles and answer technical questions. Customer service representatives receive ongoing training in an effort to better personalize the experience for members and paying subscribers who call or email us and to capitalize on upselling opportunities.
+Technology
+Our internal product teams are focused on the development and maintenance of products in addition to building and managing our software and hardware infrastructure. We intend to continue investing in the development of new products, such as mobile applications, and enhancing the efficiency and functionality of our existing products and infrastructure.
+Our network infrastructure and operations are designed to deliver high levels of availability, performance, security and scalability in a cost-effective manner. We operate web and database servers co-located at a third party data center facility in Irvine, California.
+Intellectual Property
+We do not have any intellectual property. Each following intellectual property is registered under and owned by Shenzhen CX and granted to us through the IP License Agreement:
+Patents: In China, the term for utility model patents is 10 years from the filing date.
+Patent Registered Area Registration Number Patent Type Registering Authority Registration Date A method of quick friend recommendation and making friends based on Bliss theorem China 201810004413.5 Utility Patent State Intellectual Property Office 01/2018 A method of establishing friendly social relations based on accelerometer sensor China 201810004321.8 Utility Patent State Intellectual Property Office 01/2018
+Registered Area
+Registration Number
+Patent Type
+Registering Authority
+Registration Date
+Date
+A method of quick friend recommendation and making friends based on Bliss theorem China 201810004413.5 Utility Patent State Intellectual Property Office 01/2018
+China
+201810004413.5
+Utility Patent
+State Intellectual Property Office
+01/2018
+A method of establishing friendly social relations based on accelerometer sensor China 201810004321.8 Utility Patent State Intellectual Property Office 01/2018
+China
+201810004321.8
+Utility Patent
+State Intellectual Property Office
+01/2018
+10
+10
+Copyrights: In China, the term of copyrights related to published software is from the date of the publishing to December 31 of the 50th year of the publishing.
+th
+Computer Software Registered Area Registration Number Description Registering Authority Registration Date Hot-Chat Social Application V1.0 China 2015SR209323 Social network platform National Copyright Administration of the Peoples Republic of China (NCAC) 10/2015 Hot-Chat Chatting Sytem (ios) V1.0.0 China 2016SR052205 Social network platform NCAC 3/2016 Little Love ios platform V1.0.0 China 2016SR250624 Mobile dating and social application NCAC 7/2016 Little Love Lover Pairing android platform V. 1.0.7 China 2017SR133444 Mobile dating and social application NCAC 4/2017 Online game Eternal Tribe software V1.0 China 2017SR259394 Online fantasy mobile game based on Greek mythology NCAC 6/2017 Bole Guangdong Mahjong software, V1.0 China 2017SR260719 Mobile board and card game NCAC 6/2017 Little flame social software android platform China 2016SR342537 Social network platform NCAC 11/2016 You have a date android platform China 2016SR342565 Social network platform NCAC 11/2016
+Registered Area
+Registration Number
+Description
+Registering Authority
+Registration Date
+Date
+Hot-Chat Social Application V1.0 China 2015SR209323 Social network platform National Copyright Administration of the Peoples Republic of China (NCAC) 10/2015
+China
+2015SR209323
+Social network platform
+National Copyright Administration of the Peoples Republic of China (NCAC)
+10/2015
+Hot-Chat Chatting Sytem (ios) V1.0.0 China 2016SR052205 Social network platform NCAC 3/2016
+China
+2016SR052205
+Social network platform
+NCAC
+3/2016
+Little Love ios platform V1.0.0 China 2016SR250624 Mobile dating and social application NCAC 7/2016
+China
+2016SR250624
+Mobile dating and social application
+NCAC
+7/2016
+Little Love Lover Pairing android platform V. 1.0.7 China 2017SR133444 Mobile dating and social application NCAC 4/2017
+China
+2017SR133444
+Mobile dating and social application
+NCAC
+4/2017
+Online game Eternal Tribe software V1.0 China 2017SR259394 Online fantasy mobile game based on Greek mythology NCAC 6/2017
+China
+2017SR259394
+Online fantasy mobile game based on Greek mythology
+NCAC
+6/2017
+Bole Guangdong Mahjong software, V1.0 China 2017SR260719 Mobile board and card game NCAC 6/2017
+China
+2017SR260719
+Mobile board and card game
+NCAC
+6/2017
+Little flame social software android platform China 2016SR342537 Social network platform NCAC 11/2016
+China
+2016SR342537
+Social network platform
+NCAC
+11/2016
+You have a date android platform China 2016SR342565 Social network platform NCAC 11/2016
+China
+2016SR342565
+Social network platform
+NCAC
+11/2016
+Trademarks: In China, the term of a registered trademark is 10 years. The owner can apply extension with the trademark office within six months before or after the expiration. The review process of a trademark application usually takes about one year in China.
+Trademarks Registered Area Trademark Number Category Description Registering Authority Term China TMZC18469330D01T170306 Category 38(1) Category 45(2) Trademark Office of The State Administration For Industry & Commerce of the Peoples Republic of China (the Trademark Office) 1/2017-1/2027 Live Love China Not available Category 9 (3) Category 38(1) Category 41(4) Category 42(5) Category 45(2) The Trademark Office Processing, pending approval
+Registered Area
+Trademark Number
+Number
+Category Description
+Registering Authority
+Term
+China TMZC18469330D01T170306 Category 38(1) Category 45(2) Trademark Office of The State Administration For Industry & Commerce of the Peoples Republic of China (the Trademark Office) 1/2017-1/2027
+China
+TMZC18469330D01T170306
+Category 38(1) Category 45(2)
+Category 45(2)
+Trademark Office of The State Administration For Industry & Commerce of the Peoples Republic of China (the Trademark Office)
+1/2017-1/2027
+Live Love China Not available Category 9 (3) Category 38(1) Category 41(4) Category 42(5) Category 45(2) The Trademark Office Processing, pending approval
+China
+Not available
+Category 9 (3) Category 38(1) Category 41(4) Category 42(5) Category 45(2)
+Category 38(1)
+Category 41(4)
+Category 42(5)
+Category 45(2)
+The Trademark Office
+Processing, pending approval
+(1)Category 38 includes information transmission; telephone communication; computer terminal communication; computer-aided information and image transmission; providing global computer network telecommunications connection service; providing global computer network user service; providing Internet chat room; providing database access service; Transmission; digital file transfer.
+(1)
+Category 38 includes information transmission; telephone communication; computer terminal communication; computer-aided information and image transmission; providing global computer network telecommunications connection service; providing global computer network user service; providing Internet chat room; providing database access service; Transmission; digital file transfer.
+11
+11
+(2)Category 45 includes dating services; open insurance lock; marriage introduction; fire control; organization of religious rallies; adoption agency; lost property; fire extinguisher rental; fire extinguisher rental; plan and arrange wedding services.
+(2)
+Category 45 includes dating services; open insurance lock; marriage introduction; fire control; organization of religious rallies; adoption agency; lost property; fire extinguisher rental; fire extinguisher rental; plan and arrange wedding services.
+(3)Category 9 includes data processing equipment; computer storage device; computer; recorded computer operating program; disk; floppy disk; recorded computer operating program; encoded magnetic card; microprocessor; computer software (recorded).
+(3)
+Category 9 includes data processing equipment; computer storage device; computer; recorded computer operating program; disk; floppy disk; recorded computer operating program; encoded magnetic card; microprocessor; computer software (recorded).
+(4)Category 41 includes organizational culture or educational exhibitions; organizing sports competitions; organizing performances (performances); arranging and organizing concerts; organizing for recreational purposes; arranging and organizing concerts; arranging and organizing concerts; fashion show; fashion show for entertainment.
+(4)
+Category 41 includes organizational culture or educational exhibitions; organizing sports competitions; organizing performances (performances); arranging and organizing concerts; organizing for recreational purposes; arranging and organizing concerts; arranging and organizing concerts; fashion show; fashion show for entertainment.
+(5)Category 42 includes computer software design; computer software update; computer hardware design and development consulting; computer software rental; recovery of computer data; computer software design; computer software design; ; computer software maintenance; computer software system analysis; computer system design; computer program copy; tangible data or files into electronic media; computer software installation; computer program and data conversion (non-tangible conversion); computer software consulting ; network server rental; provide internet search engine.
+(5)
+Category 42 includes computer software design; computer software update; computer hardware design and development consulting; computer software rental; recovery of computer data; computer software design; computer software design; ; computer software maintenance; computer software system analysis; computer system design; computer program copy; tangible data or files into electronic media; computer software installation; computer program and data conversion (non-tangible conversion); computer software consulting ; network server rental; provide internet search engine.
+Domains: In China, the registration of domains can be extended by annual renewal or periodic renewal by paying the annual or periodic registration fee. If renewal registration fee is not paid timely, the domain will become available to the public. Shenzhen CX has timely paid annual registration fee for all its domains.
+Names Registration Date Registering Authority chuangxiangkj.hk 6/2016 Guangdong Communication Administration chuangxiang.hk 6/2016 Guangdong Communication Administration chuangxiangkj.cn 6/2016 Guangdong Communication Administration chuangxiangkj.com.cn 6/2016 Guangdong Communication Administration chuangxiangkj.com 6/2016 Guangdong Communication Administration ixiaolianai.com 7/2016 Guangdong Communication Administration ichuaungxiang.com 9/2015 Guangdong Communication Administration reliaoapp.com 8/2015 Guangdong Communication Administration
+Registration Date
+Date
+Registering Authority
+chuangxiangkj.hk 6/2016 Guangdong Communication Administration
+6/2016
+Guangdong Communication Administration
+chuangxiang.hk 6/2016 Guangdong Communication Administration
+6/2016
+Guangdong Communication Administration
+chuangxiangkj.cn 6/2016 Guangdong Communication Administration
+6/2016
+Guangdong Communication Administration
+chuangxiangkj.com.cn 6/2016 Guangdong Communication Administration
+6/2016
+Guangdong Communication Administration
+chuangxiangkj.com 6/2016 Guangdong Communication Administration
+6/2016
+Guangdong Communication Administration
+ixiaolianai.com 7/2016 Guangdong Communication Administration
+7/2016
+Guangdong Communication Administration
+ichuaungxiang.com 9/2015 Guangdong Communication Administration
+9/2015
+Guangdong Communication Administration
+reliaoapp.com 8/2015 Guangdong Communication Administration
+8/2015
+Guangdong Communication Administration
+Competition
+We operate in a highly competitive environment with minimal barriers to entry. We believe the primary competitive factors in creating a community on the Internet are functionality, brand recognition, reputation, critical mass of members, member affinity and loyalty, ease-of-use, quality of service and reliability. We compete with a number of large and small companies, including vertically integrated Internet portals and specialty-focused media companies that provide online and offline products and services to the online dating market we serve. Our principal online dating services competitors include other mobile applications such as Momo, Tantan, Baobao and others. Our principal mobile gaming competitors include other online gaming applications such as Happy Doudizhu, Clash of Clans, Clash Royale, JJ Doudizhu and others. In addition, we face competition from new entrants that have recently offered free and freemium mobile applications such as Feeling.
+12
+12
+We believe our ability to compete depends upon many factors both within and beyond our control, including the following:
+ the size and diversity of our member and paying subscriber bases;
+
+the size and diversity of our member and paying subscriber bases;
+ the timing and market acceptance of our apps, including the developments and enhancements to those apps and features relative to those offered by our competitors;
+
+the timing and market acceptance of our apps, including the developments and enhancements to those apps and features relative to those offered by our competitors;
+ customer service and support efforts;
+
+customer service and support efforts;
+ selling and marketing efforts; and
+
+selling and marketing efforts; and
+ our brand strength in the marketplace relative to our competitors.
+
+our brand strength in the marketplace relative to our competitors.
+Government Regulations
+Our business is regulated by diverse and evolving laws and governmental authorities in China. We are subject to laws and regulations related to Internet communications, privacy, consumer protection, security and data protection, intellectual property rights, commerce, taxation, entertainment, recruiting and advertising. These laws and regulations are becoming more prevalent, and new laws and regulations are under consideration by the Chinese governments. Any failure by us to comply with existing laws and regulations may subject us to liabilities. New laws and regulations governing such matters could be enacted or amendments may be made to existing regulations at any time that could adversely impact our services. Plus, legal uncertainties surrounding Chinese government regulations could increase our costs of doing business, require us to revise our services, prevent us from delivering our services over the Internet or slow the growth of the Internet, any of which could materially adversely affect our business, financial condition and results of operations.
+Business License
+Any company that conducts business in the PRC must have a business license that covers the scope of the business in which such company is engaged. Following the Share Exchange, we conduct our business through our control of Shenzhen CX. Each of CX Network and Shenzhen CX holds a business license that covers its present business. The business license of CX Network was issued in April 2016. The scope of registered business of CX Network includes computer information systems, cloud storage, cloud computing, technology development, technical advice, technology transfer and technical services (excluding restricted and prohibited items, involving license management and other special regulations management, obtaining permission to operate); computer hardware and software, integrated circuit technology development, technical consulting, technology transfer and technical services, computer programming, scientific and technological information consultation (excluding restricted items). (The business license of Shenzhen CX was issued in August 2015. The scope of registered business of Shenzhen CX includes mobile phone software development (excluding limited items), computer software and hardware technology development and sales, economic information consulting, business management consulting (none of the above include restricted items); domestic trade (excluding franchise, Monopoly, Shangkong); import and export business (excluding items prohibited by laws and administrative regulations) and others.
+mobile phone software development (excluding limited items), computer software and hardware technology development and sales, economic information consulting, business management consulting (none of the above include restricted items); domestic trade (excluding franchise, Monopoly, Shangkong); import and export business (excluding items prohibited by laws and administrative regulations) and others.
+Employment Laws
+We are subject to laws and regulations governing our relationship with our employees including: wage and hour requirements, working and safety conditions, and social insurance, housing funds and other welfare. These include local labor laws and regulations, which may require substantial resources for compliance.
+13
+13
+Chinas National Labor Law, which became effective on January 1, 1995, and Chinas National Labor Contract Law, which became effective on January 1, 2008, permit workers in both state and private enterprises in China to bargain collectively. The National Labor Law and the National Labor Contract Law provide for collective contracts to be developed through collaboration between the labor union (or worker representatives in the absence of a union) and management that specify such matters as working conditions, wage scales, and hours of work. The laws also permit workers and employers in all types of enterprises to sign individual contracts, which are to be drawn up in accordance with the collective contract. The National Labor Contract Law has enhanced rights for the nations workers, including permitting open-ended labor contracts and severance payments. The legislation requires employers to provide written contracts to their workers, restricts the use of temporary labor and makes it harder for employers to lay off employees. It also requires that employees with fixed-term contracts be entitled to an indefinite-term contract after a fixed-term contract is renewed once or the employee has worked for the employer for a consecutive ten-year period.
+Tax
+Pursuant to the Provisional Regulation of China on Value Added Tax (VAT) and their implementing rules, all entities and individuals that are engaged in the sale of goods and the provision of value added services in China are generally required to pay VAT at a rate of 17.0% of the gross sales proceeds received, less any deductible VAT already paid or borne by the taxpayer.
+Foreign Currency Exchange
+The principal regulations governing foreign currency exchange in China are the Foreign Exchange Administration Regulations promulgated by the State Council, as amended on August 5, 2008, or the Foreign Exchange Regulations. Under the Foreign Exchange Regulations, the Renminbi is freely convertible for current account items, including the distribution of dividends, interest payments, trade and service-related foreign exchange transactions. Conversion of Renminbi for capital account items, such as direct investments, loans, repatriation of investments and investments in securities outside of China, however, is still subject to the approval of the PRC State Administration of Foreign Exchange, or SAFE. Foreign-invested enterprises may only buy, sell and/or remit foreign currencies at those banks authorized to conduct foreign exchange business after providing valid commercial documents and, in the case of capital account item transactions, obtaining approval from the SAFE. Capital investments by foreign-invested enterprises outside of China are also subject to limitations, which include approvals by the Ministry of Commerce, the SAFE and the State Reform and Development Commission.
+Dividend Distributions
+Under applicable PRC regulations, enterprises in China may pay dividends only out of their accumulated profits, if any, determined in accordance with PRC accounting standards and regulations. In addition, enterprises in China is required to set aside at least 10.0% of its after-tax profit based on PRC accounting standards each year as its statutory general reserves until the accumulative amount of such reserves reach 50.0% of its registered capital. These reserves are not distributable as cash dividends. The board of directors of enterprise has the discretion to allocate a portion of its after-tax profits to staff welfare and bonus funds, which may not be distributed to equity owners except in the event of liquidation.
+Properties
+All land in China is owned by the State. Individuals and companies are permitted to acquire rights to use land or land use rights for specific purposes. In the case of land used for industrial purposes, the land use rights are granted for a certain period no more than 50 years. This period may be renewed at the expiration of the initial and any subsequent terms. Granted land use rights are transferable and may be used as security for borrowings and other obligations. We do not own or have not been granted land use rights to any property in China or any other countries. We rent our office space through a lease which we believe is adequate and suitable for our current operations.
+14
+14
+We have the property set forth in the table below.
+Location Size Leased/Owned/Granted Function Room 1205 1A, Building, Shenzhen Software Industry Base, Xuefu Road, Nanshan District, Shenzhen, Guandong, P.R.C. 450 square meters (approximately 4843 square feet) Leased Office
+Size
+Leased/Owned/Granted
+Function
+Room 1205 1A, Building, Shenzhen Software Industry Base, Xuefu Road, Nanshan District, Shenzhen, Guandong, P.R.C. 450 square meters (approximately 4843 square feet) Leased Office
+450 square meters (approximately 4843 square feet)
+Leased
+Office
+Research and Development
+We have an in-house R&D team consisting of skilled engineers to develop our apps. For the fiscal year ended September 30, 2017, we incurred approximately $293,000 of research & development expenses for its in-house application development team.
+Employees
+As of March 20, 2018, we have 41 full time employees covered by a collective bargaining agreement. We have not experienced any work stoppages and we consider our relations with our employees to be good.
+Legal Proceedings
+We may from time to time become a party to various legal or administrative proceedings arising in the ordinary course of our business. We are not a party to any material legal proceedings and no material legal proceeding has been threatened by us or, to the best of our knowledge, against us.
+15
+15
+RISK FACTORS
+Any investment in our common stock involves a high degree of risk. Investors should carefully consider the risks described below and all of the information contained in this Current Report on Form 8-K before deciding whether to purchase, hold or sell our common stock. Our business, financial condition or results of our operations could be materially adversely affected by these risks, if any of them actually occur. Our shares of common stock are not currently listed on any national securities exchange. Some of these risk factors have affected our Companys financial condition and/or operating results in the past, or are currently affecting us. This Current Report on Form 8-K also contains forward-looking statements that involve risks and uncertainties. Our actual results, assuming we obtain financing and can commence our proposed business and operations, of which there can be no assurance, could differ materially from those anticipated in these forward-looking statements as a result of certain factors, including the risks described below and elsewhere in this Current Report on Form 8-K.
+RISKS RELATING TO OUR BUSINESS AND INDUSTRY
+The ability of the Company to continue as a going concern is dependent upon the Companys ability to raise additional funds and implement its business plan.
+The Companys consolidated financial statements have been prepared on a going concern basis, which contemplates the realization of assets and the settlement of liabilities and commitments in the normal course of business. As reflected in the Companys consolidated financial statements, during the fiscal year ended September 30, 2017, the Company incurred a net loss of $745,541, and used cash in operations of $571,636, and at September 30, 2017, the Company had an accumulated deficit of $1,546,324. These factors, among others, raise substantial doubt about the Companys ability to continue as a going concern. In addition, our independent registered public accounting firm included an explanatory paragraph in its report on our financial statements as of September 30, 2017 and 2016 with respect to this uncertainty. The ability of the Company to continue as a going concern is dependent upon the Companys ability to raise additional funds and implement its business plan. The financial statements do not include any adjustments that might be necessary if the Company is unable to continue as a going concern.
+Management estimates that the current funds on hand will not be sufficient to continue operations through the next twelve months or for us to achieve our business plan to finalize the development of our software and applications. Management is currently seeking additional funds, primarily through the issuance of equity securities for cash and loans from our offices and controlling shareholders to operate our business, and estimates that additional capital will be necessary to support our operations and growth.
+No assurance can be given that any future financing will be available or, if available, that it will be on terms that are satisfactory to the Company. Even if the Company is able to obtain additional financing, it may contain undue restrictions on our operations, in the case of debt financing or cause substantial dilution for our stock holders, in case of equity financing. The ability of the Company to continue as a going concern is dependent on managements plans, which include further implementation of its business plan and continuing to raise funds through debt and/or equity raises.
+We have a limited operating history, which makes it difficult to predict our future operating results.
+Our operating entity, Shenzhen CX commenced its operation in late 2015. As a result of our limited operating history, our ability to accurately forecast our future operating results is limited and subject to a number of uncertainties. We have encountered, and will continue to encounter, risks and uncertainties frequently experienced by growing companies in rapidly changing industries, such as the risks and uncertainties described herein. If our assumptions regarding these risks and uncertainties (which we use to plan our business) are incorrect or changed due to changes in our markets, or if we do not address these risks and uncertainties successfully, our operating and financial results could differ materially from our expectations, and our business could suffer.
+16
+16
+The market in which we participate is intensely competitive, and if we do not compete effectively, our operating results could be harmed.
+The market for dating apps and mobile gaming apps is fragmented, rapidly evolving and highly competitive, with relatively low barriers to entry for certain applications and services. Some of our competitors may enjoy better competitive positions in certain geographical regions or user demographics that we currently serve or may serve in the future. We expect competition in the online personals business to continue to increase because there are no substantial barriers to entry. We believe our ability to compete depends upon many factors both within and beyond our control, including the following:
+ the size and diversity of our member and paying subscriber bases;
+
+the size and diversity of our member and paying subscriber bases;
+ the timing and market acceptance of our apps, including the developments and enhancements to those apps and features relative to those offered by our competitors;
+
+the timing and market acceptance of our apps, including the developments and enhancements to those apps and features relative to those offered by our competitors;
+ customer service and support efforts;
+
+customer service and support efforts;
+ selling and marketing efforts; and
+
+selling and marketing efforts; and
+ our brand strength in the marketplace relative to our competitors.
+
+our brand strength in the marketplace relative to our competitors.
+We compete with traditional personals services, as well as newspapers, magazines and other traditional media companies that provide personals services. We also compete with a number of large and small companies, including Internet portals and specialty-focused media companies that provide online and offline products and services to the markets we serve. Our principal mobile-based apps competitors include Momo, Tantan, Baobao and others with respect to online dating and Happy Doudizhu, Clash of Clans, Clash Royale, JJ Doudizhu and others with respect to mobile gaming. Many of our current and potential competitors have longer operating histories, significantly greater financial, technical, marketing and other resources and larger customer bases than we do. These factors may allow our competitors to respond more quickly than we can to new or emerging technologies and changes in customer preferences. These competitors may engage in more extensive research and development efforts, undertake more far-reaching marketing campaigns and adopt more aggressive pricing policies that may allow them to build larger member and paying subscriber bases than ours. Our competitors may develop products or services that are equal or superior to our products and services or that achieve greater market acceptance than our products and services. These activities could attract members and paying subscribers away from our websites and reduce our market share.
+In addition, current and potential competitors are making, and are expected to continue to make, strategic acquisitions or establishing cooperatives and, in some cases, establishing exclusive relationships with significant companies or competitors to expand their businesses or to offer more comprehensive products and services. To the extent that these competitors or potential competitors establish exclusive relationships with major portals, search engines and Internet Service Providers, or ISPs, our ability to reach potential members through online advertising may be restricted. Any of these competitors could cause us difficulty in attracting and retaining members and converting members into paying subscribers and could jeopardize our existing affiliate program and relationships with portals, search engines, ISPs and other online properties.
+If we fail to stay current with new technologies and trend in online dating and mobile gaming, our applications could become obsolete
+We incur significant costs for research and development not only for the creation of new applications, but also for ensuring that our current applications will be compatible with new technologies. If our research and development team fail to upgrade our applications to stay current with new technologies or add new features that are popular for online dating and mobile gaming, our applications could become obsolete, which could result in a material adverse impact on our business and results of operations.
+We depend on our key executives, and our business and growth may be severely disrupted if we lose their services.
+Our future success depends substantially on the continued services of our key executives. In particular, we are highly dependent upon Mr. Huibin Su, Chief Executive Officer, Chief Financial Officer and director, who has established relationships within the industries we operate. If we lose the services of one or more of our current executive officers, we may not be able to replace them readily, if at all, with suitable or qualified candidates, and may incur additional expenses to recruit and retain new officers with industry experience similar to our current officers, which could severely disrupt our business and growth. In addition, if any of our executives joins a competitor or forms a competing company, we may lose some of our suppliers or customers. Furthermore, as we expect to continue to expand our operations and develop new products, we will need to continue attracting and retaining experienced management and key research and development personnel.
+17
+17
+Competition for qualified candidates could cause us to offer higher compensation and other benefits in order to attract and retain them, which could have a material adverse effect on our financial condition and results of operations. We may also be unable to attract or retain the personnel necessary to achieve our business objectives, and any failure in this regard could severely disrupt our business and growth.
+The technology behind our products contains important intellectual property and know-how, and our ability to compete could be harmed if any such intellectual property and know-how are disclosed to third parties by our engineer.
+We regard our trademarks, patents, copyrights and other intellectual property as critical to our success. In particular, we have spent a significant amount of time and resources in developing our online dating and mobile gaming apps and our ability to protect our proprietary rights in connection with our platform and apps is critical for the success of our features and our overall financial performance. We expect to apply for additional patents, copyrights, trademarks and domains as we continue the development of our platform. However, we cannot assure you that our measures will be sufficient to protect our proprietary information and intellectual property.
+If we are not able to provide successful enhancements, new features and modifications to our services, our business could be adversely affected.
+Our industry is marked by rapid technological developments and new and enhanced applications and services. If we are unable to provide enhancements and new features for our existing services or new services that achieve market acceptance or that keep pace with rapid technological developments, our business could be adversely affected. The success of enhancements, new features and services depends on several factors, including the timely completion, introduction and market acceptance of such enhancements, features or services. Failure in this regard may significantly impair our revenue growth. In addition, because our services are designed to operate on a variety of systems, we will need to continuously modify and enhance our services to keep pace with changes in internet-related hardware, mobile operating systems such as iOS and Android, and other software, communication, browser and database technologies. We may not be successful in either developing these modifications and enhancements or in bringing them to market in a timely fashion. Furthermore, modifications to existing platforms or technologies will increase our research and development expenses. Any failure of our services to operate effectively with future network platforms and technologies could reduce the demand for our services, result in customer dissatisfaction and adversely affect our business.
+If we are not able to satisfy data protection, security, privacy, and other government- and industry-specific requirements, our growth could be harmed.
+There are a number of data protection, security, privacy and other government- and industry-specific requirements, including those that require companies to notify individuals of data security incidents involving certain types of personal data. Security compromises experienced by our competitors, by our future customers or by us may lead to public disclosures, which could harm our reputation, erode customer confidence in the effectiveness of our security measures, negatively impact our ability to attract new future customers, or cause such future customers to elect not to renew their agreements with us. As we expand into new verticals and regions, we will need to comply with these and other new requirements. If we cannot comply or if we incur a violation in one or more of these requirements, our growth could be adversely impacted, and we could incur significant liability.
+We cannot accurately predict new subscription or expansion rates and the impact these rates may have on our future revenue and operating results.
+At present we have few customers and little revenue. In order for us to improve our operating results and continue to grow our business, it is important that we attract new subscribers and expand in-app purchases for existing subscribers. To the extent we are successful in increasing our subscriber base, we could incur increased losses because costs associated with new subscribers are generally incurred up front, while revenue will be recognized ratably over the term of our subscription services. Alternatively, to the extent we are unsuccessful in increasing our subscriber base, we could also incur increased losses as costs associated with marketing programs and new products intended to attract new subscribers would not be offset by incremental revenue and cash flow. Furthermore, if our future subscribers do not expand their in-app purchases, our revenue may grow more slowly than we expect. All of these factors can negatively impact our future revenue and operating results.
+18
+18
+If we fail to effectively manage our technical operations infrastructure, our users may experience service outages and delays in the further deployment of our applications, which may adversely affect our business.
+We have experienced significant growth in the number of users and the amount of data that our operations infrastructure supports. We seek to maintain sufficient excess capacity in our operations infrastructure to meet the needs of all of our users. We also seek to maintain excess capacity to facilitate the rapid provisioning of new user deployments and the expansion of existing user deployments. In addition, we need to properly manage our technological operations infrastructure in order to support version control, changes in hardware and software parameters and the evolution of our services. However, the provision of new hosting infrastructure requires significant lead-time. We have experienced, and may in the future experience, network disruptions, outages and other performance problems. These problems may be caused by a variety of factors, including infrastructure changes, human or software errors, viruses, security attacks, fraud, spikes in customer usage and denial of service issues. In some instances, we may not be able to identify the cause or causes of these performance problems within an acceptable period of time, which may harm our reputation and operating results. Furthermore, if we do not accurately predict our infrastructure requirements, our existing customers may experience service outages that may subject us to financial penalties, financial liabilities and customer losses. If our operations infrastructure fails to keep pace with increased sales, customers may experience delays as we seek to obtain additional capacity, which could adversely affect our reputation and our revenue.
+We focus on product innovation and user engagement rather than short-term operating results.
+We focus heavily on developing and launching new and innovative products and features, as well as on improving the user experience for our services. We also focus on growing the number of our users and paying organizations through direct field sales, direct inside sales, indirect channel sales and through word-of-mouth by individual users, some of whom use our services at no cost. We prioritize innovation and the experience for users on our platform, as well as the growth of our user base, over short-term operating results. We frequently make product and service decisions that may reduce our short-term operating results if we believe that the decisions are consistent with our goals to improve the user experience and to develop innovative features that we feel our users desire. These decisions may not be consistent with the short-term expectations of investors and may not produce the long-term benefits that we expect.
+If the prices for our subscription and in-app purchases are unacceptable to our subscribers, our operating results will be harmed.
+As the market for online dating and mobile gaming matures, or as new or existing competitors introduce new applications or features that compete with ours, we may experience pricing pressure and lose existing subscribers or attract new subscribers at prices that are consistent with our pricing model and operating budget. If this were to occur, it is possible that we would have to change our pricing model or reduce our prices, which could harm our revenue, gross margin and operating results.
+Business evaluation is difficult because we have not yet commenced significant business activities.
+We are still a company in development stage and to date only have developed four mobile apps.
+We have generated a small amount of revenue and have incurred accumulated deficit of $1,546,324 as of September 30, 2017.
+You cannot evaluate our business or our future prospects due to our lack of operating history. As the date hereof, we have been involved in limited business activities. Potential investors should be aware of the difficulties normally encountered by development stage companies and the high rate of failure of such enterprises.
+19
+19
+Furthermore, we anticipate that we will incur increased operating expenses without realizing any significant revenue. We therefore expect to incur significant losses into the foreseeable future. We recognize that if we are unable to generate sufficient revenues from our operations, we will not be able to continue operations.
+The lack of public company experience of our officers and directors could adversely impact our ability to comply with the reporting requirements of U.S. Securities laws.
+Our Officers and Directors, have had no responsibility for managing a public company in the United States, which could impair our ability to comply with legal and regulatory requirements such as those imposed by the Sarbanes-Oxley Act of 2002. Such responsibility includes complying with federal securities laws and making required disclosures on a timely basis. In addition, our Officers and Directors may not be able to implement programs and policies in an effective and timely manner or in a manner which adequately responds to such increased legal, regulatory compliance and reporting requirements, including establishing and maintaining internal controls over financial reporting. Any such deficiencies, weaknesses or lack of compliance could have a materially adverse effect on our ability to comply with the reporting requirements of the Exchange Act, which is necessary to maintain our public company status. If we were to fail to fulfill those obligations, our ability to continue as a U.S. public company would be in jeopardy, in which event you could lose your entire investment.
+Our executive officers do not reside in the United States.
+Our executive Officers do not reside in the United States. The U.S. shareholders would face difficulty in:
+ effecting service of process within the United States on our Officers;
+
+effecting service of process within the United States on our Officers;
+ enforcing judgments obtained in U.S. courts based on the civil liability provisions of the U.S. federal securities laws against the Officers;
+
+enforcing judgments obtained in U.S. courts based on the civil liability provisions of the U.S. federal securities laws against the Officers;
+ enforcing judgments of U.S. courts based on civil liability provisions of the U.S. federal securities laws in foreign courts against our Officers; and
+
+enforcing judgments of U.S. courts based on civil liability provisions of the U.S. federal securities laws in foreign courts against our Officers; and
+ bringing an original action in foreign courts to enforce liabilities based on the U.S. federal securities laws against our Officers.
+
+bringing an original action in foreign courts to enforce liabilities based on the U.S. federal securities laws against our Officers.
+We are an Emerging Growth Company and intend to take advantage of reduced disclosure and Governance Requirements applicable to Emerging Growth Companies; As a result our ordinary share may be less attractive to investors.
+We are an emerging growth company, as defined in the Jumpstart Our Business Startups Act of 2012. We intend to take advantage of certain exemptions from various reporting requirements that are applicable to other public companies than an emerging growth companies. Such exemptions include, but not limited to: not being required to comply with the auditor attestation requirements of Section 404 of the Sarbanes-Oxley Act; reduced disclosure obligations regarding executive compensation in our periodic reports and proxy statements; exemptions from the requirements of holding a nonbinding advisory vote on executive compensation and shareholder approval of any golden parachute payments not previously approved. We may take advantage of these reporting exemptions until we are no longer considered an emerging growth company, which in certain circumstances could be up to five years. There may be a less active trading market for our ordinary share and our stock price may be more volatile.
+Furthermore, we will remain an emerging growth company for up to five years, although we will lose that status as of the following fiscal year if our total revenues exceed $1.07 billion, if we issue more than $1 billion in non-convertible debt in a three year period, or if the market value of our ordinary share that are held by non-affiliates exceeds $700 million on the last day of our second fiscal quarter.
+20
+20
+RISKS RELATING TO OUR SECURITIES
+If we fail to maintain effective internal controls over financial reporting, the price of our common stock may be adversely affected.
+We are required to establish and maintain appropriate internal controls over financial reporting. Failure to establish those controls, or any failure of those controls once established, could adversely impact our public disclosures regarding our business, financial condition or results of operations. Any failure of these controls could also prevent us from maintaining accurate accounting records and discovering accounting errors and financial frauds. Rules adopted by the SEC pursuant to Section 404 of the Sarbanes-Oxley Act of 2002 require annual assessment of our internal control over financial reporting. The standards that must be met for management to assess the internal control over financial reporting as effective are complex, and require significant documentation, testing and possible remediation to meet the detailed standards. We may encounter problems or delays in completing activities necessary to make an assessment of our internal control over financial reporting. If we cannot assess our internal control over financial reporting as effective, investor confidence and share value may be negatively impacted.
+In addition, managements assessment of internal controls over financial reporting may identify weaknesses and conditions that need to be addressed in our internal controls over financial reporting or other matters that may raise concerns for investors. Any actual or perceived weaknesses and conditions that need to be addressed in our internal control over financial reporting, disclosure of managements assessment of our internal controls over financial reporting, or disclosure of our public accounting firms attestation to or report on managements assessment of our internal controls over financial reporting may have an adverse impact on the price of our common stock.
+Because of our lack of operations and the nature of our business, our securities are considered highly speculative.
+Our securities must be considered highly speculative, generally because of the nature of our business and the current lack of substantial development. We have only generated modest revenues to date, and there is little likelihood that we will realize any significant profits in the short term. Since we are still a development stage company, we will have to raise monies for our operations through the sale of our equity securities or debt in order to continue our business operations.
+We may, in the future, issue additional common shares that would reduce investors percent of ownership and may dilute our share value.
+The future issuance of preferred and/or common shares may result in substantial dilution in the percentage of our common shares held by our then existing stockholders. We may value any common shares issued in the future on an arbitrary basis. The issuance of common shares may have the effect of diluting the value of the common shares held by our investors, and might have an adverse effect on any trading market for our common shares.
+The Market for Penny Stock has suffered in recent years from patterns of fraud and abuse
+Stockholders should be aware that, according to SEC Release No. 34-29093, the market for penny stocks has suffered in recent years from patterns of fraud and abuse. Such patterns include: (i) control of the market for the security by one or a few broker-dealers that are often related to the promoter or issuer; (ii) manipulation of prices through prearranged matching of purchases and sales and false and misleading press releases; (iii) boiler room practices involving high-pressure sales tactics and unrealistic price projections by inexperienced salespersons; (iv) excessive and undisclosed bid-ask differential and markups by selling broker-dealers; and, (v) the wholesale dumping of the same securities by promoters and broker-dealers after prices have been manipulated to a desired level, along with the resulting inevitable collapse of those prices and with consequential investor losses.
+Our common shares are subject to the Penny Stock Rules of the SEC, which makes transactions in our stock cumbersome and may reduce the value of an investment in our stock.
+The SEC has adopted regulations that generally define a penny stock to be any equity security other than a security excluded from such definition by Rule 3a51-1 under the Securities Exchange Act of 1934, as amended. For the purposes relevant to our Company, it is any equity security that has a market price of less than $5.00 per share, subject to certain exceptions.
+21
+21
+Our common shares are currently regarded as a penny stock, since our shares are not listed on a national stock exchange or quoted on the NASDAQ Market within the United States, to the extent the market price for its shares is less than $5.00 per share. The penny stock rules require a broker-dealer to deliver a standardized risk disclosure document prepared by the SEC, to provide a customer with additional information including current bid and offer quotations for the penny stock, the compensation of the broker-dealer and its salesperson in the transaction, monthly account statements showing the market value of each penny stock held in the customers account, and to make a special written determination that the penny stock is a suitable investment for the purchaser, and receive the purchasers written agreement to the transaction.
+To the extent these requirements may be applicable; they will reduce the level of trading activity in the secondary market for the common shares and may severely and adversely affect the ability of broker-dealers to sell the common shares.
+Trading in our stock is limited by the lack of market makers and FINRA sales practice requirements may also limit a stockholders ability to buy and sell our stock.
+In November 2017, though we were granted a trading symbol CXKJ by the Department after the appeal, we lost all market makers and traded on the OTC Grey Market which has limited quotations and marketability of securities. Holders of our common stock found it more difficult to dispose of, or to obtain accurate quotations as to the market value of, our common stock, and the market value of our common stock declined. We plan to take the appropriate steps to up-list to the OTCQB Exchange and resume priced quotations with market makers as soon as it is able, however, we cannot assure whether and when we will be successful with respect to this plan.
+In addition to the penny stock rules promulgated by the SEC, which are discussed in the immediately preceding risk factor, FINRA rules require that in recommending an investment to a customer, a broker-dealer must have reasonable grounds for believing that the investment is suitable for that customer. Prior to recommending speculative low-priced securities to their non-institutional customers, broker-dealers must make reasonable efforts to obtain information about the customers financial status, tax status, investment objectives and other information. Under interpretations of these rules, FINRA believes that there is a high probability that speculative low-priced securities will not be suitable for at least some customers. FINRA requirements make it more difficult for broker-dealers to recommend that their customers buy our common stock, which may limit the ability to buy and sell our stock and have an adverse effect on the market value for our shares.
+Trading on the OCT Market may be volatile and sporadic, which could depress the market price of our common stock and make it difficult for our stockholders to resell their shares.
+Our common stock is listed on the OTC Grey Market operated by OTC Markets Group Inc. Trading in stock quoted on the OTC is often thin and characterized by wide fluctuations in trading prices, due to many factors that may have little to do with our operations or business prospects. This volatility could depress the market price of our common stock for reasons unrelated to operating performance. Moreover, the OTC Market is not a stock exchange, and trading of securities on the OTC Market is often more sporadic than the trading of securities listed on a quotation system like Nasdaq or a stock exchange like NYSE. Accordingly, shareholders may have difficulty reselling any of the shares. At this time, there is no bid for our shares in the market, and there has been virtually limited trading in our shares for more than six months.
+Because we do not intend to pay any dividends on our shares, investors seeking dividend income or liquidity should not purchase our shares.
+We have not declared or paid any dividends on our shares since inception, and do not anticipate paying any such dividends for the foreseeable future. If payment of dividends does occur at some point in the future, it would be contingent upon our revenues and earnings, if any, capital requirements, and general financial condition. The payment of any common stock dividends will be within the discretion of our Board of Directors. We presently intend to retain all earnings to promote our applications and develop new applications and add-on features to our existing applications; accordingly, we do not anticipate the declaration of any dividends for common stock in the foreseeable future. Investors seeking dividend income or liquidity should not invest in our shares.
+22
+22
+Because we can issue additional shares, purchasers of our shares may incur immediate dilution and may experience further dilution.
+We are authorized to issue up to 20,000,000 shares of common stock and 5,000,000 shares of preferred stock. The board of directors of our company has the authority to cause us to issue additional shares, and to determine the rights, preferences and privileges of such shares, without consent of any of our stockholders. Consequently, our stockholders may experience more dilution in their ownership of our company in the future.
+Our common stock may experience extreme rises or declines in price, and you may not be able to sell your shares at or above the price paid.
+Our common stock may be highly volatile and could be subject to extreme fluctuations in response to various factors, many of which are beyond our control, including (but not necessarily limited to): (i) the trading volume of our shares; (ii) the number of securities analysts, market-makers and brokers following our common stock; (iii) changes in, or failure to achieve, financial estimates by securities analysts; (iv) actual or anticipated variations in quarterly operating results; (v) conditions or trends in our business industries; (vi) announcements by us of significant contracts, acquisitions, strategic partnerships, joint ventures or capital commitments; (vii) additions or departures of key personnel; (viii) sales of our common stock; and (ix) general stock market price and volume fluctuations of publicly trading and particularly, microcap companies.
+Investors may have difficulty reselling shares of our common stock, either at or above the price they paid for our stock, or even at fair market value. The stock markets often experience significant price and volume changes that are not related to the operating performance of individual companies, and because our common stock is thinly traded it is particularly susceptible to such changes. These broad market changes may cause the market price of our common stock to decline regardless of how well we perform as a company. In addition, there is a history of securities class action litigation following periods of volatility in the market price of a companys securities. Although there is no such shareholder litigation currently pending or threatened against the Company, such a suit against us could result in the incursion of substantial legal fees, potential liabilities and the diversion of managements attention and resources from our business. Moreover, and as noted below, our shares are currently traded on the OTC-Pink and, further, are subject to the penny stock regulations. Price fluctuations in such shares are particularly volatile and subject to manipulation by market-makers, short-sellers and option traders.
+RISKS RELATING TO OUR CORPORATE STRUCTURE
+Our mobile app development business is subject to extensive regulation in China. If the PRC government finds that the contractual arrangement that establishes our corporate structure for operating our business does not comply with applicable PRC laws and regulations, we could be subject to severe penalties.
+Our mobile app development business is subject to extensive regulations in China. The Chinese government regulates various aspects of our business and operations, such as mobile app content, subscribing methods, subscription fees and etc. The laws and regulations applicable to the online dating sector are subject to frequent change, and new laws and regulations may be adopted, some of which may have a negative effect on our business, either retroactively or prospectively.
+If our ownership structure and contractual arrangements are found to be in violation of any PRC laws or regulations, or if we are found to be required but failed to obtain any of the permits or approvals for our mobile apps development business, the relevant PRC regulatory authorities, including the Cyberspace Administration of China or the CAC, which regulates the mobile app service industry in China, Ministry of Commerce of PRC, or the MOFCOM, which regulates the foreign investment in China would have broad discretion in imposing fines or punishments upon us for such violations, including:
+ revoking the business and operating licenses of Shenzhen CX;
+
+revoking the business and operating licenses of Shenzhen CX;
+ discontinuing or restricting any related-party transactions between Shenzhen CX and our affiliated entities;
+
+discontinuing or restricting any related-party transactions between Shenzhen CX and our affiliated entities;
+ imposing fines and penalties, or imposing additional requirements for our operations which we, Shenzhen CX or our affiliated entities may not be able to comply with;
+
+imposing fines and penalties, or imposing additional requirements for our operations which we, Shenzhen CX or our affiliated entities may not be able to comply with;
+23
+23
+ revoking the preferential tax treatment available to us;
+
+revoking the preferential tax treatment available to us;
+ requiring us to restructure the ownership and control structure; or
+
+requiring us to restructure the ownership and control structure; or
+ restricting or prohibiting our use of the proceeds of this offering to finance our business and operations in China, particularly the expansion of our business through strategic acquisitions.
+
+restricting or prohibiting our use of the proceeds of this offering to finance our business and operations in China, particularly the expansion of our business through strategic acquisitions.
+As of the date of this prospectus, similar ownership structure and contractual arrangements have been used by many China-based companies listed overseas, including a number of internet companies listed in the United States. To our knowledge, none of the fines or punishments listed above has been imposed on any of these public companies. However, we cannot assure you that such fines or punishments will not be imposed on us or any other companies in the future. If any of the above fines or punishments is imposed on us, our business, financial condition and results of operations could be materially and adversely affected.
+We rely on contractual arrangements with Shenzhen CX and its shareholders for our operations in China, which may not be as effective in providing control as direct ownership.
+We have relied and expect to continue to rely on the contractual arrangements with Shenzhen CX and its shareholders to operate our mobile app development business. For a description of these contractual arrangements, see VIE Agreements on page 5. However, these contractual arrangements may not be as effective as direct equity ownership in providing us with control over Shenzhen CX. Any failure by our affiliated entities, including Shenzhen CX and the shareholders of Shenzhen CX, to perform their obligations under the contractual arrangements would have a material adverse effect on the consolidated financial position and consolidated financial performance of our company. For example, the contractual arrangements are governed by PRC law and provide for the resolution of disputes through arbitration in the PRC. Accordingly, these contracts would be interpreted in accordance with PRC law and any disputes would be resolved in accordance with PRC legal procedures. The legal system in the PRC is not as developed as some other jurisdictions, such as the United States. As a result, uncertainties in the PRC legal system could limit our ability to enforce these contractual arrangements. In addition, if the legal structure and the contractual arrangements were found to be in violation of any existing or future PRC laws and regulations, we may be subject to fines or other legal or administrative sanctions.
+If the imposition of government actions causes us to lose our right to direct the activities of our affiliated entities or our right to receive substantially all the economic benefits and residual returns from our affiliated entities and we are not able to restructure our ownership structure and operations in a satisfactory manner, we would no longer be able to consolidate the financial results of our affiliated entities.
+Contractual arrangements between our affiliated entities and us may be subject to scrutiny by the PRC tax authorities and a finding that we or our affiliated entities owe additional taxes could materially reduce our net income and the value of your investment.
+Under PRC laws and regulations, transactions between related parties should be conducted on an arms-length basis and may be subject to audit or challenge by the PRC tax authorities. We could face material adverse tax consequences if the PRC tax authorities determine that the contractual arrangements among our subsidiary in the PRC, our affiliated entities and the shareholder of Shenzhen CX are not conducted on an arms-length basis and adjust the income of our affiliated entities through the transfer pricing adjustment. A transfer pricing adjustment could, among other things, result in, for PRC tax purposes, increased tax liabilities of our affiliated entities. In addition, the PRC tax authorities may require us to disgorge our prior tax benefits, and require us to pay additional taxes for prior tax years and impose late payment fees and other penalties on our affiliated entities for underpayment of prior taxes. To date, similar contractual arrangements have been used by many public companies, including companies listed in the United States, and, to our knowledge, the PRC tax authorities have not imposed any material penalties on those companies. However, we cannot assure you that such penalties will not be imposed on any other companies or us in the future. Our net income may be harmed if the tax liabilities of our affiliated entities materially increase or if they are found to be subject to additional tax obligations, late payment fees or other penalties.
+24
+24
+If any of our affiliated entities becomes the subject of a bankruptcy or liquidation proceeding, we may lose the ability to use and enjoy assets held by such entity, which could materially and adversely affect our business, financial condition and results of operations.
+We currently conduct our operations in China through contractual arrangements with our affiliated entities and the shareholders of Shenzhen CX. As part of these arrangements, substantially all of our assets that are important to the operation of our business are held by our affiliated entities. If any of these entities goes bankrupt and all or part of their assets become subject to liens or rights of third-party creditors, we may be unable to continue some or all of our business activities, which could materially and adversely affect our business, financial condition and results of operations. If any of our affiliated entities undergoes a voluntary or involuntary liquidation proceeding, its equity owner or unrelated third-party creditors may claim rights relating to some or all of these assets, which would hinder our ability to operate our business and could materially and adversely affect our business, our ability to generate revenue and the market price of our ordinary shares.
+If the custodians or authorized users of our controlling non-tangible assets, including chops and seals, fail to fulfill their responsibilities, or misappropriate or misuse these assets, our business and operations could be materially and adversely affected.
+Under PRC law, legal documents for corporate transactions, including agreements and contracts that our business relies on, are executed using the chop or seal of the signing entity or with the signature of a legal representative whose designation is registered and filed with the relevant Administration of Industry and Commerce.
+In order to maintain the physical security of our chops, we generally have them stored in secured locations accessible only to authorized employees. Although we monitor such authorized employees, the procedures may not be sufficient to prevent all instances of abuse or negligence. There is a risk that our employees could abuse their authority, for example, by entering into a contract not approved by us or seeking to gain control of one of our subsidiaries or affiliated entities. If any employee obtains, misuses or misappropriates our chops and seals or other controlling intangible assets for whatever reason, we could experience disruption to our normal business operations. We may have to take corporate or legal action, which could involve significant time and resources to resolve while distracting management from our operations.
+RISKS RELATING TO DOING BUSINESS IN CHINA
+Labor laws in the PRC may adversely affect our results of operations.
+On June 29, 2007, the PRCs government promulgated the labor contract law of the PRC, which became effective on January 1, 2008 and was subsequently amended on December 28, 2012. The labor contract law imposes greater liabilities on employers and significantly affects the cost of an employers decision to reduce its workforce. Further, the law requires certain terminations be based upon seniority and not merit. In the event that we decide to significantly change or decrease our workforce, the labor contract law could adversely affect our ability to enact such changes in a manner that is most advantageous to our business or in a timely and cost-effective manner, thus materially and adversely affecting our financial condition and results of operations.
+We may be exposed to liabilities under the foreign corrupt practices act and Chinese anti-corruption law.
+In connection with this offering, we will become subject to the U.S. foreign corrupt practices act (FCPA), and other laws that prohibit improper payments or offers of payments to foreign governments and their officials and political parties by U.S. persons and issuers as defined by the statute for the purpose of obtaining or retaining business. We are also subject to Chinese anti-corruption laws, which strictly prohibit the payment of bribes to government officials. We have operations, agreements with third parties, and make sales in China, which may experience corruption. Our activities in China create the risk of unauthorized payments or offers of payments by one of the employees, consultants of our company, because these parties are not always subject to our control. We are in the process of implementing an anticorruption program, which will prohibit the offering or giving of anything of value to governmental officials or third parties, directly or indirectly, for the purpose of obtaining or retaining business. In the meantime, we believe to date we have complied in all material respects with the provisions of the FCPA and Chinese anti-corruption laws. However, our existing safeguards and any future improvements may prove to be less than effective, and the employees, consultants of our company may engage in conduct for which we might be held responsible. Violations of the FCPA or Chinese anti-corruption laws may result in severe criminal or civil sanctions, and we may be subject to other liabilities, which could negatively affect our business, operating results and financial condition. In addition, the government may seek to hold our company liable for successor liability FCPA violations committed by companies in which we invest or that we acquire.
+25
+25
+Uncertainties with respect to the PRCs legal system could adversely affect us.
+We conduct a substantial amount of our business through our subsidiaries in China. Our operations in China are governed by PRC laws and regulations. Our PRC subsidiaries are generally subject to laws and regulations applicable to foreign investments in China and, in particular, laws and regulations applicable to the operative joint venture enterprises. The PRC legal system is based on statutes. Prior court decisions may be cited for reference but have limited precedential value.
+Since 1979, PRC legislation and regulations have significantly enhanced the protections afforded to various forms of foreign investments in China. However, China has not developed a fully integrated legal system and recently enacted laws and regulations may not sufficiently cover all aspects of economic activities in China. In particular, because some of these laws and regulations are relatively new, and because of the limited volume of published decisions and their nonbinding nature, the interpretation and enforcement of these laws and regulations involve uncertainties. In addition, the PRC legal system is based in part on government policies and internal rules (some of which are not published on a timely basis or at all) that may have a retroactive effect. As a result, we may not be aware of our violation of these policies and rules until sometime after the violation. In addition, any litigation in China may be protracted and result in substantial costs and diversion of resources and management attention.
+We are a holding company and we rely on funding for dividend payments from our subsidiaries, which are subject to restrictions under PRC laws.
+We are a holding company incorporated in Nevada and we operate our core businesses through our subsidiaries in the PRC. Therefore, the availability of funds for us to pay dividends to our shareholders and to service our indebtedness depends upon dividends received from such PRC subsidiaries. The ability of our subsidiaries to pay dividends and make payments on intercompany loans or advances to their shareholders is subject to, among other things, distributable earnings, cash flow conditions, restrictions contained in the articles of association of our subsidiaries, joint-venture contracts, applicable laws and restrictions contained in the debt instruments of such subsidiaries. If our subsidiary incurs debt or losses, its ability to pay dividends or other distributions to us may be impaired. As a result, our ability to pay dividends and to repay our indebtedness will be restricted. PRC laws require that dividends be paid only out of the after-tax profit of our PRC subsidiary calculated according to PRC accounting principles, which differ in many aspects from generally accepted accounting principles in other jurisdictions. PRC laws also require enterprises established in the PRC to set aside part of their after-tax profits as statutory reserves. These statutory reserves are not available for distribution as cash dividends. In addition, restrictive covenants in bank credit facilities or other agreements that we or our subsidiary entered into or may enter into in the future may also restrict the ability of our subsidiaries to pay dividends to us. Further, starting from January 1, 2008, dividends paid by our PRC subsidiaries to their non-PRC parent companies will be subject to a 10% withholding tax, unless there is a tax treaty between the PRC and the jurisdiction in which the overseas parent company is incorporated, which specifically exempts or reduces such withholding tax. Pursuant to a double tax treaty between Hong Kong and the PRC, if the non-PRC parent company is a Hong Kong resident and directly holds a 25% or more interest in the PRC enterprise, such withholding tax rate may be lowered to 5%. These restrictions on the availability of our funding may impact our ability to pay dividends to our shareholders and to service our indebtedness.
+In addition, the PRC government imposes controls on the convertibility of the renminbi, or RMB into foreign currencies and, in certain cases, the remittance of currency out of China. Shortages in the availability of foreign currency may restrict the ability of our PRC subsidiary to remit sufficient foreign currency to pay dividends or other payments to us, or otherwise satisfy their foreign currency denominated obligations. Under existing PRC foreign exchange regulations, payments of current account items, including profit distributions, interest payments and expenditures from trade-related transactions can be made in foreign currencies without prior approval from State Administration of Foreign Exchange (SAFE) by complying with certain procedural requirements. However, approval from appropriate government authorities is required where RMB is to be converted into foreign currency and remitted out of China to pay capital expenses such as the repayment of loans denominated in foreign currencies. The PRC government may also, at its discretion, restrict access in the future to foreign currencies for current account transactions. If the foreign exchange control system prevents us from obtaining sufficient foreign currency to satisfy our currency demands, we may not be able to pay dividends in foreign currencies to our security-holders.
+26
+26
+Our business may be materially and adversely affected if any of our PRC subsidiaries declares bankruptcy or becomes subject to a dissolution or liquidation proceeding.
+The enterprise bankruptcy law of the PRC, or the bankruptcy law, came into effect on June 1, 2007. The bankruptcy law provides that an enterprise will be liquidated if the enterprise fails to settle its debts as and when they fall due and if the enterprises assets are, or are demonstrably, insufficient to clear such debts.
+Our PRC subsidiaries hold assets that are important to our business operations. If our PRC subsidiaries undergo a voluntary or involuntary liquidation proceeding, unrelated third-party creditors may claim rights to some or all of these assets, thereby hindering our ability to operate our business, which could materially and adversely affect our business, financial condition and results of operations.
+According to SAFEs provisions for administration of foreign exchange relating to inbound direct investment by foreign investors, effective on June 10, 2015, if our PRC subsidiaries undergo a voluntary or involuntary liquidation proceeding, prior approval from the safe for remittance of foreign exchange to our shareholders abroad is no longer required, but we still need to conduct a registration process with the SAFE designated commercial bank. It is not clear whether registration is a mere formality or involves the kind of substantive review process undertaken by SAFE designated commercial bank.
+Fluctuations in exchange rates could adversely affect our business and the value of our securities.
+Changes in the value of the RMB against the U.S. dollar and other foreign currencies are affected by, among other things, changes in Chinas political and economic conditions. Any significant revaluation of the RMB may have a material adverse effect on our revenues and financial condition, and the value of, and any dividends payable on our shares in U.S. dollar terms. For example, to the extent that we need to convert U.S. dollars we receive from our Offering into RMB for our operations, appreciation of the RMB against the U.S. dollar would have an adverse effect on the RMB amount we would receive from the conversion. Conversely, if we decide to convert our RMB into U.S. dollars for the purpose of paying dividends on our Common Stock or for other business purposes, appreciation of the U.S. dollar against the RMB would have a negative effect on the U.S. dollar amount available to us.
+Since July 2005, the RMB is no longer pegged to the U.S. dollar. Although the peoples bank of China regularly intervenes in the foreign exchange market to prevent significant short-term fluctuations in the exchange rate, the RMB may appreciate or depreciate significantly in value against the U.S. dollar in the medium to long term. Moreover, it is possible that in the future, PRC authorities may lift restrictions on fluctuations in the RMB exchange rate and lessen intervention in the foreign exchange market.
+Very limited hedging transactions are available in China to reduce our exposure to exchange rate fluctuations. To date, we have not entered into any hedging transactions. While we may enter into hedging transactions in the future, the availability and effectiveness of these transactions may be limited, and we may not be able to successfully hedge our exposure at all. In addition, our foreign currency exchange losses may be magnified by PRC exchange control regulations that restrict our ability to convert RMB into foreign currencies.
+It may be difficult to effect service of process and enforcement of legal judgments upon our Company and our officers and directors because they reside outside the United States.
+Our operations are based in China and all of our assets are located in China. In addition, a majority of our directors and officers reside in China. As a result, service of process on the Company and such foreign directors and officers may be difficult or impossible to effect within the United States. Moreover, China does not have treaties with the United States or many other countries providing for the reciprocal recognition and enforcement of the judgment of courts. As a result, recognition and enforcement in China of judgments of a court in any of these jurisdictions may be difficult or impossible.
+27
+27
+PRC regulations relating to the establishment of offshore special purpose companies by PRC residents may subject our PRC resident shareholders to penalties and limit our ability to inject capital into our PRC subsidiaries, limit our PRC subsidiaries ability to distribute profits to us, or otherwise adversely affect us.
+The SAFE promulgated the notice on relevant issues relating to domestic residents investment and financing and roundtrip investment through special purpose vehicles (SPV(s)), or Notice 37, in July 2014 that requires PRC residents or entities to register with SAFE or its local branch in connection with their establishment or control of an offshore entity established for the purpose of overseas investment or financing. In addition, such PRC residents or entities must update their safe registrations when the offshore SPV undergoes material events relating to material change of capitalization or structure of the PRC resident itself (such as capital increase, capital reduction, share transfer or exchange, merger or spin off).On February 28, 2015, SAFE issued a notice according to which the aforesaid PRC residents or entities are no longer required to register with SAFE or its local branch, instead the aforesaid PRC residents or entities need to register with local banks. Failure by an individual to comply with the required SAFE registration and updating requirements described above may result in penalties up to RMB50, 000 imposed on such individual and restrictions being imposed on the foreign exchange activities of the PRC subsidiaries of such offshore SPV, including increasing the registered capital of, payment of dividends and other distributions to, and receiving capital injections for the offshore SPV. Failure to comply with Notice 37 may also subject relevant PRC residents or the PRC subsidiaries of such offshore SPV to penalties under PRC foreign exchange administration regulations for evasion of applicable foreign exchange restrictions. Our controlling shareholder Alex Brown (a.k.a You Chang) did not register with local SAFE branch or its delegated commercial bank when he acquired ownership of Sino Pride through his indirect holding of Victory Commercial Investment Ltd. in November 2016. Although Alex Brown was no longer a PRC nationality afterwards, we cannot assure you that our controlling shareholder will not be required under Notice 37 to register with local SAFE branch or its delegated commercial bank. These risks could in the future have a material adverse effect on our business, financial condition and results of operations.
+Failure to comply with the individual foreign exchange rules relating to the overseas direct investment or the engagement in the issuance or trading of securities overseas by our PRC resident stockholders may subject such stockholders to fines or other liabilities.
+Other than Notice 37, our ability to conduct foreign exchange activities in the PRC may be subject to the interpretation and enforcement of the implementation rules of the administrative measures for individual foreign exchange promulgated by safe in January 2007 (as amended and supplemented, the Individual Foreign Exchange Rules). Under the individual foreign exchange rules, any PRC individual seeking to make a direct investment overseas or engage in the issuance or trading of negotiable securities or derivatives overseas must make the appropriate registrations in accordance with safe provisions. PRC individuals who fail to make such registrations may be subject to warnings, fines or other liabilities.
+We may not be fully informed of the identities of all our beneficial owners who are PRC residents. For example, because the investment in or trading of our shares will happen in an overseas public or secondary market where shares are often held with brokers in brokerage accounts, it is unlikely that we will know the identity of all of our beneficial owners who are PRC residents. Furthermore, we have no control over any of our future beneficial owners and we cannot assure you that such PRC residents will be able to complete the necessary approval and registration procedures required by the individual foreign exchange rules.
+It is uncertain how the individual foreign exchange rules will be interpreted or enforced and whether such interpretation or enforcement will affect our ability to conduct foreign exchange transactions. Because of this uncertainty, we cannot be sure whether the failure by any of our PRC resident stockholders to make the required registration will subject our PRC subsidiaries to fines or legal sanctions on their operations, delay or restriction on repatriation of proceeds of this offering into the PRC, restriction on remittance of dividends or other punitive actions that would have a material adverse effect on our business, results of operations and financial condition.
+Because our funds are held in banks that do not provide insurance, the failure of any bank in which we deposit our funds may affect our ability to continue to operate.
+Banks and other financial institutions in the PRC do not provide insurance for funds held on deposit. As a result, in the event of a bank failure, we may not have access to funds on deposit. Depending upon the amount of money we maintain in a bank that fails, our inability to have access to our cash may impair our operations, and, if we are not able to access funds to pay our employees and other creditors, we may be unable to continue to operate.
+28
+28
+If we are unable to obtain business insurance in the PRC, we may not be protected from risks that are customarily covered by insurance in the United States.
+Business insurance is not readily available in the PRC. To the extent that we suffer a loss of a type that would normally be covered by insurance in the United States, such as product liability and general liability insurance, we would incur significant expenses in both defending any action and in paying any claims that result from a settlement or judgment. We have not obtained fire, casualty and theft insurance, and there is no insurance coverage for our raw materials, goods and merchandise, furniture or buildings in China. Any losses incurred by us will have to be borne by us without any assistance, and we may not have sufficient capital to cover material damage to, or the loss of, our Victory Plaza due to fire, severe weather, flood or other causes, and such damage or loss may have a material adverse effect on our financial condition, business and prospects.
+Under the new enterprise income tax law, we may be classified as a resident enterprise of China. Such classification may result in unfavorable tax consequences to us and our non-PRC shareholders.
+China passed a new enterprise income tax law, or the new EIT law, which became effective on January 1, 2008. Under the new EIT law, an enterprise established outside of China with de facto management bodies within China is considered a resident enterprise, meaning that it can be treated in a manner similar to a Chinese enterprise for enterprise income tax purposes. The implementing rules of the new EIT law define de facto management as substantial and overall management and control over the production and operations, personnel, accounting, and properties of the enterprise. In addition, a circular issued by the state administration of taxation on April 22, 2009 clarified that dividends and other income paid by such resident enterprises will be considered to be the PRCs source income and subject to the PRCs withholding tax. This recent circular also subjects such resident enterprises to various reporting requirements with the PRCs tax authorities.
+Although substantially all of our management is currently located in the PRC, it remains unclear whether the PRCs tax authorities would require or permit our overseas registered entities to be treated as PRC resident enterprises. We do not currently consider our company to be a PRC resident enterprise. However, if the PRCs tax authorities determine that we are a resident enterprise for the PRCs enterprise income tax purposes, a number of unfavorable PRC tax consequences may follow. First, we may be subject to the enterprise income tax at a rate of 25% on our worldwide taxable income as well as the PRCs enterprise income tax reporting obligations. This would also mean that income such as interest on offering proceeds and non-China source income would be subject to the PRCs enterprise income tax at a rate of 25%. Second, although under the new EIT law and its implementing rules, dividends paid to us from our PRC subsidiary would qualify as tax-exempt income, we cannot guarantee that such dividends will not be subject to a 10% withholding tax, as the PRC authorities responsible for enforcing the withholding tax have not yet issued guidance with respect to the processing of outbound remittances to entities that are treated as resident enterprises for the PRCs enterprise income tax purposes. Finally, dividends paid to stockholders with respect to their shares of our Common Stock or any gains realized from transfer of such shares may generally be subject to the PRCs withholding taxes on such dividends or gains at a rate of 10% if the shareholders are deemed to be non-resident enterprises or at a rate of 20% if the shareholders are deemed to be non-resident individuals. In addition, any gain realized on the transfer of shares of our common stock by such investors is also subject to PRC tax at a current rate of 10%, subject to any reduction or exemption set forth in relevant tax treaties, if such gain is regarded as income derived from sources within the PRC. If dividends payable to our non-PRC investors or gains from the transfer of our common stock by such investors are subject to PRC tax, the value of your investment in our common stock may decline significantly.
+We and our shareholders face uncertainties with respect to indirect transfers of equity interests in PRC resident enterprises by their non-PRC holding companies.
+Pursuant to a notice, or Circular 698, issued by the State Administration of Taxation, where a non-resident enterprise conducts an indirect transfer by transferring the equity interests of a PRC resident enterprise indirectly via disposing of the equity interests of an overseas holding company, and such overseas holding company is located in a tax jurisdiction that: (1) has an effective tax rate less than 12.5%; or (2) does not tax foreign income of its residents, the non-resident enterprise, being the transferor, shall report to the relevant tax authority of the PRC resident enterprise such indirect transfer. Using a substance over form principle, the PRC tax authority may disregard the existence of the overseas holding company if it lacks a reasonable commercial purpose and was established for the purpose of reducing, avoiding or deferring PRC tax. As a result, gains derived from such indirect transfer may be subject to PRC enterprise income tax, currently at a rate of 10%. In 2015, the State Administration of Taxation issued a circular, known as Circular 7, which replaced or supplemented certain previous rules under Circular 698. Circular 7 sets out a wider scope of indirect transfer of PRC assets that might be subject to PRC enterprise income tax, and more detailed guidelines on the circumstances when such indirect transfer is considered to lack a bona fide commercial purpose and thus regarded as avoiding PRC tax. The conditional reporting obligation of the non-PRC investor under Circular 698 is replaced by a voluntary reporting by the transferor, the transferee or the underlying PRC resident enterprise being transferred. Furthermore, if the indirect transfer is subject to PRC enterprise income tax, the transferee has an obligation to withhold tax from the sale proceeds, unless the transferor reports the transaction to the PRC tax authority under Circular 7. Late payment of applicable tax will subject the transferor to default interest. Gains derived from the sale of shares by investors through a public stock exchange are not subject to the PRC enterprise income tax pursuant to Circular 7 where such shares were acquired in a transaction through a public stock exchange. Circular 698 was abolished by an announcement promulgated by the State Administration of Taxation in October 2017 and effective from December 1, 2017, or SAT Circular 37, which, among others, provides specific provisions on matters concerning withholding of income tax of non-resident enterprises at source.
+29
+29
+As newly implemented, there is uncertainty as to the application of Circular 7 and SAT Circular 37, both of which may be determined by the tax authorities to be applicable to our offshore restructuring transactions or sale of the shares of our offshore subsidiaries where non-resident enterprises, being the transferors, were involved. The PRC tax authorities may pursue such non-resident enterprises with respect to a filing regarding the transactions and request our PRC subsidiaries to assist in the filing. As a result, we and our non-resident enterprises in such transactions may become at risk of being subject to filing obligations or being taxed under Circular 7, and may be required to expend valuable resources to comply with Circular 7 or to establish that we and our non-resident enterprises should not be taxed under Circular 7, for our previous and future restructuring or disposal of shares of our offshore subsidiaries, which may have a material adverse effect on our financial condition and results of operations.
+The PRC government may issue further restrictive measures in the future.
+We cannot assure you that the PRCs government will not issue further restrictive measures in the future. The PRC governments restrictive regulations and measures could increase our operating costs in adapting to these regulations and measures, limit our access to capital resources or even restrict our business operations, which could further adversely affect our business and prospects.
+Our PRC subsidiaries are not incompliant with the taxation, environmental, employment and social security rules of China, and they may face penalties imposed by the PRC government.
+If our PRC subsidiaries fail to strictly comply with PRC laws and regulations to contribute towards social insurance premium and housing fund on behalf of their employees, which are based on the average salary of employees instead of their employees average monthly salary for the preceding year, as required by the applicable laws and regulations. We may be required by relevant authorities to make up the shortfall of social insurance premium and housing fund. Even after we have successfully settled all tax payables, if any PRC government authority takes the position that there is non-compliance with the taxation, environmental protection, employment and/or social security rules by our PRC subsidiary, they may be exposed to penalties from PRC government authorities, in which case the operation of our PRC subsidiary in question may be adversely affected.
+If relations between the United States and China worsen, our stock price may decrease and we may have difficulty accessing the U.S. capital markets.
+At various times during recent years, the United States and China have had disagreements over political and economic issues. Controversies may arise in the future between these two countries. Any political or trade conflicts between the United States and China could adversely affect the market price of our Common Stock and our ability to access U.S. capital markets.
+Interpretation of PRC laws and regulations involves uncertainty.
+Our core business is conducted within China and is governed by PRCs laws and regulations. The PRCs legal system is based on written statutes, and prior court decisions can only be used as a reference. Since 1979, the PRCs government has promulgated laws and regulations in relation to economic matters such as foreign investment, corporate organization and governance, commerce, taxation and trade, with a view to developing a comprehensive system of commercial law, including laws relating to property ownership and development. However, due to the fact that these laws and regulations have not been fully developed, and because of the limited volume of published cases and the non-binding nature of prior court decisions, interpretation of PRCs laws and regulations involves a degree of uncertainty. Some of these laws may be changed without immediate publication or may be amended with retroactive effect. Depending on the government agency or how an application or case is presented to such agency, we may receive less favorable interpretations of laws and regulations than our competitors, particularly if a competitor has long been established in the locality of, and has developed a relationship with such agency. In addition, any litigation in China may be protracted and result in substantial costs and a diversion of resources and management attention. All of these uncertainties may cause difficulties in the enforcement of entitlements under our permits and other statutory and contractual rights and interests.
+30
+30
+MANAGEMENTS DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion of our financial condition and results of operations should be read in conjunction with our audited consolidated financial statements and the notes to those consolidated financial statements appearing elsewhere in this report.
+Certain statements in this report constitute forward-looking statements. These forward-looking statements include statements, which involve risks and uncertainties, regarding, among other things, (a) our projected sales, profitability, and cash flows, (b) our growth strategy, (c) anticipated trends in our industry, (d) our future financing plans, and (e) our anticipated needs for, and use of, working capital. They are generally identifiable by use of the words may, will, should, anticipate, estimate, plan, potential, project, continuing, ongoing, expects, management believes, we believe, we intend, or the negative of these words or other variations on these words or comparable terminology. In light of these risks and uncertainties, there can be no assurance that the forward-looking statements contained in this filing will in fact occur. You should not place undue reliance on these forward-looking statements.
+The forward-looking statements speak only as of the date on which they are made, and, except to the extent required by federal securities laws, we undertake no obligation to update any forward-looking statements to reflect events or circumstances after the date on which the statements are made or to reflect the occurrence of unanticipated events.
+COMPANY OVERVIEW
+Upon the consummation of the Share Exchange, we engage in the business of developing and operating membership-based social network, dating and mobile gaming, and interactive live broadcast platforms. We are currently devoting our efforts to develop mobile applications and online platforms servicing the Asia market.
+CX Network Group, Inc., or CXKJ, owns 100% of the issued and outstanding capital stock of Chuangxiang Holdings Inc., or CX Cayman, which was incorporated on February 4, 2016 under the laws of Cayman Islands. CX Cayman owns 100% of Chuangxiang (Hong Kong) Holdings Limited, or CX HK, since December 1, 2016. CX HK operates through its subsidiary, Chuangxiang Network Technology (Shenzhen) Limited, or CX Network. CX Network was incorporated on April 12, 2016 under the laws of Peoples Republic of China (PRC) as a wholly foreign owned enterprise and is engaged in the business of mobile applications development, commercial information consulting, cultural activities planning, marketing and advertising.
+On April 20, 2017, CX Network entered into a series of VIE Agreements with Shenzhen Chuangxiang Network Technology Limited, or Shenzhen CX, and its shareholders, in which CX Network effectively assumed management of the business activities of Shenzhen CX and has the right to appoint all executives and senior management and the members of the board of directors of Shenzhen CX. Shenzhen CX is a Chinese limited liability company and was formed under laws of the Peoples Republic of China on August 14, 2015. Shenzhen CX engages in the business of developing and operating membership-based social network, dating and mobile gaming, and interactive live broadcast platforms. The Company is currently devoting its efforts to develop mobile applications and online platforms servicing the Asia market.
+31
+31
+For more information of the VIE Agreements, please refer to the VIE Agreements on page 5.
+Pursuant to the Share Exchange Agreement signed on March 20, 2018, CXKJ acquired 100% of the issued and outstanding securities of CX Cayman in exchange for 5,350,000 shares of Common Stock, par value $0.0001 per share of CXKJ. As a result of the Share Exchange, the business of CX Cayman becomes our business. As such, the following results of operations are focused on the operations of CX Cayman and exclude the operations of the Company prior to the Share Exchange.
+Foreign Operations
+Substantially all of our business operations are conducted in Mainland China. Accordingly, our results of operations, financial condition and prospects are subject to a significant degree to economic, political and legal developments in the PRC. We also have operations in Hong Kong. Operating in foreign countries involves substantial risk. For example, our business activities subject us to a number of Chinese laws and regulations, such as anti-corruption laws, tax laws, foreign exchange controls and cash repatriation restrictions, data privacy and security requirements, labor laws, intellectual property laws, privacy laws, and anti-competition regulations, which have uncertainties. Any failure to comply with the PRC laws and regulations could subject us to fines and penalties, make it more difficult or impossible to do business in China and harm our reputation.
+Operating in foreign countries also subjects us to risk from currency fluctuations. Our primary exposure to movements in foreign currency exchange rates relates to non-U.S. dollar denominated sales and operating expenses. The weakening of foreign currencies relative to the U.S. dollar adversely affects the U.S. dollar value of our foreign currency-denominated sales and earnings. This could either reduce the U.S. dollar value of our prices or, if we raise prices in the local currency, it could reduce the overall demand for our offerings. Either could adversely affect our revenue. Conversely, a rise in the price of local currencies relative to the U.S. dollar could adversely impact our profitability because it would increase our costs denominated in those currencies, thus adversely affecting gross margins.
+Critical Accounting Policies and Estimates
+Going Concern
+In assessing the Companys liquidity, the Company monitors and analyzes its cash and cash equivalents and its operating and capital expenditure commitments. The Companys liquidity needs are to meet its working capital requirements, operating expenses and capital expenditure obligations. As of September 30, 2017, the Companys current liabilities exceeded the current assets, its accumulated deficit was approximately $1,550,000 and the Company has incurred losses since inception. None of the Companys stockholders, officers or directors, or third parties, are under any obligation to advance us funds, or to invest in us. Accordingly, we may not be able to obtain additional financing. If we are unable to raise additional capital, we may be required to take additional measures to conserve liquidity, which could include, but not necessarily be limited to, curtailing operations, suspending the pursuit of our business plan, and reducing overhead expenses. We cannot provide any assurance that new financing will be available to us on commercially acceptable terms, if at all.
+These conditions raise substantial doubt about our ability to continue as a going concern. The financial statements do not include any adjustments to reflect the possible future effects on the recoverability and classification of assets or the amounts and classifications of liabilities that may result should the Company be unable to continue as a going concern.
+Use of estimates
+The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+32
+32
+Net loss per common share
+The Company complies with accounting and disclosure requirements of FASB ASC Topic 260, Earnings Per Share. Net loss per common share is computed by dividing net loss applicable to common stockholders by the weighted average number of common shares outstanding for the period. At September 30, 2017 and 2016, the Company did not have any dilutive securities and other contracts that could, potentially, be exercised or converted into common stock and then share in the earnings of the Company. As a result, diluted loss per common share is the same as basic loss per common share for the periods presented.
+Fair value of financial instruments
+The Company follows the provisions of ASC 820, Fair Value Measurements and Disclosures. ASC 820 clarifies the definition of fair value, prescribes methods for measuring fair value, and establishes a fair value hierarchy to classify the inputs used in measuring fair value as follows:
+Level 1-Inputs are unadjusted quoted prices in active markets for identical assets or liabilities available at the measurement date.
+Level 2-Inputs are unadjusted quoted prices for similar assets and liabilities in active markets, quoted prices for identical or similar assets and liabilities in markets that are not active, inputs other than quoted prices that are observable, and inputs derived from or corroborated by observable market data.
+Level 3-Inputs are unobservable inputs which reflect the reporting entitys own assumptions on what assumptions the market participants would use in pricing the asset or liability based on the best available information.
+The carrying amounts reported in the balance sheets for cash, accounts receivable, other receivable, prepaid expenses, accrued liabilities and other payable, and short-term loans approximate their fair market value based on the short-term maturity of these instruments.
+Management believes it is not practical to estimate the fair value of due to related party because the transactions cannot be assumed to have been consummated at arms length, the terms are not deemed to be market terms, there are no quoted values available for these instruments, and an independent valuation would not be practical due to the lack of data regarding similar instruments, if any, and the associated potential costs.
+Risks and Uncertainties
+The Companys operations are substantially carried out in the PRC. Accordingly, the Companys business, financial condition and results of operations maybe substantially influenced by the political, economic and legal environments in the PRC, and by the general state of the PRCs economy. The Companys operations in the PRC are subject to specific considerations and significant risks not typically associated with companies in North America and Western Europe. These include risks associated with, among others, the political, economic and legal environments and foreign currency exchange. The Companys results may be adversely affected by changes in governmental policies with respect to laws and regulations, anti-inflationary measures, currency conversion and remittance abroad, and rates and methods of taxation, among other things.
+Financial instruments which potentially subject the Company to concentrations of credit risk consist principally of cash and trade accounts receivable. Substantially all of the Companys cash is maintained with state-owned banks within the PRC, and no deposits are covered by insurance. The Company has not experienced any losses in such accounts and believes it is not exposed to any risks on its cash in bank accounts.
+Cash and cash equivalents
+Cash and cash equivalents consist of cash on hand and highly liquid investments, which are unrestricted from withdrawal or use, or which have original maturities of three months or less when purchased.
+33
+33
+Accounts receivable
+Accounts receivable primarily represents the cash due from third-party application stores and other payment channels, net of allowance for doubtful accounts. The Company makes estimates for the allowance for doubtful accounts based upon its assessment of various factors, including the age of accounts receivable balances, credit quality of third-party application stores and other payment channels, current economic conditions and other factors that may affect their ability to pay. An allowance for doubtful accounts is recorded in the period in which a loss is determined to be probable. At September 30, 2017 and 2016, the Company has determined the risk of uncollected receivable is remote.
+Property and equipment, net
+Property and equipment are recorded at cost less accumulated depreciation and amortization. Significant additions or improvements extending useful lives of assets are capitalized. Maintenance and repairs are charged to expense as incurred. Depreciation and amortization are computed based on cost, less their estimated residual value, if any, using the straight-line method over the estimated useful lives as follows:
+Electronic equipment 3 years Furniture and fixtures 3 years Leasehold improvement Shorter of the lease term or their economic lives
+3 years
+Furniture and fixtures 3 years
+3 years
+Leasehold improvement Shorter of the lease term or their economic lives
+Shorter of the lease term or their economic lives
+Impairment of long-lived assets
+Long-lived assets held and used by the Company are reviewed for impairment whenever events or changes in circumstances indicate that the carrying value of such assets may not be fully recoverable. It is possible that these assets could become impaired as a result of technology, economy or other industry changes. If circumstances require a long-lived asset or asset group to be tested for possible impairment, the Company first compares undiscounted cash flows expected to be generated by that asset or asset group to its carrying value. If the carrying value of the long-lived asset or asset group is not recoverable on an undiscounted cash flow basis, an impairment is recognized to the extent that the carrying value exceeds its fair value. Fair value is determined through various valuation techniques, including discounted cash flow models, relief from royalty income approach, quoted market values and third-party independent appraisals, as considered necessary.
+The Company makes various assumptions and estimates regarding estimated future cash flows and other factors in determining the fair values of the respective assets. The assumptions and estimates used to determine future values and remaining useful lives of long-lived assets are complex and subjective. They can be affected by various factors, including external factors such as industry and economic trends, and internal factors such as the Companys business strategy and its forecasts for specific market expansion. The Company did not record any impairment charges for the years ended September 30, 2017 and 2016.
+Income taxes
+The Company utilizes ASC Topic 740 (ASC 740) Income taxes, which requires the recognition of deferred tax assets and liabilities for the expected future tax consequences of events that have been included in the consolidated financial statements or tax returns. Under this method, deferred income taxes are recognized for the tax consequences in future years of differences between the tax bases of assets and liabilities and their financial reporting amounts at each period end based on enacted tax laws and statutory tax rates applicable to the periods in which the differences are expected to affect taxable income. Valuation allowances are established, when necessary, to reduce deferred tax assets to the amount expected to be realized.
+ASC 740 Income taxes clarifies the accounting for uncertainty in tax positions. This interpretation requires that an entity recognizes in the financial statements the impact of a tax position, if that position is more likely than not of being sustained upon examination, based on the technical merits of the position. Recognized income tax positions are measured at the largest amount that is greater than 50% likely of being realized. Changes in recognition or measurement are reflected in the period in which the change in judgment occurs. The Company has elected to classify interest and penalties related to unrecognized tax benefits, if and when required, as part of income tax expense in the consolidated statements of operations. The Company evaluate the level of authority for each uncertain tax position (including the potential application of interest and penalties) based on the technical merits, and measure the unrecognized benefits associated with the tax positions. As of September 30, 2017 and 2016, the Company did not have any unrecognized tax benefits.
+34
+34
+Revenue recognition
+The Company currently recognizes revenue from users in the form of membership subscription and  la carte online credit purchases. Membership subscription is a service package which enables members to enjoy additional functions and privileges. Members pay in advance, primarily by using a debit card or through mobile app stores, and, subject to certain conditions identified in the Companys terms and conditions, all purchases are final and nonrefundable. Fees collected, in advance for memberships subscription are deferred and recognized as revenue using the straight-line method over the terms of the applicable membership period, which primarily range from one to three months. Membership subscription revenue is insignificant for the years ended September 30, 2017 and 2016.  la carte online credit purchases are non-refundable and the risk passes to users when users pay for  la carte features. Revenue from the purchase of  la carte features is recognized upon users paying for the purchase. Revenue is recognized when persuasive evidence of an arrangement exists; delivery has occurred or services have been rendered; the price is fixed or determinable; and collectability is reasonably assured. Revenue was recorded on a gross basis, net of surcharges and value added tax (VAT) of gross sales. The Company recorded revenue on a gross basis because the Company has the following indicators for gross reporting: is the primary obligor of the sales arrangements, has latitude in establishing prices, has discretion in suppliers selection and assumes credit risks on receivables from customers.
+Cost of revenues
+Cost of revenues primarily includes bandwidth costs, professional expenses associated with maintenance of mobile platform, and labor costs.
+Foreign currency translation
+The reporting currency of the Company is the U.S. dollar. The functional currency of CX Network and Shenzhen CX is the local currency, the Chinese Renminbi (RMB) as PRC is the primary economic environment in which they operate. The functional currency of CX HK is Hong Kong Dollar (the HKD). The Companys subsidiaries or VIE with functional currency of RMB translate their operating results and financial positions into the U.S. dollar, the Companys reporting currency. Results of operations and cash flows are translated at average exchange rates during the period, assets and liabilities are translated at the unified exchange rate at the end of the period, and equity is translated at historical exchange rates. Translation adjustments resulting from the process of translating the local currency financial statements into U.S. dollars are included in other comprehensive income in the statement of stockholders equity. The Company does not enter any material transaction in foreign currencies and accordingly, transaction gains or losses have not had, and are not expected to have, a material effect on the results of operations of the Company.
+Accumulated other comprehensive loss
+Comprehensive loss is comprised of net loss and all changes to the statements of stockholders equity, except those due to investments by stockholders, changes in paid-in capital and distributions to stockholders. For the Company, comprehensive loss for the years ended September 30, 2017 and 2016 included net loss and unrealized loss from foreign currency translation adjustments.
+Research and development expenses
+Research and development expenses include salaries and benefits for research and development personnel, depreciation expenses associated with the research and development activities, and other related expenses associated with product development. The Companys research and development activities primarily consist of the research and development of new features for its mobile platform and its self-developed mobile games. The Company has expensed all research and development expenses when incurred.
+35
+35
+Related parties
+Parties are considered to be related to the Company if the parties that, directly or indirectly, through one or more intermediaries, control, are controlled by, or are under common control with the Company. Related parties also include principal owners of the Company, its management, members of the immediate families of principal owners of the Company and its management and other parties with which the Company may deal if one party controls or can significantly influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests.
+Operating leases
+The Company has adopted FASB Accounting Standard Codification, or ASC 840. If the lease terms meet one or all of the following four criteria, it will be classified as a capital lease, otherwise, it is an operating lease: (1) The lease transfers the title to the lessee at the end of the term; (2) the lease contains a bargain purchase option; (3) the lease term is equal to 75% of the estimated economic life of the leased property or more; (4) the present value of the minimum lease payment in the term equals or exceeds 90% of the fair value of the leased property.
+Recent accounting pronouncements
+In May 2014, the FASB issued ASU 2014-09, Revenue from Contracts with Customers, which clarifies existing accounting literature relating to how and when a company recognizes revenue. Under ASU 2014-09, a company will recognize revenue when it transfers promised goods or services to customers in an amount that reflects the consideration to which the Company expects to be entitled in exchange for those goods and services. This guidance is effective for annual reporting periods beginning after December 15, 2017, including interim reporting periods within that reporting period. The Company does not expect a material impact on the consolidated financial statement upon the adoption of this ASU.
+In November 2015, the FASB issued ASU 2015-17, Income Taxes (Topic 740): Balance Sheet Classification of Deferred Taxes. The amendments in ASU 2015-17 eliminates the current requirement for organizations to present deferred tax liabilities and assets as current and noncurrent in a classified balance sheet. Instead, organizations will be required to classify all deferred tax assets and liabilities as noncurrent. The amendments in this ASU are effective for public business entities for financial statements issued for annual periods beginning after December 15, 2016, and interim periods within those annual periods. The amendments may be applied prospectively to all deferred tax liabilities and assets or retrospectively to all periods presented. The Company does not expect a material impact on the consolidated financial statement upon the adoption of this ASU.
+In February 2016, the FASB issued ASU 2016-02, Leases (Topic 842), which supersedes the existing guidance for lease accounting, Leases (Topic 840). ASU 2016-02 requires lessees to recognize leases on their balance sheets, and leaves lessor accounting largely unchanged. The amendments in this ASU are effective for fiscal years beginning after December 15, 2018 and interim periods within those fiscal years. Early application is permitted for all entities. ASU 2016-02 requires a modified retrospective approach for all leases existing at, or entered into after, the date of initial application, with an option to elect to use certain transition relief. The Company is currently evaluating the impact of this new standard on its consolidated financial statements.
+In November 2016, the FASB issued ASU 2016-18, Statement of Cash Flows (Topic 230): Restricted Cash. These amendments require that a statement of cash flows explain the change during the period in the total of cash, cash equivalents, and amounts generally described as restricted cash or restricted cash equivalents. As a result, amounts generally described as restricted cash and restricted cash equivalents should be included with cash and cash equivalents when reconciling the beginning-of-period and end-of-period total amounts shown on the statement of cash flows. The amendments do not provide a definition of restricted cash or restricted cash equivalents. The amendments in this ASU are effective for public business entities for fiscal years beginning after December 15, 2017, and interim periods within those fiscal years. Early adoption is permitted. The Company is currently evaluating the impact of this new standard on its consolidated financial statements.
+36
+36
+In December 2016, the FASB issued ASU No. 2016-20, Technical Corrections and Improvements to Topic 606, Revenue from Contracts with Customers. The amendments in ASU 2016-20 affect narrow aspects of the guidance issued in ASU 2014-09 including Loan Guarantee Fees, Contract Costs, Provisions for Losses on Construction-Type and Production-Type Contracts, Disclosure of Remaining Performance Obligations, Disclosure of Prior Period Performance Obligations, Contract Modifications, Contract Asset vs. Receivable, Refund Liability, Advertising Costs, Fixed Odds Wagering Contracts in the Casino Industry, and Costs Capitalized for Advisors to Private Funds and Public Funds. The amendments in this ASU is effective for public companies for annual periods beginning after December 15, 2017, including interim periods within those periods. Early adoption is permitted under certain circumstances. The amendments should be applied prospectively as of the beginning of the period of adoption. The Company is currently evaluating the impact of this new standard on its consolidated financial statements.
+RESULTS OF OPERATIONS OF CX Cayman
+Results of Operations for the three months ended December 31, 2017 compared to the three months ended December 31, 2016
+Revenues
+For the three months ended December 31, 2017, we had total revenues of $229,859, as compared to $340 for the three months ended December 31, 2016. The revenues were generated through in-app purchases in our mobile applications Hot Chat and Little Love. The increase in the three months ended December 31, 2017 was primarily attributable to the significantly increased subscribers of Little Love and in-app purchases.
+Cost of Revenues
+For the three months ended December 31, 2017 and 2016, cost of revenues amounted to $21,253 and $4,532, respectively. The increase of cost of revenues in the three months ended December 31, 2017 was primarily attributable to the increase of labor cost.
+Gross Profit (Loss)
+For the three months ended December 31, 2017 and 2016, gross profit (loss) amounted to $208,606 and $(4,192), respectively. The increase of gross profit during the three months ended December 31, 2017 was primarily attributable to the increase in revenues.
+Selling Expenses
+For the three months ended December 31, 2017 and 2016, selling expenses amounted to $14,352 and $12,953, respectively. The increase of selling expenses in the amount of $1,399 or 10.8% was primarily attributable to increase in selling services expense during the three months ended December 31, 2017.
+General and Administrative Expenses
+For the three months ended December 31, 2017 and 2016, general and administrative expenses amounted to $259,449 and $55,829, respectively. The increase of general and administrative expenses in the amount of $203,620 or 364.7% was primarily attributable to the increase of salaries expense as a result of more employees hired and lease expense.
+Research and Development Expenses
+For the three months ended December 31, 2017 and 2016, research and development expenses amounted to $129,866 and $12,278, respectively. The increase of research and development expenses in the amount of $117,588 or 957.7% during the three months ended December 31, 2017 was primarily attributable to the increased activities in developing new games and applications.
+Other (Expenses) Income
+For the three months ended December, 2017, total other expense was $322 as compared to total other income of $70 for the three months ended December 31, 2016.
+37
+37
+Net loss
+For the three months ended December 31, 2017 and 2016, net loss amounted to $195,383 and $85,182, respectively. The increase of net loss in the amounts of $110,201 or 129.4% during the three months ended December 31, 2017 was a result of the factors described above.
+Foreign Currency Translation Adjustment
+The functional currency of our Shenzhen CX operating in the PRC is the Chinese Yuan or Renminbi (RMB). The financial statements of Shenzhen CX are translated to U.S. dollars using period end rates of exchange for assets and liabilities, and average rates of exchange (for the period) for revenues, costs, and expenses. Net gains and losses resulting from foreign exchange transactions are included in the consolidated statements of operations.
+As a result of these translations, which are a non-cash adjustment, we reported a foreign currency translation loss of $20,257 for the three months ended December 31, 2017 as compared to a foreign currency translation gain of $2,239 for the three months ended December 31, 2016. This non-cash loss had the effect of increasing our reported comprehensive loss.
+Comprehensive Loss
+For the three months ended December 31, 2017, comprehensive loss of $215,640 is derived from the sum of our net loss of $195,383 plus foreign currency translation loss of $20,257. For the three months ended December 31, 2016, comprehensive loss of $82,943 is derived from the sum of our net loss of $85,182 and offset by the foreign currency translation gain of $2,239.
+Results of Operations for the Year ended September 30, 2017 Compared to the Year ended September 30, 2016
+Revenues
+For the year ended September 30, 2017, we had total revenues of $174,456, as compared to $3,431 for the year ended September 30, 2016. The revenues were generated through in-app purchases in our mobile applications Hot Chat and Little Love. The increase of $171,025, or 498%, during the fiscal year 2017 was primarily attributable to the significantly increased subscription of Little Love.
+Cost of Revenues
+For the years ended September 30, 2017 and 2016, cost of revenues amounted to $30,990 and $15,178, respectively. The increase of cost of revenues in 2017 was primarily attributable to the increase of labor cost and professional expenses associated with maintenance of mobile platform.
+Gross Profit (Loss)
+For the years ended September 30, 2017 and 2016, gross profit (loss) amounted to $143,466 and $(11,747), respectively. The increase of cost of revenues in 2017 was primarily attributable to the increase in revenues.
+Selling Expenses
+For the years ended September 30, 2017 and 2016, selling expenses amounted to $20,402 and $663,375, respectively. The decrease of selling expenses in the amount of $643K in 2017 was primarily attributable to decrease in professional services expense.
+General and Administrative Expenses
+For the years ended September 30, 2017 and 2016, general and administrative expenses amounted to $428,220 and $107,912, respectively. The increase of general and administrative expenses of $320,308, or 296.8% in 2017 was primarily attributable to the increase of salaries expense and lease expense.
+Research and Development Expenses
+For the years ended September 30, 2017 and 2016, research and development expenses amounted to $293,209 and $17,508, respectively. The increase of research and development expenses in the amount of $276K was primarily attributable to the increased activities in developing new games and applications.
+Other Income (Expenses)
+For the year ended September 30, 2017, total other expense was $147,176 as compared to total other income of $75 for the year ended September 30, 2016. The decrease is primarily attributable to the donation of $147K to a public welfare.
+38
+38
+Net loss
+For the years ended September 30, 2017 and 2016, net loss amounted to $745,541 and $800,667, respectively. The decrease of net loss in the amounts of $55K was a result of the factors described above.
+Foreign Currency Translation Adjustment
+The functional currency of our VIE entity operating in the PRC is the Chinese Yuan or RMB. The financial statements of our VIE are translated to U.S. dollars using period end rates of exchange for assets and liabilities, and average rates of exchange (for the period) for revenues, costs, and expenses. Net gains and losses resulting from foreign exchange transactions are included in the consolidated statements of operations.
+As a result of these translations, which are a non-cash adjustment, we reported a foreign currency translation loss of $17,260 for the year ended September 30, 2017 as compared to a foreign currency translation loss $20,786 for the year ended September 30, 2016. This non-cash loss had the effect of increasing our reported comprehensive loss.
+Comprehensive Loss
+For the year ended September 30, 2017, comprehensive loss of $762,801 is derived from the sum of our net loss of $745,541 plus foreign currency translation loss of $17,260. For the year ended September 30, 2016, comprehensive loss of $821,453 is derived from the sum of our net loss of $800,667 plus foreign currency translation loss of $20,786.
+LIQUIDITY AND CAPITAL RESOURCES
+In assessing the Companys liquidity, the Company monitors and analyzes its cash and cash equivalents and its operating and capital expenditure commitments. The Companys liquidity needs are to meet its working capital requirements, operating expenses and capital expenditure obligations. As of December 31, 2017, the Companys working capital deficit was approximately $216,000 as compared to working capital deficit of approximately $932,000 as of September 30, 2017. As of December 31, 2017 and September 30, 2017, the Companys accumulated deficit was approximately $1,742,000 and $1,546,000, respectively, and the Company has incurred losses since inception.
+Cash flows from the Company's operations are calculated based upon the local currencies using the average translation rate. As a result, amounts related to assets and liabilities reported on the statement of cash flows will not necessarily agree with changes in the corresponding balances on the balance sheets.
+The following summarizes the key components of the Companys cash flows for the three months ended December 31, 2017 and 2016:
+Three Months Ended December 31, 2017 2016 Net cash used in operating activities $(196,431) $(98,243) Cash flows used in investing activities $(3,713) $(1,888) Cash flows provided by financing activities $237,298 $105,173 Effect of exchange rate on cash and cash equivalent $1,129 $(906) Net increase in cash and cash equivalents $38,283 $4,136
+Three Months Ended December 31,
+2017 2016
+2017
+2016
+Net cash used in operating activities $(196,431) $(98,243)
+$
+(196,431
+)
+$
+(98,243
+)
+Cash flows used in investing activities $(3,713) $(1,888)
+$
+(3,713
+)
+$
+(1,888
+)
+Cash flows provided by financing activities $237,298 $105,173
+$
+237,298
+$
+105,173
+Effect of exchange rate on cash and cash equivalent $1,129 $(906)
+$
+1,129
+$
+(906
+)
+Net increase in cash and cash equivalents $38,283 $4,136
+$
+38,283
+$
+4,136
+Net cash used in operating activities for the three months ended December 31, 2017 was $196,431 as compared to net cash used in operating activities of $98,234 for the three months ended December 31, 2016. The increase in cash used in operating activities for the three months ended December 31, 2017 was mainly due to increase in the net loss of approximately $117,000.
+39
+39
+Net cash used in investing activities for the three months ended December 31, 2017 was $3,713 as compared to $1,888 for the three months ended December 31, 2016. The increased spending for the three months ended December 31, 2017 was because the Company expanded its operations and purchased more office equipment and office furniture, and invested in leasehold improvement.
+Net cash provided by financing activities for the three months ended December 31, 2017 was $237,298 as compared to $105,173 for the three months ended December 31, 2016. The increase in cash provided by financing activities for the three months ended December 31, 2017 was mainly due to increase in proceeds from related parties of approximately $319,000, partially offset by increase in repayments to related parties of approximately $187,000.
+The following summarizes the key components of the Companys cash flows for the years ended September, 2017 and 2016:
+Years Ended September 30, 2017 2016 Net cash used in operating activities $(571,636) $(776,369) Cash flows used in investing activities $(101,305) $(6,141) Cash flows provided by financing activities $687,293 $805,520 Effect of exchange rate on cash and cash equivalent $38 $(2,441) Net increase in cash and cash equivalents $14,390 $20,569
+Years Ended September 30,
+2017 2016
+2017
+2016
+Net cash used in operating activities $(571,636) $(776,369)
+$
+(571,636
+)
+$
+(776,369
+)
+Cash flows used in investing activities $(101,305) $(6,141)
+$
+(101,305
+)
+$
+(6,141
+)
+Cash flows provided by financing activities $687,293 $805,520
+$
+687,293
+$
+805,520
+Effect of exchange rate on cash and cash equivalent $38 $(2,441)
+$
+38
+$
+(2,441
+)
+Net increase in cash and cash equivalents $14,390 $20,569
+$
+14,390
+$
+20,569
+Net cash used in operating activities for the year ended September 30, 2017 was $571,636 as compared to net cash used in operating activities of $776,369 for the year ended September 30, 2016. The decrease in cash used in operating activities for the year ended September 30, 2017 was mainly due to:
+Decrease in the net loss of approximately $55,000, and
+
+Decrease in the net loss of approximately $55,000, and
+Increase in accrued liabilities and other payables of approximately $157,000.
+
+Increase in accrued liabilities and other payables of approximately $157,000.
+Net cash used in investing activities for the year ended September 30, 2017 was $101,305 as compared to $6,141 for the year ended September 30, 2016. The increased spending for the year ended September 30, 2017 was because the Company expanded its operations and purchased more office equipment and office furniture, and invested in leasehold improvement.
+Net cash provided by financing activities for the year ended September 30, 2017 was $687,293 as compared to $805,520 for the year ended September 30, 2016. The decrease in cash provided by financing activities for the year ended September 30, 2017 was mainly due to:
+Decrease in capital contribution from stockholders of approximately $767,000, and
+
+Decrease in capital contribution from stockholders of approximately $767,000, and
+Increase in repayment to related parties of approximately $220,000, Partially offset by:
+
+Increase in repayment to related parties of approximately $220,000, Partially offset by:
+Partially offset by:
+Increase in proceeds from related parties of approximately $824,000, and
+
+Increase in proceeds from related parties of approximately $824,000, and
+Increase in proceeds from short-term loans of approximately $45,000.
+
+Increase in proceeds from short-term loans of approximately $45,000.
+OFF-BALANCE SHEET ARRANGEMENTS
+As of September 30, 2017 and 2016, there are no off-balance sheet arrangements between us and any other entity that have, or are reasonably likely to have, a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that are material to our investors.
+40
+40
+DESCRIPTION OF SECURITIES
+Common Stock
+We are authorized to issue 20,000,000 shares of Common Stock, $0.0001 par value per share. As of the date of this report, there are 19,836,670 shares of Common Stock issued and outstanding. Each outstanding share of Common Stock is entitled to one vote, either in person or by proxy, on all matters that may be voted upon by their holders at meetings of the stockholders.
+All shares of common stock have equal rights and privileges with respect to voting, liquidation and dividend rights. Each share of common stock entitled the hold thereof (a) to one non-cumulative vote for each share held of record on all matters submitted to a vote of the stockholders; (b) to participate equally and to receive any and all such dividends as may be declared by the board of directors; and (c) to participate in any distribution of assets available for distribution upon liquidation. Holders of our common stock have no preemptive rights to acquire additional shares of common stock or any other securities.
+At the completion of the Share Exchange, our officers and directors collectively own approximately 84.11% of the outstanding shares of our Common Stock on an undiluted basis.
+Series A Convertible Debenture
+As of the date hereof, there are a Series A convertible debenture in an aggregate principal amount of $150,000 (the Debenture) issued and outstanding. The Series A convertible debenture, by its principal terms,
+(a) carries a 8% annual interest; (b) is convertible at any time at the holders discretion into shares of Common Stock at $0.15 per share; and (c) matures on April 18, 2018.
+(a)
+carries a 8% annual interest;
+(b) is convertible at any time at the holders discretion into shares of Common Stock at $0.15 per share; and
+(b)
+is convertible at any time at the holders discretion into shares of Common Stock at $0.15 per share; and
+(c) matures on April 18, 2018.
+(c)
+matures on April 18, 2018.
+Copy of Series A convertible debenture is attached hereto as Exhibit 10.7.
+MARKET PRICE OF AND DIVIDENDS ON THE COMPANYS COMMON STOCK AND RELATED STOCKHOLDER MATTERS
+Our common stock trades in the OTC Grey marketplace under the symbol CXKJ". The OTC marketplace is a quotation service that displays real-time quotes, last-sale prices, and volume information in over-the-counter ("OTC") equity securities. OTC Grey Market has limited quotations and marketability of securities. We plan to take the appropriate steps to up-list to the OTCQB Exchange and resume priced quotations with market makers as soon as it is able, however, we cannot assure whether and when we will be successful with respect to this plan.
+Price Range of Common Stock
+The following table shows, for the periods indicated, the high and low bid prices per share of our post-split Common Stock as reported by the OTC Markets, Inc. These bid prices represent prices quoted by broker-dealers on the OTCBB quotation service. The quotations reflect inter-dealer prices, without retail mark-up, mark-down or commissions, and may not represent actual transactions.
+High Low Fiscal Year 2016 First quarter ended December 31, 2015 $0.09 $0 Second quarter ended March 31, 2016 $0.15 $0.04 Third quarter ended June 30, 2016 $0.15 $0.06 Fourth quarter ended September 30, 2016 $0.13 $0.05 Fiscal Year 2017 First quarter ended December 31, 2016 $0.15 $0.05 Second quarter ended March 31, 2017 $0.15 $0 Third quarter ended June 30, 2017 $0.45 $0 Fourth quarter ended September 30, 2017 $0 $0 Fiscal Year 2018 First quarter ended December 31, 2016 $0 $0
+High
+Low
+Fiscal Year 2016
+First quarter ended December 31, 2015 $0.09 $0
+$
+0.09
+$
+0
+Second quarter ended March 31, 2016 $0.15 $0.04
+$
+0.15
+$
+0.04
+Third quarter ended June 30, 2016 $0.15 $0.06
+$
+0.15
+$
+0.06
+Fourth quarter ended September 30, 2016 $0.13 $0.05
+$
+0.13
+$
+0.05
+Fiscal Year 2017
+First quarter ended December 31, 2016 $0.15 $0.05
+$
+0.15
+$
+0.05
+Second quarter ended March 31, 2017 $0.15 $0
+$
+0.15
+$
+0
+Third quarter ended June 30, 2017 $0.45 $0
+$
+0.45
+$
+0
+Fourth quarter ended September 30, 2017 $0 $0
+$
+0
+$
+0
+Fiscal Year 2018
+First quarter ended December 31, 2016 $0 $0
+$
+0
+$
+0
+41
+41
+Stockholders of Record
+As of the date of this report, there were 8 stockholders of record of our Common Stock.
+Dividends
+There were no dividends paid during the years ended September 30, 2017 or 2016.
+Rule 144
+In general, under Rule 144 a person, or persons whose shares are aggregated, who is not deemed to have been one of our affiliates at any time during the 90 days preceding a sale and who has beneficially owned shares of our Common Stock for at least six months, including the holding period of any prior owner, except if the prior owner was one of our affiliates, would be entitled to sell all of their shares, provided the availability of current public information about our company.
+Sales under Rule 144 may also subject to manner of sale provisions and notice requirements and to the availability of current public information about our company. Any substantial sale of Common Stock pursuant to any resale registration statement or Rule 144 may have an adverse effect on the market price of our Common Stock by creating an excessive supply.
+Because we were a shell company with no operations prior to the close of the Share Exchange, sales of our shares must be compliant with Rule 144(i). Pursuant to Rule 144(i), none of our shares of Common Stock may be sold under Rule 144 until March [20], 2018, which is 12 months after the filing of this current report on Form 8-K reporting the closing of the Share Exchange. Additionally, stockholders may not sell our shares pursuant to Rule 144 unless at the time of the sale, we have filed all reports, other than reports on Form 8-K, required under the Exchange Act with the SEC for the preceding 12 months.
+Recent Sales of Unregistered Securities
+On March 31, 2017, in connection with the spinoff of Ding King, MLGT issued three Notes for an aggregate amount of $133,000, with a 5% annual interest rate. On April 19, 2017, the noteholders converted the outstanding principal amounts of their Notes into an aggregate number of 13,300,000 shares of Common Stock of MLGT at a conversion price of $.01 per share. In addition, all the noteholders agree to waive their rights to receive the payment of accrued and outstanding interest under the Notes.
+On April 19, 2017, the Company issued series A Convertible Debenture to a purchaser in an aggregate principal amount of $150,000 with a 8% annual interest convertible into shares of Common Stock, par value $.0001 per share at price of $.01 per share.
+On March 20, 2018, the Company issued 5,350,000 shares of Common Stock to the former shareholders of CX Cayman in exchange of 100% equity interest in CX Cayman pursuant to the Share Exchange Agreement.
+The shares of Common Stock issued to the Noteholders upon conversion of the Notes, the Debenture issued to the purchaser and the shares issued to the former shareholders of CX Cayman by the Company are issued pursuant to the exemption from registration available under Section 4(a)(2) of the Securities Act of 1933, as amended and Rule 506 and/or Regulation S promulgated thereunder.
+42
+42
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT FOLLOWING THE CHUANGXIANG SHARE EXCHANGE
+The following table sets forth certain information regarding the ownership of our capital stock, as of the date of this report, for: by (i) each person known by us to be the beneficial owner of 5% or more of the outstanding common stock, (ii) each executive officer and director of the Company, and (iii) all of our executive officers and directors as a group.
+Beneficial ownership is determined in accordance with SEC rules and generally includes voting or investment power with respect to securities. For purposes of this table, a person or group of persons is deemed to have beneficial ownership of any shares of Common Stock that such person has the right to acquire within 60 days of March 19, 2018. For purposes of computing the percentage of outstanding shares of our Common Stock held by each person or group of persons named below, any shares that such person or persons has the right to acquire within 60 days of March 19, 2018 is deemed to be outstanding for such person, but is not deemed to be outstanding for the purpose of computing the percentage ownership of any other person. The inclusion herein of any shares listed as beneficially owned does not constitute an admission of beneficial ownership.
+Unless otherwise indicated, the Company believes that all persons named in the table have sole voting and investment power with respect to all shares of common stock beneficially owned by them.
+Unless otherwise specified, the address of each of the persons set forth below is in care of the Company, Room 1205, 1A Building, Shenzhen, Software Industry Base, Xuefu Rd, Nanshan District, Shenzhen, Guangdong
+Province, China.
+Title of Class Name and Address Number of Common Shares Beneficially Owned Percent of Class (1) Directors and Officers Common Stock Huibin Su, Chief Executive Officer, Chief Financial Officer and Director 11,288,167(1) 56.91% Common Stock Jiyin Li, Chairman 5,395,167(2) 27.20% Common Stock Zizhong Huang, Chief Operating Officer - - Common Stock All directors and executive officers as a group (3 persons) 16,683,334 84.11% 5% Holders Common Stock Continent Investment Management Limited(3) 2,728,500 13.76% Common Stock Golden Fish Capital Investment Limited(4) 2,621,500 13.22%
+Name and Address
+Number of Common Shares Beneficially Owned
+Percent of Class (1)
+Directors and Officers
+Directors and Officers
+Common Stock Huibin Su, Chief Executive Officer, Chief Financial Officer and Director 11,288,167(1) 56.91%
+Huibin Su, Chief Executive Officer, Chief Financial Officer and Director
+11,288,167
+(1)
+56.91
+%
+Common Stock Jiyin Li, Chairman 5,395,167(2) 27.20%
+Jiyin Li, Chairman
+5,395,167
+(2)
+27.20
+%
+Common Stock Zizhong Huang, Chief Operating Officer - -
+Zizhong Huang, Chief Operating Officer
+-
+-
+Common Stock All directors and executive officers as a group (3 persons) 16,683,334 84.11%
+All directors and executive officers as a group (3 persons)
+16,683,334
+84.11
+%
+5% Holders
+5% Holders
+Common Stock Continent Investment Management Limited(3) 2,728,500 13.76%
+Continent Investment Management Limited(3)
+2,728,500
+13.76
+%
+Common Stock Golden Fish Capital Investment Limited(4) 2,621,500 13.22%
+Golden Fish Capital Investment Limited(4)
+2,621,500
+13.22
+%
+(1)Including 8,666,667 shares of Common Stock directly held by Mr. Su and 2,621,500 shares of Common Stock beneficially owned by Mr. Su through his holding of Golden Fish Capital Investment Limited.
+(1)
+Including 8,666,667 shares of Common Stock directly held by Mr. Su and 2,621,500 shares of Common Stock beneficially owned by Mr. Su through his holding of Golden Fish Capital Investment Limited.
+(2)Including 2,666,667 shares of Common Stock directly held by Mr. Li and 2,728,500 shares of Common Stock beneficially owned by Mr. Li through his ownership of Continent Investment Management Limited.
+(2)
+Including 2,666,667 shares of Common Stock directly held by Mr. Li and 2,728,500 shares of Common Stock beneficially owned by Mr. Li through his ownership of Continent Investment Management Limited.
+(3)Mr. Li holds 100% membership interest of Continent Investment Management Limited, a British Virgin Islands company with its principal business address at Unit 8, 3/F., Qwomar Trading Complex, Blackbune road, Port Purcell, Road Town, Torotla, British Virgin Islands.
+(3)
+Mr. Li holds 100% membership interest of Continent Investment Management Limited, a British Virgin Islands company with its principal business address at Unit 8, 3/F., Qwomar Trading Complex, Blackbune road, Port Purcell, Road Town, Torotla, British Virgin Islands.
+(4)Mr. Su holds 100% equity interest of Golden Fish Capital Investment Limited, a British Virgin Islands company with its principal business address at Unit 8, 3/F., Qwomar Trading Complex, Blackbune road, Port Purcell, Road Town, Torotla, British Virgin Islands
+(4)
+Mr. Su holds 100% equity interest of Golden Fish Capital Investment Limited, a British Virgin Islands company with its principal business address at Unit 8, 3/F., Qwomar Trading Complex, Blackbune road, Port Purcell, Road Town, Torotla, British Virgin Islands
+43
+43
