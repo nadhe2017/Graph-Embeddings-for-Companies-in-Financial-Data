@@ -1,0 +1,3 @@
+To run the visualization, please following the below steps:
+1. Start a local server, for example `python -m SimpleHTTPServer` at current directory.
+2. Load the `index.html` file on browser with `localhost:8000/index.html`.

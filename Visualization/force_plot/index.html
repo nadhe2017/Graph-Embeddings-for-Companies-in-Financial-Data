@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+  <head>
+    <title>SEC Data Visualization</title>
+    <style>
+      .links line {
+        /* stroke: #999; */
+        stroke-opacity: 0.6;
+      }
+
+      .nodes circle {
+        stroke: #fff;
+        stroke-width: 1.5px;
+      }
+
+      div.tooltip {
+            position: absolute;
+            text-align: left;
+            width: 200px;
+            height: 20px;
+            padding: 2px;
+            font: 14px sans-serif;
+            background: lightsteelblue;
+            border: 0px;
+            border-radius: 8px;
+            pointer-events: none;
+      }
+
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>2018 SEC Visualization</h1>
+    </header>
+    <svg width="1060" height="600"></svg>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script>
+
+      var svg = d3.select("svg"),
+          width = +svg.attr("width"),
+          height = +svg.attr("height");
+          width_force = height;
+          force_graph = svg.append("g")
+                          .attr("class","force graph");
+
+      var div = d3.select("body").append("div")
+                              .attr("class", "tooltip")
+                              .style("opacity", 0);
+
+      var simulation = d3.forceSimulation()
+          .force("link", d3.forceLink().id(function(d) { return d.pos; }))
+          .force("charge", d3.forceManyBody().strength(-1))
+          .force("center", d3.forceCenter(width_force / 2, height / 2));
+
+      d3.json("manual.json", function(error, graph) {
+        if (error) throw error;
+
+        var link = force_graph.append("g")
+            .attr("class", "links")
+            .selectAll("line")
+            .data(graph.links)
+            .enter().append("line")
+            .attr("stroke","#199")
+            .attr("class","link")
+            .attr("stroke-width", function(d) { return d.value; });
+
+        var node = force_graph.append("g")
+            .attr("class", "nodes")
+            .selectAll("circle")
+            .data(graph.nodes)
+            .enter().append("circle")
+            .attr("class","circle")
+            .attr("r", 3)
+            .attr("fill", "#777")
+            .on("mouseover",function(d) {
+                // console.log("the mouth just come over")
+                div.transition()
+                    .duration(200)
+                    .style("opacity", .9);
+                div.html(d.id)
+                    .style("left", (d3.event.pageX) + "px")
+                    .style("top", (d3.event.pageY - 28) + "px");})
+            .on("mouseout",function(d){
+                div.transition()
+                    .duration(500)
+                    .style("opacity", 0);})
+            .call(d3.drag()
+                .on("start", dragstarted)
+                .on("drag", dragged)
+                .on("end", dragended));
+        
+        var zoom_handler = d3.zoom()
+                              .on("zoom", zoom_actions);
+
+        zoom_handler(svg);
+
+        node.append("title")
+            .text(function(d) { return d.id; });
+
+        simulation
+            .nodes(graph.nodes)
+            .on("tick", ticked);
+
+        simulation.force("link")
+            .links(graph.links);
+
+        function ticked() {
+          link
+              .attr("x1", function(d) { return d.source.x; })
+              .attr("y1", function(d) { return d.source.y; })
+              .attr("x2", function(d) { return d.target.x; })
+              .attr("y2", function(d) { return d.target.y; });
+
+          node
+              .attr("cx", function(d) { return d.x; })
+              .attr("cy", function(d) { return d.y; });
+        }
+      });
+
+      const toNum = d => {
+        d[0] = +d[0];
+        d[1] = +d[1];
+        return d;
+      }
+
+      function dragstarted(d) {
+        if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+        d.fx = d.x;
+        d.fy = d.y;
+      }
+
+      function dragged(d) {
+        d.fx = d3.event.x;
+        d.fy = d3.event.y;
+      }
+
+      function dragended(d) {
+        if (!d3.event.active) simulation.alphaTarget(0);
+        d.fx = null;
+        d.fy = null;
+      }
+
+      function zoom_actions(){
+        force_graph.attr("transform", d3.event.transform)
+      }; 
+    </script>
+  </body>
+</html>
