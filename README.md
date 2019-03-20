@@ -1,3 +1,1 @@
-- This is the master branch which contains the final production code. I think making individual branches for every feature each one of is working on will help keep things organized.
-- For example if each one of us is working on a different NER model, we can each create a branch and push our experimental code. Later if we decide model C works best then we can merge that branch with the master branch or simply upload that code to the master branch.
-- Please feel free to write if you have any suggestions here.
+- Implementation of spacy model and results on the test dataset from kaggle.
