@@ -1,1 +1,5 @@
 - Implementation of spacy model and results on the test dataset from kaggle.
+- Results on organization type entities (B-org and I-org):
+  - Precision =  0.68
+  - Recall =  0.59
+  - F1 score = 0.63
