@@ -1,0 +1,4 @@
+- The original dataset was downloaded from Kaggle. Link: https://bit.ly/2Fp8pZR
+- For our convenience, I have extracted a test set randomly to ensure that same test set is used for every model. Each test set has 2 files:  
+  - *kaggle_test_text.txt* : Consists of 4768 sentences, each separated by a new line.
+  - *kaggle_test_truelabels.txt* : Consists of an entity label for each word in the respective sentence in the file above.
