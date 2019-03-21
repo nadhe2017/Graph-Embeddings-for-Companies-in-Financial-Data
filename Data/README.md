@@ -8,7 +8,7 @@
 	2. `vis_process.py`: Script that process the manually labeled data to nodes and links for visualization and model training.
 	3. `build_graph_data.py`: Script for composing dataset that can be trained for DMTE model from manually labeled data.
 	4. `manual.json`: Parsed output from `vis_process.py`.
-	5. `sec_dataset` folder: The output from `build_graph_data.py`. To train DMTE model, just copy & past this folder to the model. The `logs` sub-director contains the running log.
+	5. `sec_dataset` folder: The output from `build_graph_data.py`. To train DMTE model, just copy & past this folder to the model. 
 
 - `Comprehensive_Database.rar` has 2 files containing company names:
 	1. **public_companies_database.csv** : A database of ~6,800 public companies in the US.  
