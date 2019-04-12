@@ -8,6 +8,8 @@ Collect company descriptions for companies mentioned in the below file(s). For n
 - Entites in decreasing order of their frequency at the sentence level
 - Has format "Company Name" : "Description" with the "Description" obtained from the bloomberg website.
                          
-doc_level_entities_count.txt : Count of entities at the document level
+## doc_level_entities_count.txt : 
+- Count of entities at the document level
 
-sent_level_entities_count.txt : Count of entities at the sentence level
+## sent_level_entities_count.txt : 
+- Count of entities at the sentence level
