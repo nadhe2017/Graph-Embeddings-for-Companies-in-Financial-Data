@@ -1,0 +1,10 @@
+/home/liu/anaconda2/envs/py35/lib/python3.5/site-packages/smart_open-1.8.2-py3.5.egg/smart_open/ssh.py:34: UserWarning: paramiko missing, opening SSH/SCP/SFTP paths will be disabled.  `pip install paramiko` to suppress
+  warnings.warn('paramiko missing, opening SSH/SCP/SFTP paths will be disabled.  `pip install paramiko` to suppress')
+[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    1.1s finished
+Start training ...
+Preprocess transition probs...
+Learning embedding vectors...
+Learning embedding vectors done!
+Valid edges for AUC is 8019
+AUC = 0.7870058610799352

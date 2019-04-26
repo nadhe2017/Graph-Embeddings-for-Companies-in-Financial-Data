@@ -2,7 +2,8 @@ from collections import defaultdict
 
 if __name__ == "__main__":
     # graph_file = "../manual/sec_dataset/graph.txt"
-    graph_file = "sentence_level_graph.txt"
+    # graph_file = "sentence_level_graph.txt"
+    graph_file = "doc_level_graph.txt"
     with open(graph_file,"r") as f:
         aj_list = [line.rstrip("\n").rstrip("\r").split("\t") for line in f]
     
@@ -48,7 +49,8 @@ if __name__ == "__main__":
     print "Selected {0} nodes.".format(len(picked))
     print "Selected {0} edges.".format(len(new_graph))
     
-    save_file = "sentence_level_rd_graph.txt"
+    # save_file = "sentence_level_rd_graph.txt"
+    save_file = "doc_level_rd_graph.txt"
     with open(save_file,"w") as f:
         for x,y in new_graph:
             f.write("%s\t%s\n" % (x,y))
